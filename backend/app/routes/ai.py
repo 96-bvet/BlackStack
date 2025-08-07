@@ -16,9 +16,11 @@ router = APIRouter()
 # Pydantic models for request/response validation
 class AIAnalysisRequest(BaseModel):
     """Model for AI analysis requests."""
+    model_config = {"protected_namespaces": ()}
+    
     text: str = Field(..., min_length=1, max_length=50000)
-    analysis_type: str = Field(default="security", regex="^(security|attribution|malware|phishing)$")
-    model_preference: Optional[str] = Field(default=None, regex="^(llama|mistral|both)$")
+    analysis_type: str = Field(default="security", pattern="^(security|attribution|malware|phishing)$")
+    model_preference: Optional[str] = Field(default=None, pattern="^(llama|mistral|both)$")
     context: Optional[Dict[str, Any]] = {}
 
 class ThreatIntelRequest(BaseModel):

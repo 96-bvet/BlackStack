@@ -20,7 +20,7 @@ class EventData(BaseModel):
     source_ip: Optional[str] = None
     destination_ip: Optional[str] = None
     event_type: str
-    severity: str = Field(..., regex="^(low|medium|high|critical)$")
+    severity: str = Field(..., pattern="^(low|medium|high|critical)$")
     description: str
     raw_data: Dict[str, Any] = {}
 
@@ -28,8 +28,8 @@ class ThreatAnalysisRequestModel(BaseModel):
     """Model for threat analysis requests."""
     event_id: str
     event_data: EventData
-    analysis_type: str = Field(default="comprehensive", regex="^(basic|comprehensive|deep)$")
-    priority: str = Field(default="medium", regex="^(low|medium|high|critical)$")
+    analysis_type: str = Field(default="comprehensive", pattern="^(basic|comprehensive|deep)$")
+    priority: str = Field(default="medium", pattern="^(low|medium|high|critical)$")
 
 class AlertRule(BaseModel):
     """Model for SIEM alert rules."""
@@ -51,7 +51,7 @@ class LogQuery(BaseModel):
 @router.get("/events", response_model=List[Dict[str, Any]])
 async def get_recent_events(
     limit: int = Query(default=50, le=1000),
-    severity: Optional[str] = Query(default=None, regex="^(low|medium|high|critical)$"),
+    severity: Optional[str] = Query(default=None, pattern="^(low|medium|high|critical)$"),
     orchestrator: SecurityOrchestrator = Depends()
 ):
     """
