@@ -1,0 +1,7 @@
+description: Auto-generated manifest for namespace-prefixes.pl
+hash: sha256:af73dbba91c19adc8dbb16def8cd5f172561c545bbbacf70dd8c4d6c354edc06
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-writer-perl/examples/namespace-prefixes.pl
+tags:
+- unknown
+tool_name: namespace-prefixes.pl

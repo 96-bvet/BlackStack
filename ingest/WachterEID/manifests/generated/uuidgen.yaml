@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uuidgen
+hash: sha256:b0bab7e15cbfacee2e037d66c8ff095bb822c89b52dcf884f8bdbdbee38f627e
+persona_hint: Defense
+source_path: /usr/bin/uuidgen
+tags:
+- unknown
+tool_name: uuidgen

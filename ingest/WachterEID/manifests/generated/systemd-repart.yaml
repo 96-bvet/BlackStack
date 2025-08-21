@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-repart
+hash: sha256:b802cc0e16654a78489bcbb85dc655b2e5d245dcd5e932547931b757e8999a6b
+persona_hint: Defense
+source_path: /usr/bin/systemd-repart
+tags:
+- unknown
+tool_name: systemd-repart

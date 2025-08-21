@@ -1,0 +1,7 @@
+description: Auto-generated manifest for set-new-pass.rb
+hash: sha256:614019ce7ce59056d23e3db842b066e4293b692dd66c6947475902f679cd2904
+persona_hint: Defense
+source_path: /usr/share/beef-xss/set-new-pass.rb
+tags:
+- unknown
+tool_name: set-new-pass.rb

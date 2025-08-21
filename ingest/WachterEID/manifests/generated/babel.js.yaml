@@ -1,0 +1,7 @@
+description: Auto-generated manifest for babel.js
+hash: sha256:b6e9f0910e42431f1f2b398d0c4101051055b015a7085815dca7b5e0f0377789
+persona_hint: Defense
+source_path: /usr/share/nodejs/@babel/cli/bin/babel.js
+tags:
+- unknown
+tool_name: babel.js

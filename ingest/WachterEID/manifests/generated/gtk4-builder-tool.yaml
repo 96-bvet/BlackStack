@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk4-builder-tool
+hash: sha256:b0a348253cbd9ce7f3ed5833e71d294b878db3c9061896b7d931f53b69b0ea59
+persona_hint: Defense
+source_path: /usr/bin/gtk4-builder-tool
+tags:
+- unknown
+tool_name: gtk4-builder-tool

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dconf
+hash: sha256:ca078bab4e56bb13d14a39577183d769da6ccf80de26eec1d65a05fb03726068
+persona_hint: Defense
+source_path: /usr/bin/dconf
+tags:
+- unknown
+tool_name: dconf

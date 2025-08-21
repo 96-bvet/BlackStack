@@ -1,0 +1,7 @@
+description: Auto-generated manifest for erubis
+hash: sha256:a062dd238c7973ef4121af12f73ded52f78f011258bfe86da2ad0cb4dcd00f9d
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/erubis-2.7.0/contrib/erubis
+tags:
+- unknown
+tool_name: erubis

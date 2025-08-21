@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hyperion.h
+hash: sha256:ad98cc751cc6217a603f9337dbc75c4da0d2b7844de039fd0cc4d2c2cc3ef491
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/hyperion.h
+tags:
+- unknown
+tool_name: hyperion.h

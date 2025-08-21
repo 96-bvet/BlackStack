@@ -1,0 +1,7 @@
+description: Auto-generated manifest for recon-ng
+hash: sha256:c8e405480a0b772aca7b2ff1a3d2bc017a2e89f7984f656268f5efe4cd66d25b
+persona_hint: Defense
+source_path: /usr/share/recon-ng/recon-ng
+tags:
+- unknown
+tool_name: recon-ng

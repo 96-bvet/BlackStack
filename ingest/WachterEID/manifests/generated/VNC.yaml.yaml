@@ -1,0 +1,7 @@
+description: Auto-generated manifest for VNC.yaml
+hash: sha256:c6c4b58374db2dc0704ed52815840ce91d0a5850ed864948440e1da9c9b0aafd
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/VNC.yaml
+tags:
+- unknown
+tool_name: VNC.yaml

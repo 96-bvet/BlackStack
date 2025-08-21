@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpliveplay
+hash: sha256:ad40d3abb8df173bee37e7fb4f992c17fb594c43c75269d7433b8b8bd5ba4adb
+persona_hint: Defense
+source_path: /usr/bin/tcpliveplay
+tags:
+- unknown
+tool_name: tcpliveplay

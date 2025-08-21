@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lockfile.rb
+hash: sha256:2680695bea093416312931e919fd8e5ddcb967f0b5cb26438b57f998cd8604c2
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/rubocop-1.75.3/lib/rubocop/lockfile.rb
+tags:
+- unknown
+tool_name: lockfile.rb

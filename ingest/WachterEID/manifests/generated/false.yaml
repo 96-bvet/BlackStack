@@ -1,0 +1,7 @@
+description: Auto-generated manifest for false
+hash: sha256:7faadececbd287e494595d6a8203bc521e4463c682a496569187a77e761156bc
+persona_hint: Defense
+source_path: /usr/bin/false
+tags:
+- unknown
+tool_name: 'false'

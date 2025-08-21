@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ecs.py
+hash: sha256:fc0985ff3cd25a67cc2c0ed9151dc3b8a877db2236ddf489e4b25fdc4acc4ed5
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/ecs.py
+tags:
+- unknown
+tool_name: ecs.py

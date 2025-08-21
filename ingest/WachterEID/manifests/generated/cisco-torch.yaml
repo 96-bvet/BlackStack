@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cisco-torch
+hash: sha256:42b295b6b0cb05fa85ecd5add791d2d72bb5ec0a7059ac88e98ba6deb156fa6c
+persona_hint: Defense
+source_path: /usr/bin/cisco-torch
+tags:
+- unknown
+tool_name: cisco-torch

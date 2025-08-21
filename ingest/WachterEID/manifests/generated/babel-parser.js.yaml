@@ -1,0 +1,7 @@
+description: Auto-generated manifest for babel-parser.js
+hash: sha256:3c6355ac9da02a6fab9fe6a323e4af99cc06f82896cef815522773c308ac1a74
+persona_hint: Defense
+source_path: /usr/share/nodejs/@babel/parser/bin/babel-parser.js
+tags:
+- unknown
+tool_name: babel-parser.js

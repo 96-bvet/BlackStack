@@ -1,0 +1,7 @@
+description: Auto-generated manifest for CPack.STGZ_Header.sh.in
+hash: sha256:a137d22af8b724b899ac02809fe59b431846a6e83497e420f6b83bb42adc6198
+persona_hint: Defense
+source_path: /usr/share/cmake-3.25/Modules/Internal/CPack/CPack.STGZ_Header.sh.in
+tags:
+- unknown
+tool_name: CPack.STGZ_Header.sh.in

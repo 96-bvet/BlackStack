@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iecset
+hash: sha256:b0153f15cf45401f90730c6741898c3f7122a7a1f3f6297c08de2bb21b759acc
+persona_hint: Defense
+source_path: /usr/bin/iecset
+tags:
+- unknown
+tool_name: iecset

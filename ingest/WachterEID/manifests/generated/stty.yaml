@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stty
+hash: sha256:93386dd640d063e6cf024f4aa5707162db19a89ecd0e9d4bb0240a56f382957f
+persona_hint: Defense
+source_path: /usr/bin/stty
+tags:
+- unknown
+tool_name: stty

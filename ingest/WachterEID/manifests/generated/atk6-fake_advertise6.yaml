@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_advertise6
+hash: sha256:0fd37b3878fd7a67be1394554e5a819930ef64d695f8fa72a934d3e2484319d2
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_advertise6
+tags:
+- unknown
+tool_name: atk6-fake_advertise6

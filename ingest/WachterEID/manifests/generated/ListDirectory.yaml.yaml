@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ListDirectory.yaml
+hash: sha256:2b3cb97c140a796bb2103f5393e73756d6c17d17dffe506abf59382bb212b3d0
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/ListDirectory.yaml
+tags:
+- unknown
+tool_name: ListDirectory.yaml

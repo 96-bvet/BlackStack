@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cacaclock
+hash: sha256:711e16b5479388c8bbb0e663ea4b684a2a9371b3cde18c4ae224b9552470ea33
+persona_hint: Defense
+source_path: /usr/bin/cacaclock
+tags:
+- unknown
+tool_name: cacaclock

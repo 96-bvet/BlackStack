@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wafw00f
+hash: sha256:81455095607a0a5be6f484e9a1af3c915a3e59de39e669350c9cefe148bf86b1
+persona_hint: Defense
+source_path: /usr/bin/wafw00f
+tags:
+- unknown
+tool_name: wafw00f

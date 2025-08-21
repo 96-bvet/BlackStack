@@ -1,0 +1,7 @@
+description: Auto-generated manifest for teredo-mire
+hash: sha256:01f3db72aaf41566d4494535cc472db49311f1e47c52bc5ee7ec0e0a58bf33ff
+persona_hint: Defense
+source_path: /usr/bin/teredo-mire
+tags:
+- unknown
+tool_name: teredo-mire

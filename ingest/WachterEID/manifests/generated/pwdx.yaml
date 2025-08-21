@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pwdx
+hash: sha256:d84044f37b8c7e719cf5610dceccec616581cebb1ca9a05d86b18e4f6775ca03
+persona_hint: Defense
+source_path: /usr/bin/pwdx
+tags:
+- unknown
+tool_name: pwdx

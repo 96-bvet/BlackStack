@@ -1,0 +1,7 @@
+description: Auto-generated manifest for podselect
+hash: sha256:259cc6eee3b2d6f99d6d7dbf7263ca5ed97a9867342f59e601c3c4e339450bb0
+persona_hint: Defense
+source_path: /usr/bin/podselect
+tags:
+- unknown
+tool_name: podselect

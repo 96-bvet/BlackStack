@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setgitperms.perl
+hash: sha256:4e1076233ebfbdee41c86521a5e5807072515b3e944136f29d00e67d13eb925b
+persona_hint: Defense
+source_path: /usr/share/git-core/contrib/hooks/setgitperms.perl
+tags:
+- unknown
+tool_name: setgitperms.perl

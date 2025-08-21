@@ -1,0 +1,7 @@
+description: Auto-generated manifest for id
+hash: sha256:a3d987dd3f9ec0610dc13b7fdccef84895628065434f44247a65ef0d2a341b3c
+persona_hint: Defense
+source_path: /usr/bin/id
+tags:
+- unknown
+tool_name: id

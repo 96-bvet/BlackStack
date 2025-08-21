@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdecl.awk
+hash: sha256:a8ff383479aa0c590d1d20badcd9c9e401d24e2c043875ac673e9a120648604d
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/gdecl.awk
+tags:
+- unknown
+tool_name: gdecl.awk

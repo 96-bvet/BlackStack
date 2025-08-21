@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xwud
+hash: sha256:3c055f334657b61aa96f08e3a9713b828c2d785d12747247bc962ad4cf91d990
+persona_hint: Defense
+source_path: /usr/bin/xwud
+tags:
+- unknown
+tool_name: xwud

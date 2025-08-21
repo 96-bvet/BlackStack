@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-network-client
+hash: sha256:f97ed9972cb6b9d2a480d00a7607a7d5c7b1763df0a5a4b2e8972636b0b84564
+persona_hint: Defense
+source_path: /usr/bin/afl-network-client
+tags:
+- unknown
+tool_name: afl-network-client

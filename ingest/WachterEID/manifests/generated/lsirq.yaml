@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsirq
+hash: sha256:790e1459772d1747da63350d978c5475bdf5316cb18d22749a6b79d8a142687d
+persona_hint: Defense
+source_path: /usr/bin/lsirq
+tags:
+- unknown
+tool_name: lsirq

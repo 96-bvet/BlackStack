@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hexdump
+hash: sha256:1430c2d242a875771370b1b50e63c9af70a5694293e305835bca53a1e71a18b1
+persona_hint: Defense
+source_path: /usr/bin/hexdump
+tags:
+- unknown
+tool_name: hexdump

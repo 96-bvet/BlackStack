@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-flood_redir6
+hash: sha256:43a1cea780df5c9de0ea578dd41b6b7c88e1045b1e59744de96af3161523fa25
+persona_hint: Defense
+source_path: /usr/bin/atk6-flood_redir6
+tags:
+- unknown
+tool_name: atk6-flood_redir6

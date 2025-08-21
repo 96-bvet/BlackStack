@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-gensymbols
+hash: sha256:d8cd535449506c7f77faa81f22ae9050e02a241f8ebcd8e13db5e39b698631c1
+persona_hint: Defense
+source_path: /usr/bin/dpkg-gensymbols
+tags:
+- unknown
+tool_name: dpkg-gensymbols

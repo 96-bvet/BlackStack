@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chronic
+hash: sha256:9e938de70894622f1e8a832408717637aa6a97cb5214d76cb7ac947c502ab21d
+persona_hint: Defense
+source_path: /usr/bin/chronic
+tags:
+- unknown
+tool_name: chronic

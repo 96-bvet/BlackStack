@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-shlibdeps
+hash: sha256:63eee3e9f0d0f9164cb84d938477faea4b0ee452cd9ced5f3410aff427bf1cc5
+persona_hint: Defense
+source_path: /usr/bin/dpkg-shlibdeps
+tags:
+- unknown
+tool_name: dpkg-shlibdeps

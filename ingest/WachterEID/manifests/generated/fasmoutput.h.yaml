@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fasmoutput.h
+hash: sha256:aba67820b813d43d0c203b33e72f6752eff86402c481b56ac2b0dd1111f63cf5
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/fasmoutput.h
+tags:
+- unknown
+tool_name: fasmoutput.h

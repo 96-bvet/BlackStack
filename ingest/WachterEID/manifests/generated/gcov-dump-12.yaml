@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gcov-dump-12
+hash: sha256:c7227361ab9756cde66cea55c8f1d72741d94b7551c2350777a17101a4ae6b23
+persona_hint: Defense
+source_path: /usr/bin/gcov-dump-12
+tags:
+- unknown
+tool_name: gcov-dump-12

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for makeivs-ng
+hash: sha256:f3b01e84d4df7537f16299c40e51a8cfc652bcb410b7b6e8407e78da53794d4c
+persona_hint: Defense
+source_path: /usr/bin/makeivs-ng
+tags:
+- unknown
+tool_name: makeivs-ng

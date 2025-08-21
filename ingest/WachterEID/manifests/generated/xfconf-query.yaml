@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfconf-query
+hash: sha256:d51c3b327c45b326a3b3d290563b9fe8c8caf9eb45b5bb8dfda86e30ff2b2ea1
+persona_hint: Defense
+source_path: /usr/bin/xfconf-query
+tags:
+- unknown
+tool_name: xfconf-query

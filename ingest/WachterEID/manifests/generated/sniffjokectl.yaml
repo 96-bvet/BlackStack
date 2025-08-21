@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sniffjokectl
+hash: sha256:89c5fca28db442b82f15decd0196d18002b594d4fb5cfcd451692be7f6696260
+persona_hint: Defense
+source_path: /usr/bin/sniffjokectl
+tags:
+- unknown
+tool_name: sniffjokectl

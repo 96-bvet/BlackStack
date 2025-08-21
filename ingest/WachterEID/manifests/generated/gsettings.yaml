@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gsettings
+hash: sha256:1f02448da436463b3248584bcf661f435c191c52e8b1a23a89a5f9e637963635
+persona_hint: Defense
+source_path: /usr/bin/gsettings
+tags:
+- unknown
+tool_name: gsettings

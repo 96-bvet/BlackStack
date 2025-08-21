@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-desfire-ev1-configure-default-key
+hash: sha256:e9b260cc67dd4cbe480c25da81db92b25c0919d64d64c32b63049ee7273a4749
+persona_hint: Defense
+source_path: /usr/bin/mifare-desfire-ev1-configure-default-key
+tags:
+- unknown
+tool_name: mifare-desfire-ev1-configure-default-key

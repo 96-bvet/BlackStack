@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aplay
+hash: sha256:b05067426d802e5012c096b397594aef258618758f773b877711beed024eb3e3
+persona_hint: Defense
+source_path: /usr/bin/aplay
+tags:
+- unknown
+tool_name: aplay

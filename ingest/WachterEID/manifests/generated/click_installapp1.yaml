@@ -1,0 +1,7 @@
+description: Auto-generated manifest for click_installapp1
+hash: sha256:8eba3d069c15bed5842fe94af24aff1025ea99d586dc69a02aa0b3ec05cf537f
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/bbappworld/click_installapp1
+tags:
+- unknown
+tool_name: click_installapp1

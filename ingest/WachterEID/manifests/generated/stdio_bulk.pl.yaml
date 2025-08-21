@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stdio_bulk.pl
+hash: sha256:8712436b48bbc5d19cbcb74b732b2de8485d599166e50b66d4591642e2813188
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/stdio_bulk.pl
+tags:
+- unknown
+tool_name: stdio_bulk.pl

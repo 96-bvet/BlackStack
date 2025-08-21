@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mknod
+hash: sha256:02d5f0f8290119d9534627cb376b3fcab861130bbf6aedc80102563d7695665b
+persona_hint: Defense
+source_path: /usr/bin/mknod
+tags:
+- unknown
+tool_name: mknod

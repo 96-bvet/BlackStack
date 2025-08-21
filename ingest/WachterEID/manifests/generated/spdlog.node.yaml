@@ -1,0 +1,7 @@
+description: Auto-generated manifest for spdlog.node
+hash: sha256:ce67e7a0b5463fe69a1a3d6b89500d63799a0b22b7fac08de948a85b9fc91e52
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@vscode/spdlog/build/Release/spdlog.node
+tags:
+- unknown
+tool_name: spdlog.node

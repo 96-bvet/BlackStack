@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uz
+hash: sha256:5b12515832e09a8ba7878e5908ddf42f02cc64fbd8b242a6945ac248737f706f
+persona_hint: Defense
+source_path: /usr/bin/uz
+tags:
+- unknown
+tool_name: uz

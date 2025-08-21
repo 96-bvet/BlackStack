@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bdftopcf
+hash: sha256:d3abdca61ce73519bf026dc30094d540373ab8c8decae82259c3a4eba5770646
+persona_hint: Defense
+source_path: /usr/bin/bdftopcf
+tags:
+- unknown
+tool_name: bdftopcf

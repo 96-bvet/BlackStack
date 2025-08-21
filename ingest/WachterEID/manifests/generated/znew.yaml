@@ -1,0 +1,7 @@
+description: Auto-generated manifest for znew
+hash: sha256:969931d9eadae06db92a01b00458aa43d86bdf3692020d6f10b0fb8d060e1f38
+persona_hint: Defense
+source_path: /usr/bin/znew
+tags:
+- unknown
+tool_name: znew

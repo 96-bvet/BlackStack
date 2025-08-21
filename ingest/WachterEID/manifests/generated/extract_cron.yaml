@@ -1,0 +1,7 @@
+description: Auto-generated manifest for extract_cron
+hash: sha256:c7d22f9425299c46bc10873ca3ffc7765cd450c1d07c155100b1bdf30f1365d5
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debfile/extract_cron
+tags:
+- unknown
+tool_name: extract_cron

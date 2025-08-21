@@ -1,0 +1,7 @@
+description: Auto-generated manifest for airdecap-ng
+hash: sha256:f6440713d9636f11d737e620841839abdb5f6c59c72eadfc30fc81fbc4f3871c
+persona_hint: Defense
+source_path: /usr/bin/airdecap-ng
+tags:
+- unknown
+tool_name: airdecap-ng

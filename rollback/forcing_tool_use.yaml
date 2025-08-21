@@ -1,0 +1,8 @@
+name: forcing_tool_use
+path: examples/agent_patterns/forcing_tool_use.py
+type: py
+category: misc
+hash: a54c821bb365d9ce4db72d76f51ac622f5179feec3cf43ea1b8267e317635c15
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-queries
+hash: sha256:3c580183fe57c1495dc46e8f70349d72df4a30e1e3865bd225afb468ffecd717
+persona_hint: Defense
+source_path: /usr/bin/mdb-queries
+tags:
+- unknown
+tool_name: mdb-queries

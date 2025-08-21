@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sslcat.pl
+hash: sha256:86932e9f586b908b18751b9c78d6ea211eada7b1c202bf300f8754f4f1f650c2
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/sslcat.pl
+tags:
+- unknown
+tool_name: sslcat.pl

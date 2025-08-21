@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shodan
+hash: sha256:54c13efd4bae9ff79b99c55ca32cd6e101e24be1919ced3b3c2577f9357284ba
+persona_hint: Defense
+source_path: /usr/bin/shodan
+tags:
+- unknown
+tool_name: shodan

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cewl
+hash: sha256:e381812c07f0d11546d5557940a456d230b46785299698298d00ebb6cf5db8df
+persona_hint: Defense
+source_path: /usr/bin/cewl
+tags:
+- unknown
+tool_name: cewl

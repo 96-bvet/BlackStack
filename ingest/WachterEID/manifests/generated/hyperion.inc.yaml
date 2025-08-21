@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hyperion.inc
+hash: sha256:340e5bcb6bd832e4dd86b94dc46f28baf270de0d5308488323554ba796b6d511
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Container/64/hyperion.inc
+tags:
+- unknown
+tool_name: hyperion.inc

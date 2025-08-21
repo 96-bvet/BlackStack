@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unshare
+hash: sha256:9fb85770a4a0b5cb2bff8e64c2934dd1b0674eaaae18fd550dea2520c69a45d9
+persona_hint: Defense
+source_path: /usr/bin/unshare
+tags:
+- unknown
+tool_name: unshare

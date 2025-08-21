@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fuzz_dhcps6
+hash: sha256:c17a6acf09b15df10fec26a31114410217b9bb0c93e86e6e3536be7164e90070
+persona_hint: Defense
+source_path: /usr/bin/atk6-fuzz_dhcps6
+tags:
+- unknown
+tool_name: atk6-fuzz_dhcps6

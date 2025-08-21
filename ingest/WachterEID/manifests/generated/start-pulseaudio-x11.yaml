@@ -1,0 +1,7 @@
+description: Auto-generated manifest for start-pulseaudio-x11
+hash: sha256:89c70d956100e4e750b86273cbdbf45afe6928bde98319740283b7a86cf604d5
+persona_hint: Defense
+source_path: /usr/bin/start-pulseaudio-x11
+tags:
+- unknown
+tool_name: start-pulseaudio-x11

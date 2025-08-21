@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aptitude-curses
+hash: sha256:94db94a1d16dc367b936ff3633c29413ef47856d3e978ebb12d00455cc5dbe1a
+persona_hint: Defense
+source_path: /usr/bin/aptitude-curses
+tags:
+- unknown
+tool_name: aptitude-curses

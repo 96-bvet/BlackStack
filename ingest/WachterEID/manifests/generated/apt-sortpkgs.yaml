@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-sortpkgs
+hash: sha256:efcb9daf2c9060ff2e3ab93f047c80ebc2e74c253392d84568bb18f57cd9055a
+persona_hint: Defense
+source_path: /usr/bin/apt-sortpkgs
+tags:
+- unknown
+tool_name: apt-sortpkgs

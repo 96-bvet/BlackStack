@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lexgrog
+hash: sha256:6f539a61978a362229a68d348ddd8a18de337d9078647c2d9f1ec004ed4946c3
+persona_hint: Defense
+source_path: /usr/bin/lexgrog
+tags:
+- unknown
+tool_name: lexgrog

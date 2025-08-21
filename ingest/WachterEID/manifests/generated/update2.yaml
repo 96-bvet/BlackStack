@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update2
+hash: sha256:34c0c824e65b23e62420e2e44b4b273a494aaee58e03f6a1af6ee29b7ebf3165
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/ubertwitter/update2
+tags:
+- unknown
+tool_name: update2

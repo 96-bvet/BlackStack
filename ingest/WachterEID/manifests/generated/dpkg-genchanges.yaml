@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-genchanges
+hash: sha256:ed97b88fa54937400d48425601d2d6ee6ebaa9d0e19bba343c1b5ac0fd7d8e1b
+persona_hint: Defense
+source_path: /usr/bin/dpkg-genchanges
+tags:
+- unknown
+tool_name: dpkg-genchanges

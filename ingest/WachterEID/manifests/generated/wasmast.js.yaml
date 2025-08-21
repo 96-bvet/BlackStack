@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wasmast.js
+hash: sha256:11ba4605f7e0acf097c52e6f33f70b42b9853c960b3575d2f39a5f5abe412d33
+persona_hint: Defense
+source_path: /usr/share/nodejs/@webassemblyjs/cli/lib/wasmast.js
+tags:
+- unknown
+tool_name: wasmast.js

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfdesktop-settings
+hash: sha256:d1cfad07550d20fb5fe5ea4a991259a568d83610b2a4bca63b08daf72489a45c
+persona_hint: Defense
+source_path: /usr/bin/xfdesktop-settings
+tags:
+- unknown
+tool_name: xfdesktop-settings

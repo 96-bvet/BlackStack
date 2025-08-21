@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-find-cursor
+hash: sha256:5679f487772cc2b2ae72a5f350a39d32c21bd68ddd8cd19b766d5007bd9ab974
+persona_hint: Defense
+source_path: /usr/bin/xfce4-find-cursor
+tags:
+- unknown
+tool_name: xfce4-find-cursor

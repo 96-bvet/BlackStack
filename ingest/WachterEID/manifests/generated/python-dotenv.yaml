@@ -1,0 +1,7 @@
+description: Auto-generated manifest for python-dotenv
+hash: sha256:2ad6942a4bea4fcd304806c5bd26a386555e566993b3f5bdddf27ba9a5f2227a
+persona_hint: Defense
+source_path: /usr/bin/python-dotenv
+tags:
+- unknown
+tool_name: python-dotenv

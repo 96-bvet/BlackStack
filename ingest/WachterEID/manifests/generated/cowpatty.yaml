@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cowpatty
+hash: sha256:33bbea4396a0d0840601683c638a60ab968e018966a913e6221209181957e835
+persona_hint: Defense
+source_path: /usr/bin/cowpatty
+tags:
+- unknown
+tool_name: cowpatty

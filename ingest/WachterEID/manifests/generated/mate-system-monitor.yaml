@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-system-monitor
+hash: sha256:c5af9907478c5136a85c1983648de254b4f6bc3e7133ae561a69dc5dd1fcbb46
+persona_hint: Defense
+source_path: /usr/bin/mate-system-monitor
+tags:
+- unknown
+tool_name: mate-system-monitor

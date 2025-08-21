@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intel-virtual-output
+hash: sha256:17a0483cfcd2e0d7fd5a5a56d0bc513177f5e01837a7e5d816e7f9a2073d64b7
+persona_hint: Defense
+source_path: /usr/bin/intel-virtual-output
+tags:
+- unknown
+tool_name: intel-virtual-output

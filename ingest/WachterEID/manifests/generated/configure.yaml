@@ -1,0 +1,7 @@
+description: Auto-generated manifest for configure
+hash: sha256:c765e02d9b2c4c345c9f3c2c7dcdf95fca533944056ea3bb9e9e31c96e7712f3
+persona_hint: Defense
+source_path: /usr/share/libtool/configure
+tags:
+- unknown
+tool_name: configure

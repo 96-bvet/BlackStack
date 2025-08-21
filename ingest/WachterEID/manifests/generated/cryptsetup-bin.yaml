@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptsetup-bin
+hash: sha256:f37bf028f730fcad3c4369da63eb285752fab214ab5ef9af790d493d0829d75e
+persona_hint: Defense
+source_path: /usr/share/bug/cryptsetup-bin
+tags:
+- unknown
+tool_name: cryptsetup-bin

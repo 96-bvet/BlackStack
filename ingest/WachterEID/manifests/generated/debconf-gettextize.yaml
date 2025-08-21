@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf-gettextize
+hash: sha256:1c95eacd10c34828b64cb5c28485deb7cd383e418b0dc9c923114904b588c8d6
+persona_hint: Defense
+source_path: /usr/bin/debconf-gettextize
+tags:
+- unknown
+tool_name: debconf-gettextize

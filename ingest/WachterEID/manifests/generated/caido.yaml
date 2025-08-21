@@ -1,0 +1,7 @@
+description: Auto-generated manifest for caido
+hash: sha256:90f702c7925ec1b61e80a1b76ddfddf19d8999a540eb74f85eed5b41f8c1dd88
+persona_hint: Defense
+source_path: /usr/bin/caido
+tags:
+- unknown
+tool_name: caido

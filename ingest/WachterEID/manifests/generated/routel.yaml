@@ -1,0 +1,7 @@
+description: Auto-generated manifest for routel
+hash: sha256:e348c708ec6d0b3252b5ac42b21a27c7dafad2ca32e1bba2f19aee3b7bf45bbe
+persona_hint: Defense
+source_path: /usr/bin/routel
+tags:
+- unknown
+tool_name: routel

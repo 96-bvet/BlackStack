@@ -1,0 +1,7 @@
+description: Auto-generated manifest for streamzip
+hash: sha256:1727ae821dc48649af305527da7b32d173fb322462bb911b460d7688e89b51d2
+persona_hint: Defense
+source_path: /usr/bin/streamzip
+tags:
+- unknown
+tool_name: streamzip

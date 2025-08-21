@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getsubids
+hash: sha256:2c7e990f5dd9026a5a93283fa2e156ffa7c5e22a7c68653927da47c4f3e5b216
+persona_hint: Defense
+source_path: /usr/bin/getsubids
+tags:
+- unknown
+tool_name: getsubids

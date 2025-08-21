@@ -1,0 +1,7 @@
+description: Auto-generated manifest for functions.sh
+hash: sha256:40691d4a0662a7bc088026ee52ee661f948604de82d82b3ec8c13b1dcb936c55
+persona_hint: Defense
+source_path: /usr/share/remmina/external_tools/functions.sh
+tags:
+- unknown
+tool_name: functions.sh

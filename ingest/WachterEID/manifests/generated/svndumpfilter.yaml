@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svndumpfilter
+hash: sha256:fce8fdf1d9a1f151fcd2c8dc0965abeef8ef48d42ce6613b3f7a1f2dd69e0e9a
+persona_hint: Defense
+source_path: /usr/bin/svndumpfilter
+tags:
+- unknown
+tool_name: svndumpfilter

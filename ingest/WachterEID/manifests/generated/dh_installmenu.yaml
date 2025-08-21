@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installmenu
+hash: sha256:d016fa76640162b286ccac3a211d6c0916457fc279a83cdd1ffb8e4b536b4499
+persona_hint: Defense
+source_path: /usr/bin/dh_installmenu
+tags:
+- unknown
+tool_name: dh_installmenu

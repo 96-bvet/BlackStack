@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbrelayx.py
+hash: sha256:74e6c5278900fb57cdfe7945ffecd94c4a50c262faafb4c899b75462ba206564
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/smbrelayx.py
+tags:
+- unknown
+tool_name: smbrelayx.py

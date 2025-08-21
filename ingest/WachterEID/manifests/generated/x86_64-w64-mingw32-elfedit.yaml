@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-elfedit
+hash: sha256:ed792be751f8257603123a6184cfff4a3bac70594ca9d1b9aa38c64be96fcd5b
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-elfedit
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-elfedit

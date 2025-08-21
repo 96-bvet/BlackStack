@@ -1,0 +1,7 @@
+description: Auto-generated manifest for univar.spk
+hash: sha256:e38fd9a6ecc0c55ec54ae8ea87d2dc72233dee8a47779fc9bc454263d4e23afd
+persona_hint: Defense
+source_path: /usr/share/spike/testscripts/univar.spk
+tags:
+- unknown
+tool_name: univar.spk

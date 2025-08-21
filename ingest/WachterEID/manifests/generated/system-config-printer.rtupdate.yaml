@@ -1,0 +1,7 @@
+description: Auto-generated manifest for system-config-printer.rtupdate
+hash: sha256:8b634d9651564e74c72b6aed5b0c7b57c1a7575ddbb9fbc82706c76bc8fbbc13
+persona_hint: Defense
+source_path: /usr/share/python3/runtime.d/system-config-printer.rtupdate
+tags:
+- unknown
+tool_name: system-config-printer.rtupdate

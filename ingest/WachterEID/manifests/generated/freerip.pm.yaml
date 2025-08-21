@@ -1,0 +1,7 @@
+description: Auto-generated manifest for freerip.pm
+hash: sha256:3731db7479731bdc95934c6b0af1ff13f0959945d9faa106ca645cf7c1a9eea9
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/freerip.pm
+tags:
+- unknown
+tool_name: freerip.pm

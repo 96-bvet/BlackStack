@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reportviewer.sh
+hash: sha256:e17d88dc534e07e7a6b4d9870aeaa837b64edbbdb212cd04d936c1297a5b82de
+persona_hint: Defense
+source_path: /usr/share/oscanner/reportviewer.sh
+tags:
+- unknown
+tool_name: reportviewer.sh

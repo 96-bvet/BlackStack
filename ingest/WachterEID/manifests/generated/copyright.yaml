@@ -1,0 +1,7 @@
+description: Auto-generated manifest for copyright
+hash: sha256:8fe1a226b719913df103c3ac9e1d3c18bda738e9140bb9170508b0722d0f452e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/debian/seed-debian/usr/share/doc/tinnyif/copyright
+tags:
+- unknown
+tool_name: copyright

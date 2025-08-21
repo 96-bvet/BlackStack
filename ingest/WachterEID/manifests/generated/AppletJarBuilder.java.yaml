@@ -1,0 +1,7 @@
+description: Auto-generated manifest for AppletJarBuilder.java
+hash: sha256:2be95abbd466a21cf557bd81ef403791fef1754974522c3d3e4bde126cb1ce64
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/AppletJarBuilder.java
+tags:
+- unknown
+tool_name: AppletJarBuilder.java

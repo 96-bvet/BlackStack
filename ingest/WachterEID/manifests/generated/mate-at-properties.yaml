@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-at-properties
+hash: sha256:df4df9d59228265e792a1114e426e695846f6b3631b9d8c544d42331b8e2dc2f
+persona_hint: Defense
+source_path: /usr/bin/mate-at-properties
+tags:
+- unknown
+tool_name: mate-at-properties

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk4-query-settings
+hash: sha256:98b540fbfaf716f6401b974590d6b721d3738cbc194b436b976ecbd967125181
+persona_hint: Defense
+source_path: /usr/bin/gtk4-query-settings
+tags:
+- unknown
+tool_name: gtk4-query-settings

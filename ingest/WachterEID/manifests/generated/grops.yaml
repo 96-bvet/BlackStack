@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grops
+hash: sha256:7c3c159640358ca575f833bf5c2b202a580b13496722e1c211bd0e7e6defb0a9
+persona_hint: Defense
+source_path: /usr/bin/grops
+tags:
+- unknown
+tool_name: grops

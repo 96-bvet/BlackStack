@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntlm_auth
+hash: sha256:fd5252509d147cec559a0493249fc4037590bb60f4447584ee981d182084ce00
+persona_hint: Defense
+source_path: /usr/bin/ntlm_auth
+tags:
+- unknown
+tool_name: ntlm_auth

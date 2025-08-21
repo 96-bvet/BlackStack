@@ -1,0 +1,7 @@
+description: Auto-generated manifest for USER64.INC
+hash: sha256:0c13be70e93ea72042bcb2e5e52f7400e9c06e79ff64602e63b63ebe32d1c252
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/EQUATES/USER64.INC
+tags:
+- unknown
+tool_name: USER64.INC

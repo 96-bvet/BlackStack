@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rdp_check.py
+hash: sha256:c401c320405d1b03c6fed589ba5e6121ee7766a3fe62ac6bf091852bd0fe3a5d
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/rdp_check.py
+tags:
+- unknown
+tool_name: rdp_check.py

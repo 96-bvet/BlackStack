@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rgb-controller.py
+hash: sha256:064330cb828e75fad75c413b1709719f8aaa66553bb573696ad987ca6ca230ec
+persona_hint: Defense
+source_path: /opt/rgb-linux-controller/rgb-controller.py
+tags:
+- unknown
+tool_name: rgb-controller.py

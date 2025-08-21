@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-parsechangelog
+hash: sha256:1240425d626ff7b28de7022a09222e6f4b88c66c0d481776eea69006c0e22bd4
+persona_hint: Defense
+source_path: /usr/bin/dpkg-parsechangelog
+tags:
+- unknown
+tool_name: dpkg-parsechangelog

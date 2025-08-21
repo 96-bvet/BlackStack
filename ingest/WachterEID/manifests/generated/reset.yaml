@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reset
+hash: sha256:203d8e500099e6fd5f50e2e0de36da0383dd10a4ff284a0c063485da58b8c0a0
+persona_hint: Defense
+source_path: /usr/bin/reset
+tags:
+- unknown
+tool_name: reset

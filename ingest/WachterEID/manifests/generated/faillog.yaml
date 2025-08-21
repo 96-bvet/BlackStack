@@ -1,0 +1,7 @@
+description: Auto-generated manifest for faillog
+hash: sha256:d6879d1dceac8b28adeb8c95ebd1f7229f26b3aae7e9dfa1ea05976970ae08ec
+persona_hint: Defense
+source_path: /usr/bin/faillog
+tags:
+- unknown
+tool_name: faillog

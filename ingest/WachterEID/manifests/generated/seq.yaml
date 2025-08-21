@@ -1,0 +1,7 @@
+description: Auto-generated manifest for seq
+hash: sha256:67ff4ae25eefd98243e80d9435b2c66954091e5f5dbcd134a42b611e54277ae2
+persona_hint: Defense
+source_path: /usr/bin/seq
+tags:
+- unknown
+tool_name: seq

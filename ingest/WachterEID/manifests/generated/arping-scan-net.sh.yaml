@@ -1,0 +1,7 @@
+description: Auto-generated manifest for arping-scan-net.sh
+hash: sha256:ecba7235d27fe53b3d9f2ee909475edd10fc0481b4e254c6e3a24617e7ada3f0
+persona_hint: Defense
+source_path: /usr/share/doc/arping/examples/arping-scan-net.sh
+tags:
+- unknown
+tool_name: arping-scan-net.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for base64
+hash: sha256:ae021af1f99f233eef24c17f9d43843ac36a7c5de1025af794682a89938312e5
+persona_hint: Defense
+source_path: /usr/bin/base64
+tags:
+- unknown
+tool_name: base64

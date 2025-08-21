@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cifsdd
+hash: sha256:772bf7786aaeb9d5eb6d8505ad80c2b532ae27d7a177cbd098dcd5bf0a5cb21d
+persona_hint: Defense
+source_path: /usr/bin/cifsdd
+tags:
+- unknown
+tool_name: cifsdd

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-query
+hash: sha256:42ddb6bd157529ed7bb09fc04cdef438f0d8fe89cf5c7d0976626dfb7eab1690
+persona_hint: Defense
+source_path: /usr/bin/fc-query
+tags:
+- unknown
+tool_name: fc-query

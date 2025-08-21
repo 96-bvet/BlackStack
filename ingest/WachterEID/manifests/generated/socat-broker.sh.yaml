@@ -1,0 +1,7 @@
+description: Auto-generated manifest for socat-broker.sh
+hash: sha256:1fbabbcdd87ab2546bdb4f3c090c51a071478fcc7bddc5cdafb242028edf4df8
+persona_hint: Defense
+source_path: /usr/bin/socat-broker.sh
+tags:
+- unknown
+tool_name: socat-broker.sh

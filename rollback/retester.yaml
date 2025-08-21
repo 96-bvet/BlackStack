@@ -1,0 +1,16 @@
+name: retester
+path: src/cai/agents/retester.py
+type: py
+category: misc
+hash: 2f992e5f50566f9262a563c64eca23c1b3ca4b97eedd5c1edaac983671ac2997
+approved: true
+import: true
+license_stub: true
+name: retester
+path: src/cai/agents/retester.py
+type: py
+category: misc
+hash: 2f992e5f50566f9262a563c64eca23c1b3ca4b97eedd5c1edaac983671ac2997
+approved: true
+import: true
+license_stub: true

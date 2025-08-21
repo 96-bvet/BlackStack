@@ -1,0 +1,7 @@
+description: Auto-generated manifest for publish-built-version
+hash: sha256:b1db1ae1a4ed95c48fbee1e9bc3b5dfed1ed74d9075fcb6b20989a4cf66d33c1
+persona_hint: Defense
+source_path: /usr/share/nodejs/ajv/scripts/publish-built-version
+tags:
+- unknown
+tool_name: publish-built-version

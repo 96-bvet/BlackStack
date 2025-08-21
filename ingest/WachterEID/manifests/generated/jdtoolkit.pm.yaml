@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jdtoolkit.pm
+hash: sha256:be763641e9ca6999d9d8579d3a6a32a2eaae87c614705ae2ac3801feb835dc36
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/jdtoolkit.pm
+tags:
+- unknown
+tool_name: jdtoolkit.pm

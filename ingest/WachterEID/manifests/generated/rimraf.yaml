@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rimraf
+hash: sha256:c44f66fcb954c037673b8984a60f7953fcc75df041978f93307edce52ad8653c
+persona_hint: Defense
+source_path: /usr/bin/rimraf
+tags:
+- unknown
+tool_name: rimraf

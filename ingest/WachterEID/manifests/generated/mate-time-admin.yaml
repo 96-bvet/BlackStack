@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-time-admin
+hash: sha256:50b015f79ebf8f0e8813f6a0b76d5929a7151d138bd1d4a4e11253f9bc6b3c67
+persona_hint: Defense
+source_path: /usr/bin/mate-time-admin
+tags:
+- unknown
+tool_name: mate-time-admin

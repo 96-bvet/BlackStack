@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uglifyjs
+hash: sha256:650aee5af0105c96f8b82eae649ff0d3b97a416b870be08d10ab8cbcb3238ff1
+persona_hint: Defense
+source_path: /usr/share/nodejs/terser/bin/uglifyjs
+tags:
+- unknown
+tool_name: uglifyjs

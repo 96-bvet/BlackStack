@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bootstrap.bash
+hash: sha256:4fc5699f00682f1e92f765a3fd29f2e5a498d3a919b75e081ed36cc2daf08c8c
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/bootstrap.bash
+tags:
+- unknown
+tool_name: bootstrap.bash

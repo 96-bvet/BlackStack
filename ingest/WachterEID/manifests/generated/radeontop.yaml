@@ -1,0 +1,7 @@
+description: Auto-generated manifest for radeontop
+hash: sha256:8f4147f4f5a059e273aeb39b2268332c8630514272fdd6e80294fae7fd29bee9
+persona_hint: Defense
+source_path: /usr/bin/radeontop
+tags:
+- unknown
+tool_name: radeontop

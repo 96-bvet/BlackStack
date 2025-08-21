@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-mark
+hash: sha256:86bcb5892071b371c3ab6bceb1b1910e80b1339404c798873a7aaf01ee6997dd
+persona_hint: Defense
+source_path: /usr/bin/apt-mark
+tags:
+- unknown
+tool_name: apt-mark

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installinitramfs
+hash: sha256:54074b42f8f0bc5d4788b4adecf1d7ea929da8ac04a4808093101a3ea2092357
+persona_hint: Defense
+source_path: /usr/bin/dh_installinitramfs
+tags:
+- unknown
+tool_name: dh_installinitramfs

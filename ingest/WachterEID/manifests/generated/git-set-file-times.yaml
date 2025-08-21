@@ -1,0 +1,7 @@
+description: Auto-generated manifest for git-set-file-times
+hash: sha256:1d9683b03c10b3639654ceaac106277fbba763bd996209f312dec847f59894c9
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/git-set-file-times
+tags:
+- unknown
+tool_name: git-set-file-times

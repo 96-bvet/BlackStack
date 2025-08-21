@@ -1,0 +1,7 @@
+description: Auto-generated manifest for preinst
+hash: sha256:e16e39dc5335c4fa4939475defca372de28c94d72f4cbf58a8eaf2259e6af21a
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/debian/seed-debian/DEBIAN/preinst
+tags:
+- unknown
+tool_name: preinst

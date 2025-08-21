@@ -1,0 +1,7 @@
+description: Auto-generated manifest for broadwayd
+hash: sha256:3cae77446d33faee044c9f68e30a2164bf922c8c152a982e2a9da18644bd4d24
+persona_hint: Defense
+source_path: /usr/bin/broadwayd
+tags:
+- unknown
+tool_name: broadwayd

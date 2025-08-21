@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shellz.pm
+hash: sha256:e5b2966866abe6cbd5cc13cc205492cb6b036db9e485bb7ab9907f44da7e2747
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/shellz.pm
+tags:
+- unknown
+tool_name: shellz.pm

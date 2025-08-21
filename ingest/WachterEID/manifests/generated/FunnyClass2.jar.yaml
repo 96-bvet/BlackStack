@@ -1,0 +1,7 @@
+description: Auto-generated manifest for FunnyClass2.jar
+hash: sha256:606b140e3ac8c3950ca293fe5dd457fd925f63b98bd70b16f62a70a6dbd85163
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/FunnyClass2.jar
+tags:
+- unknown
+tool_name: FunnyClass2.jar

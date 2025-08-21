@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sftp
+hash: sha256:74bcbd768108935cd1925c6f61b89d1a82cd5a65102adca05dca13f899e6f594
+persona_hint: Defense
+source_path: /usr/bin/sftp
+tags:
+- unknown
+tool_name: sftp

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbclient
+hash: sha256:eac922f0d3947cdf7989851fe1c62c675e77239718d8507ab57966efe7a681e3
+persona_hint: Defense
+source_path: /usr/bin/smbclient
+tags:
+- unknown
+tool_name: smbclient

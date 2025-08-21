@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ruby-rewrite
+hash: sha256:2de4cb588f94476a79cd32b6d53f2c2a7aae3e1b414fac068afb9887ac7f98a0
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/parser-3.3.8.0/bin/ruby-rewrite
+tags:
+- unknown
+tool_name: ruby-rewrite

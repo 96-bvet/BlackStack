@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pinentry-curses
+hash: sha256:32e10d1f99c42e31db5da3711d8655b06735db0c63d6e15c232dd4bb6c8a227c
+persona_hint: Defense
+source_path: /usr/bin/pinentry-curses
+tags:
+- unknown
+tool_name: pinentry-curses

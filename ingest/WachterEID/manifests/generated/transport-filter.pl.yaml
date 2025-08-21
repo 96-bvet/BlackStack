@@ -1,0 +1,7 @@
+description: Auto-generated manifest for transport-filter.pl
+hash: sha256:552ebf56b1d0e3f0fc954e47f55ffadaf31dbb7afe22e00228f55fa6f9868b25
+persona_hint: Defense
+source_path: /usr/share/doc/exim4-base/examples/transport-filter.pl
+tags:
+- unknown
+tool_name: transport-filter.pl

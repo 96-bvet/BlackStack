@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atril
+hash: sha256:7b1a1bb8623c6b82992994c41e196ec16771dbbe0e52837d381614478707ad51
+persona_hint: Defense
+source_path: /usr/bin/atril
+tags:
+- unknown
+tool_name: atril

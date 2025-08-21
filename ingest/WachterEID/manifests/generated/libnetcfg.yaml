@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libnetcfg
+hash: sha256:78bab79d103416b08a51e070bf599101a897f3753ff729bd3bafd4068f5b2564
+persona_hint: Defense
+source_path: /usr/bin/libnetcfg
+tags:
+- unknown
+tool_name: libnetcfg

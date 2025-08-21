@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdb3
+hash: sha256:74521ce2d3f2090a0302adab2305b561b42d5078b38463574d2675376568b8d2
+persona_hint: Defense
+source_path: /usr/bin/pdb3
+tags:
+- unknown
+tool_name: pdb3

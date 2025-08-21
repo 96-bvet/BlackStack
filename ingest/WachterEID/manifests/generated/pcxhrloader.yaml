@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pcxhrloader
+hash: sha256:7947ccddb3ba34c7719e03259c7440869f9949628b03acdfdc81474e4356a1f9
+persona_hint: Defense
+source_path: /usr/bin/pcxhrloader
+tags:
+- unknown
+tool_name: pcxhrloader

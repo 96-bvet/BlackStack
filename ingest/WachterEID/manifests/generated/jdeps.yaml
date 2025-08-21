@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jdeps
+hash: sha256:578ed0ba16c66c353d618f94943e9b83a268a85ed67c3a40cb01b4a85e4c59a2
+persona_hint: Defense
+source_path: /usr/bin/jdeps
+tags:
+- unknown
+tool_name: jdeps

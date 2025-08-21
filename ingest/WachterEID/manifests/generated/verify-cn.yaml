@@ -1,0 +1,7 @@
+description: Auto-generated manifest for verify-cn
+hash: sha256:697a7bb3c90fd111ec96339b7a2fe83a1444d339f38c26cafddd0cee9f332857
+persona_hint: Defense
+source_path: /usr/share/openvpn/verify-cn
+tags:
+- unknown
+tool_name: verify-cn

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post8.spk
+hash: sha256:19fe086d86f2806b63bb106cea54c0013e109521291dd842e08757760670b59f
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post8.spk
+tags:
+- unknown
+tool_name: post8.spk

@@ -1,0 +1,16 @@
+name: planner_agent
+path: examples/financial_research_agent/agents/planner_agent.py
+type: py
+category: misc
+hash: 14b5917947c9c578093abcc4b530db14717ae02e77a3d1b269719a2da7adf625
+approved: true
+import: true
+license_stub: true
+name: planner_agent
+path: examples/research_bot/agents/planner_agent.py
+type: py
+category: misc
+hash: dd0037854d3ff27325873ea4b441d3516d3957c770cf3eba1d4a3e41007f04ad
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,16 @@
+name: one_tool
+path: src/cai/agents/one_tool.py
+type: py
+category: misc
+hash: a33225fb5b1abe47af1b384629013bee2c279cde32b72eeff127a25e7135d0a4
+approved: true
+import: true
+license_stub: true
+name: one_tool
+path: src/cai/agents/one_tool.py
+type: py
+category: misc
+hash: a33225fb5b1abe47af1b384629013bee2c279cde32b72eeff127a25e7135d0a4
+approved: true
+import: true
+license_stub: true

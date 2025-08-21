@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-display-settings
+hash: sha256:b091ba0c7eb33b55c9f46f0d51942bca261708502dc9cd1f274cc4aca9f9269b
+persona_hint: Defense
+source_path: /usr/bin/xfce4-display-settings
+tags:
+- unknown
+tool_name: xfce4-display-settings

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ExportImportList
+hash: sha256:ecbc5b481fa90f77900f0a3aaadc7f1d814657f9a347f684ec748ba40e8987d2
+persona_hint: Defense
+source_path: /usr/share/cmake-3.25/Modules/Platform/AIX/ExportImportList
+tags:
+- unknown
+tool_name: ExportImportList

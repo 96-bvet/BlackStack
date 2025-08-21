@@ -1,0 +1,7 @@
+description: Auto-generated manifest for powersploit
+hash: sha256:18b1e44b866ae67ceccf127285ca5cb0c6fe7e42f7a321a1820d4fdecf117c25
+persona_hint: Defense
+source_path: /usr/bin/powersploit
+tags:
+- unknown
+tool_name: powersploit

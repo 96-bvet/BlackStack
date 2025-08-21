@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zfgrep
+hash: sha256:87ab5f4c7cb344e409d614d1a69cc156b3b1053d6ae0b59d8e2c2131f3e63e5a
+persona_hint: Defense
+source_path: /usr/bin/zfgrep
+tags:
+- unknown
+tool_name: zfgrep

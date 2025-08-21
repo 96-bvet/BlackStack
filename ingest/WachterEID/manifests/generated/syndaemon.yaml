@@ -1,0 +1,7 @@
+description: Auto-generated manifest for syndaemon
+hash: sha256:74f325c57fccfae84d7906422e5221a21c505ce0a6092ed23b8c558fb23607dc
+persona_hint: Defense
+source_path: /usr/bin/syndaemon
+tags:
+- unknown
+tool_name: syndaemon

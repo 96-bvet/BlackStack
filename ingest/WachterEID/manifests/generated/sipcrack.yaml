@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sipcrack
+hash: sha256:37fbd744fc19c5a9c3f1e1a009eb97653ac7094a6d146d6ba2fb3751968376a3
+persona_hint: Defense
+source_path: /usr/bin/sipcrack
+tags:
+- unknown
+tool_name: sipcrack

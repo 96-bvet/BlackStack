@@ -1,0 +1,7 @@
+description: Auto-generated manifest for checkarray
+hash: sha256:67ff48bc9f6f2605b2c28a75136ecdb2c52040b47856d3ba7abb005b21134545
+persona_hint: Defense
+source_path: /usr/share/mdadm/checkarray
+tags:
+- unknown
+tool_name: checkarray

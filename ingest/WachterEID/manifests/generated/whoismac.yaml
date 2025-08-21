@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whoismac
+hash: sha256:e0a42cdfb59df8d5dc1c6f3403836d0830dbb324a25f5b24b36865a32fcc496d
+persona_hint: Defense
+source_path: /usr/bin/whoismac
+tags:
+- unknown
+tool_name: whoismac

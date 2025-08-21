@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blueman-applet
+hash: sha256:eecd04e72f4eb724e8e7993723b2ec74e9f5ee841c8d31e4878ddbee3c66a155
+persona_hint: Defense
+source_path: /usr/bin/blueman-applet
+tags:
+- unknown
+tool_name: blueman-applet

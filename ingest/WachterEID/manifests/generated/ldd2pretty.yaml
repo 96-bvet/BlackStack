@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ldd2pretty
+hash: sha256:76ec9c4d059ea0d75c6e490468186dd481c61a3adb92bbd15196d7413fac9729
+persona_hint: Defense
+source_path: /usr/bin/ldd2pretty
+tags:
+- unknown
+tool_name: ldd2pretty

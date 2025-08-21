@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sort
+hash: sha256:26d29d4f3f2a9537f9104b0e496c6110ec266682bfd5f00b312a8fff723ffc00
+persona_hint: Defense
+source_path: /usr/bin/sort
+tags:
+- unknown
+tool_name: sort

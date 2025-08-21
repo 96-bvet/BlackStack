@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jdeprscan
+hash: sha256:8a6051b53c412fb436f852ae96d85f2956ee114496378cb44a827a3177aa589d
+persona_hint: Defense
+source_path: /usr/bin/jdeprscan
+tags:
+- unknown
+tool_name: jdeprscan

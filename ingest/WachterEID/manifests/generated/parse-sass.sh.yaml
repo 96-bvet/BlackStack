@@ -1,0 +1,7 @@
+description: Auto-generated manifest for parse-sass.sh
+hash: sha256:e44de88710f6ac5426a59352a13e63fa07ac866261a4ac3973ccf9f2d6636fef
+persona_hint: Defense
+source_path: /usr/share/themes/ARK-Snow/gnome-shell/extensions/workspaces-to-dock/parse-sass.sh
+tags:
+- unknown
+tool_name: parse-sass.sh

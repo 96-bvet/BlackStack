@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bgupdater
+hash: sha256:779243601e601a79cd7112ae10fcbd6d655b6c04f565ab43a3eaa496836dbaa1
+persona_hint: Defense
+source_path: /usr/share/burpsuite/.install4j/bgupdater
+tags:
+- unknown
+tool_name: bgupdater

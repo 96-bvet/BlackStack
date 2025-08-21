@@ -1,0 +1,7 @@
+description: Auto-generated manifest for RunCoff.yaml
+hash: sha256:f8727aa14a99e4ad11ddf459eb5e56a94dabb4cecadf4e5e5c66ff32007ed3c5
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/RunCoff.yaml
+tags:
+- unknown
+tool_name: RunCoff.yaml

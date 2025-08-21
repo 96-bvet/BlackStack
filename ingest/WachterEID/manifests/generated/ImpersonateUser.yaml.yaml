@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ImpersonateUser.yaml
+hash: sha256:5aeceeaf635e44095cd37c095510847cbd5d91eff36b716f3722f4aa7e9082b1
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/credentials/SharpSploit/ImpersonateUser.yaml
+tags:
+- unknown
+tool_name: ImpersonateUser.yaml

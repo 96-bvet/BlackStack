@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpg
+hash: sha256:7b89b97138cd301ebe5a9cd3ad35480111a9af5a2d624e72f8ac4b7053fd8a2e
+persona_hint: Defense
+source_path: /usr/bin/gpg
+tags:
+- unknown
+tool_name: gpg

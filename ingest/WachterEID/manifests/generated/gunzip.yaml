@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gunzip
+hash: sha256:55c2f67ca4c3cca0ebac659f0075461dd671ec4937ecd6c71123bb49ed322ebd
+persona_hint: Defense
+source_path: /usr/bin/gunzip
+tags:
+- unknown
+tool_name: gunzip

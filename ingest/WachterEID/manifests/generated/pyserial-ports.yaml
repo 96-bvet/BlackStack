@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pyserial-ports
+hash: sha256:9850418390081114d894d5ece8cf9c681ade7be037236fb80d36ef7b60468b70
+persona_hint: Defense
+source_path: /usr/bin/pyserial-ports
+tags:
+- unknown
+tool_name: pyserial-ports

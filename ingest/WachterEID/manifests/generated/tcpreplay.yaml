@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpreplay
+hash: sha256:b02cd9013c1f8935a4728880fc1cfcf868b6179168e9e7fbff0757d3776d124c
+persona_hint: Defense
+source_path: /usr/bin/tcpreplay
+tags:
+- unknown
+tool_name: tcpreplay

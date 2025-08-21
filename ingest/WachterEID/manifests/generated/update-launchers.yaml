@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-launchers
+hash: sha256:c095cf9e6a10b03ef2bd7ebb341a58476e14780240ccdbfb88d800e747981e26
+persona_hint: Defense
+source_path: /usr/share/parrot-menu/update-launchers
+tags:
+- unknown
+tool_name: update-launchers

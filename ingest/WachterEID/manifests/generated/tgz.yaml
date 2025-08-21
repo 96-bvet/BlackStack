@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tgz
+hash: sha256:8364e4af1db354ccf71424ea8b3d9f1a19f0b8a50e93d5b7e15231d0653ebe2d
+persona_hint: Defense
+source_path: /usr/bin/tgz
+tags:
+- unknown
+tool_name: tgz

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for man-recode
+hash: sha256:7cc0625e095aa75f3b5ef6f5717da054e56cc1e3e9c979ff915d3580a1a49a5f
+persona_hint: Defense
+source_path: /usr/bin/man-recode
+tags:
+- unknown
+tool_name: man-recode

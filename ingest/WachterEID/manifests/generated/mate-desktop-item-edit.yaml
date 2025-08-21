@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-desktop-item-edit
+hash: sha256:5c827ce4881f874e856397857d09fcd247d4eecac5d31cf73b2c39e00e4266c6
+persona_hint: Defense
+source_path: /usr/bin/mate-desktop-item-edit
+tags:
+- unknown
+tool_name: mate-desktop-item-edit

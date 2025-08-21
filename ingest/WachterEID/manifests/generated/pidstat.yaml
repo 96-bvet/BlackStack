@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pidstat
+hash: sha256:1bb69eedf56a0b3d997e1b2a720ae9727522607682f5b4aff78563fcf6558d08
+persona_hint: Defense
+source_path: /usr/bin/pidstat
+tags:
+- unknown
+tool_name: pidstat

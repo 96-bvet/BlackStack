@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clambc
+hash: sha256:574ad0519d5c393015e34c46bc0e28fcd0a81a6823358a4281815e44c2b72168
+persona_hint: Defense
+source_path: /usr/bin/clambc
+tags:
+- unknown
+tool_name: clambc

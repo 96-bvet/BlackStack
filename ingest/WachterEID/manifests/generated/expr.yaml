@@ -1,0 +1,7 @@
+description: Auto-generated manifest for expr
+hash: sha256:22998c5ef997f1f386f1a5acab96fce0c855944a9c14da79f5ca243bb19f8ade
+persona_hint: Defense
+source_path: /usr/bin/expr
+tags:
+- unknown
+tool_name: expr

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for encguess
+hash: sha256:f616952ea1c19fd8159c5a4d25cae587bed2c5cfd45df2b238da88cf7595dc21
+persona_hint: Defense
+source_path: /usr/bin/encguess
+tags:
+- unknown
+tool_name: encguess

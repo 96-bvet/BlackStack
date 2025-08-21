@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkdir
+hash: sha256:ba74b1a15a5b9b7929a595f45103d7fbe722840b7211d313dd4872893f031fb9
+persona_hint: Defense
+source_path: /usr/bin/mkdir
+tags:
+- unknown
+tool_name: mkdir

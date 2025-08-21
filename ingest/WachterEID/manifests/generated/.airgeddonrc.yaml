@@ -1,0 +1,7 @@
+description: Auto-generated manifest for .airgeddonrc
+hash: sha256:be50be4e268b0aa56ac04c23c8d08d85c687a05c207210dbc0da6599afb3c5b3
+persona_hint: Defense
+source_path: /usr/share/airgeddon/.airgeddonrc
+tags:
+- unknown
+tool_name: .airgeddonrc

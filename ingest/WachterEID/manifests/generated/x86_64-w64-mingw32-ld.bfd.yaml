@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-ld.bfd
+hash: sha256:95fca2e5c62940abf616e4ca001865ab6ffb0174be596050049ea2a088c2c0e2
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-ld.bfd
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-ld.bfd

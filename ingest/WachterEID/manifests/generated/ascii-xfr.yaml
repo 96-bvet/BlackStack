@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ascii-xfr
+hash: sha256:32a5b62d88f4b7f10badee74a75e3e918d6ee55cbece3b8a8297057c472b73d6
+persona_hint: Defense
+source_path: /usr/bin/ascii-xfr
+tags:
+- unknown
+tool_name: ascii-xfr

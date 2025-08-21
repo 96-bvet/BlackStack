@@ -1,0 +1,7 @@
+description: Auto-generated manifest for split.py
+hash: sha256:c4798c46dafa2d67be352e4f6efc8bd91a6512055cc5fd8a30de63d7aa69cd51
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/split.py
+tags:
+- unknown
+tool_name: split.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htext
+hash: sha256:7760a698522c017fce96606413ed84a8547f9a422af900960c76de91d97954a4
+persona_hint: Defense
+source_path: /usr/share/doc/libhtml-parser-perl/examples/htext
+tags:
+- unknown
+tool_name: htext

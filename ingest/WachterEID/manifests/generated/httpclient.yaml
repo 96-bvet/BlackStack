@@ -1,0 +1,7 @@
+description: Auto-generated manifest for httpclient
+hash: sha256:e357ee98fece0d6cef51d146c1238ba50ed7aff0e843ba9584062b1ae4b6564f
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/httpclient-2.8.3/bin/httpclient
+tags:
+- unknown
+tool_name: httpclient

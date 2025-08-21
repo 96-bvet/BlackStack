@@ -1,0 +1,7 @@
+description: Auto-generated manifest for net-snmp-cert
+hash: sha256:c6de787d1cd1eb58c877cf9efb4ad56404cc35ab263e4a3f86d0e39da4809506
+persona_hint: Defense
+source_path: /usr/share/doc/libsnmp-perl/examples/net-snmp-cert
+tags:
+- unknown
+tool_name: net-snmp-cert

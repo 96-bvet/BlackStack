@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfburn
+hash: sha256:05bb7a91c2066fd1fbd4e17044490b2c5afb7fa17dbf14c3e2699d0eb4b43b36
+persona_hint: Defense
+source_path: /usr/bin/xfburn
+tags:
+- unknown
+tool_name: xfburn

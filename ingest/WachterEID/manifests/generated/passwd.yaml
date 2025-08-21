@@ -1,0 +1,7 @@
+description: Auto-generated manifest for passwd
+hash: sha256:56afa1f47671d272c6c41fd6c5e54fa342d6bcfe686a410d6ad3df5fa35dd9e7
+persona_hint: Defense
+source_path: /usr/bin/passwd
+tags:
+- unknown
+tool_name: passwd

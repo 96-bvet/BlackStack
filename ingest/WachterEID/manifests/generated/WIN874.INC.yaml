@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN874.INC
+hash: sha256:cf79737e9bd0ac6ece1d0603382e16c50fea52ae22e3b2e13b761bcc2e71ffd2
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/ENCODING/WIN874.INC
+tags:
+- unknown
+tool_name: WIN874.INC

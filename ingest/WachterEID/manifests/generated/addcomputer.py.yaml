@@ -1,0 +1,7 @@
+description: Auto-generated manifest for addcomputer.py
+hash: sha256:206fb80e1e494847b45328252b97544dee01ab32e7d4b76e20b053034dbfc5f5
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/addcomputer.py
+tags:
+- unknown
+tool_name: addcomputer.py

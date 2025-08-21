@@ -1,0 +1,7 @@
+description: Auto-generated manifest for run.js
+hash: sha256:9d3ca60fbdfac61c418cfdd3733feb76bc6986c01376461cd5720843e8ad5c0e
+persona_hint: Defense
+source_path: /usr/share/nodejs/tap/bin/run.js
+tags:
+- unknown
+tool_name: run.js

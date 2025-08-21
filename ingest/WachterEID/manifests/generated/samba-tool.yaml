@@ -1,0 +1,7 @@
+description: Auto-generated manifest for samba-tool
+hash: sha256:af71714a8e5066dc23fb19a8df54961477e4bfc740444231f876ce0ed9072f21
+persona_hint: Defense
+source_path: /usr/bin/samba-tool
+tags:
+- unknown
+tool_name: samba-tool

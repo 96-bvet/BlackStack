@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_gencontrol
+hash: sha256:3b09d124dc4903268398c41f9f6b66c78cc1f0c6d6691ceeda7a38e44ec2a137
+persona_hint: Defense
+source_path: /usr/bin/dh_gencontrol
+tags:
+- unknown
+tool_name: dh_gencontrol

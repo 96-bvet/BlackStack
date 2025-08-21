@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lzmainfo
+hash: sha256:83304642274cd05cf58e8d4fd670c5889de6930a4132e0d00f71bcc023d8551f
+persona_hint: Defense
+source_path: /usr/bin/lzmainfo
+tags:
+- unknown
+tool_name: lzmainfo

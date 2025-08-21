@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-passive_discovery6
+hash: sha256:24526c9423a713349a390c415764476de2cefeb3a2a873c0ce7426ab691ade99
+persona_hint: Defense
+source_path: /usr/bin/atk6-passive_discovery6
+tags:
+- unknown
+tool_name: atk6-passive_discovery6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SharpSploit_Keylogger.yaml
+hash: sha256:179917ca25ef51026ce546fedd09ea528334cde9f4f5688a1a2caf4baa9f3f4c
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/collection/SharpSploit_Keylogger.yaml
+tags:
+- unknown
+tool_name: SharpSploit_Keylogger.yaml

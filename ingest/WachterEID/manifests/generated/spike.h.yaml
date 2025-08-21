@@ -1,0 +1,7 @@
+description: Auto-generated manifest for spike.h
+hash: sha256:464da4dc6337a2b35479277717ee33480347636cf82d3de4c2f7d0d56de37698
+persona_hint: Defense
+source_path: /usr/share/spike/include/spike.h
+tags:
+- unknown
+tool_name: spike.h

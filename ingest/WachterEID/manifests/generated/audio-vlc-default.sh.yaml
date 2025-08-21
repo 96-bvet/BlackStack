@@ -1,0 +1,7 @@
+description: Auto-generated manifest for audio-vlc-default.sh
+hash: sha256:12f23e5ec034db9ba7e1277d3a10a97a37ef0ff08e21abd673bb21b625493af2
+persona_hint: Defense
+source_path: /usr/share/vlc/utils/audio-vlc-default.sh
+tags:
+- unknown
+tool_name: audio-vlc-default.sh

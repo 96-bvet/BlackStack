@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemctl
+hash: sha256:fffa262582675f4273ffd3469ed66fba9a3f9a32aa0616f5781ba6d67250b64a
+persona_hint: Defense
+source_path: /usr/bin/systemctl
+tags:
+- unknown
+tool_name: systemctl

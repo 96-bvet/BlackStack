@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rename.ul
+hash: sha256:d7ae569a913f6bacb6c60fcc6b85948ca528ae7b15df5232f223d07c4cfc42a6
+persona_hint: Defense
+source_path: /usr/bin/rename.ul
+tags:
+- unknown
+tool_name: rename.ul

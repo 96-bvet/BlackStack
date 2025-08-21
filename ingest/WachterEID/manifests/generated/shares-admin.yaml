@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shares-admin
+hash: sha256:861af28eef647c7712df894aae37bc7681ff1ea9262225377d0f1ca1ab2c0759
+persona_hint: Defense
+source_path: /usr/bin/shares-admin
+tags:
+- unknown
+tool_name: shares-admin

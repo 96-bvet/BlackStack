@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxmactool
+hash: sha256:ba6cb8c5477f19f1fb688c7e39811e3bdf6f165f84c28ef0faa1164afc317b2b
+persona_hint: Defense
+source_path: /usr/bin/hcxmactool
+tags:
+- unknown
+tool_name: hcxmactool

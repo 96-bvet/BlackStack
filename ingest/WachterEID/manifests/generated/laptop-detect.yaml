@@ -1,0 +1,7 @@
+description: Auto-generated manifest for laptop-detect
+hash: sha256:c37c1fa7d569abc9260be1bc16d7dad16236a1d0e03a1a8b2c728c99d7e44dba
+persona_hint: Defense
+source_path: /usr/bin/laptop-detect
+tags:
+- unknown
+tool_name: laptop-detect

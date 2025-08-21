@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnmucc
+hash: sha256:b037624744a6461e7105d02568a992fc8523de96c1d2810d9ce25efd1a62a1fa
+persona_hint: Defense
+source_path: /usr/bin/svnmucc
+tags:
+- unknown
+tool_name: svnmucc

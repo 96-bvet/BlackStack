@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-binlog
+hash: sha256:41b9cf30ebc4bfdab2c6d261d0926d8e396ca143f3f4f4f4aa58ce8840d7fccd
+persona_hint: Defense
+source_path: /usr/bin/mariadb-binlog
+tags:
+- unknown
+tool_name: mariadb-binlog

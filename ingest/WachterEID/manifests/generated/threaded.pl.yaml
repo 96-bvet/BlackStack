@@ -1,0 +1,7 @@
+description: Auto-generated manifest for threaded.pl
+hash: sha256:64c4113c93710687c7264f7494abfeab6183718f2e784064005752fe90bba6bc
+persona_hint: Defense
+source_path: /usr/share/doc/libfcgi-perl/examples/threaded.pl
+tags:
+- unknown
+tool_name: threaded.pl

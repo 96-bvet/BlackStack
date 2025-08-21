@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openvpn-shutdown.sh
+hash: sha256:2720153a474d78b7475e8eb813a87018fdea6b9dc26b733af0aa58008275d792
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-config-files/openvpn-shutdown.sh
+tags:
+- unknown
+tool_name: openvpn-shutdown.sh

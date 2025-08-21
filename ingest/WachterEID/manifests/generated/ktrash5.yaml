@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ktrash5
+hash: sha256:02644aacb8561344c52e35079f2ae0a7f371f19842a1a097fbc7c870ed25d0ad
+persona_hint: Defense
+source_path: /usr/bin/ktrash5
+tags:
+- unknown
+tool_name: ktrash5

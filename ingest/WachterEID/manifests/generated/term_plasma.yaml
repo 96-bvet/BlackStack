@@ -1,0 +1,7 @@
+description: Auto-generated manifest for term_plasma
+hash: sha256:3afcf33b00fbf15f8c4ffe22acb1e090b21c5302ad30e151609c705659a73787
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/term-ansicolor-1.11.2/bin/term_plasma
+tags:
+- unknown
+tool_name: term_plasma

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PersistCOMHijack.yaml
+hash: sha256:94541b526223d4c76d0eb08d8d61de4d76a723014c2e27ec939ea1347c5161d0
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/persistence/SharpSploit/PersistCOMHijack.yaml
+tags:
+- unknown
+tool_name: PersistCOMHijack.yaml

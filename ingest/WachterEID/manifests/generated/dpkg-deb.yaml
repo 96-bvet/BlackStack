@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-deb
+hash: sha256:b705edc765a4433537fe48f064e4f44f1cd2d5285142b6ecd0d4271561e9a5bd
+persona_hint: Defense
+source_path: /usr/bin/dpkg-deb
+tags:
+- unknown
+tool_name: dpkg-deb

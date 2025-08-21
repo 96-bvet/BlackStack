@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xflock4
+hash: sha256:d9600acc16f2bcb681b4f74863636e0cbd24088787ee20a2e698601e7ce81fa0
+persona_hint: Defense
+source_path: /usr/bin/xflock4
+tags:
+- unknown
+tool_name: xflock4

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for docker_cr.sh
+hash: sha256:476f7a16741069ee64bb59e692ddc392b27b5c5011e0db9551dd4de39735b543
+persona_hint: Defense
+source_path: /usr/share/doc/criu/examples/docker_cr.sh
+tags:
+- unknown
+tool_name: docker_cr.sh

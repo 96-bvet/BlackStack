@@ -1,0 +1,7 @@
+description: Auto-generated manifest for network
+hash: sha256:6722b546298f25698a6aab3e170c1e11a52b553668573013adfa6708190d176c
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/network
+tags:
+- unknown
+tool_name: network

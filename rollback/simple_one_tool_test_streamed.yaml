@@ -1,0 +1,8 @@
+name: simple_one_tool_test_streamed
+path: examples/cai/simple_one_tool_test_streamed.py
+type: py
+category: misc
+hash: dc056c2672bd8805006a80895e31a8fdefed2983682961c96bfbbf88dd10ceaa
+approved: true
+import: true
+license_stub: true

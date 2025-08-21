@@ -1,0 +1,7 @@
+description: Auto-generated manifest for install-menu
+hash: sha256:b55c9d15292bac7947850cf80547460e04fc91f6b13d912ff928fa442b517f55
+persona_hint: Defense
+source_path: /usr/bin/install-menu
+tags:
+- unknown
+tool_name: install-menu

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jack.js
+hash: sha256:bed37e54291a9209b2346dc97baad34b1c2bc237a750bccd26bcf5b4c8a9e337
+persona_hint: Defense
+source_path: /usr/share/nodejs/tap/bin/jack.js
+tags:
+- unknown
+tool_name: jack.js

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-as
+hash: sha256:41fe4f5a03389ea5cf7c92d6753fa1ecc69b45b12534fd8713c53bba0e2d7e17
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-as
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-as

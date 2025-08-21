@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfswipe
+hash: sha256:d250ce9fdd99a8160f9d610ba22cbf9cf721aec77757b4805d20ffd5210e4e28
+persona_hint: Defense
+source_path: /usr/bin/ntfswipe
+tags:
+- unknown
+tool_name: ntfswipe

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for f2py3
+hash: sha256:5f2e18a96c069b04848c6dd8c0988358847e5c46b3dec72d7b29c24d350d36ac
+persona_hint: Defense
+source_path: /usr/bin/f2py3
+tags:
+- unknown
+tool_name: f2py3

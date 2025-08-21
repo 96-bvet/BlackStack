@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lstopo-no-graphics
+hash: sha256:a1be4ae3bf9442ba9f6dc5b9a75c31ce26defc681add6e26d1004b7e4d006f69
+persona_hint: Defense
+source_path: /usr/bin/lstopo-no-graphics
+tags:
+- unknown
+tool_name: lstopo-no-graphics

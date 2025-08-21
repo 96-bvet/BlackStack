@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mssql.cap
+hash: sha256:a8de6b227bb92bdd1f8d04e56f8e75c6d2a17dca7198f35918d0b880fbd328da
+persona_hint: Defense
+source_path: /usr/share/spike/audits/MSSQL/mssql.cap
+tags:
+- unknown
+tool_name: mssql.cap

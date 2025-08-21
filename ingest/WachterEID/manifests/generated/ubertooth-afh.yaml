@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-afh
+hash: sha256:b9c11d5d26e7a7d970515b049b2fd906ad19fc6a2cccd5da2d876e607a4ce60f
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-afh
+tags:
+- unknown
+tool_name: ubertooth-afh

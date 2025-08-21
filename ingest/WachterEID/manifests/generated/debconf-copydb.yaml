@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf-copydb
+hash: sha256:085ff55904c81115d8d65f8862f0a5ad393e062da3047762e4d9cd4f5ba761f4
+persona_hint: Defense
+source_path: /usr/bin/debconf-copydb
+tags:
+- unknown
+tool_name: debconf-copydb

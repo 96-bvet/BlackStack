@@ -1,0 +1,7 @@
+description: Auto-generated manifest for twofi
+hash: sha256:ec4025f600d4634b9b41549b9407a4ae0dfb0cabba025ee62afdff4dc6b3f476
+persona_hint: Defense
+source_path: /usr/bin/twofi
+tags:
+- unknown
+tool_name: twofi

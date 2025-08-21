@@ -1,0 +1,7 @@
+description: Auto-generated manifest for control.xml
+hash: sha256:7139a9e4814fa35eb586540aefc93eeaddafaa7c8ee91b9cb42aaa010e4acd24
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/wmedia/control.xml
+tags:
+- unknown
+tool_name: control.xml

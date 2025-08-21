@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-panel-test-applets
+hash: sha256:a7c1540f8b5333dde19ccb928fb4758d6e2c014bf09eef5a83449a587ff193b9
+persona_hint: Defense
+source_path: /usr/bin/mate-panel-test-applets
+tags:
+- unknown
+tool_name: mate-panel-test-applets

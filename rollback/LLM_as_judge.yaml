@@ -1,0 +1,8 @@
+name: LLM_as_judge
+path: examples/cai/agent_patterns/LLM_as_judge.py
+type: py
+category: misc
+hash: c5182653c29d935750d133ff3a8db3a4b33ee28ac04ab24639b885b75caa52f1
+approved: true
+import: true
+license_stub: true

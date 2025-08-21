@@ -1,0 +1,7 @@
+description: Auto-generated manifest for traceproto
+hash: sha256:676ff67d4f12dcdebbfa31d47226199ffaf2efc15637ec64ab8143ac5a597fd6
+persona_hint: Defense
+source_path: /usr/bin/traceproto
+tags:
+- unknown
+tool_name: traceproto

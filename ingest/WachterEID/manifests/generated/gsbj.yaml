@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gsbj
+hash: sha256:73b93bb5880989dc8163c5a988e2cf8973b0634ecb2b6f0998382e27558daf50
+persona_hint: Defense
+source_path: /usr/bin/gsbj
+tags:
+- unknown
+tool_name: gsbj

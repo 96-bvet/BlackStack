@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-clipman
+hash: sha256:75578883e0387b96ec938de89d79bcf4630206232def224540d5438382c0cf3c
+persona_hint: Defense
+source_path: /usr/bin/xfce4-clipman
+tags:
+- unknown
+tool_name: xfce4-clipman

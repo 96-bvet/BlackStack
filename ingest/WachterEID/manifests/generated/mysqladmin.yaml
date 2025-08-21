@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysqladmin
+hash: sha256:5bad1ad5e6bddd64ca0801b884081ff917a1be9aa810e0e32dbecb361e9fb29b
+persona_hint: Defense
+source_path: /usr/bin/mysqladmin
+tags:
+- unknown
+tool_name: mysqladmin

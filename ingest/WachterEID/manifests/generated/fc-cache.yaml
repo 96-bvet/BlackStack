@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-cache
+hash: sha256:045c6e4f45b4fd20ce7d5132bb2b31f80b18dda2a3bc32a4a9260de97f30d9b5
+persona_hint: Defense
+source_path: /usr/bin/fc-cache
+tags:
+- unknown
+tool_name: fc-cache

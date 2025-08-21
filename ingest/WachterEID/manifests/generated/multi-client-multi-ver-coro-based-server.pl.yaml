@@ -1,0 +1,7 @@
+description: Auto-generated manifest for multi-client-multi-ver-coro-based-server.pl
+hash: sha256:677b724ccd598299c732caed78943d4e05b912c3fa9d50f73227300e3bd04598
+persona_hint: Defense
+source_path: /usr/share/doc/libio-socket-socks-perl/examples/multi-client-multi-ver-coro-based-server.pl
+tags:
+- unknown
+tool_name: multi-client-multi-ver-coro-based-server.pl

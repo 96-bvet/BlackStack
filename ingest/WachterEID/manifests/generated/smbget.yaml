@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbget
+hash: sha256:5f2f043c4fd3a781a29d9949dae523f4cfce12cb19aea17768490517da4990c2
+persona_hint: Defense
+source_path: /usr/bin/smbget
+tags:
+- unknown
+tool_name: smbget

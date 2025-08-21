@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JDWPInjector.java
+hash: sha256:3fc70d0d4ff5e5c02e7e01425e115015a013996b9c696399d4c3b9d4d7d9658f
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/JDWPInjector.java
+tags:
+- unknown
+tool_name: JDWPInjector.java

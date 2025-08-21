@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unwrapdiff
+hash: sha256:d2758e6f7f431b323fd28e31c918cd14dfd122e48be601e95548815b27cd79fe
+persona_hint: Defense
+source_path: /usr/bin/unwrapdiff
+tags:
+- unknown
+tool_name: unwrapdiff

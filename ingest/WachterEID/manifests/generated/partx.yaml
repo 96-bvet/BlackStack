@@ -1,0 +1,7 @@
+description: Auto-generated manifest for partx
+hash: sha256:c492c820371ab8bb9e1afc91e9df2866b78c0ee7ca86ec5801f212a632e144f2
+persona_hint: Defense
+source_path: /usr/bin/partx
+tags:
+- unknown
+tool_name: partx

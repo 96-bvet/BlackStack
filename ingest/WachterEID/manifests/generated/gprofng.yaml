@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gprofng
+hash: sha256:b638cfd4f4718f448e78298c23efb14e964d0a3c231b4866ed49c73f26b2a24f
+persona_hint: Defense
+source_path: /usr/bin/gprofng
+tags:
+- unknown
+tool_name: gprofng

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ptx
+hash: sha256:2bf52c99c98b6569ade8c0a2ce08750334d4d5a512d6dafdc7c704cd7dba4663
+persona_hint: Defense
+source_path: /usr/bin/ptx
+tags:
+- unknown
+tool_name: ptx

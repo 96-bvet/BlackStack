@@ -1,0 +1,7 @@
+description: Auto-generated manifest for goid-tool
+hash: sha256:6746c73799938a07a3b1a77cbc5b3b0112719ad26689a9cbf42076146b710383
+persona_hint: Defense
+source_path: /usr/bin/goid-tool
+tags:
+- unknown
+tool_name: goid-tool

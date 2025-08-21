@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tty
+hash: sha256:ca27ae958bebe611fc2c3b097d216e5a7423c0dc7f317e9ab352fe307eeae298
+persona_hint: Defense
+source_path: /usr/bin/tty
+tags:
+- unknown
+tool_name: tty

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for isopen.pm
+hash: sha256:4c5d9e26a65fdca41912a362eaeef1f46c4a5a54c925a053ae88cdaf26c4bd87
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/isopen.pm
+tags:
+- unknown
+tool_name: isopen.pm

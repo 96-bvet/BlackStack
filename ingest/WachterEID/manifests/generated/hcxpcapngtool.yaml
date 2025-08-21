@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxpcapngtool
+hash: sha256:65982a90a6194c5065c739788ea439cc1b09a977b8954904bfa80fbc50866fcd
+persona_hint: Defense
+source_path: /usr/bin/hcxpcapngtool
+tags:
+- unknown
+tool_name: hcxpcapngtool

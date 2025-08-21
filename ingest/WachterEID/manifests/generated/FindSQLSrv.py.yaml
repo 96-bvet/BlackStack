@@ -1,0 +1,7 @@
+description: Auto-generated manifest for FindSQLSrv.py
+hash: sha256:f724b03d7e75d35750ea13ef3f2be6ed77f2c4a51d66649d324935816248ca9c
+persona_hint: Defense
+source_path: /usr/share/responder/tools/FindSQLSrv.py
+tags:
+- unknown
+tool_name: FindSQLSrv.py

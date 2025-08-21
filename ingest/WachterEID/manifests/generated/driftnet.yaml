@@ -1,0 +1,7 @@
+description: Auto-generated manifest for driftnet
+hash: sha256:aef16f190ba3f4c407bb3a4f3c3151ff91bfa27b05085cf03dfa95ef260abe3b
+persona_hint: Defense
+source_path: /usr/bin/driftnet
+tags:
+- unknown
+tool_name: driftnet

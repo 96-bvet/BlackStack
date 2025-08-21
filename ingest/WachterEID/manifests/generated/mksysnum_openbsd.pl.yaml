@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mksysnum_openbsd.pl
+hash: sha256:c12a8a93dbbff3b6dc216d385abf9d47c2ea898785b5a5913e8aaf79c4a8988a
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mksysnum_openbsd.pl
+tags:
+- unknown
+tool_name: mksysnum_openbsd.pl

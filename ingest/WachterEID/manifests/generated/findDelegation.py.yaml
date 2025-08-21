@@ -1,0 +1,7 @@
+description: Auto-generated manifest for findDelegation.py
+hash: sha256:0c2a19302ea3a50ce967433be897c911b5e41b9b6e4f04353bf04d686ee9d8be
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/findDelegation.py
+tags:
+- unknown
+tool_name: findDelegation.py

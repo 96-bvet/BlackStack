@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-buildpackage
+hash: sha256:e4632ca4d6ca6ad4aa4c434bac660fd04c466a22a27c02097b924ec2b0769644
+persona_hint: Defense
+source_path: /usr/bin/dpkg-buildpackage
+tags:
+- unknown
+tool_name: dpkg-buildpackage

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-parasite6
+hash: sha256:f8d1b39e001c2ec4fc48d1a8a3930f6673c0ec904663a03571bfb15f810a4f13
+persona_hint: Defense
+source_path: /usr/bin/atk6-parasite6
+tags:
+- unknown
+tool_name: atk6-parasite6

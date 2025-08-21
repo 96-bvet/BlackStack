@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xev
+hash: sha256:9ab347a2c554c9953bb6eff3078fa52d2a6ef21b1234396668cdcb064b414ca7
+persona_hint: Defense
+source_path: /usr/bin/xev
+tags:
+- unknown
+tool_name: xev

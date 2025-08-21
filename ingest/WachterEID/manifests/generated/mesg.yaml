@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mesg
+hash: sha256:e17ebd3b06af9c69e52906622bdd6727fe6ffb30b115583efc730f80a66d154f
+persona_hint: Defense
+source_path: /usr/bin/mesg
+tags:
+- unknown
+tool_name: mesg

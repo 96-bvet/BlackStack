@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-gcov-dump-posix
+hash: sha256:6f7f1ca1551473ee8cc118ecd6353812847e7c656d31389d5ec1c16c2e02a4df
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-gcov-dump-posix
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-gcov-dump-posix

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for magic.pl
+hash: sha256:7245d800c210087b52ae0d4314cd86427b5e53400fe9af20e364d73bb76f2345
+persona_hint: Defense
+source_path: /usr/share/doc/libvariable-magic-perl/examples/magic.pl
+tags:
+- unknown
+tool_name: magic.pl

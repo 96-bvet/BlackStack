@@ -1,0 +1,7 @@
+description: Auto-generated manifest for crit
+hash: sha256:87fff28342b4462f374403ed46679496cb7c4b3d2c6703d61b67e98e55c59746
+persona_hint: Defense
+source_path: /usr/bin/crit
+tags:
+- unknown
+tool_name: crit

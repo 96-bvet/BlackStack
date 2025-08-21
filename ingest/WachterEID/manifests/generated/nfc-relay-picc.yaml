@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-relay-picc
+hash: sha256:abf0570042794a80546c08afae7ccc40b0f1ed7e89564fcca773f7268daa2464
+persona_hint: Defense
+source_path: /usr/bin/nfc-relay-picc
+tags:
+- unknown
+tool_name: nfc-relay-picc

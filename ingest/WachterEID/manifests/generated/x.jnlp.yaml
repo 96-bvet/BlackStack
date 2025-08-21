@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x.jnlp
+hash: sha256:4dfdc8c32552dd65eb8e7ccbd6592718109e46b9252345e7ba52525e02d63cfc
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/x.jnlp
+tags:
+- unknown
+tool_name: x.jnlp

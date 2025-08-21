@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sestatus
+hash: sha256:938de22ddbe4274458e87587502fe21daaefeb0fee86365e0956485e8acdb7c5
+persona_hint: Defense
+source_path: /usr/bin/sestatus
+tags:
+- unknown
+tool_name: sestatus

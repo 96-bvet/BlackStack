@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ct_helpers.nft
+hash: sha256:ff2b25d6d381264f440e53a77e487e3bcb3bd680b3f2f85e2003e45f6bfb899d
+persona_hint: Defense
+source_path: /usr/share/doc/nftables/examples/ct_helpers.nft
+tags:
+- unknown
+tool_name: ct_helpers.nft

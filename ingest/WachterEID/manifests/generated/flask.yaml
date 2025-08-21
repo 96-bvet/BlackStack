@@ -1,0 +1,7 @@
+description: Auto-generated manifest for flask
+hash: sha256:0ecd80a072e7e1d2f89741ecb987f306b45eef31347a80c5b0cb8ff4e328b336
+persona_hint: Defense
+source_path: /usr/bin/flask
+tags:
+- unknown
+tool_name: flask

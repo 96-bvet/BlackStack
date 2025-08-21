@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbinfo
+hash: sha256:c699811f925715fb189be9591d7dd3228139b8b1befc2c793b643d69b742ecda
+persona_hint: Defense
+source_path: /usr/bin/smbinfo
+tags:
+- unknown
+tool_name: smbinfo

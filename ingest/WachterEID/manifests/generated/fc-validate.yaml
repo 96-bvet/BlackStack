@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-validate
+hash: sha256:552f3c42f3daae16cfc8a2bfcf4a3f734db1d8d7b6c4012bc7f94cf4fae06a18
+persona_hint: Defense
+source_path: /usr/bin/fc-validate
+tags:
+- unknown
+tool_name: fc-validate

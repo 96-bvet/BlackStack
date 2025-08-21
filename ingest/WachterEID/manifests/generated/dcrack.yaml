@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dcrack
+hash: sha256:630b0bb568f3cb3b7daef006b2cd16b16302b26af5527ebdc0c21a1ddd3d7ccf
+persona_hint: Defense
+source_path: /usr/bin/dcrack
+tags:
+- unknown
+tool_name: dcrack

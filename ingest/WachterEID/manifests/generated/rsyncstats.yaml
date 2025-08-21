@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rsyncstats
+hash: sha256:ee498096105ca3ae658e9118ca8fc8bdcdc525e24f232e8a5288b7e1afc0b08b
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/rsyncstats
+tags:
+- unknown
+tool_name: rsyncstats

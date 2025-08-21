@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-denial6
+hash: sha256:7a1e3bb68e059b5a14111c829c9e00814845963e0b31b19a4b6646b6ca9d4c3c
+persona_hint: Defense
+source_path: /usr/bin/atk6-denial6
+tags:
+- unknown
+tool_name: atk6-denial6

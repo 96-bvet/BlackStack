@@ -1,0 +1,7 @@
+description: Auto-generated manifest for makecert.pl
+hash: sha256:ba0bb974863ec1c3d678ed4cf050dc85cac604bde8c47db107de68b74ce739f0
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/makecert.pl
+tags:
+- unknown
+tool_name: makecert.pl

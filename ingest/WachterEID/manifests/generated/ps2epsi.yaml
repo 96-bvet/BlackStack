@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ps2epsi
+hash: sha256:13773c9d8e9a1e464b928c01ad099ebf898a461b27d0e7a58f8f9c0104a9058d
+persona_hint: Defense
+source_path: /usr/bin/ps2epsi
+tags:
+- unknown
+tool_name: ps2epsi

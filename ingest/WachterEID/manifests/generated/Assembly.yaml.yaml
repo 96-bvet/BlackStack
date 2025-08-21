@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Assembly.yaml
+hash: sha256:c568ce78e722426ceede9f4b8c8089a83d54db0241241614fef712aab4e92b39
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/Assembly.yaml
+tags:
+- unknown
+tool_name: Assembly.yaml

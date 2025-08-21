@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vdpau-driver-all
+hash: sha256:62ef379a02f7caf68115b035d9ff307e1f985f134db6e3a9b2ec4b6cec7fa673
+persona_hint: Defense
+source_path: /usr/share/bug/vdpau-driver-all
+tags:
+- unknown
+tool_name: vdpau-driver-all

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zstdgrep
+hash: sha256:9bc769b26542ef2efa14ae29b3178b7f10639cd95544207691cb258fe06bbe17
+persona_hint: Defense
+source_path: /usr/bin/zstdgrep
+tags:
+- unknown
+tool_name: zstdgrep

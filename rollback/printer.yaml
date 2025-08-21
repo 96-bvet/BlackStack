@@ -1,0 +1,16 @@
+name: printer
+path: examples/financial_research_agent/printer.py
+type: py
+category: misc
+hash: e58f32a96db2903e1347e007cd08a8b597f8b811d95968bd87eeb9809d9826f4
+approved: true
+import: true
+license_stub: true
+name: printer
+path: examples/research_bot/printer.py
+type: py
+category: misc
+hash: d7011aab74945061640fbec78c1cfbb0c77e865d6ea97c3c785e95cf591889b6
+approved: true
+import: true
+license_stub: true

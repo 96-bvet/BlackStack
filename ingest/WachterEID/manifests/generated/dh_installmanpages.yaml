@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installmanpages
+hash: sha256:e513e16b99ac00f87fc0f2ee563f6a9e928a488e0589e8da33e8d326cb26d791
+persona_hint: Defense
+source_path: /usr/bin/dh_installmanpages
+tags:
+- unknown
+tool_name: dh_installmanpages

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dmesg
+hash: sha256:53a4b55208b91edf1401c386a7fae9fbe3f12372958c07f4ead46e876477a50c
+persona_hint: Defense
+source_path: /usr/bin/dmesg
+tags:
+- unknown
+tool_name: dmesg

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dumpkeys
+hash: sha256:f6abe3da8fb56aefa4d8f1255fbe97b2f7db3aa4f0499bca9ded991b4cee94c5
+persona_hint: Defense
+source_path: /usr/bin/dumpkeys
+tags:
+- unknown
+tool_name: dumpkeys

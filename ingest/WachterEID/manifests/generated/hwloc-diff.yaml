@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-diff
+hash: sha256:9f1cf401869d08e9a6872cd29de4f1ec76539039af1d6f17de83560d1b151f3f
+persona_hint: Defense
+source_path: /usr/bin/hwloc-diff
+tags:
+- unknown
+tool_name: hwloc-diff

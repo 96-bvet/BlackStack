@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hciattach
+hash: sha256:def48d139b113f07cc4b35c3ca05fd233c28bcfbd84af71017208d02f0b0aee7
+persona_hint: Defense
+source_path: /usr/bin/hciattach
+tags:
+- unknown
+tool_name: hciattach

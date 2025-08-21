@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ngettext
+hash: sha256:0d15727203b1da8d7d12294c325c99a2181600b89e4e4afb9de9c139d1dc634c
+persona_hint: Defense
+source_path: /usr/bin/ngettext
+tags:
+- unknown
+tool_name: ngettext

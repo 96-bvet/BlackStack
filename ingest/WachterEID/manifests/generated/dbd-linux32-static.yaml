@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbd-linux32-static
+hash: sha256:9bb77400b0c5a0ca0e539258009aea37a2e6a1f6d2117d561c6e52e30adb2182
+persona_hint: Defense
+source_path: /usr/share/dbd/binaries/dbd-linux32-static
+tags:
+- unknown
+tool_name: dbd-linux32-static

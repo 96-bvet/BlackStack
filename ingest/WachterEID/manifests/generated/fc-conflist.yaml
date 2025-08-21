@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-conflist
+hash: sha256:16eceb586170170998212b36ab7070e2bf78426f55477da06546e904d00edbb1
+persona_hint: Defense
+source_path: /usr/bin/fc-conflist
+tags:
+- unknown
+tool_name: fc-conflist

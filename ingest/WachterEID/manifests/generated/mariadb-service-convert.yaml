@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-service-convert
+hash: sha256:abdd0608d6251fc0621fd919102b40a1c681360d08098312a55b5a47f4e548a6
+persona_hint: Defense
+source_path: /usr/bin/mariadb-service-convert
+tags:
+- unknown
+tool_name: mariadb-service-convert

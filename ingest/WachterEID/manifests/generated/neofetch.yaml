@@ -1,0 +1,7 @@
+description: Auto-generated manifest for neofetch
+hash: sha256:8f52a80b8b6da970a272154bc780013ab9da59858a6a1f45a788eb9b0833c118
+persona_hint: Defense
+source_path: /usr/bin/neofetch
+tags:
+- unknown
+tool_name: neofetch

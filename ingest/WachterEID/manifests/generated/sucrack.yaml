@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sucrack
+hash: sha256:fec0332d2d6d8594221186ba01a7368c86305144e751a0d55f9a7d371ff3ded0
+persona_hint: Defense
+source_path: /usr/bin/sucrack
+tags:
+- unknown
+tool_name: sucrack

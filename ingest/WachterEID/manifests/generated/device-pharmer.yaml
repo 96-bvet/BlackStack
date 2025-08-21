@@ -1,0 +1,7 @@
+description: Auto-generated manifest for device-pharmer
+hash: sha256:fbee83eddfbd31091937c791abcead45c7ffda8e9f757dd65dd0d9cdde91ec55
+persona_hint: Defense
+source_path: /usr/bin/device-pharmer
+tags:
+- unknown
+tool_name: device-pharmer

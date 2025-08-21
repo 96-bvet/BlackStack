@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sqlninja
+hash: sha256:05ed67f28cdd2f720aaac13d56973baafa3a1add8cfbcf6b2c32a236187a2393
+persona_hint: Defense
+source_path: /usr/bin/sqlninja
+tags:
+- unknown
+tool_name: sqlninja

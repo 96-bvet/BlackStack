@@ -1,0 +1,7 @@
+description: Auto-generated manifest for eglinfo
+hash: sha256:83e064180d1234e8045ae9b2c1d35ea2b4d351fb76fb48ad1f6377aadd708182
+persona_hint: Defense
+source_path: /usr/bin/eglinfo
+tags:
+- unknown
+tool_name: eglinfo

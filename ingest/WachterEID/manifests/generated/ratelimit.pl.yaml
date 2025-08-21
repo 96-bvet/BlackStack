@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ratelimit.pl
+hash: sha256:abe7f6e34af542acd6204fceaf1603a13fe927d3de61979a146fd1505a6a3f63
+persona_hint: Defense
+source_path: /usr/share/doc/exim4-base/examples/ratelimit.pl
+tags:
+- unknown
+tool_name: ratelimit.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ProcessList.yaml
+hash: sha256:72f9047b0517bf23a442e782cf3fe392cca483524b2b5e0d1a081e3cfa89c850
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/ProcessList.yaml
+tags:
+- unknown
+tool_name: ProcessList.yaml

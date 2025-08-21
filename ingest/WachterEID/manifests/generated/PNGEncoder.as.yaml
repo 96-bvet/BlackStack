@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PNGEncoder.as
+hash: sha256:f20ec03f051fea0c53b38699634a58f911f0dc498bbbd2a7c24bc7bb1829a475
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/browser/webcam_flash/dev/com/adobe/images/PNGEncoder.as
+tags:
+- unknown
+tool_name: PNGEncoder.as

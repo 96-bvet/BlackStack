@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgcmp
+hash: sha256:fecf883f15b735bb877c27ba63d7742f7ecf63e87bd3ec5360265b8f84354d8e
+persona_hint: Defense
+source_path: /usr/bin/msgcmp
+tags:
+- unknown
+tool_name: msgcmp

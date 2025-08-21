@@ -1,0 +1,7 @@
+description: Auto-generated manifest for info
+hash: sha256:ac6b35ca053000ddd18d728d182ca6d28fe557396ec2150f5cc7206f2564c182
+persona_hint: Defense
+source_path: /usr/share/nodejs/ajv/scripts/info
+tags:
+- unknown
+tool_name: info

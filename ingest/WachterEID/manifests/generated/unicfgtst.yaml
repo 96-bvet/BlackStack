@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unicfgtst
+hash: sha256:ef2156f52fc43fe8bd7ee5d06fe4a4cd3236667d00a0cbc50d6e8a31b7962359
+persona_hint: Defense
+source_path: /usr/bin/unicfgtst
+tags:
+- unknown
+tool_name: unicfgtst

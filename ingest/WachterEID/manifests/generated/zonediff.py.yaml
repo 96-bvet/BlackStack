@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zonediff.py
+hash: sha256:a4edb9efdef917377e7ae63e40c9c5c1b78234a7db16415d5887f22e8230dac4
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/zonediff.py
+tags:
+- unknown
+tool_name: zonediff.py

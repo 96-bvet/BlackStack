@@ -1,0 +1,7 @@
+description: Auto-generated manifest for caja-autorun-software
+hash: sha256:47faeb69564d5e1db3462513d2d1e370bd1db8363121d19658e49e4b005276c9
+persona_hint: Defense
+source_path: /usr/bin/caja-autorun-software
+tags:
+- unknown
+tool_name: caja-autorun-software

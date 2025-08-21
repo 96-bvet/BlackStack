@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-toolbox-cmd
+hash: sha256:d00e47c8e0d3065944c39ed341b3581c1626b6de63a742ea1dec00952adf339c
+persona_hint: Defense
+source_path: /usr/bin/vmware-toolbox-cmd
+tags:
+- unknown
+tool_name: vmware-toolbox-cmd

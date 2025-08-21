@@ -1,0 +1,7 @@
+description: Auto-generated manifest for p11-kit
+hash: sha256:3c7a5511e37a27b17a843330775f7408a0b1c31b455722f35a1d181483ae740c
+persona_hint: Defense
+source_path: /usr/bin/p11-kit
+tags:
+- unknown
+tool_name: p11-kit

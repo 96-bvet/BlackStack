@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dehtmldiff
+hash: sha256:83ca3833e728821727ea7588c3feaaef3332ca9a3b60662bd3997cb098da92a5
+persona_hint: Defense
+source_path: /usr/bin/dehtmldiff
+tags:
+- unknown
+tool_name: dehtmldiff

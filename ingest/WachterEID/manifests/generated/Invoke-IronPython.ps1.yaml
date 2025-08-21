@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Invoke-IronPython.ps1
+hash: sha256:9cdfba69fbfea5b9c14c3436693e3fc45c1f188f9de3bd5a8e7e01cab4e508d0
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/code_execution/Invoke-IronPython.ps1
+tags:
+- unknown
+tool_name: Invoke-IronPython.ps1

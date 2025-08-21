@@ -1,0 +1,7 @@
+description: Auto-generated manifest for soapui.pm
+hash: sha256:031ff18d64510862196319e9c22f34b89a6688e64b9c206b4e2eb23ab7639e3b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/soapui.pm
+tags:
+- unknown
+tool_name: soapui.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for powercat
+hash: sha256:044bff95e310bbf7578518a4d18ab4315be07a97c66b6689fe10bfe3f1ae9b01
+persona_hint: Defense
+source_path: /usr/bin/powercat
+tags:
+- unknown
+tool_name: powercat

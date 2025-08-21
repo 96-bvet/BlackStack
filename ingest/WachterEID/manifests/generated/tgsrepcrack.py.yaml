@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tgsrepcrack.py
+hash: sha256:47e157c53eb7155d5d84cb3bd381807c1ce11a69be1109696b94f658f86d3c5a
+persona_hint: Defense
+source_path: /usr/share/kerberoast/tgsrepcrack.py
+tags:
+- unknown
+tool_name: tgsrepcrack.py

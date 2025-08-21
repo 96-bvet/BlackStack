@@ -1,0 +1,7 @@
+description: Auto-generated manifest for back.featured
+hash: sha256:1f69f4064546e0194d9abf074b1b83b728158916d4548e565cecd8dd187a7e08
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/bbappworld/back.featured
+tags:
+- unknown
+tool_name: back.featured

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrdp-sesadmin
+hash: sha256:9fe764a90bbc09d87c807de70579f9a5cdb56d3a8957e8421af26901ef11bf3e
+persona_hint: Defense
+source_path: /usr/bin/xrdp-sesadmin
+tags:
+- unknown
+tool_name: xrdp-sesadmin

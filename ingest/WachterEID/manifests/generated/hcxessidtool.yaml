@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxessidtool
+hash: sha256:1e2a2cd170a613562e15ab4f3f360839488100a1389010232531c18539bf311e
+persona_hint: Defense
+source_path: /usr/bin/hcxessidtool
+tags:
+- unknown
+tool_name: hcxessidtool

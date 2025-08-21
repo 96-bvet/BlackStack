@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-g++
+hash: sha256:dd91977c184e327710578363ad93ebb175c3a457b6236b874fd3911b7c055c65
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-g++
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-g++

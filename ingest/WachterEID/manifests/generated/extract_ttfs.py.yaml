@@ -1,0 +1,7 @@
+description: Auto-generated manifest for extract_ttfs.py
+hash: sha256:89ac56c19c6be1f814c907cedaa101246193bd11011e32877e79bc45623214b0
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/katex/src/metrics/extract_ttfs.py
+tags:
+- unknown
+tool_name: extract_ttfs.py

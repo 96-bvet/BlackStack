@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kerberos.node
+hash: sha256:a53b0aa01a8ca3361a57b3473fe6096e42472d9d68cef710489f728a413c4da8
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/kerberos/build/Release/obj.target/kerberos.node
+tags:
+- unknown
+tool_name: kerberos.node

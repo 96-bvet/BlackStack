@@ -1,0 +1,7 @@
+description: Auto-generated manifest for skel-ui.example
+hash: sha256:a70e20a028e751d46f8472da72fd6b4c1bf13dcbaaed884e76a76b89fc8dbaa0
+persona_hint: Defense
+source_path: /usr/share/doc/ufw/examples/skel-ui.example
+tags:
+- unknown
+tool_name: skel-ui.example

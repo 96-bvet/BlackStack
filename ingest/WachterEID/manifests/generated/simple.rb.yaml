@@ -1,0 +1,7 @@
+description: Auto-generated manifest for simple.rb
+hash: sha256:506b869db2f810e0da7ca4040b22814e6b94e397959cd9e748634b8dfab9932d
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/sinatra-3.2.0/examples/simple.rb
+tags:
+- unknown
+tool_name: simple.rb

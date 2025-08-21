@@ -1,0 +1,7 @@
+description: Auto-generated manifest for df
+hash: sha256:44741cf49aded8a77eb97499f9d9e42e572918513560e2c0a033c0860c3b36cd
+persona_hint: Defense
+source_path: /usr/bin/df
+tags:
+- unknown
+tool_name: df

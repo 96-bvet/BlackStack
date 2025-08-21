@@ -1,0 +1,7 @@
+description: Auto-generated manifest for recon-cli
+hash: sha256:ef8bd867506858a0be589c0e65fc2322840ca6b354130e1eefbba2b95a7b5164
+persona_hint: Defense
+source_path: /usr/share/recon-ng/recon-cli
+tags:
+- unknown
+tool_name: recon-cli

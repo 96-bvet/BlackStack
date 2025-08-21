@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xcmsdb
+hash: sha256:e4d72497539f184a4c595855ff762af111e370db534280e269a8784d649e2057
+persona_hint: Defense
+source_path: /usr/bin/xcmsdb
+tags:
+- unknown
+tool_name: xcmsdb

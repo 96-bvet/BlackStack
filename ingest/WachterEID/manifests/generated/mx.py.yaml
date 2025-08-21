@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mx.py
+hash: sha256:affbc0fb1aa79764781a667cfc19399198f4868eaa6fdf6065222fb0b77fb2b0
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/mx.py
+tags:
+- unknown
+tool_name: mx.py

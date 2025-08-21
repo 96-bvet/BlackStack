@@ -1,0 +1,7 @@
+description: Auto-generated manifest for easyrsa
+hash: sha256:44c08e0f72f10dd8974f0e6889b618f317c536b566fec100fb53181cadfcfc07
+persona_hint: Defense
+source_path: /usr/share/easy-rsa/easyrsa
+tags:
+- unknown
+tool_name: easyrsa

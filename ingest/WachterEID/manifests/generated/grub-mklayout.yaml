@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mklayout
+hash: sha256:e83ca46f588023494e448bd4064556a96d197ddd3afb53c9d694247074ccbd6e
+persona_hint: Defense
+source_path: /usr/bin/grub-mklayout
+tags:
+- unknown
+tool_name: grub-mklayout

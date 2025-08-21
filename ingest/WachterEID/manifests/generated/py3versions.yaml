@@ -1,0 +1,7 @@
+description: Auto-generated manifest for py3versions
+hash: sha256:8b0eef6d34bd68477d81d89d8e6bf91d6a991cb5034351d564731aa013b6e7e7
+persona_hint: Defense
+source_path: /usr/bin/py3versions
+tags:
+- unknown
+tool_name: py3versions

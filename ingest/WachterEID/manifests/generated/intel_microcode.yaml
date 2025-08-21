@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intel_microcode
+hash: sha256:63ee8c0dee9a6f816b44df205137f38c1258684fe3fa44dbb2465215f255bea9
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/intel_microcode
+tags:
+- unknown
+tool_name: intel_microcode

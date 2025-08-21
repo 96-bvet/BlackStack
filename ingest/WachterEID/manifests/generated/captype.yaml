@@ -1,0 +1,7 @@
+description: Auto-generated manifest for captype
+hash: sha256:7aeeb13dfab2db29e7ce44d1c80b8d1ae967c225a710732d7ceb86c7b33b3bd1
+persona_hint: Defense
+source_path: /usr/bin/captype
+tags:
+- unknown
+tool_name: captype

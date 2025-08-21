@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setfacl
+hash: sha256:67fa84b95928790a644fe7b2759edb359e8b5f1be649e5db9a1cd37e26520d20
+persona_hint: Defense
+source_path: /usr/bin/setfacl
+tags:
+- unknown
+tool_name: setfacl

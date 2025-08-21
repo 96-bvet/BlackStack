@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvidia-debugdump
+hash: sha256:ebfdf854d54163f578c01eb2b22b0f5bef1d9b6b1a761ed2b1de727ec2230646
+persona_hint: Defense
+source_path: /usr/bin/nvidia-debugdump
+tags:
+- unknown
+tool_name: nvidia-debugdump

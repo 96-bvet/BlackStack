@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scapy3
+hash: sha256:5be6663b53dc193aba5b57ca197d7c8069c36e4f71c69174742f34b5e8d463f0
+persona_hint: Defense
+source_path: /usr/bin/scapy3
+tags:
+- unknown
+tool_name: scapy3

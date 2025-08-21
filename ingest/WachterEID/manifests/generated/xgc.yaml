@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xgc
+hash: sha256:eb8c574b2f273b34904fbb347d8157a41097aad650a8df3fa7c062ee04026e7d
+persona_hint: Defense
+source_path: /usr/bin/xgc
+tags:
+- unknown
+tool_name: xgc

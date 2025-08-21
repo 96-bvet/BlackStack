@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gettext
+hash: sha256:f653ffb26dc99dc1a0a931e08176195528aa9415d5085967a9d8169821a82875
+persona_hint: Defense
+source_path: /usr/share/sensible-utils/bin/gettext
+tags:
+- unknown
+tool_name: gettext

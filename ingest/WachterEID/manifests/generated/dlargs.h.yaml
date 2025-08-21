@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dlargs.h
+hash: sha256:2c3501d81a25e8aec0867ad43fafa629e385b6d5dd6148ff633e6d032e4c3726
+persona_hint: Defense
+source_path: /usr/share/spike/include/dlargs.h
+tags:
+- unknown
+tool_name: dlargs.h

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetUserSPNs.py
+hash: sha256:c87d3ed70ad90720f50d02a007af25af210741e81d7118e151eac6569f34c769
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/GetUserSPNs.py
+tags:
+- unknown
+tool_name: GetUserSPNs.py

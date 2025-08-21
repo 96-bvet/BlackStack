@@ -1,0 +1,7 @@
+description: Auto-generated manifest for thunar-volman
+hash: sha256:5231a0b0a34c29ab1f97cd105c03b6cc238e1e4f14cdb53a5c7d1ee810778ba3
+persona_hint: Defense
+source_path: /usr/bin/thunar-volman
+tags:
+- unknown
+tool_name: thunar-volman

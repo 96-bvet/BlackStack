@@ -1,0 +1,7 @@
+description: Auto-generated manifest for deps.awk
+hash: sha256:43594769d9703c5e0d332a63cc63674004906233e6251af88cbd1b7f9606c96f
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/deps.awk
+tags:
+- unknown
+tool_name: deps.awk

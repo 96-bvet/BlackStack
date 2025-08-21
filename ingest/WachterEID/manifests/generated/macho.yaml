@@ -1,0 +1,7 @@
+description: Auto-generated manifest for macho
+hash: sha256:1873fdb6295909a930e484c9da6f4523d372e4c47de1fe0c881d67d2d9825272
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/apptemplateResources/empty/macho
+tags:
+- unknown
+tool_name: macho

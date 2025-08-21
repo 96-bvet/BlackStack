@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intltoolize
+hash: sha256:ee8690c5575721116602de74a470e84d687ce4b8a67c843fca984aeb4d6b11dd
+persona_hint: Defense
+source_path: /usr/bin/intltoolize
+tags:
+- unknown
+tool_name: intltoolize

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ccze-cssdump
+hash: sha256:52eb5e1396b8b14155f3af125ef458ed0928a1af223508406875d99fd7f2864f
+persona_hint: Defense
+source_path: /usr/bin/ccze-cssdump
+tags:
+- unknown
+tool_name: ccze-cssdump

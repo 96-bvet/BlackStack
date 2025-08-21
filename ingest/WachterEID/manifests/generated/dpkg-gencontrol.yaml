@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-gencontrol
+hash: sha256:79596d527081f6f16caaf8de975646d10f804d49a7d1e959b8094c14c5bc7f10
+persona_hint: Defense
+source_path: /usr/bin/dpkg-gencontrol
+tags:
+- unknown
+tool_name: dpkg-gencontrol

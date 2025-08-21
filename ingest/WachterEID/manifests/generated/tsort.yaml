@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tsort
+hash: sha256:ec90bbcb3047e5972a7614a1a99f368c64504ef50f7dcdcd0e3631f0c9ced4b6
+persona_hint: Defense
+source_path: /usr/bin/tsort
+tags:
+- unknown
+tool_name: tsort

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generic_listen_tcp
+hash: sha256:d2abf29ddcb17726dda539c86796fbd1207f9f12dfcb54961ed3888adc202f3b
+persona_hint: Defense
+source_path: /usr/bin/generic_listen_tcp
+tags:
+- unknown
+tool_name: generic_listen_tcp

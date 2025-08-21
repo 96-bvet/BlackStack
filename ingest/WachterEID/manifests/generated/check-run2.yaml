@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check-run2
+hash: sha256:79b02578e6262b601ca4166df5bb0cccf6f093b0d1d0e604d516d2deba11e687
+persona_hint: Defense
+source_path: /usr/share/ike-scan/checks/check-run2
+tags:
+- unknown
+tool_name: check-run2

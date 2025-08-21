@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfs-3g
+hash: sha256:87d91a4f35e31d0654bc7483bdb47c92915b5022ae24f150f2425aa827384233
+persona_hint: Defense
+source_path: /usr/bin/ntfs-3g
+tags:
+- unknown
+tool_name: ntfs-3g

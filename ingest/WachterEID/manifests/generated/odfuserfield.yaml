@@ -1,0 +1,7 @@
+description: Auto-generated manifest for odfuserfield
+hash: sha256:660199216966e7ffacdac40736292f80151b98db351b37d63796bbea67b9e09e
+persona_hint: Defense
+source_path: /usr/bin/odfuserfield
+tags:
+- unknown
+tool_name: odfuserfield

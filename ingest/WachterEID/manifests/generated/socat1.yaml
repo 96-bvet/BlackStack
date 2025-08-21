@@ -1,0 +1,7 @@
+description: Auto-generated manifest for socat1
+hash: sha256:f7a18922fce63ed7db8806b2b58389a0c93e32955b17b2d28ddf2ea23b29d43c
+persona_hint: Defense
+source_path: /usr/bin/socat1
+tags:
+- unknown
+tool_name: socat1

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for keymap
+hash: sha256:2d04d7d7705d1c06cb9fff4c5290c02e719120e43ac65c387f00d8ef37b2d4cf
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/init-top/keymap
+tags:
+- unknown
+tool_name: keymap

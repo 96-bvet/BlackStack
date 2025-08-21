@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ftp.sh
+hash: sha256:a2298ac5f9e43785385f02038dcc5af7db68f29695a8f3749953935b00ef7d90
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/ftp.sh
+tags:
+- unknown
+tool_name: ftp.sh

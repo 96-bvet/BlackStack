@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perl
+hash: sha256:287a73cdb5070aca6241c070473ba72aebcb8727e5bba20db9769162afba73da
+persona_hint: Defense
+source_path: /usr/bin/perl
+tags:
+- unknown
+tool_name: perl

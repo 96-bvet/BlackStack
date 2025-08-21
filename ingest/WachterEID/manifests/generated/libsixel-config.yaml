@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libsixel-config
+hash: sha256:4d3a964349609e8f1c4cb21882f6bf35648e3d14128dfa50a7160c1be1e6a763
+persona_hint: Defense
+source_path: /usr/bin/libsixel-config
+tags:
+- unknown
+tool_name: libsixel-config

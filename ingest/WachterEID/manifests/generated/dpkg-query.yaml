@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-query
+hash: sha256:e5970850bd9f521a0548ada938cc8f61e6520ab4c692df30547ece01e7b652fe
+persona_hint: Defense
+source_path: /usr/bin/dpkg-query
+tags:
+- unknown
+tool_name: dpkg-query

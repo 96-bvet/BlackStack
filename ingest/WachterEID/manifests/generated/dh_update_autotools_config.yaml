@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_update_autotools_config
+hash: sha256:4a98f8730b02714f8bcfcef2e78e08875a0e897551efd332a0979e984ab67db8
+persona_hint: Defense
+source_path: /usr/bin/dh_update_autotools_config
+tags:
+- unknown
+tool_name: dh_update_autotools_config

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tac
+hash: sha256:3e40de614ae3383f4339c08b2dac81ac33fd3b00a30d319b932fd5966c186dd1
+persona_hint: Defense
+source_path: /usr/bin/tac
+tags:
+- unknown
+tool_name: tac

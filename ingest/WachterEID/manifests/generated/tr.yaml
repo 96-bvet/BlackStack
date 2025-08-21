@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tr
+hash: sha256:cf8a29847ff95b77fe6ef3d9ba3d750c7fd1c807763980e8c5f918da81acb1eb
+persona_hint: Defense
+source_path: /usr/bin/tr
+tags:
+- unknown
+tool_name: tr

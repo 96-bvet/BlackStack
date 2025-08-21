@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkpasswd
+hash: sha256:378822bc59a53ebf7dcacb38d9a89199efd3adfdd4c59ab67e390e40cfd55822
+persona_hint: Defense
+source_path: /usr/bin/mkpasswd
+tags:
+- unknown
+tool_name: mkpasswd

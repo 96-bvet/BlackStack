@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htcacheclean
+hash: sha256:d3184937b0772eb25b4497987ef5562f3ea0d37221655f5b9631eafc3d9c7f41
+persona_hint: Defense
+source_path: /usr/bin/htcacheclean
+tags:
+- unknown
+tool_name: htcacheclean

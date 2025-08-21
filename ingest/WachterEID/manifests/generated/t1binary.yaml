@@ -1,0 +1,7 @@
+description: Auto-generated manifest for t1binary
+hash: sha256:d0e8752f8f2d69941846277d8570a8f2c45b271f090668b410715b3757a0d268
+persona_hint: Defense
+source_path: /usr/bin/t1binary
+tags:
+- unknown
+tool_name: t1binary

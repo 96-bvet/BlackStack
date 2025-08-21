@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_mldrouter6
+hash: sha256:d21840a17e0bfc6d7ad58f0bc2d33831363ba116f39cc01f97504fbb2d6c9a4f
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_mldrouter6
+tags:
+- unknown
+tool_name: atk6-fake_mldrouter6

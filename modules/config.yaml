@@ -1,0 +1,7 @@
+voice:
+  rate: 180
+  volume: 1.0
+  persona: default
+gui:
+  theme: dark
+  title: WachterEID Voice Shell

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-monitor
+hash: sha256:8648d93b777c4e6b6d0eb09de945c2c4fb03e8bee86e23567f0cae3de8673a96
+persona_hint: Defense
+source_path: /usr/bin/dbus-monitor
+tags:
+- unknown
+tool_name: dbus-monitor

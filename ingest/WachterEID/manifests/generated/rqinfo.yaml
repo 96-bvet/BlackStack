@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rqinfo
+hash: sha256:7a8bf51ec3be4ba6cc07a14515569140e1a525394ae9a4af5401308186f653e4
+persona_hint: Defense
+source_path: /usr/bin/rqinfo
+tags:
+- unknown
+tool_name: rqinfo

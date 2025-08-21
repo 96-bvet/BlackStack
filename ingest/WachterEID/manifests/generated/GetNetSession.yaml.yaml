@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetNetSession.yaml
+hash: sha256:553174dd45e0c8284db132ad88ac6b576f3bb4059b3fc023ae8dbccd5588ac36
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/GetNetSession.yaml
+tags:
+- unknown
+tool_name: GetNetSession.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for prerm
+hash: sha256:472d606db6d52e4bd6b0360e7aefb122bcb01a1d5899f017a39479bf7af821a3
+persona_hint: Defense
+source_path: /usr/share/doc/sgml-base/examples/prerm
+tags:
+- unknown
+tool_name: prerm

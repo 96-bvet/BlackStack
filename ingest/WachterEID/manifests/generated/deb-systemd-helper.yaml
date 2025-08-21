@@ -1,0 +1,7 @@
+description: Auto-generated manifest for deb-systemd-helper
+hash: sha256:a895d5f077651960b6ca4ed9c53f8b36eae422ae170f61c972d0c6579e9f8732
+persona_hint: Defense
+source_path: /usr/bin/deb-systemd-helper
+tags:
+- unknown
+tool_name: deb-systemd-helper

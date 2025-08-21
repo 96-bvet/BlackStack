@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gnuify-changelog.pl
+hash: sha256:3b92463f91f18dcc433386249f6afb742dee0e8bdd91e3cfb357c2e2feed8305
+persona_hint: Defense
+source_path: /usr/share/doc/subversion/examples/gnuify-changelog.pl
+tags:
+- unknown
+tool_name: gnuify-changelog.pl

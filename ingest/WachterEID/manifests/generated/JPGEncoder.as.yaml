@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JPGEncoder.as
+hash: sha256:ef7b59f83ae363466f5c022fcd3d2366a0e83229f529ffcb29384f33dde96bf4
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/browser/webcam_flash/dev/com/adobe/images/JPGEncoder.as
+tags:
+- unknown
+tool_name: JPGEncoder.as

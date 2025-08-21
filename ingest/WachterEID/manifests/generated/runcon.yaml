@@ -1,0 +1,7 @@
+description: Auto-generated manifest for runcon
+hash: sha256:28d2eff7359ce3f1c89b9db69388af62e79a7f932b67416144caf2e64af5a331
+persona_hint: Defense
+source_path: /usr/bin/runcon
+tags:
+- unknown
+tool_name: runcon

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for select-editor
+hash: sha256:46ce6e3872a1807f83a958d647ededf626f3aab13ad4b078493358c59aa5b97e
+persona_hint: Defense
+source_path: /usr/bin/select-editor
+tags:
+- unknown
+tool_name: select-editor

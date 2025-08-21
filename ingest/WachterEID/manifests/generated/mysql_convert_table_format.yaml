@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_convert_table_format
+hash: sha256:975cb022076bdbd00092f379b620eb5af3127b63233074ffce20b5074c55d4c8
+persona_hint: Defense
+source_path: /usr/bin/mysql_convert_table_format
+tags:
+- unknown
+tool_name: mysql_convert_table_format

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for istanbul
+hash: sha256:85c75e25aaf2487093b6c54db7c49666ca4b5fdcd4604625a82e21cf13cd089a
+persona_hint: Defense
+source_path: /usr/bin/istanbul
+tags:
+- unknown
+tool_name: istanbul

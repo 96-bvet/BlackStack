@@ -1,0 +1,7 @@
+description: Auto-generated manifest for test_11
+hash: sha256:87467608a5986e333cacbc0515d10e35fc1e125abea2c28e9ac73166d0698cd8
+persona_hint: Defense
+source_path: /usr/share/doc/ucf/examples/ucf_helper_functions/tests/test_11
+tags:
+- unknown
+tool_name: test_11

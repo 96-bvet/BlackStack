@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get-classpath
+hash: sha256:8ab52455addc8d1e12c9d42c793ee5ab05c75ad93379d0f67746400f2642e866
+persona_hint: Defense
+source_path: /usr/share/java-wrappers/get-classpath
+tags:
+- unknown
+tool_name: get-classpath

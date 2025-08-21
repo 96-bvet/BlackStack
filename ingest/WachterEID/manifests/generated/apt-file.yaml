@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-file
+hash: sha256:34669dd2bfdf0ce3e3ed3874260a637cadba78a0afc306b3912bd196b7961a55
+persona_hint: Defense
+source_path: /usr/bin/apt-file
+tags:
+- unknown
+tool_name: apt-file

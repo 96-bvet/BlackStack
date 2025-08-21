@@ -1,0 +1,7 @@
+description: Auto-generated manifest for docker
+hash: sha256:9d35bb1359377879a2667e973e2b6156fb7a9dc2d0be864e91eea4a4999dc218
+persona_hint: Defense
+source_path: /usr/bin/docker
+tags:
+- unknown
+tool_name: docker

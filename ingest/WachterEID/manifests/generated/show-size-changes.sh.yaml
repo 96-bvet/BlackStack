@@ -1,0 +1,7 @@
+description: Auto-generated manifest for show-size-changes.sh
+hash: sha256:fe3cad76bb43eb9eefd4f5b9c54ca3de5ce4047bcd040d00fc8b7b217c1aa825
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/jschardet/scripts/show-size-changes.sh
+tags:
+- unknown
+tool_name: show-size-changes.sh

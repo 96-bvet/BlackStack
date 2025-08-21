@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grep_native_packages.py
+hash: sha256:fc8b0007584a681bbcc38cf8068d8aedda55ce847ef81c810ea3e1237ca80946
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/deb822/grep_native_packages.py
+tags:
+- unknown
+tool_name: grep_native_packages.py

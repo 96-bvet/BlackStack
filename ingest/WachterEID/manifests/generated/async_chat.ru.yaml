@@ -1,0 +1,7 @@
+description: Auto-generated manifest for async_chat.ru
+hash: sha256:41325e498d40ac72089ddd29dd43c37e6317623b41dc9bcb4116c11124283831
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/example/async_chat.ru
+tags:
+- unknown
+tool_name: async_chat.ru

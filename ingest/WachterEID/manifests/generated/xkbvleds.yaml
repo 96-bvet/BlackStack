@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkbvleds
+hash: sha256:0f57deb1fb7ea46cb4fc17d7402efbf366014942889c2339cdacf2f88c42668e
+persona_hint: Defense
+source_path: /usr/bin/xkbvleds
+tags:
+- unknown
+tool_name: xkbvleds

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.a11
+hash: sha256:a0d31441cdbff69f1f436cac3109f2e7f6f0c91b3124309d2c9faf178182cb75
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.a11
+tags:
+- unknown
+tool_name: basic.a11

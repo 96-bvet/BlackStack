@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-scanpackages
+hash: sha256:d9c5aa881e1f5f8b1d901079aebdef365b76933eff12bba0ca8d034209bca7d2
+persona_hint: Defense
+source_path: /usr/bin/dpkg-scanpackages
+tags:
+- unknown
+tool_name: dpkg-scanpackages

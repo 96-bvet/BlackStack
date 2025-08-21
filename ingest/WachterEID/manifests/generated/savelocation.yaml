@@ -1,0 +1,7 @@
+description: Auto-generated manifest for savelocation
+hash: sha256:fac59ba60630dc8f2ed0fd23873ed6bb0c065b2e2eac001184ff741ef5bcc6e5
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/ubertwitter/savelocation
+tags:
+- unknown
+tool_name: savelocation

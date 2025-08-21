@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dirname
+hash: sha256:615bfa889dffb2c6cd9c76da6b4277310acf283743598eb71b9a5e058fd7bbae
+persona_hint: Defense
+source_path: /usr/bin/dirname
+tags:
+- unknown
+tool_name: dirname

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for instmodsh
+hash: sha256:724aba7a26b1ba4f83af264e7bb31334aee0b56897b41d09c9dfd0b3389d6965
+persona_hint: Defense
+source_path: /usr/bin/instmodsh
+tags:
+- unknown
+tool_name: instmodsh

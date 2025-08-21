@@ -1,0 +1,7 @@
+description: Auto-generated manifest for install-printerdriver.py
+hash: sha256:efa6cfb1f7ead650db4ae51d72da23894dac4b4f554262d0f500aacc50213a52
+persona_hint: Defense
+source_path: /usr/share/system-config-printer/install-printerdriver.py
+tags:
+- unknown
+tool_name: install-printerdriver.py

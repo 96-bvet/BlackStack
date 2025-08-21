@@ -1,0 +1,7 @@
+description: Auto-generated manifest for AgentJarLoader.java
+hash: sha256:2d7fdb97298ed9e02efd240fa0231333631676db7b67b2a763e6c26f64e80bdd
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/loader/AgentJarLoader.java
+tags:
+- unknown
+tool_name: AgentJarLoader.java

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for deb-systemd-invoke
+hash: sha256:f06db7d1c3440e1e3b4bcc890f22157f837e15992d20517d16c699de4a38bd7a
+persona_hint: Defense
+source_path: /usr/bin/deb-systemd-invoke
+tags:
+- unknown
+tool_name: deb-systemd-invoke

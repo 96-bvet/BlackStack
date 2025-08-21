@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-icon-resource
+hash: sha256:dea94b04a927638af68778497a4fdab346ca81d7a41e902208d2e6751d0dba66
+persona_hint: Defense
+source_path: /usr/bin/xdg-icon-resource
+tags:
+- unknown
+tool_name: xdg-icon-resource

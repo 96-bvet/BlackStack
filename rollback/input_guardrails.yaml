@@ -1,0 +1,8 @@
+name: input_guardrails
+path: examples/agent_patterns/input_guardrails.py
+type: py
+category: misc
+hash: fc98287d7e5464abebd65c79ac6955ed49843440faa62a71ee6e207f60f7ed68
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dc3dd
+hash: sha256:54e0742abe2d9b9e7cc61152edb87682699afe04e19e72a6595eac4cd2ebb711
+persona_hint: Defense
+source_path: /usr/bin/dc3dd
+tags:
+- unknown
+tool_name: dc3dd

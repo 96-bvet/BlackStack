@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgmerge
+hash: sha256:c3f92a10cc2e5c7f6e410d6646d87a4f6f5df0a3b3ea2d0783657f44f77d8daf
+persona_hint: Defense
+source_path: /usr/bin/msgmerge
+tags:
+- unknown
+tool_name: msgmerge

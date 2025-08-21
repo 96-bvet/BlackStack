@@ -1,0 +1,7 @@
+description: Auto-generated manifest for server-key.enc
+hash: sha256:9ca306e72efcf3097187b27c0563eddc724c7db08ade359af4a7150361b4e1e2
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/certs/server-key.enc
+tags:
+- unknown
+tool_name: server-key.enc

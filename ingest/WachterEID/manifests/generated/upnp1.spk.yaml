@@ -1,0 +1,7 @@
+description: Auto-generated manifest for upnp1.spk
+hash: sha256:01f75ce80183784fce3880c5b96d78447e515c6268acba54813ad15d9e59fb80
+persona_hint: Defense
+source_path: /usr/share/spike/audits/UPNP/upnp1.spk
+tags:
+- unknown
+tool_name: upnp1.spk

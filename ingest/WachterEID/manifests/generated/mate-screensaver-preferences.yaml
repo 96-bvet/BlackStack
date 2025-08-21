@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-screensaver-preferences
+hash: sha256:5d1a5f8e39b067b334a95ec9ca07a83c50b7f9c2c5fd468acc48b9fc28221b38
+persona_hint: Defense
+source_path: /usr/bin/mate-screensaver-preferences
+tags:
+- unknown
+tool_name: mate-screensaver-preferences

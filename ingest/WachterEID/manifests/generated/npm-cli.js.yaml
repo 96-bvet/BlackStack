@@ -1,0 +1,7 @@
+description: Auto-generated manifest for npm-cli.js
+hash: sha256:8e5f6f3429f8cdbe693cdc29904e9d5a7b127a494bd15c804bd54c7403bfcbe7
+persona_hint: Defense
+source_path: /usr/share/nodejs/npm/bin/npm-cli.js
+tags:
+- unknown
+tool_name: npm-cli.js

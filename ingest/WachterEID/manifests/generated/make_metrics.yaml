@@ -1,0 +1,7 @@
+description: Auto-generated manifest for make_metrics
+hash: sha256:a9d5995c3f8320b83b1100108f8b2e97f97421f2bf63417bc316dafef22d663e
+persona_hint: Defense
+source_path: /usr/share/doc/libfont-afm-perl/examples/make_metrics
+tags:
+- unknown
+tool_name: make_metrics

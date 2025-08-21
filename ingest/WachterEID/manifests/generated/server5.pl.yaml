@@ -1,0 +1,7 @@
+description: Auto-generated manifest for server5.pl
+hash: sha256:2f3a5fc337d47afefb2db8943f901515c03d0498c19b55484a2c899910c438c6
+persona_hint: Defense
+source_path: /usr/share/doc/libio-socket-socks-perl/examples/server5.pl
+tags:
+- unknown
+tool_name: server5.pl

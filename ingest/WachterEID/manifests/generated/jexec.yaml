@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jexec
+hash: sha256:18ecaa3663c1f0d57e99196f8cc27f47b05211cb592a52c187873a54bcee51e4
+persona_hint: Defense
+source_path: /usr/share/burpsuite/jre/lib/jexec
+tags:
+- unknown
+tool_name: jexec

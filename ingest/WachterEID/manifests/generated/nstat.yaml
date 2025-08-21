@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nstat
+hash: sha256:14ed0dbf01cfcd62fcd7eded93345c125cee575f3c345641a022ad8928d8c495
+persona_hint: Defense
+source_path: /usr/bin/nstat
+tags:
+- unknown
+tool_name: nstat

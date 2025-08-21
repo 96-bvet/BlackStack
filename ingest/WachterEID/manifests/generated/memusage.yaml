@@ -1,0 +1,7 @@
+description: Auto-generated manifest for memusage
+hash: sha256:9feb5b25781155e602e91d9309a90363da35004eefbf8fc3b27e9062f9bc298d
+persona_hint: Defense
+source_path: /usr/bin/memusage
+tags:
+- unknown
+tool_name: memusage

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dirmngr-client
+hash: sha256:5aeadc3a49d5cb8393992ca5d692e99e78000600fbbaffd628258d0219e0e9d4
+persona_hint: Defense
+source_path: /usr/bin/dirmngr-client
+tags:
+- unknown
+tool_name: dirmngr-client

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for keyctl
+hash: sha256:33833ae8ff4c4e374d918676928e280af17dfb1aaeedf2d93b5cf08f003a8849
+persona_hint: Defense
+source_path: /usr/bin/keyctl
+tags:
+- unknown
+tool_name: keyctl

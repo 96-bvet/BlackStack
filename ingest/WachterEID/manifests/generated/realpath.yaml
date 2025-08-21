@@ -1,0 +1,7 @@
+description: Auto-generated manifest for realpath
+hash: sha256:54dfbffc86d9c0933f4ab4434915562c43d1d0a194efe128642fdef34cf11490
+persona_hint: Defense
+source_path: /usr/bin/realpath
+tags:
+- unknown
+tool_name: realpath

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pod2text
+hash: sha256:3d1271451a600279fe8aaa0e7d58d7fdf4385a8fb025962709db1d540376a0a5
+persona_hint: Defense
+source_path: /usr/bin/pod2text
+tags:
+- unknown
+tool_name: pod2text

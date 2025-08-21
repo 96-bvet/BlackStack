@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rev
+hash: sha256:b6c0570ab35e8a20e2fabc9ea4fff800879a1ddb35b4b29f41961006cbd4af29
+persona_hint: Defense
+source_path: /usr/bin/rev
+tags:
+- unknown
+tool_name: rev

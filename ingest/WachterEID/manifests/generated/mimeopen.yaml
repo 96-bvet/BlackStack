@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mimeopen
+hash: sha256:8426839401f54ea132008580891bbc0dc24bf13407a7732264b869c67d87626c
+persona_hint: Defense
+source_path: /usr/bin/mimeopen
+tags:
+- unknown
+tool_name: mimeopen

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for yq
+hash: sha256:cb2cfe5e2507372ecb6ee0abb20902d2086cd47ace66aeba68837102c225c1e3
+persona_hint: Defense
+source_path: /usr/bin/yq
+tags:
+- unknown
+tool_name: yq

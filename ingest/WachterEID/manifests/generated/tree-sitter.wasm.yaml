@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tree-sitter.wasm
+hash: sha256:6bd21cdde74a9cf2e64534847d42d1b68d249f3622d36d3c66995909463b288f
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter.wasm
+tags:
+- unknown
+tool_name: tree-sitter.wasm

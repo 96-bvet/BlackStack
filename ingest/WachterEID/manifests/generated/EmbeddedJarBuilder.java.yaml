@@ -1,0 +1,7 @@
+description: Auto-generated manifest for EmbeddedJarBuilder.java
+hash: sha256:d9eee7c94de70371c6dca501c97274aac923306f30b2f48a3dd50e89f288e8f0
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/EmbeddedJarBuilder.java
+tags:
+- unknown
+tool_name: EmbeddedJarBuilder.java

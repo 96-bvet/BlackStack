@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sslecho.pl
+hash: sha256:79576d1884a878cb1d7530c6c91ced3a87033a650d2604a0fdf1df7a4eebbe73
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/sslecho.pl
+tags:
+- unknown
+tool_name: sslecho.pl

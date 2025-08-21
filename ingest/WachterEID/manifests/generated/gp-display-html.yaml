@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gp-display-html
+hash: sha256:eb25f806605b79adb772399e740bd25b3f3c73b7c99e1e870eede4eaa837bf70
+persona_hint: Defense
+source_path: /usr/bin/gp-display-html
+tags:
+- unknown
+tool_name: gp-display-html

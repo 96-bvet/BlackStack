@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clickable_image.cgi
+hash: sha256:6d8fa24723bde344195095a360cf8e3fb1513bbdce14a73c84bfb0c21d1c8b5e
+persona_hint: Defense
+source_path: /usr/share/doc/libcgi-pm-perl/examples/clickable_image.cgi
+tags:
+- unknown
+tool_name: clickable_image.cgi

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cookie.cgi
+hash: sha256:e67c49b91675d4821ed89bcfd04d68a535d714e093f0233ea07ace172a68eef6
+persona_hint: Defense
+source_path: /usr/share/doc/libcgi-pm-perl/examples/cookie.cgi
+tags:
+- unknown
+tool_name: cookie.cgi

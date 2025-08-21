@@ -1,0 +1,7 @@
+description: Auto-generated manifest for oscanner.sh
+hash: sha256:c7d9d731032c36d940e1168f831e146afb22acb35ff05296be7e5d1906db26e8
+persona_hint: Defense
+source_path: /usr/share/oscanner/oscanner.sh
+tags:
+- unknown
+tool_name: oscanner.sh

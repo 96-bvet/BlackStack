@@ -1,0 +1,7 @@
+description: Auto-generated manifest for let.rb
+hash: sha256:3ee44b60760a03830fa9a46222af9cb38ea8094d4064ee3b4362a24ff965299a
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/tins-1.37.1/examples/let.rb
+tags:
+- unknown
+tool_name: let.rb

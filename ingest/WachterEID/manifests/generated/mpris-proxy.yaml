@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mpris-proxy
+hash: sha256:cf8e0465a0865218c52298647695f370ad2f2e74bd7daf4d6e40b1526fccba4a
+persona_hint: Defense
+source_path: /usr/bin/mpris-proxy
+tags:
+- unknown
+tool_name: mpris-proxy

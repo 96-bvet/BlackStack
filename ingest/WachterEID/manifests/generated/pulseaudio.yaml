@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pulseaudio
+hash: sha256:2e53d3fc5c27334541c63c2fac7ebc288490c5c2bc3c5b80490a0d5b668aa1db
+persona_hint: Defense
+source_path: /usr/share/bug/pulseaudio
+tags:
+- unknown
+tool_name: pulseaudio

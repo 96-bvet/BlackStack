@@ -1,0 +1,8 @@
+name: paralelization
+path: examples/cai/agent_patterns/paralelization.py
+type: py
+category: misc
+hash: 54ae2ae8871cded56cb2d935e470aecb68ddfaee406e798a327ab3d2414e977e
+approved: true
+import: true
+license_stub: true

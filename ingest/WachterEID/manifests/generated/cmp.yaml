@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cmp
+hash: sha256:13b9e7eddee255a5a5b334cae7c6e844c16d205e92f7cd6d94617301e2ba84d5
+persona_hint: Defense
+source_path: /usr/bin/cmp
+tags:
+- unknown
+tool_name: cmp

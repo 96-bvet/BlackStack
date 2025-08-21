@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnadmin
+hash: sha256:12aa10b9a520cd39cd666b581d9a108745e3e0529f4798cbd73a7e53ac5fb055
+persona_hint: Defense
+source_path: /usr/bin/svnadmin
+tags:
+- unknown
+tool_name: svnadmin

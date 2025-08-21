@@ -1,0 +1,7 @@
+description: Auto-generated manifest for davtest
+hash: sha256:a23323940797aabcba168003b10cfd8c74929b867bf4205012300fcdda04932b
+persona_hint: Defense
+source_path: /usr/bin/davtest
+tags:
+- unknown
+tool_name: davtest

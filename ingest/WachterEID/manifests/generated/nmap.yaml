@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nmap
+hash: sha256:462009f22ff8086f3c21a0f10ccb0f9d27356231b1e946af9fc4f5282a0eefc9
+persona_hint: Defense
+source_path: /usr/bin/nmap
+tags:
+- blue_team
+tool_name: nmap

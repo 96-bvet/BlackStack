@@ -1,0 +1,7 @@
+description: Auto-generated manifest for go
+hash: sha256:a4d28de24ea3178b1e2dd95e38bcd3964453d70f4805cd081e0879c66ca8b59a
+persona_hint: Defense
+source_path: /usr/bin/go
+tags:
+- unknown
+tool_name: go

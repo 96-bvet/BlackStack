@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vscodium-policy-watcher.node
+hash: sha256:e5ba9ce630a3f9ca12fd908d8b2aa613f0f03de7c4dd1d28adaf076f2b622f4f
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@vscodium/policy-watcher/build/Release/vscodium-policy-watcher.node
+tags:
+- unknown
+tool_name: vscodium-policy-watcher.node

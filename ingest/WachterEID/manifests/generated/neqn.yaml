@@ -1,0 +1,7 @@
+description: Auto-generated manifest for neqn
+hash: sha256:5abae96433c5d8f1931171d8e0554fbac5d2c9f0bcb32b63cbd8ee286e913c16
+persona_hint: Defense
+source_path: /usr/bin/neqn
+tags:
+- unknown
+tool_name: neqn

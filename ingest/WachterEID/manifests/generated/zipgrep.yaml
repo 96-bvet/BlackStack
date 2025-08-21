@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zipgrep
+hash: sha256:d3da1cedec94b40ce31b1a9ffdb5f7b2d2d6ff0c2bd8bd72f044913181f3928d
+persona_hint: Defense
+source_path: /usr/bin/zipgrep
+tags:
+- unknown
+tool_name: zipgrep

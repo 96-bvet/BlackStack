@@ -1,0 +1,7 @@
+description: Auto-generated manifest for column
+hash: sha256:9e809e88c05ee94c83ba17b14f7e5dbfd19fc6ea7f64aa218d56665f9e17f93b
+persona_hint: Defense
+source_path: /usr/bin/column
+tags:
+- unknown
+tool_name: column

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-run-session
+hash: sha256:616a2119fb1e51dfb565c622dc9adf46a401d8c840d1634fd6fa6b561b936593
+persona_hint: Defense
+source_path: /usr/bin/dbus-run-session
+tags:
+- unknown
+tool_name: dbus-run-session

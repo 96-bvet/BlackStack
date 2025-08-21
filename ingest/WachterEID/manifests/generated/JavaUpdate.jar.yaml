@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JavaUpdate.jar
+hash: sha256:a28901d23b0f7e2e96ba00399c90bdbc2367279ad182fa90ca82d874a592ad93
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaUpdate.jar
+tags:
+- unknown
+tool_name: JavaUpdate.jar

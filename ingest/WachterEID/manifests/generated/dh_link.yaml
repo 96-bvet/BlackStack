@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_link
+hash: sha256:80c2292161af68bc4260b6694330f9c8113f521c94a123d16dd76487c70c9924
+persona_hint: Defense
+source_path: /usr/bin/dh_link
+tags:
+- unknown
+tool_name: dh_link

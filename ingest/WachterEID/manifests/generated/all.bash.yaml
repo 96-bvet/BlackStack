@@ -1,0 +1,7 @@
+description: Auto-generated manifest for all.bash
+hash: sha256:50a7ae49b1924641c69b164df3894e52c3e015ffa3f0d5d03a31692e555fbb70
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/all.bash
+tags:
+- unknown
+tool_name: all.bash

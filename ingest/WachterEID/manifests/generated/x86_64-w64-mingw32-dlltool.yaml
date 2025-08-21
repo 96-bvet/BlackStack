@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-dlltool
+hash: sha256:50c156dd13f79f244dd13902451a58dd8139e33a02b35c6fa53b6ee5bb411ba8
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-dlltool
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-dlltool

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blueman-tray
+hash: sha256:0791ef7b2dd9403a5d65c8473715464ac760da9336fa4cde93365fa4fac5d808
+persona_hint: Defense
+source_path: /usr/bin/blueman-tray
+tags:
+- unknown
+tool_name: blueman-tray

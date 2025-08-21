@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sha384sum
+hash: sha256:17d4c90d98dd17aead30b3154d18f5ed4fc3d7cb56a8c9efa5bc142691a6ac4a
+persona_hint: Defense
+source_path: /usr/bin/sha384sum
+tags:
+- unknown
+tool_name: sha384sum

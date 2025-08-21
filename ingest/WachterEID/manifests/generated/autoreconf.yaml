@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autoreconf
+hash: sha256:d3e5d4d0a3a3e1e12c1a38dc0aeed5f3ec3e8b2b94729202ce0706daa67d6639
+persona_hint: Defense
+source_path: /usr/bin/autoreconf
+tags:
+- unknown
+tool_name: autoreconf

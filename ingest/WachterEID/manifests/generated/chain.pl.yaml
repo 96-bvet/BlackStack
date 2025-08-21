@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chain.pl
+hash: sha256:aac0bdfce1a9f51f677e4e51ea0ae9d8d0f163a3531290af07a9edaae52e512c
+persona_hint: Defense
+source_path: /usr/share/doc/libio-socket-socks-perl/examples/chain.pl
+tags:
+- unknown
+tool_name: chain.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-flood_mld26
+hash: sha256:c81fa49eb720b964827600414413dfa0d7c5e92fa1609fa8c70ea1a620c0c6ce
+persona_hint: Defense
+source_path: /usr/bin/atk6-flood_mld26
+tags:
+- unknown
+tool_name: atk6-flood_mld26

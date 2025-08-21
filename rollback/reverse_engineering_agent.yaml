@@ -1,0 +1,16 @@
+name: reverse_engineering_agent
+path: src/cai/agents/reverse_engineering_agent.py
+type: py
+category: forensic
+hash: f394044f0205309d3a8fd95a6df5601621828113888b74447d6381cfa0a98f1f
+approved: true
+import: true
+license_stub: true
+name: reverse_engineering_agent
+path: src/cai/agents/reverse_engineering_agent.py
+type: py
+category: forensic
+hash: f394044f0205309d3a8fd95a6df5601621828113888b74447d6381cfa0a98f1f
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dvipdf
+hash: sha256:61d1edb71afb82fae807e88dff81727ab8e9fb4f6733891222565d55e80cc636
+persona_hint: Defense
+source_path: /usr/bin/dvipdf
+tags:
+- unknown
+tool_name: dvipdf

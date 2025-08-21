@@ -1,0 +1,7 @@
+description: Auto-generated manifest for importCA.sh
+hash: sha256:4b6f0bd606058980f3f0b8a5482499ff4bd0eae8db7819482ca35789f17eb300
+persona_hint: Defense
+source_path: /usr/share/doc/stunnel4/examples/importCA.sh
+tags:
+- unknown
+tool_name: importCA.sh

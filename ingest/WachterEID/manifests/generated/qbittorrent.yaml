@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qbittorrent
+hash: sha256:e51dcedce069ee50d4a01f3df5dc05fa21f8e99369083832098f359e159d0cc3
+persona_hint: Defense
+source_path: /usr/bin/qbittorrent
+tags:
+- unknown
+tool_name: qbittorrent

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-import
+hash: sha256:96c915f2d56228e18e0a807e95b183e1c6a765f35d6d9832daa41cf84e87d5be
+persona_hint: Defense
+source_path: /usr/bin/mariadb-import
+tags:
+- unknown
+tool_name: mariadb-import

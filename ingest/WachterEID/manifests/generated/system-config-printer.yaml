@@ -1,0 +1,7 @@
+description: Auto-generated manifest for system-config-printer
+hash: sha256:02a9a261c2d0d6c9600ee4c7c2efe3a6638629b88567acd355af26a22613ae75
+persona_hint: Defense
+source_path: /usr/bin/system-config-printer
+tags:
+- unknown
+tool_name: system-config-printer

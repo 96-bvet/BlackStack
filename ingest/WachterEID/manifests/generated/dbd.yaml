@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbd
+hash: sha256:73ddae4f2ee8b4c262aa031ad71be46f21e764cfe005ec42300fd738d90ce3ac
+persona_hint: Defense
+source_path: /usr/bin/dbd
+tags:
+- unknown
+tool_name: dbd

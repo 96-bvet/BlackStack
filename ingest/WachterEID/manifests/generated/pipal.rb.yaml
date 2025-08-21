@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pipal.rb
+hash: sha256:0144a63f161cb6cbbbbf82b9211e553f64c2d7181a2181e0c72825d209a5c7c6
+persona_hint: Defense
+source_path: /usr/share/pipal/pipal.rb
+tags:
+- unknown
+tool_name: pipal.rb

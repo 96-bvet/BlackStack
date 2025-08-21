@@ -1,0 +1,7 @@
+description: Auto-generated manifest for BitString.as
+hash: sha256:5f55d0c159a488d7bb0f54e8861e2032abfd0c5a2cc90cb93e241be777e81bc0
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/browser/webcam_flash/dev/com/adobe/images/BitString.as
+tags:
+- unknown
+tool_name: BitString.as

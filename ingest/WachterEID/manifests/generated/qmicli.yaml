@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qmicli
+hash: sha256:b958ca5105ad303273ed5876531274c53154cf2af428759289b5dd98184e101a
+persona_hint: Defense
+source_path: /usr/bin/qmicli
+tags:
+- unknown
+tool_name: qmicli

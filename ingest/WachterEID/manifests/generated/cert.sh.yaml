@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cert.sh
+hash: sha256:06926262591d4772a6851aadc3cebf62b4056c0bc39f2a5ac26357edadf15c22
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/setup/cert.sh
+tags:
+- unknown
+tool_name: cert.sh

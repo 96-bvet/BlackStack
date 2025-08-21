@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ncat.exe
+hash: sha256:5e107ea10383110bd801fb7de11f59ee35f02b8e1defcadf34c0e3e769df9341
+persona_hint: Defense
+source_path: /usr/share/windows-resources/ncat/ncat.exe
+tags:
+- unknown
+tool_name: ncat.exe

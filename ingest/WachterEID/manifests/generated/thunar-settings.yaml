@@ -1,0 +1,7 @@
+description: Auto-generated manifest for thunar-settings
+hash: sha256:81105a4e704672394e2642ccbb455c12b8ff5d31124e6762c7d204972614d490
+persona_hint: Defense
+source_path: /usr/bin/thunar-settings
+tags:
+- unknown
+tool_name: thunar-settings

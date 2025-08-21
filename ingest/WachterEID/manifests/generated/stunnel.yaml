@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stunnel
+hash: sha256:8a5edf48874672d5773b2f4881cc41f5441486326a23a1822bb4422747df459c
+persona_hint: Defense
+source_path: /usr/bin/stunnel
+tags:
+- unknown
+tool_name: stunnel

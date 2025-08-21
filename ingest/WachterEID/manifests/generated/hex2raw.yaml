@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hex2raw
+hash: sha256:59511060cd360620657028ba98e8c89b520ca91e4ea97118562173ebd32a94e1
+persona_hint: Defense
+source_path: /usr/bin/hex2raw
+tags:
+- unknown
+tool_name: hex2raw

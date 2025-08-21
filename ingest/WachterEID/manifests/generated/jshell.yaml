@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jshell
+hash: sha256:556b273c1a548cb7077c1ad8f30d46d68e96b0423e538d74f172d852e08318a0
+persona_hint: Defense
+source_path: /usr/bin/jshell
+tags:
+- unknown
+tool_name: jshell

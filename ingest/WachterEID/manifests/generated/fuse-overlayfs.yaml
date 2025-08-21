@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fuse-overlayfs
+hash: sha256:c4c6dc837e5fc78610a0309bb458ba461c9eb248bc68031d0ebd4e26a3fc6e4c
+persona_hint: Defense
+source_path: /usr/bin/fuse-overlayfs
+tags:
+- unknown
+tool_name: fuse-overlayfs

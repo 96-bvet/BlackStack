@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dave
+hash: sha256:7366feeecde88cd8faae528e54565cc0ed6c018e644013eb53cf34891ec44ac0
+persona_hint: Defense
+source_path: /usr/bin/dave
+tags:
+- unknown
+tool_name: dave

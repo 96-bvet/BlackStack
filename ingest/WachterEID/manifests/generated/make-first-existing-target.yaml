@@ -1,0 +1,7 @@
+description: Auto-generated manifest for make-first-existing-target
+hash: sha256:1ed1eb3449f3db643b7532550a04b9f0f3acd79a13243c4b474e1546f662e596
+persona_hint: Defense
+source_path: /usr/bin/make-first-existing-target
+tags:
+- unknown
+tool_name: make-first-existing-target

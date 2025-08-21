@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pwsh
+hash: sha256:bed559eb7362594cd2c67702fa44c8a23d29ea2e1af12b21d987e5e995c99763
+persona_hint: Defense
+source_path: /opt/microsoft/powershell/7/pwsh
+tags:
+- unknown
+tool_name: pwsh

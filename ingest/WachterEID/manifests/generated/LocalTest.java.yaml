@@ -1,0 +1,7 @@
+description: Auto-generated manifest for LocalTest.java
+hash: sha256:dd79574abe9b35f7f3eef893317bbbfdfc23947855739519c2a7c01bd5a0f212
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stager/LocalTest.java
+tags:
+- unknown
+tool_name: LocalTest.java

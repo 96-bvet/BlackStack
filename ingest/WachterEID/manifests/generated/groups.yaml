@@ -1,0 +1,7 @@
+description: Auto-generated manifest for groups
+hash: sha256:67ad3a42ef1afd94119dcf214d67582be86a9464a20db5cf6cb9a67086979b83
+persona_hint: Defense
+source_path: /usr/bin/groups
+tags:
+- unknown
+tool_name: groups

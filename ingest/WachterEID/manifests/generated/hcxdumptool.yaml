@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxdumptool
+hash: sha256:26f7059a9b277347e1acac991b56d25120c0b8acf4c8758540beed98ef659c24
+persona_hint: Defense
+source_path: /usr/bin/hcxdumptool
+tags:
+- unknown
+tool_name: hcxdumptool

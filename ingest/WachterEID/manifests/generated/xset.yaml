@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xset
+hash: sha256:62d0083b4507c5819b6dd746c56b247e6001447f5ecb6a16d5848d90514c6f66
+persona_hint: Defense
+source_path: /usr/bin/xset
+tags:
+- unknown
+tool_name: xset

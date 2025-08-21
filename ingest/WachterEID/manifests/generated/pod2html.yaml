@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pod2html
+hash: sha256:1e90ab0bc7fc5779b93ee0b3d6f4a84d7256859322c16ca82b87657a3c7b3f78
+persona_hint: Defense
+source_path: /usr/bin/pod2html
+tags:
+- unknown
+tool_name: pod2html

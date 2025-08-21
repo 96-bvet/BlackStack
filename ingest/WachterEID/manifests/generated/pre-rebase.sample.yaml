@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pre-rebase.sample
+hash: sha256:4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/pre-rebase.sample
+tags:
+- unknown
+tool_name: pre-rebase.sample

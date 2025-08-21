@@ -1,0 +1,7 @@
+description: Auto-generated manifest for es2tri.x86_64-linux-gnu
+hash: sha256:f55f5a2867e8942f4c004c9a3868da9af39add83a62f70e0a3e48faca18a1a15
+persona_hint: Defense
+source_path: /usr/bin/es2tri.x86_64-linux-gnu
+tags:
+- unknown
+tool_name: es2tri.x86_64-linux-gnu

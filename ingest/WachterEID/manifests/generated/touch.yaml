@@ -1,0 +1,7 @@
+description: Auto-generated manifest for touch
+hash: sha256:76100d3a8613237bf8b18bdd007c2881b749033ee89dd92d48b86f0ce8acfd54
+persona_hint: Defense
+source_path: /usr/bin/touch
+tags:
+- unknown
+tool_name: touch

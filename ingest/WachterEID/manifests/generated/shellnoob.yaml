@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shellnoob
+hash: sha256:b029c13c9332c4eb876d8e18e1060f748999808da0c375d5b93398056fb0b21c
+persona_hint: Defense
+source_path: /usr/bin/shellnoob
+tags:
+- unknown
+tool_name: shellnoob

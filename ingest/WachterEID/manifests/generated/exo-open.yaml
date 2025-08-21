@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exo-open
+hash: sha256:abd88598b580526c3469fa09cef1404197d21b4a5ebd26988012ad171bfd10e6
+persona_hint: Defense
+source_path: /usr/bin/exo-open
+tags:
+- unknown
+tool_name: exo-open

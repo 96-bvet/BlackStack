@@ -1,0 +1,7 @@
+description: Auto-generated manifest for back.version
+hash: sha256:3c9d77b04af9d322e012084bd50f2e44b2ad304ac3033bf0cff9dcdf7d85effb
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/jetphoto/back.version
+tags:
+- unknown
+tool_name: back.version

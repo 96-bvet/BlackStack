@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-lto-dump-posix
+hash: sha256:f5e142057fa313621d37974b17d902e21343572eb1a97e0b2d0102603f8d7870
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-lto-dump-posix
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-lto-dump-posix

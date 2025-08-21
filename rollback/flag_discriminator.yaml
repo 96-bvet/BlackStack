@@ -1,0 +1,16 @@
+name: flag_discriminator
+path: src/cai/agents/flag_discriminator.py
+type: py
+category: misc
+hash: 850ede9d0776843e772564412b76aaff61585903b3a936159acbe11b85a7bf2e
+approved: true
+import: true
+license_stub: true
+name: flag_discriminator
+path: src/cai/agents/flag_discriminator.py
+type: py
+category: misc
+hash: 850ede9d0776843e772564412b76aaff61585903b3a936159acbe11b85a7bf2e
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qmi-firmware-update
+hash: sha256:2f18b7c37e9074bf206ef99e3ca9fc1102ff6cd13d5ddb07c7bf4f2b061ee2b4
+persona_hint: Defense
+source_path: /usr/bin/qmi-firmware-update
+tags:
+- unknown
+tool_name: qmi-firmware-update

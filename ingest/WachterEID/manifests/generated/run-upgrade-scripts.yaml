@@ -1,0 +1,7 @@
+description: Auto-generated manifest for run-upgrade-scripts
+hash: sha256:f1f3190a479df00eb93ad44707ab5a4148319945300fb10de170eee729977ee7
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/run-upgrade-scripts
+tags:
+- unknown
+tool_name: run-upgrade-scripts

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pswait
+hash: sha256:0e3cc944f18b4d8620101508d9e76a5134c565ebde0c4a704a3b1fcf6eaccb83
+persona_hint: Defense
+source_path: /usr/share/doc/libproc-processtable-perl/examples/pswait
+tags:
+- unknown
+tool_name: pswait

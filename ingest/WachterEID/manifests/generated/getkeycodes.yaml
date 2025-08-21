@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getkeycodes
+hash: sha256:7f8e36199c7da450789a651c7d3f606ee877a1789b3f99527d5533cc4fe4b572
+persona_hint: Defense
+source_path: /usr/bin/getkeycodes
+tags:
+- unknown
+tool_name: getkeycodes

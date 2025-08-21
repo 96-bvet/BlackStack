@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Shell.yaml
+hash: sha256:4027f154875b0b4ee8ecdd555f1185d55d01de44ca8a5ad3e64aeeb34ec180b1
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/SharpSploit/Shell.yaml
+tags:
+- unknown
+tool_name: Shell.yaml

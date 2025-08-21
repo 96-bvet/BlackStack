@@ -1,0 +1,7 @@
+description: Auto-generated manifest for synaptic-pkexec
+hash: sha256:3e42e605d035c23fa335ff13a04e65ea7dd954bc4ebba7a63cd275d284811e56
+persona_hint: Defense
+source_path: /usr/bin/synaptic-pkexec
+tags:
+- unknown
+tool_name: synaptic-pkexec

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for socks4echo.sh
+hash: sha256:c0692c4ae63e0b31038a383ca223b0ed43cef15ffdef616fbd8e974315182478
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/socks4echo.sh
+tags:
+- unknown
+tool_name: socks4echo.sh

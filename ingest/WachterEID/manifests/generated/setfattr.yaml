@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setfattr
+hash: sha256:e5ddf0a8641639727c315c97c58dca15315d125fb3d8ed85b147b24fccd268a4
+persona_hint: Defense
+source_path: /usr/bin/setfattr
+tags:
+- unknown
+tool_name: setfattr

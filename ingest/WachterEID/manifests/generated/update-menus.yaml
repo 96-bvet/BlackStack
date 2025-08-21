@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-menus
+hash: sha256:19f2dfa7844c161d7166f762b74c082ee5d5eb21364ac0a0128288c9f5e0236b
+persona_hint: Defense
+source_path: /usr/bin/update-menus
+tags:
+- unknown
+tool_name: update-menus

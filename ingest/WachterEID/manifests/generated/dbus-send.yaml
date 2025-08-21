@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-send
+hash: sha256:ad986032993ecaeffbf71902a6afd0e896ba52b23652f9bd6af5d8939ea71b3f
+persona_hint: Defense
+source_path: /usr/bin/dbus-send
+tags:
+- unknown
+tool_name: dbus-send

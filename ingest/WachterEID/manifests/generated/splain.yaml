@@ -1,0 +1,7 @@
+description: Auto-generated manifest for splain
+hash: sha256:06b28f957c591b63f3c03dd5829ce85e7ce2daf29c82baa4c24445cdf40d3052
+persona_hint: Defense
+source_path: /usr/bin/splain
+tags:
+- unknown
+tool_name: splain

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for snap
+hash: sha256:ca45a373f4049cac61e202d98a8c67da61a55050cf647052e2bb5d84d3de4d2b
+persona_hint: Defense
+source_path: /usr/bin/snap
+tags:
+- unknown
+tool_name: snap

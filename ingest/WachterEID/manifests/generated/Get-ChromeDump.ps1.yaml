@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Get-ChromeDump.ps1
+hash: sha256:c169b851c5bb758ce5ac35ba9e0eaf6455b5d724bdc40d3eb098416e67606ca5
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/collection/Get-ChromeDump.ps1
+tags:
+- unknown
+tool_name: Get-ChromeDump.ps1

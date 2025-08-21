@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-session-settings
+hash: sha256:16e9317e21b587ef1a151a390b5dc33b9d8ace927d61fd3cd24c5621bc8cb5d2
+persona_hint: Defense
+source_path: /usr/bin/xfce4-session-settings
+tags:
+- unknown
+tool_name: xfce4-session-settings

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Responder.conf
+hash: sha256:d057b7959c1edaf1db70a6f868d751bdb563603e86307eb91ab374a3788061a4
+persona_hint: Defense
+source_path: /usr/share/responder/Responder.conf
+tags:
+- unknown
+tool_name: Responder.conf

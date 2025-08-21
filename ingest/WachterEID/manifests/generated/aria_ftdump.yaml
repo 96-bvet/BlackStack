@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aria_ftdump
+hash: sha256:3a9b8858dc1585ea81ce51748f5a9da0bfd361036ba521af38fe3978f10ead38
+persona_hint: Defense
+source_path: /usr/bin/aria_ftdump
+tags:
+- unknown
+tool_name: aria_ftdump

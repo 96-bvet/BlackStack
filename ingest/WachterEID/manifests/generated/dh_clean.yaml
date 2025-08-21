@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_clean
+hash: sha256:a105f00aa98111a33e829b30c82a95fe789d1cb91ec3a993b04a60b0358a8568
+persona_hint: Defense
+source_path: /usr/bin/dh_clean
+tags:
+- unknown
+tool_name: dh_clean

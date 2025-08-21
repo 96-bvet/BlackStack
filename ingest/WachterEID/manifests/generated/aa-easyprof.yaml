@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aa-easyprof
+hash: sha256:217daed6135f68cbbab37f06290dde7098f49f46343f40c0fcf70b8cc39a2bb8
+persona_hint: Defense
+source_path: /usr/bin/aa-easyprof
+tags:
+- unknown
+tool_name: aa-easyprof

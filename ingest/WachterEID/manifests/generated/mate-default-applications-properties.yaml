@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-default-applications-properties
+hash: sha256:fac6a6331da43ddd3a0d32777bc1e6bbb28a3f833aef311a560ee4aa783f2e11
+persona_hint: Defense
+source_path: /usr/bin/mate-default-applications-properties
+tags:
+- unknown
+tool_name: mate-default-applications-properties

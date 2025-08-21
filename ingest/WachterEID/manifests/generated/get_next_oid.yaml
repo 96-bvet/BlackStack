@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get_next_oid
+hash: sha256:96d57d090a95d39bfcb647a82d2d2d98c6600be13de3e2e8cade2c0f5466da61
+persona_hint: Defense
+source_path: /usr/share/doc/samba/examples/LDAP/get_next_oid
+tags:
+- unknown
+tool_name: get_next_oid

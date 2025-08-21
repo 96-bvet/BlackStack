@@ -1,0 +1,7 @@
+description: Auto-generated manifest for python3-tor-prompt
+hash: sha256:f646e1e3b0e10dc50d0007887cace65fcd1572ac158d96da2fd21525f6aca0be
+persona_hint: Defense
+source_path: /usr/bin/python3-tor-prompt
+tags:
+- unknown
+tool_name: python3-tor-prompt

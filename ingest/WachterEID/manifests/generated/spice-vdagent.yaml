@@ -1,0 +1,7 @@
+description: Auto-generated manifest for spice-vdagent
+hash: sha256:37bed7cd750ce9bfa53dba4f1512ef5bc399f926dac3efc175496b779be7b613
+persona_hint: Defense
+source_path: /usr/bin/spice-vdagent
+tags:
+- unknown
+tool_name: spice-vdagent

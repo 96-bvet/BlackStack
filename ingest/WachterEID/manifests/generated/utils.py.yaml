@@ -1,0 +1,7 @@
+description: Auto-generated manifest for utils.py
+hash: sha256:260a4690998f040f11a742b356b697a836bb66ed1fed2690d4dd9f6a192a5214
+persona_hint: Defense
+source_path: /usr/share/responder/utils.py
+tags:
+- unknown
+tool_name: utils.py

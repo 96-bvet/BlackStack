@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check-run3
+hash: sha256:ff4eb8153cde6e8dffe46f2a0734933fbcef6419cb6689f4c86966b4f7179fd2
+persona_hint: Defense
+source_path: /usr/share/ike-scan/checks/check-run3
+tags:
+- unknown
+tool_name: check-run3

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wasm2wast.js
+hash: sha256:aa39787cd9886d5b6fc1253034f779f7944327d82e892df3541ed29f2fd6f164
+persona_hint: Defense
+source_path: /usr/share/nodejs/@webassemblyjs/cli/lib/wasm2wast.js
+tags:
+- unknown
+tool_name: wasm2wast.js

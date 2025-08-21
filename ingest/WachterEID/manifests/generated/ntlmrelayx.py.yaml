@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntlmrelayx.py
+hash: sha256:bd383ac29f098ed87794e660a933c26e2264613895ca19b2050856e2c6f850b8
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/ntlmrelayx.py
+tags:
+- unknown
+tool_name: ntlmrelayx.py

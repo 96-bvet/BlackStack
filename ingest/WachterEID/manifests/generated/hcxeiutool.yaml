@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxeiutool
+hash: sha256:8cc9a2483b9d5026c20059712fcb07694dcab8604249ac0e6ba3e9d19feed753
+persona_hint: Defense
+source_path: /usr/bin/hcxeiutool
+tags:
+- unknown
+tool_name: hcxeiutool

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_perl_openssl
+hash: sha256:7c1559c1e32fbe019a6f57e29194a30a849bf8e9742eacb530cc29506261b63b
+persona_hint: Defense
+source_path: /usr/bin/dh_perl_openssl
+tags:
+- unknown
+tool_name: dh_perl_openssl

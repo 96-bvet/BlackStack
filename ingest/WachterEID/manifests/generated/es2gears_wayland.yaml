@@ -1,0 +1,7 @@
+description: Auto-generated manifest for es2gears_wayland
+hash: sha256:fc2209a067ae48205138005169f52151cd6876589a20b386486eec49f48d0c8c
+persona_hint: Defense
+source_path: /usr/bin/es2gears_wayland
+tags:
+- unknown
+tool_name: es2gears_wayland

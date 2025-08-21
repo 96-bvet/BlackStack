@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tini-static
+hash: sha256:91d7ee6af31b344e16231ff242cc643dcc3a7b6812ce095ab1ae4075c12c967b
+persona_hint: Defense
+source_path: /usr/bin/tini-static
+tags:
+- unknown
+tool_name: tini-static

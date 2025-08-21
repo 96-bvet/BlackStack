@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_fm
+hash: sha256:f24019129852f370ffde7bf7f438bc01a86a23c12adb5d0033b0d9dc0aedeea5
+persona_hint: Defense
+source_path: /usr/bin/rtl_fm
+tags:
+- unknown
+tool_name: rtl_fm

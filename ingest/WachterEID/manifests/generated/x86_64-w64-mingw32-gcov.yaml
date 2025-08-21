@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-gcov
+hash: sha256:927f43a5250f9b778d988b939e8b8252d403104b2b3028b1819f16f70b2c36dc
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-gcov
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-gcov

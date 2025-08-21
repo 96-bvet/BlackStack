@@ -1,0 +1,7 @@
+description: Auto-generated manifest for naive
+hash: sha256:0cfc588dd051a5aafc279d0ccc03776fe531a50024d6b679b254a0c180fc6130
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/naive
+tags:
+- unknown
+tool_name: naive

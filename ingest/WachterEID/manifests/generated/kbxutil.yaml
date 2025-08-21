@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kbxutil
+hash: sha256:9a8781696f808124cac49bc59a759913f6bc3362f9c4b14a3d44439f0b466402
+persona_hint: Defense
+source_path: /usr/bin/kbxutil
+tags:
+- unknown
+tool_name: kbxutil

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbcontrol
+hash: sha256:0a17b0f92bfc69a2090e3f9eb37b352197f0a6e802bd1193758fb16e6b88c942
+persona_hint: Defense
+source_path: /usr/bin/smbcontrol
+tags:
+- unknown
+tool_name: smbcontrol

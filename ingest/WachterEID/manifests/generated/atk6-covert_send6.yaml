@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-covert_send6
+hash: sha256:b496c74afa2972e577d353f0808f56e569692c02758fe8fad33cbb06b8c2e46d
+persona_hint: Defense
+source_path: /usr/bin/atk6-covert_send6
+tags:
+- unknown
+tool_name: atk6-covert_send6

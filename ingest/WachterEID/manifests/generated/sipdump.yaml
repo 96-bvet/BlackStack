@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sipdump
+hash: sha256:67f81bf672a53ccd45bd88a833f72b65f5d1f10cc09c051c32d4d5796d1766cb
+persona_hint: Defense
+source_path: /usr/bin/sipdump
+tags:
+- unknown
+tool_name: sipdump

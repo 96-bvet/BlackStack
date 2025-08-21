@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aspell
+hash: sha256:96bedd92e45f91b96d3169ba47df6720625fe05ba7e1356bab7165cf07a8329c
+persona_hint: Defense
+source_path: /usr/bin/aspell
+tags:
+- unknown
+tool_name: aspell

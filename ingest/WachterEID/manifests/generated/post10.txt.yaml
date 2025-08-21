@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post10.txt
+hash: sha256:0c46582a1dc17e892184b7bc3ffa449139c147b13300f04f00d26f47c0af6ef9
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post10.txt
+tags:
+- unknown
+tool_name: post10.txt

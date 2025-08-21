@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssl_diff.pl
+hash: sha256:b7f9187bd8a8463e27e25f6d5c48429c41a6b5e4368af7ec9b4ad76396f0e0dc
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/ssl_diff.pl
+tags:
+- unknown
+tool_name: ssl_diff.pl

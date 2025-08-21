@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-cpufreq-selector
+hash: sha256:6c93dfd26c2eccc1ec7baf33401cfb95f1f9163e4060e32ac42003e840b8c402
+persona_hint: Defense
+source_path: /usr/bin/mate-cpufreq-selector
+tags:
+- unknown
+tool_name: mate-cpufreq-selector

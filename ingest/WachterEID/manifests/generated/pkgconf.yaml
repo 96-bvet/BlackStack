@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkgconf
+hash: sha256:813719d3b0b54fc281afdb94de0a40717d1a09122ccf15dff17d4e9a347ec77f
+persona_hint: Defense
+source_path: /usr/bin/pkgconf
+tags:
+- unknown
+tool_name: pkgconf

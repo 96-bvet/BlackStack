@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ListeningStagerHandler.java
+hash: sha256:26c96435e4e407a001611ce1590418992dcac60fe2c0a8860da2a7f66d1a20ed
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/handler/stager/ListeningStagerHandler.java
+tags:
+- unknown
+tool_name: ListeningStagerHandler.java

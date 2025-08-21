@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Invoke-ClearScript.ps1
+hash: sha256:d78fbf3ff2e7d3b733f2d15eb437355a746a495c12b4e65226f46aa72daf00d5
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/code_execution/Invoke-ClearScript.ps1
+tags:
+- unknown
+tool_name: Invoke-ClearScript.ps1

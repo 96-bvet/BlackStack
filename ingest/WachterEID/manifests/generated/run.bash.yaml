@@ -1,0 +1,7 @@
+description: Auto-generated manifest for run.bash
+hash: sha256:c3c95a88db9c0d9cb1130a35fa36c73b7e1753e5e83d86a52bbc529fcd262b45
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/run.bash
+tags:
+- unknown
+tool_name: run.bash

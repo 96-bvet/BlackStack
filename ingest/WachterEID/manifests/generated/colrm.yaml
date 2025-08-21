@@ -1,0 +1,7 @@
+description: Auto-generated manifest for colrm
+hash: sha256:e1e9852406ab2d92f40016ae109e6b2c4b2de812a7417685b5ca5bb30eeb6df2
+persona_hint: Defense
+source_path: /usr/bin/colrm
+tags:
+- unknown
+tool_name: colrm

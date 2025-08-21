@@ -1,0 +1,7 @@
+description: Auto-generated manifest for delv
+hash: sha256:b4b22723162d619416b4bba37af82d5b24001ce75e32756e22e5d17c1fc48d89
+persona_hint: Defense
+source_path: /usr/bin/delv
+tags:
+- unknown
+tool_name: delv

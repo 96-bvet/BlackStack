@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hdebug.h
+hash: sha256:ee2c81d706fc9ab8f7b27b0621a66fcc450c3376169144e1dab656c028be44ea
+persona_hint: Defense
+source_path: /usr/share/spike/include/hdebug.h
+tags:
+- unknown
+tool_name: hdebug.h

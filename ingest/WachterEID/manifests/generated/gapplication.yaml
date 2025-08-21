@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gapplication
+hash: sha256:0d3c99bee454f3970c496747b88af92c726f5ab9daa08beacbae6e4b52a3b939
+persona_hint: Defense
+source_path: /usr/bin/gapplication
+tags:
+- unknown
+tool_name: gapplication

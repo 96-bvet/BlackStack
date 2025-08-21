@@ -1,0 +1,7 @@
+description: Auto-generated manifest for port.pm
+hash: sha256:ad724f38e57da3ce74472ef240f5bd3c51bff301867371fe8a318ee36531e42e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/port.pm
+tags:
+- unknown
+tool_name: port.pm

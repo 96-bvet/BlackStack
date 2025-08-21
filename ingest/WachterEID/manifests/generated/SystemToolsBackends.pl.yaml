@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SystemToolsBackends.pl
+hash: sha256:55bc30112f56a005594551f6c0f411f050a0a7a0e186cae1af19de10b193b6b4
+persona_hint: Defense
+source_path: /usr/share/system-tools-backends-2.0/scripts/SystemToolsBackends.pl
+tags:
+- unknown
+tool_name: SystemToolsBackends.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for port_publisher.sh
+hash: sha256:bb6a7886690045d47607ccc2088055199aa8fedf5502a03804fdca85743d6fae
+persona_hint: Defense
+source_path: /usr/share/doc/python3-serial/examples/port_publisher.sh
+tags:
+- unknown
+tool_name: port_publisher.sh

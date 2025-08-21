@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_setpermission
+hash: sha256:555f13fd7ba26c57c3faaa15ec0e14522d179154a4040bd98947123624f9b82c
+persona_hint: Defense
+source_path: /usr/bin/mysql_setpermission
+tags:
+- unknown
+tool_name: mysql_setpermission

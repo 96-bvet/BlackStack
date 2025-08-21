@@ -1,0 +1,7 @@
+description: Auto-generated manifest for containerd
+hash: sha256:ad7d3649962de420faf10afbca51f5de6fae98abb6be4ec7f3c12028878fd2e1
+persona_hint: Defense
+source_path: /usr/bin/containerd
+tags:
+- unknown
+tool_name: containerd

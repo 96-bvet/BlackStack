@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atril-previewer
+hash: sha256:1c0c4bf864ba6d236a314f9e8d9117aed0341983ac2b8fa574943e40ecbc11cf
+persona_hint: Defense
+source_path: /usr/bin/atril-previewer
+tags:
+- unknown
+tool_name: atril-previewer

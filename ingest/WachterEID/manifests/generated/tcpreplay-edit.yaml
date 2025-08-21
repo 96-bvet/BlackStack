@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpreplay-edit
+hash: sha256:0ab66c7e59e16664f99b00c3a4897d4b18a8b82b42d038da8918c8eceed0a21f
+persona_hint: Defense
+source_path: /usr/bin/tcpreplay-edit
+tags:
+- unknown
+tool_name: tcpreplay-edit

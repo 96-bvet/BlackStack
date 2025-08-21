@@ -1,0 +1,7 @@
+description: Auto-generated manifest for filezilla.pm
+hash: sha256:1375bd73ff9c5fad6ea9171e3c1e1282e31c0d587f4b6843f74807b5c0537d64
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/filezilla.pm
+tags:
+- unknown
+tool_name: filezilla.pm

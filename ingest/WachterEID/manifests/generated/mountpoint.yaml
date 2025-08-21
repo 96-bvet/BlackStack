@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mountpoint
+hash: sha256:23f872a069bfc5626f3dd94d2f1f61b478c2c07f5b07335efe5bfd3c2ae215ae
+persona_hint: Defense
+source_path: /usr/bin/mountpoint
+tags:
+- unknown
+tool_name: mountpoint

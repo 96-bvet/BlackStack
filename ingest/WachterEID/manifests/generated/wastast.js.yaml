@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wastast.js
+hash: sha256:369c1addf5e0df18b63a01f943c1db049357cb0f5e9fa43220786801cb2cccf2
+persona_hint: Defense
+source_path: /usr/share/nodejs/@webassemblyjs/cli/lib/wastast.js
+tags:
+- unknown
+tool_name: wastast.js

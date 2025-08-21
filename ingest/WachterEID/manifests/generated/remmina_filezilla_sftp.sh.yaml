@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remmina_filezilla_sftp.sh
+hash: sha256:2ec11b9cc4e53eb2005d8d767d0dd66f7ec6fe09b3ef173efbc6f823bcb968af
+persona_hint: Defense
+source_path: /usr/share/remmina/external_tools/remmina_filezilla_sftp.sh
+tags:
+- unknown
+tool_name: remmina_filezilla_sftp.sh

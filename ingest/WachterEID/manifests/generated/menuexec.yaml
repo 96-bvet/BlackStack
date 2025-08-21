@@ -1,0 +1,7 @@
+description: Auto-generated manifest for menuexec
+hash: sha256:759efa56b7841ff545a8f1b92c9649d28d91587a7a3f14aaf9fa8d53d8989f96
+persona_hint: Defense
+source_path: /usr/bin/menuexec
+tags:
+- unknown
+tool_name: menuexec

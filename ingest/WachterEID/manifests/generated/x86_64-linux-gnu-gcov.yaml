@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-gcov
+hash: sha256:64279c63fac173e6b78d219cffbaa657b20afd7907f7e020a6a73580f5d70ed6
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-gcov
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-gcov

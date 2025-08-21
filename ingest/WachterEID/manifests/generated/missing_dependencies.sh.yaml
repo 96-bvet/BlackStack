@@ -1,0 +1,7 @@
+description: Auto-generated manifest for missing_dependencies.sh
+hash: sha256:a88bdc877296243a3c8b54bb93bc7dc57795b7a188bc1411e1efee7519c98093
+persona_hint: Defense
+source_path: /usr/share/airgeddon/plugins/missing_dependencies.sh
+tags:
+- unknown
+tool_name: missing_dependencies.sh

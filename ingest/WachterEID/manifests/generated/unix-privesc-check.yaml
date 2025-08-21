@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unix-privesc-check
+hash: sha256:c7882214c4db58018237751a604bd5ae4ac8aafbe0c45f3d798a4502fc880b2b
+persona_hint: Defense
+source_path: /usr/share/unix-privesc-check/unix-privesc-check
+tags:
+- unknown
+tool_name: unix-privesc-check

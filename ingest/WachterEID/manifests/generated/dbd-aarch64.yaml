@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbd-aarch64
+hash: sha256:49650c10a92153750cc575ec0e95b85fd6f59f5bc60996ca0883e4ebf6d56e6f
+persona_hint: Defense
+source_path: /usr/share/dbd/binaries/dbd-aarch64
+tags:
+- unknown
+tool_name: dbd-aarch64

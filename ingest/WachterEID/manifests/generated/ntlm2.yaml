@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntlm2
+hash: sha256:c7910db892c135499ee31d22dfacbfd5536e273f4b70155e9bcbe50c53ebdcf9
+persona_hint: Defense
+source_path: /usr/bin/ntlm2
+tags:
+- unknown
+tool_name: ntlm2

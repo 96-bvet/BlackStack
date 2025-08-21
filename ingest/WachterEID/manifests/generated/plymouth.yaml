@@ -1,0 +1,7 @@
+description: Auto-generated manifest for plymouth
+hash: sha256:06d3719b7da7e36731052e6aab1ca999bedea900d7a0fc32c5af983217aec21f
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/panic/plymouth
+tags:
+- unknown
+tool_name: plymouth

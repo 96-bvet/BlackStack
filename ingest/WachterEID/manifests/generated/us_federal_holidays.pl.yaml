@@ -1,0 +1,7 @@
+description: Auto-generated manifest for us_federal_holidays.pl
+hash: sha256:2f66210691674a519ae38219db997c3914fa1838415a22b0881c6ddbee47c7eb
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/us_federal_holidays.pl
+tags:
+- unknown
+tool_name: us_federal_holidays.pl

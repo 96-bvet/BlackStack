@@ -1,0 +1,7 @@
+description: Auto-generated manifest for odfmeta
+hash: sha256:80da011ab95980b622224f35b9acd7b85428e244580eb230c14f8e536acf4661
+persona_hint: Defense
+source_path: /usr/bin/odfmeta
+tags:
+- unknown
+tool_name: odfmeta

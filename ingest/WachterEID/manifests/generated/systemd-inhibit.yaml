@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-inhibit
+hash: sha256:633f67be131cabcba48f8d6bd880020255e592272b765d5f6e42966f54932f46
+persona_hint: Defense
+source_path: /usr/bin/systemd-inhibit
+tags:
+- unknown
+tool_name: systemd-inhibit

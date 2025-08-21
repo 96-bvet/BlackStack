@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_python3-ply
+hash: sha256:ab0d471a179135c9df889cecba0d383e7b74ace7a874730b8abeecde9198df1d
+persona_hint: Defense
+source_path: /usr/bin/dh_python3-ply
+tags:
+- unknown
+tool_name: dh_python3-ply

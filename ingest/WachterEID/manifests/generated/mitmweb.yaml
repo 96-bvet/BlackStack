@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mitmweb
+hash: sha256:08a7495086913f245ce52835f563ac03844f009635bbfdbc3a5f18b25973be45
+persona_hint: Defense
+source_path: /usr/bin/mitmweb
+tags:
+- unknown
+tool_name: mitmweb

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for thc-pptp-bruter
+hash: sha256:af1230a4471bc337aed86e86c0c66eb190b6a4e38f88f1a66ea5156f0227068f
+persona_hint: Defense
+source_path: /usr/bin/thc-pptp-bruter
+tags:
+- unknown
+tool_name: thc-pptp-bruter

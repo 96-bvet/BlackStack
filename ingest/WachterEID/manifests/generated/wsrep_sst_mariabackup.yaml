@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wsrep_sst_mariabackup
+hash: sha256:5981bbf771d45caaeef0263d41ae60d4ca8796b543093b3dc139c5d659405db4
+persona_hint: Defense
+source_path: /usr/bin/wsrep_sst_mariabackup
+tags:
+- unknown
+tool_name: wsrep_sst_mariabackup

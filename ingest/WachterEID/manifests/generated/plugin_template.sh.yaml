@@ -1,0 +1,7 @@
+description: Auto-generated manifest for plugin_template.sh
+hash: sha256:e7932d1082adf82261f71ccfe1f7128369f029c2e164cd433ab526164fc69077
+persona_hint: Defense
+source_path: /usr/share/airgeddon/plugins/plugin_template.sh
+tags:
+- unknown
+tool_name: plugin_template.sh

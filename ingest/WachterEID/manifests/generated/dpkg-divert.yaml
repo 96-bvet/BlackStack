@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-divert
+hash: sha256:27810307060a5e4239a8fb11ee4735f19ee91fa77fc3d51c99cfb390e43c1d5b
+persona_hint: Defense
+source_path: /usr/bin/dpkg-divert
+tags:
+- unknown
+tool_name: dpkg-divert

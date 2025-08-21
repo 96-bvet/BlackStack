@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk-icon-cache.trigger
+hash: sha256:e3b4eb15cd908bd8c31f5ea95e3ed2c9d4dca815ca2304b8cf45f306d31c6eab
+persona_hint: Defense
+source_path: /usr/share/flatpak/triggers/gtk-icon-cache.trigger
+tags:
+- unknown
+tool_name: gtk-icon-cache.trigger

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgcat
+hash: sha256:c3d47fa984f37b1700c8dec83441eaa3d825e134d4968b05a0312b07600b3383
+persona_hint: Defense
+source_path: /usr/bin/msgcat
+tags:
+- unknown
+tool_name: msgcat

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JDWPClassInjector.java
+hash: sha256:67db3fad557782a55790ade22c5a152edfc474861d4d864b8bf0cbbbc610ff09
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/JDWPClassInjector.java
+tags:
+- unknown
+tool_name: JDWPClassInjector.java

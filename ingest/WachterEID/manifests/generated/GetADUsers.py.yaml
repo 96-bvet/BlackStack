@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetADUsers.py
+hash: sha256:ccbcd45316c8702e5c65be983c5fc0062f1ce0bc7f705108d8ca81a73352b04a
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/GetADUsers.py
+tags:
+- unknown
+tool_name: GetADUsers.py

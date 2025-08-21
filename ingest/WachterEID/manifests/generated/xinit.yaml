@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xinit
+hash: sha256:0f7c93b3f8047849585351d23a1ac37cb0ec38d5402accc67f71aadd487f9534
+persona_hint: Defense
+source_path: /usr/bin/xinit
+tags:
+- unknown
+tool_name: xinit

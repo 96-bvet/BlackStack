@@ -1,0 +1,7 @@
+description: Auto-generated manifest for py3clean
+hash: sha256:918f4dc101a584876714778b4bf311740c2ba75eb21dc95b6c36261a8803bc81
+persona_hint: Defense
+source_path: /usr/bin/py3clean
+tags:
+- unknown
+tool_name: py3clean

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sj-commit-results
+hash: sha256:45d375413f2103e477de56e0e66107a2531850a4bb54a22dae87b6f7e2ca6468
+persona_hint: Defense
+source_path: /usr/bin/sj-commit-results
+tags:
+- unknown
+tool_name: sj-commit-results

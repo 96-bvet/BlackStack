@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-extracttemplates
+hash: sha256:82928db9c0db062a4021273797f54e0f1f0530fd331b1fe5085924ea07f56321
+persona_hint: Defense
+source_path: /usr/bin/apt-extracttemplates
+tags:
+- unknown
+tool_name: apt-extracttemplates

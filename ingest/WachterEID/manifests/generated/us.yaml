@@ -1,0 +1,7 @@
+description: Auto-generated manifest for us
+hash: sha256:38ffcb440dee6589109829c8e83ca27e1bed5f4937a72e6a38d3d0a5ad4298ff
+persona_hint: Defense
+source_path: /usr/bin/us
+tags:
+- unknown
+tool_name: us

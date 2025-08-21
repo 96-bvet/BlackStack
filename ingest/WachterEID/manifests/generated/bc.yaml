@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bc
+hash: sha256:e0738dc0a3015eabc9b41fba79743c6969bc0e9b04a3cad7b03cc3b449d23832
+persona_hint: Defense
+source_path: /usr/bin/bc
+tags:
+- unknown
+tool_name: bc

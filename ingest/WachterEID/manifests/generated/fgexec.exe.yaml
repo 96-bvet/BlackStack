@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fgexec.exe
+hash: sha256:8697897bee415f213ce7bc24f22c14002d660b8aaffab807490ddbf4f3f20249
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/fgdump/fgexec.exe
+tags:
+- unknown
+tool_name: fgexec.exe

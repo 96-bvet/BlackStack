@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unmkinitramfs
+hash: sha256:4d4a0920003040568987c520c0d86d7d8fa38bc9dddcef8a24b663858e775d18
+persona_hint: Defense
+source_path: /usr/bin/unmkinitramfs
+tags:
+- unknown
+tool_name: unmkinitramfs

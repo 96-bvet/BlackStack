@@ -1,0 +1,7 @@
+description: Auto-generated manifest for instant
+hash: sha256:aae5e9bcc74234935a006b3e74955de35cb5bde5725facd31e1d5160dc9541a2
+persona_hint: Defense
+source_path: /usr/bin/instant
+tags:
+- unknown
+tool_name: instant

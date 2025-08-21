@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zdump
+hash: sha256:e9078a1d76de53a30277dc8d795928c8de1f6947948ae0c224694b69bf8e491d
+persona_hint: Defense
+source_path: /usr/bin/zdump
+tags:
+- unknown
+tool_name: zdump

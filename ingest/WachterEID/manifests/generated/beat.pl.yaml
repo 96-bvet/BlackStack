@@ -1,0 +1,7 @@
+description: Auto-generated manifest for beat.pl
+hash: sha256:f77429ba669aa590641d4037f964a73c18b014deb83b46642afd96dc85c83401
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/beat.pl
+tags:
+- unknown
+tool_name: beat.pl

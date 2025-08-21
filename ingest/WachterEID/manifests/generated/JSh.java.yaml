@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JSh.java
+hash: sha256:6f587bb1f4a7cf0807a8b9319b0653b70a83b1f6f8f66c94a26169be438ce1e7
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stage/JSh.java
+tags:
+- unknown
+tool_name: JSh.java

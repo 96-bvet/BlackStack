@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whois
+hash: sha256:8488028baa5462a209a4d8d8b47adb7ba61b94534f40237c619b2422160e676b
+persona_hint: Defense
+source_path: /usr/bin/whois
+tags:
+- unknown
+tool_name: whois

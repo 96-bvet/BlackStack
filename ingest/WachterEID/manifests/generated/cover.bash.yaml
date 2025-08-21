@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cover.bash
+hash: sha256:16644f5261a657a90aeecc0b8a415a8ad66d4dd9b4bdd01b2f01cb800beda56b
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/cmd/compile/internal/ssa/_gen/cover.bash
+tags:
+- unknown
+tool_name: cover.bash

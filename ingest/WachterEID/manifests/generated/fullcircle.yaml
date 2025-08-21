@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fullcircle
+hash: sha256:89c9b201eb786ff82396f73e30437937163f42ad3e7f3828af48da296d846070
+persona_hint: Defense
+source_path: /usr/bin/fullcircle
+tags:
+- unknown
+tool_name: fullcircle

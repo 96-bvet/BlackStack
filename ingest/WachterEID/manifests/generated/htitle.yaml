@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htitle
+hash: sha256:a55c00084d64a43f70a5b958b2339d7914d7732af9d4b2e1a048d4fbce7c01c9
+persona_hint: Defense
+source_path: /usr/share/doc/libhtml-parser-perl/examples/htitle
+tags:
+- unknown
+tool_name: htitle

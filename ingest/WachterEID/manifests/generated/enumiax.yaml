@@ -1,0 +1,7 @@
+description: Auto-generated manifest for enumiax
+hash: sha256:374dee6bdeae3f9571bec9a90b8bc45cfe37cb2f9ae50c791f4997d1a68b59cd
+persona_hint: Defense
+source_path: /usr/bin/enumiax
+tags:
+- unknown
+tool_name: enumiax

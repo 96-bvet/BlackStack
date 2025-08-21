@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jps
+hash: sha256:6513e07302900f41e054089427d07659a808615a82ec99928403dbc56527dbc4
+persona_hint: Defense
+source_path: /usr/bin/jps
+tags:
+- unknown
+tool_name: jps

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for logresolve
+hash: sha256:56cdde6951956f8f1324fa007173bf5c907fa938bf21f408b7a1612dc21764cf
+persona_hint: Defense
+source_path: /usr/bin/logresolve
+tags:
+- unknown
+tool_name: logresolve

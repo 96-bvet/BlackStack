@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clocks.pl
+hash: sha256:2073d67bfb45759ccde1173962fff290ba17bf0c59c1a6bae268afe4d2181e7c
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/clocks.pl
+tags:
+- unknown
+tool_name: clocks.pl

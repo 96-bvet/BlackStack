@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setmetamode
+hash: sha256:31b447d9d30a763f28ec8a38a55b928e11448d0efe0a20f75dab5019962aede3
+persona_hint: Defense
+source_path: /usr/bin/setmetamode
+tags:
+- unknown
+tool_name: setmetamode

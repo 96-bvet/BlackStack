@@ -1,0 +1,7 @@
+description: Auto-generated manifest for php-findsock-shell.php
+hash: sha256:d7e77c4bf4bab4b23a4d43a25c37cdb4853b903327e70671adc1ddbba9ba7d9c
+persona_hint: Defense
+source_path: /usr/share/webshells/php/findsocket/php-findsock-shell.php
+tags:
+- unknown
+tool_name: php-findsock-shell.php

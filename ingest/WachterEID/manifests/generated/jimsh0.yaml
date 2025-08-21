@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jimsh0
+hash: sha256:c1f9334afbcdf180b807ada48db859a385f8e177715a71aa970751cbaea9ba81
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/sqlite3-2.6.0/ext/sqlite3/tmp/x86_64-linux-gnu/ports/sqlite3/3.49.1/sqlite-autoconf-3490100/jimsh0
+tags:
+- unknown
+tool_name: jimsh0

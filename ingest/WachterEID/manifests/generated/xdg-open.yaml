@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-open
+hash: sha256:7d759d54f0d4ce1beeb34ee62c587985b5042374e8de237b0dcb8cd47aa698cf
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/open/xdg-open
+tags:
+- unknown
+tool_name: xdg-open

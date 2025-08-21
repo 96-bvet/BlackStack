@@ -1,0 +1,7 @@
+description: Auto-generated manifest for podebconf-report-po
+hash: sha256:5a16416c52a2b09705789574f35220226f484a7804b7f9697d6cf7c984c9b141
+persona_hint: Defense
+source_path: /usr/bin/podebconf-report-po
+tags:
+- unknown
+tool_name: podebconf-report-po

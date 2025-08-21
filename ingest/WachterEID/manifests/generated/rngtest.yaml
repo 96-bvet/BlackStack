@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rngtest
+hash: sha256:c67dcb1983062a3ca0e9692f4c6334c001ad0966cdb4eb3511103ed43488512b
+persona_hint: Defense
+source_path: /usr/bin/rngtest
+tags:
+- unknown
+tool_name: rngtest

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htop
+hash: sha256:2d08025f8af56a059847a151c18da55c922c788ea3ec3e2f568204f98ab4a7b1
+persona_hint: Defense
+source_path: /usr/bin/htop
+tags:
+- unknown
+tool_name: htop

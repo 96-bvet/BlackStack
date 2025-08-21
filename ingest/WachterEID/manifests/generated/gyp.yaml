@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gyp
+hash: sha256:2707459e746cb9aeb8f9144eefc3576ae73cd18a479d1174296bad3f3c4466d2
+persona_hint: Defense
+source_path: /usr/bin/gyp
+tags:
+- unknown
+tool_name: gyp

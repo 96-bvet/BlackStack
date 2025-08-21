@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmwarectrl
+hash: sha256:cf3df515dfa01b16c0b7003b6ca2ca93fdf03f9dc8163ed86ae97da284edbbd5
+persona_hint: Defense
+source_path: /usr/bin/vmwarectrl
+tags:
+- unknown
+tool_name: vmwarectrl

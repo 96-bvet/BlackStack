@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fasm.exe
+hash: sha256:f80f4c638c843e17f384851f397322eaec414b3718ce79056abc15a6644f466f
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/fasm.exe
+tags:
+- unknown
+tool_name: fasm.exe

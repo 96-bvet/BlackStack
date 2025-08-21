@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dcetest.old1
+hash: sha256:9507d63c21c96b100316a66a001ddb079111a0c775e3625aad8ea8c6f10fb87b
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/dcetest.old1
+tags:
+- unknown
+tool_name: dcetest.old1

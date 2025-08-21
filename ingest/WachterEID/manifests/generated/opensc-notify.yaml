@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opensc-notify
+hash: sha256:f68859b7a5454bc4c0ca7d9da494ef49f2361552a6e8471b54ecf5517b2de4f1
+persona_hint: Defense
+source_path: /usr/bin/opensc-notify
+tags:
+- unknown
+tool_name: opensc-notify

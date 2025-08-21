@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssl-inetd-serv.pl
+hash: sha256:cb24f9baa34eedf1258b3c074a2f1c45806d6a4b9ce116a33ec9e8bc19697487
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/ssl-inetd-serv.pl
+tags:
+- unknown
+tool_name: ssl-inetd-serv.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for keycount.pyx
+hash: sha256:1ff79e1c498dd516db6df3841489fc5c05ee0162cb5b5cd4ab9d6cffc3aff333
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/advanced/cython/keycount.pyx
+tags:
+- unknown
+tool_name: keycount.pyx

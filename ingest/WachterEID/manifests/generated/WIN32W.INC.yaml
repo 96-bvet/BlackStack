@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN32W.INC
+hash: sha256:84e8549e16670200d9b9cfc9d65fbd70a0baf83f08268f8deb836bd1b729c495
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/WIN32W.INC
+tags:
+- unknown
+tool_name: WIN32W.INC

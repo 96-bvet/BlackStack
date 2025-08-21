@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grep-maintainer
+hash: sha256:8cd44029b42320e6056ddeca13a8f7f0e69243efe48537c7d2a994faef0cab3d
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/deb822/grep-maintainer
+tags:
+- unknown
+tool_name: grep-maintainer

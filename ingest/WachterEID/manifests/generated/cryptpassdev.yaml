@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptpassdev
+hash: sha256:c69ced3819ceef774cbbcb2796c6cf894b2d149be6334d2052a93f4eb233e84a
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/cryptpassdev
+tags:
+- unknown
+tool_name: cryptpassdev

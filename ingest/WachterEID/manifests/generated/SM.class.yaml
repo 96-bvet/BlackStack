@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SM.class
+hash: sha256:954f4d7f5568104a054335ff4d1263952f78cbd0c7540c0b6c92cc69a1d31402
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/exploits/local_host/signed_applet_dropper/applet/SM.class
+tags:
+- unknown
+tool_name: SM.class

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rotatelogs
+hash: sha256:fbe89dee2a1b71332d90570213053e2c6020b0f589a5acdd79f1872701951bc8
+persona_hint: Defense
+source_path: /usr/bin/rotatelogs
+tags:
+- unknown
+tool_name: rotatelogs

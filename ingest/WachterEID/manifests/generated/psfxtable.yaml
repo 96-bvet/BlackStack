@@ -1,0 +1,7 @@
+description: Auto-generated manifest for psfxtable
+hash: sha256:8ab8a7822fcfe03ef7f851c20febecd842bcb2f156df62d8458393e7b92cc093
+persona_hint: Defense
+source_path: /usr/bin/psfxtable
+tags:
+- unknown
+tool_name: psfxtable

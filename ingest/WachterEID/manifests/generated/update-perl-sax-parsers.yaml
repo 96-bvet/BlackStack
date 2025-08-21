@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-perl-sax-parsers
+hash: sha256:beeec3f2d9a9bbab01f6cfc07970f4bc9c26968adb80362238260ddd6591ee6b
+persona_hint: Defense
+source_path: /usr/bin/update-perl-sax-parsers
+tags:
+- unknown
+tool_name: update-perl-sax-parsers

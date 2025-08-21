@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rbcd.py
+hash: sha256:ed331f8b3d42a1217be1e8e1fc976cc0d0dbbff293cc1ffaea9a3be2c941484b
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/rbcd.py
+tags:
+- unknown
+tool_name: rbcd.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-popup-directorymenu
+hash: sha256:825c13a7f2bab37063e0bf014d2d26acba68297a94f5c8c216dd864d02aafbc5
+persona_hint: Defense
+source_path: /usr/bin/xfce4-popup-directorymenu
+tags:
+- unknown
+tool_name: xfce4-popup-directorymenu

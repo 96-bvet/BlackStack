@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stat
+hash: sha256:98fd8d3f1823896aa2613a4d38e7059c82506206725918666091d08272d78e95
+persona_hint: Defense
+source_path: /usr/bin/stat
+tags:
+- unknown
+tool_name: stat

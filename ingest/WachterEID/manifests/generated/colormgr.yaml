@@ -1,0 +1,7 @@
+description: Auto-generated manifest for colormgr
+hash: sha256:dd783c46f195a89399b47ad82c2da9e1373014af252d1f036c6b067f9b077bf1
+persona_hint: Defense
+source_path: /usr/bin/colormgr
+tags:
+- unknown
+tool_name: colormgr

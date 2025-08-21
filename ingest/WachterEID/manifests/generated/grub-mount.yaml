@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mount
+hash: sha256:84d976c71b2cb997486494a154441d98b68c540c5cd8ab7ce07e6bad085779c1
+persona_hint: Defense
+source_path: /usr/bin/grub-mount
+tags:
+- unknown
+tool_name: grub-mount

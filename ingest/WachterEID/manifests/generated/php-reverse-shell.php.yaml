@@ -1,0 +1,7 @@
+description: Auto-generated manifest for php-reverse-shell.php
+hash: sha256:b9a06b941da7bef9697ad1e645dc3b15b56e35407a0590e4ec18b8f3543645d9
+persona_hint: Defense
+source_path: /usr/share/webshells/php/php-reverse-shell.php
+tags:
+- unknown
+tool_name: php-reverse-shell.php

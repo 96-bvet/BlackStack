@@ -1,0 +1,7 @@
+description: Auto-generated manifest for screendump
+hash: sha256:be6a00437641e2470b572755b015083d0ab52dc36e28728914b080711fd9709d
+persona_hint: Defense
+source_path: /usr/bin/screendump
+tags:
+- unknown
+tool_name: screendump

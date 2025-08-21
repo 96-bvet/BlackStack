@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lspgpot
+hash: sha256:aa7a7b1d982fc8de67cb90b9cefa984962a91efae153adb7e19d461742f7b1ba
+persona_hint: Defense
+source_path: /usr/bin/lspgpot
+tags:
+- unknown
+tool_name: lspgpot

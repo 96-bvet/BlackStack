@@ -1,0 +1,8 @@
+name: agent_lifecycle_example
+path: examples/basic/agent_lifecycle_example.py
+type: py
+category: misc
+hash: 623fcf0c45e5ddd7fe3ef75ff81d157cdee454867f0218f0fd7df411d2a52365
+approved: true
+import: true
+license_stub: true

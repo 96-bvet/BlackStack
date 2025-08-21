@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hpcd
+hash: sha256:98cd63a691c3b5d906f5cdfb037051886b5494e90d59de1c11427637367f7427
+persona_hint: Defense
+source_path: /usr/bin/hpcd
+tags:
+- unknown
+tool_name: hpcd

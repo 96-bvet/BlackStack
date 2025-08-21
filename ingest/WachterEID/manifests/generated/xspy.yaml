@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xspy
+hash: sha256:7732c2ed0e92f031cef91bc59a226296976136a212427879b9cbc6d615c537c5
+persona_hint: Defense
+source_path: /usr/bin/xspy
+tags:
+- unknown
+tool_name: xspy

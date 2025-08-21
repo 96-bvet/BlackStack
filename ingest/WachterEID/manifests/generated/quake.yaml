@@ -1,0 +1,7 @@
+description: Auto-generated manifest for quake
+hash: sha256:3b6df93e578223e6b6f810da5164e1b1ee67234fd9116f31cd25fd7f48eea34c
+persona_hint: Defense
+source_path: /usr/bin/quake
+tags:
+- unknown
+tool_name: quake

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update.xml
+hash: sha256:71dc1f628a1b9e51d2b702bfd80cb3cbfb55434851b6b6985f721e28c01579d5
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sparkle/update.xml
+tags:
+- unknown
+tool_name: update.xml

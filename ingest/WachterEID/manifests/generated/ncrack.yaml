@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ncrack
+hash: sha256:84e874f593cc63339a9423bffc3822f60c727e2e4b1527c268c8ea79d675df53
+persona_hint: Defense
+source_path: /usr/bin/ncrack
+tags:
+- unknown
+tool_name: ncrack

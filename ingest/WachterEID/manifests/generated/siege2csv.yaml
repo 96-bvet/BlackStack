@@ -1,0 +1,7 @@
+description: Auto-generated manifest for siege2csv
+hash: sha256:aff38289269a06a4adf52b540ccb439ca48b2920fae1b9dc3a3e37e3a3ea874e
+persona_hint: Defense
+source_path: /usr/bin/siege2csv
+tags:
+- unknown
+tool_name: siege2csv

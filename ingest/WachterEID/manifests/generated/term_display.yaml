@@ -1,0 +1,7 @@
+description: Auto-generated manifest for term_display
+hash: sha256:2b51ec05b8f08bb01af9e3034d2f3e54684a28ab5db44908c28553ea697c7aae
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/term-ansicolor-1.11.2/bin/term_display
+tags:
+- unknown
+tool_name: term_display

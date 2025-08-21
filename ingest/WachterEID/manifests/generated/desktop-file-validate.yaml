@@ -1,0 +1,7 @@
+description: Auto-generated manifest for desktop-file-validate
+hash: sha256:18e2a0c9d174c7025a7a7e84e49d11c5554a177d6e5ec3b89db15c65857c7cde
+persona_hint: Defense
+source_path: /usr/bin/desktop-file-validate
+tags:
+- unknown
+tool_name: desktop-file-validate

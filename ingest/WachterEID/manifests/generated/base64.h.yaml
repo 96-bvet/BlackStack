@@ -1,0 +1,7 @@
+description: Auto-generated manifest for base64.h
+hash: sha256:60e01d1bfe640f50f7120f753d17591b4a8c12fcfee3ed843327ed415bf68702
+persona_hint: Defense
+source_path: /usr/share/spike/include/base64.h
+tags:
+- unknown
+tool_name: base64.h

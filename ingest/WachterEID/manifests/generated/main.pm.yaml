@@ -1,0 +1,7 @@
+description: Auto-generated manifest for main.pm
+hash: sha256:390c79a7c7ba75281c9514bc58c4898b62acc8d93b2a9e98089aee25edea7b24
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/main.pm
+tags:
+- unknown
+tool_name: main.pm

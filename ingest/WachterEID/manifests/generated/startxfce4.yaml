@@ -1,0 +1,7 @@
+description: Auto-generated manifest for startxfce4
+hash: sha256:6211ca1101f657393b4ea9be05e32159d64505ce876fc3d933abf27d35af0e40
+persona_hint: Defense
+source_path: /usr/bin/startxfce4
+tags:
+- unknown
+tool_name: startxfce4

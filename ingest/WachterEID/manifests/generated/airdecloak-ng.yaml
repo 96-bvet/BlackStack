@@ -1,0 +1,7 @@
+description: Auto-generated manifest for airdecloak-ng
+hash: sha256:1449d29bd4f0273785de0a2113d6039e3fa3970473517106a8b11efaca176f3b
+persona_hint: Defense
+source_path: /usr/bin/airdecloak-ng
+tags:
+- unknown
+tool_name: airdecloak-ng

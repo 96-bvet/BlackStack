@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chsh
+hash: sha256:f57ef00c653feecdd6f1bd31143115ee0fa1b131dda840c6c5b7fda781a89f86
+persona_hint: Defense
+source_path: /usr/bin/chsh
+tags:
+- unknown
+tool_name: chsh

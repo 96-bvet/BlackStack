@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_listpackages
+hash: sha256:6bcb2beba3b94f99552764689a7aa233b9926af41f74a6f5d952056ce3958071
+persona_hint: Defense
+source_path: /usr/bin/dh_listpackages
+tags:
+- unknown
+tool_name: dh_listpackages

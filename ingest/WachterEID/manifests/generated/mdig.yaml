@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdig
+hash: sha256:801e84f5e6fec0e648f20e1b98a85070056b370173fd449e64500737cff85630
+persona_hint: Defense
+source_path: /usr/bin/mdig
+tags:
+- unknown
+tool_name: mdig

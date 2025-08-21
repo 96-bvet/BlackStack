@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chacl
+hash: sha256:5cdea0dea6517d1c7320c1efb6c6fa9ed29886615c351c6631d497b60e572848
+persona_hint: Defense
+source_path: /usr/bin/chacl
+tags:
+- unknown
+tool_name: chacl

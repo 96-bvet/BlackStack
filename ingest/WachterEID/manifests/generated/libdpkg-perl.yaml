@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libdpkg-perl
+hash: sha256:da7d3875a87dc44b12a53b46df1b653d8f42482e6987ac23eef6c5b1669c8840
+persona_hint: Defense
+source_path: /usr/share/bug/libdpkg-perl
+tags:
+- unknown
+tool_name: libdpkg-perl

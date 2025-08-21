@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mssqlclient.py
+hash: sha256:f4d9d2e8d37531d39a3c052470798b0288ed2e28df8d5e7e18eff16cf5326f17
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/mssqlclient.py
+tags:
+- unknown
+tool_name: mssqlclient.py

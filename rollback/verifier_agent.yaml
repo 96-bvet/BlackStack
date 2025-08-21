@@ -1,0 +1,8 @@
+name: verifier_agent
+path: examples/financial_research_agent/agents/verifier_agent.py
+type: py
+category: misc
+hash: dcdb40e4e3c75608fb31dae4c67595e8555d15ebc1e5aaa55921cf4d7a80c271
+approved: true
+import: true
+license_stub: true

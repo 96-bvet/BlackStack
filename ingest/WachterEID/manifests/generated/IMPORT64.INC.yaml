@@ -1,0 +1,7 @@
+description: Auto-generated manifest for IMPORT64.INC
+hash: sha256:c5a0e9665f9645e4cc7d3cc69abef2ebaaf1ffbee68abaeb901cd8b4ff0d43c3
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/MACRO/IMPORT64.INC
+tags:
+- unknown
+tool_name: IMPORT64.INC

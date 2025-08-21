@@ -1,0 +1,7 @@
+description: Auto-generated manifest for securenotes2hashcat.pl
+hash: sha256:137aa0abfefc270d00d062dfa301aa75eb86b32567345acf0200e0b659560a81
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/securenotes2hashcat.pl
+tags:
+- unknown
+tool_name: securenotes2hashcat.pl

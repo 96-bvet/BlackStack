@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nc.openbsd
+hash: sha256:9d0d085840fd2758a5f603c1d826868b955d2d45791bfb8f73b9ee8c06535ae8
+persona_hint: Defense
+source_path: /usr/bin/nc.openbsd
+tags:
+- unknown
+tool_name: nc.openbsd

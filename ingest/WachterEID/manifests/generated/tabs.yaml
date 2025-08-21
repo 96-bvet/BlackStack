@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tabs
+hash: sha256:93d097890a8e11bd9c0da7beb8c9911be0bf7dcc4593b7d3657d005cf4666f5b
+persona_hint: Defense
+source_path: /usr/bin/tabs
+tags:
+- unknown
+tool_name: tabs

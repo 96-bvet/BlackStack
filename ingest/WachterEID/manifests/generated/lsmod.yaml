@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsmod
+hash: sha256:c6dd853884a0df890e1b66366bbc269f18bc6fd6fb7d4b4a19a735f07d1ca4ae
+persona_hint: Defense
+source_path: /usr/bin/lsmod
+tags:
+- unknown
+tool_name: lsmod

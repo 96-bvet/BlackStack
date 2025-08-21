@@ -1,0 +1,7 @@
+description: Auto-generated manifest for license.TXT
+hash: sha256:e87a8db79dfc4d11e4c76a6781539d296756e9e81f70ce406aa335ac1468486b
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/license.TXT
+tags:
+- unknown
+tool_name: license.TXT

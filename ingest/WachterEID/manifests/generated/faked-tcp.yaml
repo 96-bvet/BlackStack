@@ -1,0 +1,7 @@
+description: Auto-generated manifest for faked-tcp
+hash: sha256:46a0970fc6daeb0e49ef3fb261dcbdd2c8d21c993119af571c42d904a8449eb4
+persona_hint: Defense
+source_path: /usr/bin/faked-tcp
+tags:
+- unknown
+tool_name: faked-tcp

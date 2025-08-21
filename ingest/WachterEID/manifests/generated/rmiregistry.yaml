@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rmiregistry
+hash: sha256:73db0090794f11f38eb491c8e49515c0bcd52981874beab01bb92919f456b38b
+persona_hint: Defense
+source_path: /usr/share/burpsuite/jre/bin/rmiregistry
+tags:
+- unknown
+tool_name: rmiregistry

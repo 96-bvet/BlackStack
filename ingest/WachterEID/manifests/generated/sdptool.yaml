@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sdptool
+hash: sha256:1796e475de9b515522235a54abb90c981c4b41e0adba4ce01e2170217c2b0f7d
+persona_hint: Defense
+source_path: /usr/bin/sdptool
+tags:
+- unknown
+tool_name: sdptool

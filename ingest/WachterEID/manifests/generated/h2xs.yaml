@@ -1,0 +1,7 @@
+description: Auto-generated manifest for h2xs
+hash: sha256:7292e1d2b1bcef2a1b05ce8bae00b2651e5f115b5aff07272b1fafbdad9e723f
+persona_hint: Defense
+source_path: /usr/bin/h2xs
+tags:
+- unknown
+tool_name: h2xs

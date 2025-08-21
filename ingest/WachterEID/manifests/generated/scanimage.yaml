@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scanimage
+hash: sha256:c041ed8a8cc52a59b44083f193d4b943758b5e2a1861dd294f51c7e6337b6c45
+persona_hint: Defense
+source_path: /usr/bin/scanimage
+tags:
+- unknown
+tool_name: scanimage

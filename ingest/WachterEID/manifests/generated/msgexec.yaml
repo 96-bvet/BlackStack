@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgexec
+hash: sha256:276439852aa71d92e607d20a815fd8a04525a9a762b15fc9576f68a136ed5035
+persona_hint: Defense
+source_path: /usr/bin/msgexec
+tags:
+- unknown
+tool_name: msgexec

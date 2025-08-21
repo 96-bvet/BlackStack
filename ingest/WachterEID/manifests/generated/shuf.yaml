@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shuf
+hash: sha256:6d845fc5f747178e9a4d7443fbd2495030a78e5790f796ceadaaaf61b5299f10
+persona_hint: Defense
+source_path: /usr/bin/shuf
+tags:
+- unknown
+tool_name: shuf

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ismtp
+hash: sha256:ea39276fe0b91df5e13adf7fa1f16f02bd65507d778ee63203e7f0803c99ceda
+persona_hint: Defense
+source_path: /usr/bin/ismtp
+tags:
+- unknown
+tool_name: ismtp

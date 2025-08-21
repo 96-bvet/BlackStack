@@ -1,0 +1,7 @@
+description: Auto-generated manifest for req1.request
+hash: sha256:46964760a367f10814b82193450f9ac1469f7d763104a886fc52a32634f716b4
+persona_hint: Defense
+source_path: /usr/share/spike/audits/BIZTALK2000/req1.request
+tags:
+- unknown
+tool_name: req1.request

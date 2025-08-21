@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfstruncate
+hash: sha256:9718b483168b83e6df413e26686a7a2cd30ebdc47d253e588ce3c8fa4dd081d9
+persona_hint: Defense
+source_path: /usr/bin/ntfstruncate
+tags:
+- unknown
+tool_name: ntfstruncate

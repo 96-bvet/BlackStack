@@ -1,0 +1,7 @@
+description: Auto-generated manifest for build.sh
+hash: sha256:a34e294fc92a08513c6666a3fe78b145152926dc2b1af9b8a2988d55a6924b34
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/crypto/internal/boring/build.sh
+tags:
+- unknown
+tool_name: build.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sipvicious_svcrack
+hash: sha256:3d028dd98a5d4f1cd9e5e8e8a713cec4de3e1262de9c891d3439803ff13a00d4
+persona_hint: Defense
+source_path: /usr/share/sipvicious/sipvicious_svcrack
+tags:
+- unknown
+tool_name: sipvicious_svcrack

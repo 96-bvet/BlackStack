@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wce
+hash: sha256:4dde0cddae9bcdb14db9a3a4bca9dbeea872812dab1a4bf176de0612b1ae1c0d
+persona_hint: Defense
+source_path: /usr/bin/wce
+tags:
+- unknown
+tool_name: wce

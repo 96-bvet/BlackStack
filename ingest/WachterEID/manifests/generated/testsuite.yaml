@@ -1,0 +1,7 @@
+description: Auto-generated manifest for testsuite
+hash: sha256:987f86103aa876136876c93f85dd05a1afede72226af3777289aa93b29e30c80
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/testsuite
+tags:
+- unknown
+tool_name: testsuite

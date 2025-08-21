@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpio-filter
+hash: sha256:877ab8bb09f6f6909f26011ad8873e08ade464e23007809bfd6926306f3306d1
+persona_hint: Defense
+source_path: /usr/bin/cpio-filter
+tags:
+- unknown
+tool_name: cpio-filter

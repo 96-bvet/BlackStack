@@ -1,0 +1,7 @@
+description: Auto-generated manifest for BeanShellMacroBuilder.java
+hash: sha256:65d60e9d9149e0fc111305a97f93e4bea53fd48017ed60b1da9fa1749ca16a28
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/BeanShellMacroBuilder.java
+tags:
+- unknown
+tool_name: BeanShellMacroBuilder.java

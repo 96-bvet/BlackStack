@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aptitude
+hash: sha256:36824adc92a2fbc5b8b2f99394db0b715d861f8d835c500385dc9f821f6e856b
+persona_hint: Defense
+source_path: /usr/share/bug/aptitude
+tags:
+- unknown
+tool_name: aptitude

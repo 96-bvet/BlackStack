@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hamster-sidejack
+hash: sha256:2a5eb8a1623fbd6f0ae3fb898f7a65c7d6ac20c7510c8131ac9a2ff46577b043
+persona_hint: Defense
+source_path: /usr/bin/hamster-sidejack
+tags:
+- unknown
+tool_name: hamster-sidejack

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-cmin
+hash: sha256:d955b7288bef260173fe49a1e3d186f438d2340ad45a3cdabc6595488688caef
+persona_hint: Defense
+source_path: /usr/bin/afl-cmin
+tags:
+- unknown
+tool_name: afl-cmin

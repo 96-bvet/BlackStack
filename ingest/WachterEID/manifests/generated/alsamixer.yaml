@@ -1,0 +1,7 @@
+description: Auto-generated manifest for alsamixer
+hash: sha256:dd4d0f679b252cccd5b44fd6d9ebe8f74402285a197a309ca25e072c5152be84
+persona_hint: Defense
+source_path: /usr/bin/alsamixer
+tags:
+- unknown
+tool_name: alsamixer

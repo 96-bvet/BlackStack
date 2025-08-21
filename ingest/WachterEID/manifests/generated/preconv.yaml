@@ -1,0 +1,7 @@
+description: Auto-generated manifest for preconv
+hash: sha256:3556df291c2374d20d3bb6040b3a666d238b11e45a1bcca336dafeaddc9f7891
+persona_hint: Defense
+source_path: /usr/bin/preconv
+tags:
+- unknown
+tool_name: preconv

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dd
+hash: sha256:9f3cb6157563063827c7a8c1e191db13ad1d2a3c6821270e4dc520f6cbfb766d
+persona_hint: Defense
+source_path: /usr/bin/dd
+tags:
+- unknown
+tool_name: dd

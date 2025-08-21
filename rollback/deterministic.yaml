@@ -1,0 +1,16 @@
+name: deterministic
+path: examples/agent_patterns/deterministic.py
+type: py
+category: misc
+hash: 4440991ec680b0eec03bfe3516c2989153bfcd6105cbf0fd3f8c88dda6aeb506
+approved: true
+import: true
+license_stub: true
+name: deterministic
+path: examples/cai/agent_patterns/deterministic.py
+type: py
+category: misc
+hash: 93e461b618b1f2bc30129c8a54e77478b08c82ec596480bc94c76d1565bd8522
+approved: true
+import: true
+license_stub: true

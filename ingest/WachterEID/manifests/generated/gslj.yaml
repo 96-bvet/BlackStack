@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gslj
+hash: sha256:17f2c028789d01e46ff751d2f1046570b8915f7d2901fd1a3a010532ddfa4e5e
+persona_hint: Defense
+source_path: /usr/bin/gslj
+tags:
+- unknown
+tool_name: gslj

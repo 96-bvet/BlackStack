@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ignored
+hash: sha256:0c1726f31c05fb2b81a244e00814d2c06860302ebc96165866b0be058001eaa6
+persona_hint: Defense
+source_path: /usr/share/nodejs/dotignore/bin/ignored
+tags:
+- unknown
+tool_name: ignored

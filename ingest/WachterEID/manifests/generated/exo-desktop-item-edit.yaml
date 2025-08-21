@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exo-desktop-item-edit
+hash: sha256:c3733f1669040d94e4c08d79f1bf69789a863040e00a8c4358cedd0c5a225154
+persona_hint: Defense
+source_path: /usr/bin/exo-desktop-item-edit
+tags:
+- unknown
+tool_name: exo-desktop-item-edit

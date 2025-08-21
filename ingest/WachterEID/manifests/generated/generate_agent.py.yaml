@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generate_agent.py
+hash: sha256:9a42446bf96788fb00cc6c09712bee1379048ba2842b6897f34352ca45271537
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/stagers/multi/generate_agent.py
+tags:
+- unknown
+tool_name: generate_agent.py

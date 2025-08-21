@@ -1,0 +1,7 @@
+description: Auto-generated manifest for net-ssl-test
+hash: sha256:e16d7f4bfbde9ca416e25da19959569954894a9d0e3c446d472e011c30c909e8
+persona_hint: Defense
+source_path: /usr/share/doc/libcrypt-ssleay-perl/examples/net-ssl-test
+tags:
+- unknown
+tool_name: net-ssl-test

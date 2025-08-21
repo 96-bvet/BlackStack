@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_test
+hash: sha256:e6a84932337ef5c9a1c32c39817dd6e287daad74f2d824054a7f010d109dd0e9
+persona_hint: Defense
+source_path: /usr/bin/rtl_test
+tags:
+- unknown
+tool_name: rtl_test

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jconsole
+hash: sha256:0c3f155ada54be79b737c27fc0bdf7351c54636d46eb1cdb9bd536b8ff734c6c
+persona_hint: Defense
+source_path: /usr/bin/jconsole
+tags:
+- unknown
+tool_name: jconsole

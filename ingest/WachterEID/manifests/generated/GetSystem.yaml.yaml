@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetSystem.yaml
+hash: sha256:f66359f0f56f93d8a7c5b98822c89f006797ae4610bf81ff6c036b8bc280ef54
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/privesc/SharpSploit/GetSystem.yaml
+tags:
+- unknown
+tool_name: GetSystem.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reg.py
+hash: sha256:328a250645249539f2d520f4bc4beffa53dc3916d3faf289b525540b95d26694
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/reg.py
+tags:
+- unknown
+tool_name: reg.py

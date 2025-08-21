@@ -1,0 +1,7 @@
+description: Auto-generated manifest for secmark.nft
+hash: sha256:bf09d86246791b19b5f281604eca3ea289d5f9edbf97cfcde1c69999c3aa8b2c
+persona_hint: Defense
+source_path: /usr/share/doc/nftables/examples/secmark.nft
+tags:
+- unknown
+tool_name: secmark.nft

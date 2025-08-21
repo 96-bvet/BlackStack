@@ -1,0 +1,7 @@
+description: Auto-generated manifest for groff
+hash: sha256:c22de372aa8d0bdcb46182f57cd153ab3de72d72d35d663f75587d3f9c7aba23
+persona_hint: Defense
+source_path: /usr/bin/groff
+tags:
+- unknown
+tool_name: groff

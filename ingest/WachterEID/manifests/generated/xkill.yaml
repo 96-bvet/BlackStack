@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkill
+hash: sha256:90768995c335d9b3fa313bab733ad9fea03dd32d2cc4cbe47b94e654f77bad16
+persona_hint: Defense
+source_path: /usr/bin/xkill
+tags:
+- unknown
+tool_name: xkill

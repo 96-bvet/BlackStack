@@ -1,0 +1,7 @@
+description: Auto-generated manifest for format_json.py
+hash: sha256:ae6f6661043aaece4a833168e3e78faa2bd4931f1a307e5b1bc4a487260f84d8
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/katex/src/metrics/format_json.py
+tags:
+- unknown
+tool_name: format_json.py

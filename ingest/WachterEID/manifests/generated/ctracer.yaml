@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ctracer
+hash: sha256:9b0e1e3860ca6b733aea482808743f1961672285cb851cd144e08c14b4833c03
+persona_hint: Defense
+source_path: /usr/bin/ctracer
+tags:
+- unknown
+tool_name: ctracer

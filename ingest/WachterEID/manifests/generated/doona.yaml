@@ -1,0 +1,7 @@
+description: Auto-generated manifest for doona
+hash: sha256:9bd265c7462636a2bc1bad6d4cdfaaa42c310241b077659b5914e37ea17d2d4c
+persona_hint: Defense
+source_path: /usr/bin/doona
+tags:
+- unknown
+tool_name: doona

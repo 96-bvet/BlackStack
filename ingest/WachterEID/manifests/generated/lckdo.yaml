@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lckdo
+hash: sha256:d5174c15ed4bfc3aa6ae9f00395d616a724a90c272d3e9788adf1499c99ff381
+persona_hint: Defense
+source_path: /usr/bin/lckdo
+tags:
+- unknown
+tool_name: lckdo

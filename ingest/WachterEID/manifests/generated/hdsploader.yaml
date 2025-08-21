@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hdsploader
+hash: sha256:4a100c901dbdcd56e5ec726ae6f6de91fb3986cfcb98ff4ab377d9362c0c3a33
+persona_hint: Defense
+source_path: /usr/bin/hdsploader
+tags:
+- unknown
+tool_name: hdsploader

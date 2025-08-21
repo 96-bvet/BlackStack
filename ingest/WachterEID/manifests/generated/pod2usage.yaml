@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pod2usage
+hash: sha256:6405327f3f8660ed89c068b760f61ffb9bd180e2997e9ba881be00f6989c6da3
+persona_hint: Defense
+source_path: /usr/bin/pod2usage
+tags:
+- unknown
+tool_name: pod2usage

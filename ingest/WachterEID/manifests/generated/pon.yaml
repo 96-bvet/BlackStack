@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pon
+hash: sha256:23ba43b7dfb82318f504f57174a2ebc43b1ecce41e01092c843ca3e8ecb849a3
+persona_hint: Defense
+source_path: /usr/bin/pon
+tags:
+- unknown
+tool_name: pon

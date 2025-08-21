@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fsmonitor-watchman.sample
+hash: sha256:e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/fsmonitor-watchman.sample
+tags:
+- unknown
+tool_name: fsmonitor-watchman.sample

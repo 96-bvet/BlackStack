@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ionice
+hash: sha256:02ccf10cc32df4c1a13bb1a7f4406a9752c3216c13e02527b58109c79b48f516
+persona_hint: Defense
+source_path: /usr/bin/ionice
+tags:
+- unknown
+tool_name: ionice

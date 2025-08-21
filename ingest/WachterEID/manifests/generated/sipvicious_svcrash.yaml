@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sipvicious_svcrash
+hash: sha256:63035d3b6dc0f7dfab910edcf25dca32686440e5b62da3a0ef529503e1ab1937
+persona_hint: Defense
+source_path: /usr/share/sipvicious/sipvicious_svcrash
+tags:
+- unknown
+tool_name: sipvicious_svcrash

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ThreadlessInject.py
+hash: sha256:dc7385c1538ec6567bb9edd9a0a79d7ae12dc88b44f34e60cc5cdbf875df182c
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/ThreadlessInject.py
+tags:
+- unknown
+tool_name: ThreadlessInject.py

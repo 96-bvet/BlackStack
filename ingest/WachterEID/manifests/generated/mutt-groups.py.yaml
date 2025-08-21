@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mutt-groups.py
+hash: sha256:40640a38bd7ae765cbf9bd1e3d3eb78179cedc59939a888abefeb5eb7cb0d021
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/mutt-groups.py
+tags:
+- unknown
+tool_name: mutt-groups.py

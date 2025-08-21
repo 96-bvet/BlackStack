@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnsync
+hash: sha256:f5cda80c1897912c320f28103c7c47d7f33c1930b6d3214f493be0443f0f1e9f
+persona_hint: Defense
+source_path: /usr/bin/svnsync
+tags:
+- unknown
+tool_name: svnsync

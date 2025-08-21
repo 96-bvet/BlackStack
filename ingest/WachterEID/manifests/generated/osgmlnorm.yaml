@@ -1,0 +1,7 @@
+description: Auto-generated manifest for osgmlnorm
+hash: sha256:0dd3139ce47a9dc43515c9b950e4f93d2e244b824b54a06e41164d4e88f61846
+persona_hint: Defense
+source_path: /usr/bin/osgmlnorm
+tags:
+- unknown
+tool_name: osgmlnorm

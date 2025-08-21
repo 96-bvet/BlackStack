@@ -1,0 +1,16 @@
+name: parallel_offensive_patterns
+path: src/cai/agents/patterns/parallel_offensive_patterns.py
+type: py
+category: misc
+hash: 2a72f4c0755025b23f89772c6b388f88406bc6e8b8f3ae565f00852db51cfd03
+approved: true
+import: true
+license_stub: true
+name: parallel_offensive_patterns
+path: src/cai/agents/patterns/parallel_offensive_patterns.py
+type: py
+category: misc
+hash: 2a72f4c0755025b23f89772c6b388f88406bc6e8b8f3ae565f00852db51cfd03
+approved: true
+import: true
+license_stub: true

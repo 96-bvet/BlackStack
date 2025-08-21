@@ -1,0 +1,7 @@
+description: Auto-generated manifest for keycount.py
+hash: sha256:e9c73ab6038cfbefd89b33ef0eab3d77606c455d6fbac36cdcec69b746970814
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/keycount.py
+tags:
+- unknown
+tool_name: keycount.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-socket-activate
+hash: sha256:1dff6750a19db69cf7ac06e265cfe54475445752128157245ebb13cf16ef46d2
+persona_hint: Defense
+source_path: /usr/bin/systemd-socket-activate
+tags:
+- unknown
+tool_name: systemd-socket-activate

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iptables-xml
+hash: sha256:4d0bff54385eeefe1775ca08a8f8c66d1c8dbf11d2d8295fc98bd37c0c4ecd2c
+persona_hint: Defense
+source_path: /usr/bin/iptables-xml
+tags:
+- unknown
+tool_name: iptables-xml

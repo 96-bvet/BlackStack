@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jinfo
+hash: sha256:e3f888c0a823db3bfd23906260021960225de6e51de52bba9e755d3c626987fa
+persona_hint: Defense
+source_path: /usr/bin/jinfo
+tags:
+- unknown
+tool_name: jinfo

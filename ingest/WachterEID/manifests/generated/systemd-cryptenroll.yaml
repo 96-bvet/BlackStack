@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-cryptenroll
+hash: sha256:cedbb5c72e620492a74777a4e45d5444ad44f4af911f4a8095b0852596e1e228
+persona_hint: Defense
+source_path: /usr/bin/systemd-cryptenroll
+tags:
+- unknown
+tool_name: systemd-cryptenroll

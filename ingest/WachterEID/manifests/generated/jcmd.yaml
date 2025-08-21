@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jcmd
+hash: sha256:2f3869a2a28e06f1fccd61d0b0e2950a6b1fcc08daea34373977954b88d43ec2
+persona_hint: Defense
+source_path: /usr/bin/jcmd
+tags:
+- unknown
+tool_name: jcmd

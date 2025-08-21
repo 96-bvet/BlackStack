@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ticketConverter.py
+hash: sha256:d90259a495c0c30b5228a75bb60ff0ba1c448aafa56c3cd3f5a970fc30c1b5f1
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/ticketConverter.py
+tags:
+- unknown
+tool_name: ticketConverter.py

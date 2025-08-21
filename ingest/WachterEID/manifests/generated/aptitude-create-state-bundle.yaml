@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aptitude-create-state-bundle
+hash: sha256:a36067e0a970f59ca4d7910ab6ddf5c17e54db134dcc327317b4b161bc7378b4
+persona_hint: Defense
+source_path: /usr/bin/aptitude-create-state-bundle
+tags:
+- unknown
+tool_name: aptitude-create-state-bundle

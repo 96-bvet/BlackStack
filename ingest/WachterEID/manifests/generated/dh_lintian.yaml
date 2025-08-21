@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_lintian
+hash: sha256:2bb7e62db3a62045f0d02ed10eb6739005cbbad5a78e5cf78adeca6d9ceafc78
+persona_hint: Defense
+source_path: /usr/bin/dh_lintian
+tags:
+- unknown
+tool_name: dh_lintian

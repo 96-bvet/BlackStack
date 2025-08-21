@@ -1,0 +1,7 @@
+description: Auto-generated manifest for csplit
+hash: sha256:e8882a91822c82375d60a4187118c4d23ee3fca18ca6364a6cb5acffc2cc509e
+persona_hint: Defense
+source_path: /usr/bin/csplit
+tags:
+- unknown
+tool_name: csplit

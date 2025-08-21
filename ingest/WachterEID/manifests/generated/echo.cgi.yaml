@@ -1,0 +1,7 @@
+description: Auto-generated manifest for echo.cgi
+hash: sha256:c30b94bdc8863e57fb6ac90dfa42a3f41385365a5d45107281b9cadd12db00fa
+persona_hint: Defense
+source_path: /usr/share/doc/python3-mechanize/examples/forms/echo.cgi
+tags:
+- unknown
+tool_name: echo.cgi

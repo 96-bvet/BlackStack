@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-desfire-write-ndef
+hash: sha256:87bafc24e1a37952f03d25d9917600c0fd2d2856692c5822f6d3f84c8241b4ff
+persona_hint: Defense
+source_path: /usr/bin/mifare-desfire-write-ndef
+tags:
+- unknown
+tool_name: mifare-desfire-write-ndef

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for glmark2
+hash: sha256:7a753b980948f7018a05f5be62e7fb52ca736999fdd5dc1c05786ed7c923b001
+persona_hint: Defense
+source_path: /usr/bin/glmark2
+tags:
+- unknown
+tool_name: glmark2

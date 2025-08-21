@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remove-trailing-spaces
+hash: sha256:658b4293a64413019df6db7da5a0c2c258d52dab95561553fd13c71a8adddaa5
+persona_hint: Defense
+source_path: /usr/share/pluma/plugins/externaltools/tools/remove-trailing-spaces
+tags:
+- unknown
+tool_name: remove-trailing-spaces

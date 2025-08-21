@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cd-iccdump
+hash: sha256:f6c7d293b000e27c16bae85bd3b2191d0ffcf4366dc71e13e26ad371088ddec2
+persona_hint: Defense
+source_path: /usr/bin/cd-iccdump
+tags:
+- unknown
+tool_name: cd-iccdump

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dkms_packages.py
+hash: sha256:8b57114fa967cd984fc58ab94a66538594445028c217b9a76fa4d2aee3fce84e
+persona_hint: Defense
+source_path: /usr/share/apport/package-hooks/dkms_packages.py
+tags:
+- unknown
+tool_name: dkms_packages.py

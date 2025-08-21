@@ -1,0 +1,7 @@
+description: Auto-generated manifest for twitter.cfg
+hash: sha256:dc278be85631edb784a7fa5a1bf57cc2eb68489df15ff5b902c76586a0275e43
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/twitter.cfg
+tags:
+- unknown
+tool_name: twitter.cfg

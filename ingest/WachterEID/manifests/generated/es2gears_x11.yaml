@@ -1,0 +1,7 @@
+description: Auto-generated manifest for es2gears_x11
+hash: sha256:f8ccbbcd4b445ac3ab2b4dc1d74226da335bbf777d50cdb97a3dae72f2d315e9
+persona_hint: Defense
+source_path: /usr/bin/es2gears_x11
+tags:
+- unknown
+tool_name: es2gears_x11

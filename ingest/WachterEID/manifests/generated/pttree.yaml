@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pttree
+hash: sha256:8bec6efdb4fa86fe0b372c1c16b4143e88f1fb41f308d66356fc8df1afa10cbf
+persona_hint: Defense
+source_path: /usr/bin/pttree
+tags:
+- unknown
+tool_name: pttree

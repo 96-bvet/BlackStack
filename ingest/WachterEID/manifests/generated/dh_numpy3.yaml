@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_numpy3
+hash: sha256:9bd334c95633b2b70562afbf62ae85290d4a50610a9fcbfa346380da3c4cf4ef
+persona_hint: Defense
+source_path: /usr/bin/dh_numpy3
+tags:
+- unknown
+tool_name: dh_numpy3

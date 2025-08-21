@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zcmp
+hash: sha256:6e6da15f127e06d61cbdabb59d3ec9b28b8605178dbe2acf7d275aa6d22e2d0f
+persona_hint: Defense
+source_path: /usr/bin/zcmp
+tags:
+- unknown
+tool_name: zcmp

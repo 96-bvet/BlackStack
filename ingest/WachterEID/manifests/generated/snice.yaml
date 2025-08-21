@@ -1,0 +1,7 @@
+description: Auto-generated manifest for snice
+hash: sha256:301769f59319a1d9b1f497f756456e0c9aff47c846152b06eabc06a5a543daf8
+persona_hint: Defense
+source_path: /usr/bin/snice
+tags:
+- unknown
+tool_name: snice

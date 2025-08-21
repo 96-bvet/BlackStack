@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-windres
+hash: sha256:daa8b6c9d8fe223970e08e97aefe329b2d412e48a414d2b31420eab62de20188
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-windres
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-windres

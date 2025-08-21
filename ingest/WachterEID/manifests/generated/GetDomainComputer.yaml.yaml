@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetDomainComputer.yaml
+hash: sha256:ce2be6e655c9b8cdfe11d1ed22f9175cb3a6c3a52d276eb6fe11568fd37c6c51
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/GetDomainComputer.yaml
+tags:
+- unknown
+tool_name: GetDomainComputer.yaml

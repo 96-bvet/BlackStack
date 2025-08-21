@@ -1,0 +1,16 @@
+name: handoffs
+path: examples/cai/agent_patterns/handoffs.py
+type: py
+category: misc
+hash: d2c43d2ac328f4a388520c41785d3b6edb166cfe92e228693526bfdfef05fa32
+approved: true
+import: true
+license_stub: true
+name: handoffs
+path: src/cai/sdk/agents/handoffs.py
+type: py
+category: misc
+hash: 742320f8f9ea0b7e0bfc49dc7ad24ee51cc813490da1c7f46f9f51fe66821f75
+approved: true
+import: true
+license_stub: true

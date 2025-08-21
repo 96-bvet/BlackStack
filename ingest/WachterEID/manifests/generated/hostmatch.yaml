@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hostmatch
+hash: sha256:2f3a666f664cab25d570a5ff2cdbcd045fe6e852aea69dcbfa26759640b2aafe
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/hostmatch/hostmatch
+tags:
+- unknown
+tool_name: hostmatch

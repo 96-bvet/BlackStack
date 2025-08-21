@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fusermount
+hash: sha256:3b59400a5ed7f2067cc846b30f2c2684f09c935a001943d237f0bddaea37b0b9
+persona_hint: Defense
+source_path: /usr/bin/fusermount
+tags:
+- unknown
+tool_name: fusermount

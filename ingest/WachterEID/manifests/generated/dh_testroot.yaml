@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_testroot
+hash: sha256:bc5bd30c2e2d3a4375b78de2309a1590ef64f4fc561f2ee027e73b98e9075d00
+persona_hint: Defense
+source_path: /usr/bin/dh_testroot
+tags:
+- unknown
+tool_name: dh_testroot

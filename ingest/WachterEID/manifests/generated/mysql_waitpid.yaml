@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_waitpid
+hash: sha256:f3d2918d347d12aac69f176e89c3dac72fb6b4178d5ef9203095aacbe16d3651
+persona_hint: Defense
+source_path: /usr/bin/mysql_waitpid
+tags:
+- unknown
+tool_name: mysql_waitpid

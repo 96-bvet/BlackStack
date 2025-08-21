@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GDI64.INC
+hash: sha256:1a0936a4e31482fdca0f0687349ccd1a23e50d53470a8da762128435d98cba44
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/EQUATES/GDI64.INC
+tags:
+- unknown
+tool_name: GDI64.INC

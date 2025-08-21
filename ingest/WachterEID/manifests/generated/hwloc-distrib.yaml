@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-distrib
+hash: sha256:fcd5c9ecc657f25928c344c81ccc6d5067a385338427e14c255ddb1ed34f94fc
+persona_hint: Defense
+source_path: /usr/bin/hwloc-distrib
+tags:
+- unknown
+tool_name: hwloc-distrib

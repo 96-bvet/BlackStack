@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aclocal-1.16
+hash: sha256:670008c585e9467c95f0fecad139f1dea483f2d32837389b699b7802ade38997
+persona_hint: Defense
+source_path: /usr/bin/aclocal-1.16
+tags:
+- unknown
+tool_name: aclocal-1.16

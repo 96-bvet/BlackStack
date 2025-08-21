@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sz
+hash: sha256:3c2065f7790c61eacc55690ef59546e5aa6e708722ea1efd33c80e91659a85c3
+persona_hint: Defense
+source_path: /usr/bin/sz
+tags:
+- unknown
+tool_name: sz

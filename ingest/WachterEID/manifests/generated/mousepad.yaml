@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mousepad
+hash: sha256:1e02503bb08a317a1731f33ed34b09a6df4d5da8a87f6ba13275d25f6925b6ea
+persona_hint: Defense
+source_path: /usr/bin/mousepad
+tags:
+- unknown
+tool_name: mousepad

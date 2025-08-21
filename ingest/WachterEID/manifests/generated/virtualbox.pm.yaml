@@ -1,0 +1,7 @@
+description: Auto-generated manifest for virtualbox.pm
+hash: sha256:3e172a6b82aff6b8395639f7d68f66fca18cf0f4ae6c57a76d80049d040f0736
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/virtualbox.pm
+tags:
+- unknown
+tool_name: virtualbox.pm

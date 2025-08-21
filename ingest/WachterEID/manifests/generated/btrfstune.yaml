@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btrfstune
+hash: sha256:8b78ad078c9cc4aaa914939b2501620f420086880b45c1ef226f5159c20c0ff7
+persona_hint: Defense
+source_path: /usr/bin/btrfstune
+tags:
+- unknown
+tool_name: btrfstune

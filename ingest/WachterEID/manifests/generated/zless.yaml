@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zless
+hash: sha256:e29f317fc56ce49eb5bd1e938b7f87923b91b40e5516ec9146f678519330f6bb
+persona_hint: Defense
+source_path: /usr/bin/zless
+tags:
+- unknown
+tool_name: zless

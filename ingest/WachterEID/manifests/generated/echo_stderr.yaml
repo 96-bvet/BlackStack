@@ -1,0 +1,7 @@
+description: Auto-generated manifest for echo_stderr
+hash: sha256:0406bca5e840413cf57796e594c4b208581d16eb348d6b57bdd78cf63f491ea3
+persona_hint: Defense
+source_path: /usr/share/mysql/echo_stderr
+tags:
+- unknown
+tool_name: echo_stderr

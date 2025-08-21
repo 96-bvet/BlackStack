@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bsplayer.pm
+hash: sha256:abda86813774773084097d584f4b681d43ac590eef1142168f401e050ecf2aeb
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/bsplayer.pm
+tags:
+- unknown
+tool_name: bsplayer.pm

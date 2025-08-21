@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lessfile
+hash: sha256:93fd34381ad0ba02987818df0f4e6dfdf47d3a606ffd28749e8df48aedde5a68
+persona_hint: Defense
+source_path: /usr/bin/lessfile
+tags:
+- unknown
+tool_name: lessfile

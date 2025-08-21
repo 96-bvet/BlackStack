@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msrpcfuzz.c
+hash: sha256:66960571466e34a39f08704026924a266e2fc433ede00aeb8fcb6b4e21ad35b4
+persona_hint: Defense
+source_path: /usr/share/spike/backups/msrpcfuzz.c
+tags:
+- unknown
+tool_name: msrpcfuzz.c

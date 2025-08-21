@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aria_dump_log
+hash: sha256:416ddd8b9146882f345a5491c3fab72b1087354984657e6a452224f9b92d8cfd
+persona_hint: Defense
+source_path: /usr/bin/aria_dump_log
+tags:
+- unknown
+tool_name: aria_dump_log

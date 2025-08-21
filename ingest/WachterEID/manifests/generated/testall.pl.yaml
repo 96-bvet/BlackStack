@@ -1,0 +1,7 @@
+description: Auto-generated manifest for testall.pl
+hash: sha256:e12a3a7b4dc3ac29aad9b40df936ec256a5f8a86a3f9babc9c84b36c980166cb
+persona_hint: Defense
+source_path: /usr/share/perl5/Sys/Hostname/testall.pl
+tags:
+- unknown
+tool_name: testall.pl

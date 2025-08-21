@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gio-querymodules
+hash: sha256:13778b45338f03ba2c81b97a04247b128a0936f63ce5faf5259cd27a9c970279
+persona_hint: Defense
+source_path: /usr/bin/gio-querymodules
+tags:
+- unknown
+tool_name: gio-querymodules

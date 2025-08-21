@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ckbcomp
+hash: sha256:2a2c8d95973ad6b18d05a4667497d78e4bf97a0d69e4a1870750a19a2a75af6d
+persona_hint: Defense
+source_path: /usr/bin/ckbcomp
+tags:
+- unknown
+tool_name: ckbcomp

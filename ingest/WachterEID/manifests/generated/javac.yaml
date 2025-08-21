@@ -1,0 +1,7 @@
+description: Auto-generated manifest for javac
+hash: sha256:9a325baa1ff7938b2fc8a0dee650b612672ab1be7f1c09c639d4c13edc977498
+persona_hint: Defense
+source_path: /usr/bin/javac
+tags:
+- unknown
+tool_name: javac

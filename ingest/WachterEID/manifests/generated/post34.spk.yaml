@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post34.spk
+hash: sha256:7f0dee0d4aecf8f98c503e0273d28d3325277462b46da6d7359fbb242dda5753
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post34.spk
+tags:
+- unknown
+tool_name: post34.spk

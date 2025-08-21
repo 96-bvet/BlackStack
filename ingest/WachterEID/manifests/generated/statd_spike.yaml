@@ -1,0 +1,7 @@
+description: Auto-generated manifest for statd_spike
+hash: sha256:35371b9faccbce5a741e7900f120c0240dd36c2cad9f24f20641448f167aa3da
+persona_hint: Defense
+source_path: /usr/bin/statd_spike
+tags:
+- unknown
+tool_name: statd_spike

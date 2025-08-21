@@ -1,0 +1,7 @@
+description: Auto-generated manifest for enc2xs
+hash: sha256:9005200ebb19c0328ac671d9a9f72702dd7c3015112878565ffd30f1671bff5d
+persona_hint: Defense
+source_path: /usr/bin/enc2xs
+tags:
+- unknown
+tool_name: enc2xs

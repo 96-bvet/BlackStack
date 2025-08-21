@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post8.txt
+hash: sha256:9cb3031b962fa275b456f74535783fcb025a1d614fdf859f953665b29df8594b
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post8.txt
+tags:
+- unknown
+tool_name: post8.txt

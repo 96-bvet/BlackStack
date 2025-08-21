@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gen-sample-keys.sh
+hash: sha256:47c0f65318e4013797e0ab01ca2aa6f0a631daff26a26ba29d9b0a5ffda1e2f2
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-keys/gen-sample-keys.sh
+tags:
+- unknown
+tool_name: gen-sample-keys.sh

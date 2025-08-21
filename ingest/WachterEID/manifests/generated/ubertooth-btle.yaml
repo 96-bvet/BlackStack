@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-btle
+hash: sha256:40c5360b802d43f8a582bc6c063b70777febe08da3ccdc03d1e68a33f6f26eee
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-btle
+tags:
+- unknown
+tool_name: ubertooth-btle

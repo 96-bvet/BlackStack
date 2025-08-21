@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wce-universal.exe
+hash: sha256:c6333c684762ed4b4129c7f9f49c88c33384b66dfb1f100e459ec6f18526dff7
+persona_hint: Defense
+source_path: /usr/share/windows-resources/wce/wce-universal.exe
+tags:
+- unknown
+tool_name: wce-universal.exe

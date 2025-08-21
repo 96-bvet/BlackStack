@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msfrpc_pro_nexpose.rb
+hash: sha256:313e050f36e703b25d14fac153a81f55a7e9a68d26cf46ce10b12cf4f2c25196
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/msfrpc-client-1.1.2/examples/msfrpc_pro_nexpose.rb
+tags:
+- unknown
+tool_name: msfrpc_pro_nexpose.rb

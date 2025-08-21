@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-node_query6
+hash: sha256:124b8b4785490a81a8e7238b74abbe469a6270287b1599e7304498a63be41e64
+persona_hint: Defense
+source_path: /usr/bin/atk6-node_query6
+tags:
+- unknown
+tool_name: atk6-node_query6

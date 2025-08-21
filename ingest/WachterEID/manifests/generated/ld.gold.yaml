@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ld.gold
+hash: sha256:7eb4c269b2b58f8acc4e1ec302e1217926a48e3c8aa39ac9e91c90a1d23741c3
+persona_hint: Defense
+source_path: /usr/bin/ld.gold
+tags:
+- unknown
+tool_name: ld.gold

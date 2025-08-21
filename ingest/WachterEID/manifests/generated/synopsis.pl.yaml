@@ -1,0 +1,7 @@
+description: Auto-generated manifest for synopsis.pl
+hash: sha256:084a1ca8c80fb0fe20c9041020bfdf4f516ba870eb1e24f7fd3f3fe7f53a8c2b
+persona_hint: Defense
+source_path: /usr/share/doc/libvariable-magic-perl/examples/synopsis.pl
+tags:
+- unknown
+tool_name: synopsis.pl

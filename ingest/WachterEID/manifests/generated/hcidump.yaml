@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcidump
+hash: sha256:327f4cfd0d35b205186d5e88b486f1ab22bf1f7cc0c72b03e74f8c213dbb592d
+persona_hint: Defense
+source_path: /usr/bin/hcidump
+tags:
+- unknown
+tool_name: hcidump

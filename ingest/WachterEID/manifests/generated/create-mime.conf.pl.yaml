@@ -1,0 +1,7 @@
+description: Auto-generated manifest for create-mime.conf.pl
+hash: sha256:ba3f9196bfa879592e1d20d61e34dba74ea4e7c3b07ac679e3e8b426817a77ba
+persona_hint: Defense
+source_path: /usr/share/lighttpd/create-mime.conf.pl
+tags:
+- unknown
+tool_name: create-mime.conf.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for t1disasm
+hash: sha256:24e440358f6e03b54634928dd62e2dc7d503d51abeb60b93ac8866c814751d3e
+persona_hint: Defense
+source_path: /usr/bin/t1disasm
+tags:
+- unknown
+tool_name: t1disasm

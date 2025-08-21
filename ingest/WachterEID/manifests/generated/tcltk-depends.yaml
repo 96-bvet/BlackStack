@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcltk-depends
+hash: sha256:1c23d8cb77a788c39381d2adebacc9bef679c439629dcb736b9308d221a0779e
+persona_hint: Defense
+source_path: /usr/bin/tcltk-depends
+tags:
+- unknown
+tool_name: tcltk-depends

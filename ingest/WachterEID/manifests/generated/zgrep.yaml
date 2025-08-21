@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zgrep
+hash: sha256:2f506d3547724df8e8dc9bdfa73bccb1a641b530fd5a40adc9b537f851d86b7f
+persona_hint: Defense
+source_path: /usr/bin/zgrep
+tags:
+- unknown
+tool_name: zgrep

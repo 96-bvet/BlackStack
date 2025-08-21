@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dnet
+hash: sha256:f3ddb4cdc990fe1a8bd6a9d76171283a4ce046ae880c118e5ae8563fc36992e2
+persona_hint: Defense
+source_path: /usr/bin/dnet
+tags:
+- unknown
+tool_name: dnet

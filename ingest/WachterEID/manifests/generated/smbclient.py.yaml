@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbclient.py
+hash: sha256:e10e6b73add2c4f6678bc833105039e5963f0d80284ea8ed6d642a206da67c08
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/smbclient.py
+tags:
+- unknown
+tool_name: smbclient.py

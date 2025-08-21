@@ -1,0 +1,7 @@
+description: Auto-generated manifest for envsubst
+hash: sha256:eb202b2879f44bf060ef24b0abfc42b74014ff1e0bda74a91b20411a4d399a0b
+persona_hint: Defense
+source_path: /usr/bin/envsubst
+tags:
+- unknown
+tool_name: envsubst

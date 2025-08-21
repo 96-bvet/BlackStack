@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-extract_networks6
+hash: sha256:51f2de899d022cafc3d8f8bbc84df069054b86c2b2ffa94ebf01c9d4ebfe990c
+persona_hint: Defense
+source_path: /usr/bin/atk6-extract_networks6
+tags:
+- unknown
+tool_name: atk6-extract_networks6

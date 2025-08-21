@@ -1,0 +1,7 @@
+description: Auto-generated manifest for parrot-ls
+hash: sha256:6bc8803d47b94d7764bb8851564f81652613667b95f3ed451db39fa5bb404f57
+persona_hint: Defense
+source_path: /usr/bin/parrot-ls
+tags:
+- unknown
+tool_name: parrot-ls

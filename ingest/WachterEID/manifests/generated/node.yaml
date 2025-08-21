@@ -1,0 +1,7 @@
+description: Auto-generated manifest for node
+hash: sha256:afcce1ab02347e156070d1a3911b7371ddb2fc1986f7c0942bf15b73406b2948
+persona_hint: Defense
+source_path: /usr/bin/node
+tags:
+- unknown
+tool_name: node

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zip
+hash: sha256:f718b59a4b1a647d2a9ce52fdec4011b626f581d5fd34ba598aae333611600ce
+persona_hint: Defense
+source_path: /usr/bin/zip
+tags:
+- unknown
+tool_name: zip

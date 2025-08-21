@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GoogleSearch_v2.1.12_getjar.sisx
+hash: sha256:087b250e432b57eb417a1e1b9f13fc5d035efdacdb8e76651830c23d568a6364
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/getjar/GoogleSearch_v2.1.12_getjar.sisx
+tags:
+- unknown
+tool_name: GoogleSearch_v2.1.12_getjar.sisx

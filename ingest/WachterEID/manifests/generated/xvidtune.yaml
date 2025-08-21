@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xvidtune
+hash: sha256:2281e6bfe663913fcae3ec05270bc742a87b3e05a3f60ef00eb0f104024ca966
+persona_hint: Defense
+source_path: /usr/bin/xvidtune
+tags:
+- unknown
+tool_name: xvidtune

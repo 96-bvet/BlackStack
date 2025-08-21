@@ -1,0 +1,7 @@
+description: Auto-generated manifest for merge-graph.py
+hash: sha256:7bc523236924131e2c826bc0c402230f60f66c094810cfefb3a9c7a06349eaca
+persona_hint: Defense
+source_path: /usr/share/doc/subversion/examples/merge-graph.py
+tags:
+- unknown
+tool_name: merge-graph.py

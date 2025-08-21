@@ -1,0 +1,7 @@
+description: Auto-generated manifest for loadexecutable.asm
+hash: sha256:a18d181311d1217e91e4548a0b0cfc7098c6ff690384df7faeaf9e5941f2d921
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Container/32/loadexecutable.asm
+tags:
+- unknown
+tool_name: loadexecutable.asm

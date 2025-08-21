@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opera
+hash: sha256:63b5cfa599362fa7e92c4fba520814cba5b5223d1691a1b34d44914ad466221d
+persona_hint: Defense
+source_path: /usr/bin/opera
+tags:
+- unknown
+tool_name: opera

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for compat_pl
+hash: sha256:5f7d8792d73eb789a23907b86fe17a81cbd86fd020ff8e2da0e66b25ede912c5
+persona_hint: Defense
+source_path: /usr/share/doc/libauthen-sasl-perl/examples/compat_pl
+tags:
+- unknown
+tool_name: compat_pl

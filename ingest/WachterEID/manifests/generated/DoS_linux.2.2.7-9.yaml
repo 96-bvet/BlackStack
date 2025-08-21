@@ -1,0 +1,7 @@
+description: Auto-generated manifest for DoS_linux.2.2.7-9
+hash: sha256:f30a2c2de434f161b040d62fd0fcaedfc3b9d0b7a96d167e429fc90ccfe29d7a
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/DoS_linux.2.2.7-9
+tags:
+- unknown
+tool_name: DoS_linux.2.2.7-9

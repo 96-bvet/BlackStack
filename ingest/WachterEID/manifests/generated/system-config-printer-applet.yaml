@@ -1,0 +1,7 @@
+description: Auto-generated manifest for system-config-printer-applet
+hash: sha256:36530191fce634be9fbbc1c2415ea7eac597b7b61cf344a007a44a79d8978b41
+persona_hint: Defense
+source_path: /usr/bin/system-config-printer-applet
+tags:
+- unknown
+tool_name: system-config-printer-applet

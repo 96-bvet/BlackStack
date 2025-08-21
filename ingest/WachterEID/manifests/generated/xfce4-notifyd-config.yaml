@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-notifyd-config
+hash: sha256:22c08a9d398aef9972a9a9191bdc790fdad2ad0ae0e3e47fce33c18691bbedc7
+persona_hint: Defense
+source_path: /usr/bin/xfce4-notifyd-config
+tags:
+- unknown
+tool_name: xfce4-notifyd-config

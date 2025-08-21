@@ -1,0 +1,7 @@
+description: Auto-generated manifest for activate-global-python-argcomplete
+hash: sha256:343690afe7b1b2088e80a49933a388fc49dd3746b8d08fa9a479222887192329
+persona_hint: Defense
+source_path: /usr/bin/activate-global-python-argcomplete
+tags:
+- unknown
+tool_name: activate-global-python-argcomplete

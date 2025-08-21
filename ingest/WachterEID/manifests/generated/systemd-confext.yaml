@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-confext
+hash: sha256:0e5ffef978b22801f98cd9d0c7677085028d111d5457cbd8c15633b6d217103a
+persona_hint: Defense
+source_path: /usr/bin/systemd-confext
+tags:
+- unknown
+tool_name: systemd-confext

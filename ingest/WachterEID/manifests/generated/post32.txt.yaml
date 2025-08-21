@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post32.txt
+hash: sha256:220af2abe1a39f881227efdfc90df74d1d9033ed6b5de7d64e4f53e932d0ab90
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post32.txt
+tags:
+- unknown
+tool_name: post32.txt

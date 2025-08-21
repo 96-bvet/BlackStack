@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x509_cert_details.pl
+hash: sha256:8c060ed0017092b51a118236a241acb72a97cb0a4b82e1b0f58e7c34bd34d765
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/x509_cert_details.pl
+tags:
+- unknown
+tool_name: x509_cert_details.pl

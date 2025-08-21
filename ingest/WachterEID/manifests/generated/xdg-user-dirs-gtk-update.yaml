@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-user-dirs-gtk-update
+hash: sha256:067969d4e46ff0e1db4d8a9eb8b80ccfcd366e1a04662f46d188a974ce2569fa
+persona_hint: Defense
+source_path: /usr/bin/xdg-user-dirs-gtk-update
+tags:
+- unknown
+tool_name: xdg-user-dirs-gtk-update

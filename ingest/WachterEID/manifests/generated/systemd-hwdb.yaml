@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-hwdb
+hash: sha256:a29134a8e0d96f020e7f02424ddb89e6c0dbe788b2cedfadc365a15dae2cb0b9
+persona_hint: Defense
+source_path: /usr/bin/systemd-hwdb
+tags:
+- unknown
+tool_name: systemd-hwdb

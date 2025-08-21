@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetNetLoggedOnUser.yaml
+hash: sha256:8cb30727dc417956a28adcdec5d15a43b7cb346d672e0084dd535f62a49bb33d
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/GetNetLoggedOnUser.yaml
+tags:
+- unknown
+tool_name: GetNetLoggedOnUser.yaml

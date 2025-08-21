@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pslog
+hash: sha256:79f2eb82f85ea3fe4874db4fa596f334a1e715d6c84fdcb2c1193ad02c5493bc
+persona_hint: Defense
+source_path: /usr/bin/pslog
+tags:
+- unknown
+tool_name: pslog

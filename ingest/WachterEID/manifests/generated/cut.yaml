@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cut
+hash: sha256:fd54b387a71e9c2f774997d0fe7aff65416a85cb9b39f921fa13ee98f3eca809
+persona_hint: Defense
+source_path: /usr/bin/cut
+tags:
+- unknown
+tool_name: cut

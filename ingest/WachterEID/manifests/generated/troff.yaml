@@ -1,0 +1,7 @@
+description: Auto-generated manifest for troff
+hash: sha256:58f8bc810076ca65a3db1c94a8735f055a8da607c959b5887b1382cc44e6f664
+persona_hint: Defense
+source_path: /usr/bin/troff
+tags:
+- unknown
+tool_name: troff

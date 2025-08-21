@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installtmpfiles
+hash: sha256:debf80804e5a3410eaf82fb0a06a2f7705f98c3bc2a4220f789eb7aee702ec20
+persona_hint: Defense
+source_path: /usr/bin/dh_installtmpfiles
+tags:
+- unknown
+tool_name: dh_installtmpfiles

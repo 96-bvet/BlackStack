@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrdp-dis
+hash: sha256:0af3a9b22e239d374f66e7f17792d86242a5ecd5d699d0ca718276fe2db7b1f1
+persona_hint: Defense
+source_path: /usr/bin/xrdp-dis
+tags:
+- unknown
+tool_name: xrdp-dis

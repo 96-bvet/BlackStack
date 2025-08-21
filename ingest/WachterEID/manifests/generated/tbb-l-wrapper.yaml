@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tbb-l-wrapper
+hash: sha256:4c38e3d25dbc8255b3a147a289537fd571bcb2d6ecfc4a10924bd60c9bd94b16
+persona_hint: Defense
+source_path: /usr/share/doc/torbrowser-launcher/examples/tbb-l-wrapper
+tags:
+- unknown
+tool_name: tbb-l-wrapper

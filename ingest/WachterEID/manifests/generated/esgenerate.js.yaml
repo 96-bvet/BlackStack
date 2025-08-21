@@ -1,0 +1,7 @@
+description: Auto-generated manifest for esgenerate.js
+hash: sha256:5747d64dfa8e01c788c437c3738a6df39a85a6e5991c1d98d105bf2bc1641100
+persona_hint: Defense
+source_path: /usr/share/nodejs/escodegen/bin/esgenerate.js
+tags:
+- unknown
+tool_name: esgenerate.js

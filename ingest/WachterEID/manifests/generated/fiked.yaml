@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fiked
+hash: sha256:3b3ec4926f1c0b6a3c028a2246062e5bbfbf3415dfb7d454a9783bf9b4471a38
+persona_hint: Defense
+source_path: /usr/bin/fiked
+tags:
+- unknown
+tool_name: fiked

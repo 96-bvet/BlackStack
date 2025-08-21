@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installcron
+hash: sha256:eb5a6c0a12ea78b79b65b1ac90001c20106ce0c12091351b8a3b86e15b8d0a82
+persona_hint: Defense
+source_path: /usr/bin/dh_installcron
+tags:
+- unknown
+tool_name: dh_installcron

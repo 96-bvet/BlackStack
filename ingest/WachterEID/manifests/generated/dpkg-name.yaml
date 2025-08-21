@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-name
+hash: sha256:805ab9e65cd9ce465b2c6f2335a277feb77c69279d2eff8eee5a0593bc70393c
+persona_hint: Defense
+source_path: /usr/bin/dpkg-name
+tags:
+- unknown
+tool_name: dpkg-name

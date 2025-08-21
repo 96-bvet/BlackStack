@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ccleaner.pm
+hash: sha256:99f2afc8492f67e008f0a98cae1d792c7df7036d9be94381eff0ef67fa2426bb
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/ccleaner.pm
+tags:
+- unknown
+tool_name: ccleaner.pm

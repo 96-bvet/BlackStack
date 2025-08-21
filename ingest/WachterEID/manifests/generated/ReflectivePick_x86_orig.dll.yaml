@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ReflectivePick_x86_orig.dll
+hash: sha256:aab5032063270e1ad1d9e901aa1a4cfe4893e366ef9deaf28fa249e97e113984
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/ReflectivePick_x86_orig.dll
+tags:
+- unknown
+tool_name: ReflectivePick_x86_orig.dll

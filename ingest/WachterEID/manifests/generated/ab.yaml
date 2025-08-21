@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ab
+hash: sha256:27df8b2c40a70bb1f94b44cff6a2c72a3895c396a75231d20322c2345dc2960b
+persona_hint: Defense
+source_path: /usr/bin/ab
+tags:
+- unknown
+tool_name: ab

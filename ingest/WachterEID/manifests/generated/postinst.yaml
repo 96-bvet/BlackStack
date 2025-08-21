@@ -1,0 +1,7 @@
+description: Auto-generated manifest for postinst
+hash: sha256:07d40ad223c924a05d65d383dc456ecbf9554eb1871db7f5143c9629db0b2bb4
+persona_hint: Defense
+source_path: /usr/share/doc/sgml-base/examples/postinst
+tags:
+- unknown
+tool_name: postinst

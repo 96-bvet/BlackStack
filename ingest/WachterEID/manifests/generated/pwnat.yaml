@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pwnat
+hash: sha256:e31a62b2d8c18c35278adffd33a4809cdf10207e112f7e27c1a6ffa187cd152a
+persona_hint: Defense
+source_path: /usr/bin/pwnat
+tags:
+- unknown
+tool_name: pwnat

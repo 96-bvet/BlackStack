@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sessreg
+hash: sha256:1d47844773ddcb97492d81b0c57df4f04c0efc9ecf36e1a0aff1dce78e6cde49
+persona_hint: Defense
+source_path: /usr/bin/sessreg
+tags:
+- unknown
+tool_name: sessreg

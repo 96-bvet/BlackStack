@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-cc
+hash: sha256:160b00b787c8e252028b4d9080c5046b527d2869505c6058ac05b34bd7ed174e
+persona_hint: Defense
+source_path: /usr/bin/afl-cc
+tags:
+- unknown
+tool_name: afl-cc

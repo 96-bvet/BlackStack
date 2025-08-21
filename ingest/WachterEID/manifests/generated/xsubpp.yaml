@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsubpp
+hash: sha256:c8c0f265dd2f3f247f179a5464bddfe6391b9e06996e961fa15c51c2e26e39a3
+persona_hint: Defense
+source_path: /usr/bin/xsubpp
+tags:
+- unknown
+tool_name: xsubpp

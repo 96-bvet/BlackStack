@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-info
+hash: sha256:774d962cbe4eddbcb6bf0e021c573c0c4debd0b4c0d801c6b9419a5c82f743b8
+persona_hint: Defense
+source_path: /usr/bin/hwloc-info
+tags:
+- unknown
+tool_name: hwloc-info

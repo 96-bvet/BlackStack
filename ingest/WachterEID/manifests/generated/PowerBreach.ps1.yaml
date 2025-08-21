@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PowerBreach.ps1
+hash: sha256:46b36e5b7147cc02d8dd97d4ce84958c5edcc72e65e4c2369964fc9192d3fb80
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/persistence/PowerBreach.ps1
+tags:
+- unknown
+tool_name: PowerBreach.ps1

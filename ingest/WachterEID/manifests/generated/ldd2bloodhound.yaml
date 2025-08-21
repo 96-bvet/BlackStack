@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ldd2bloodhound
+hash: sha256:a6e53d6f3f5ae379a1adf7a82b8bdef36a44a00cf6f0f8b802c489bae70a0e23
+persona_hint: Defense
+source_path: /usr/bin/ldd2bloodhound
+tags:
+- unknown
+tool_name: ldd2bloodhound

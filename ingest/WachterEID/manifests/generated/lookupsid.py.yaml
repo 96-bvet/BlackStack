@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lookupsid.py
+hash: sha256:19b9c4803dbb724171e3f81167a4e08ad6d3d89e8f9c7373d403a349858f7771
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/lookupsid.py
+tags:
+- unknown
+tool_name: lookupsid.py

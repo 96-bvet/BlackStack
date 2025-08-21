@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hpmount
+hash: sha256:ad2219d6df45ae1ae39d044cb83b953c92c6a4b1de40448d0ff5444c29d3ae15
+persona_hint: Defense
+source_path: /usr/bin/hpmount
+tags:
+- unknown
+tool_name: hpmount

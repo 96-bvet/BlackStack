@@ -1,0 +1,8 @@
+name: dynamic_system_prompt
+path: examples/basic/dynamic_system_prompt.py
+type: py
+category: misc
+hash: 3dbbbd440b37daf1c3dfc49d28f38989b1a65f2f0b0c40f04290a8f2fc85ae16
+approved: true
+import: true
+license_stub: true

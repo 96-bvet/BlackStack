@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntptrace
+hash: sha256:b1bdcb037458cadfe3ed714123d90b3b39bf6c00cf564e0570ed84c271d41e5d
+persona_hint: Defense
+source_path: /usr/bin/ntptrace
+tags:
+- unknown
+tool_name: ntptrace

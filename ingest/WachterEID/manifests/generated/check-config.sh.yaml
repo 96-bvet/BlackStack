@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check-config.sh
+hash: sha256:e1f72f96c766f7f680c612fd7c91ecfbdd90006f02829c87b322ae9b961e07fd
+persona_hint: Defense
+source_path: /usr/share/docker.io/contrib/check-config.sh
+tags:
+- unknown
+tool_name: check-config.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_spiflash
+hash: sha256:74677fa3b53f73385a5817ff9a9e75291fcbd69b6b21a4d427ba00245e3cd9e3
+persona_hint: Defense
+source_path: /usr/bin/hackrf_spiflash
+tags:
+- unknown
+tool_name: hackrf_spiflash

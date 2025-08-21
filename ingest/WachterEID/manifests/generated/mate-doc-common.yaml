@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-doc-common
+hash: sha256:fb0d0ed6627cf9fc8ad651f158c7b9acd2911f9c6d6c864ed3211d7525c4ccbb
+persona_hint: Defense
+source_path: /usr/bin/mate-doc-common
+tags:
+- unknown
+tool_name: mate-doc-common

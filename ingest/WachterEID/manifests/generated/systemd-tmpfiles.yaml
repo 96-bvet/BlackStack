@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-tmpfiles
+hash: sha256:786f094f6c37f0559ba97b096daa8757d5225b8f1535194473465d963419b306
+persona_hint: Defense
+source_path: /usr/bin/systemd-tmpfiles
+tags:
+- unknown
+tool_name: systemd-tmpfiles

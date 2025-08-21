@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgunfmt
+hash: sha256:dd2ab71d5ac274d3c3fd13d8ca75324d11b0cbf6f0a7045edaf70b3f370c9865
+persona_hint: Defense
+source_path: /usr/bin/msgunfmt
+tags:
+- unknown
+tool_name: msgunfmt

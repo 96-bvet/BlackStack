@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aes.asm
+hash: sha256:347830755e5a43a0a5bbb83e80805adfc11af0f9d3e35fc481722036a523939f
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Payloads/Aes/32/aes.asm
+tags:
+- unknown
+tool_name: aes.asm

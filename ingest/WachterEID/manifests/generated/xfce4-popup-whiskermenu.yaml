@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-popup-whiskermenu
+hash: sha256:85ac32c51b3e66d39774114b65dbe73c49ac724885bd9717071ab2ec8b19d10a
+persona_hint: Defense
+source_path: /usr/bin/xfce4-popup-whiskermenu
+tags:
+- unknown
+tool_name: xfce4-popup-whiskermenu

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ss
+hash: sha256:6008b448eb3bab3574e7c6c3316213469afb1b1180921eff68d9d24862472338
+persona_hint: Defense
+source_path: /usr/bin/ss
+tags:
+- unknown
+tool_name: ss

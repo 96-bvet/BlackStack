@@ -1,0 +1,7 @@
+description: Auto-generated manifest for watchdog.node
+hash: sha256:21c56d8729f4dcddb1a1e45ecf95f005ae3344718d695a1d0fd547a0234883bb
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/native-watchdog/build/Release/watchdog.node
+tags:
+- unknown
+tool_name: watchdog.node

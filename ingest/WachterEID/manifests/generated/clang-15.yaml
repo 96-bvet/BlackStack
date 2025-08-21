@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clang-15
+hash: sha256:c15de92028c1dc32c8a98390a1995346ebdfbe78002a65d52711ac9ec1f9f2db
+persona_hint: Defense
+source_path: /usr/share/bash-completion/completions/clang-15
+tags:
+- unknown
+tool_name: clang-15

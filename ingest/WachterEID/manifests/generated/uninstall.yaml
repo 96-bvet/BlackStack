@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uninstall
+hash: sha256:672199cec258bd8ecc95be5472114e00f1a7e3305bce73dece289820d3473431
+persona_hint: Defense
+source_path: /usr/share/burpsuite/uninstall
+tags:
+- unknown
+tool_name: uninstall

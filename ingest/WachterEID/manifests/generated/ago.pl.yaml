@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ago.pl
+hash: sha256:fe2ad3f5e96972fbcb6d5719387b6276d40452f34746997b66a1f023859e1eda
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/ago.pl
+tags:
+- unknown
+tool_name: ago.pl

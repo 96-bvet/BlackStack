@@ -1,0 +1,7 @@
+description: Auto-generated manifest for CVE_2008_5353.java
+hash: sha256:eb9c51ad2d71ce81c146a99c96efecd6c8f111b85a6d705409fe3e9ea8bd366e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/loader/CVE_2008_5353.java
+tags:
+- unknown
+tool_name: CVE_2008_5353.java

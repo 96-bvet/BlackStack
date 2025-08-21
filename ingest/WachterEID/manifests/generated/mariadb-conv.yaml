@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-conv
+hash: sha256:c33b4fb69b43788f78b57e72c2550ae73be6bbcb6bef8b99cfa59511643f9b1a
+persona_hint: Defense
+source_path: /usr/bin/mariadb-conv
+tags:
+- unknown
+tool_name: mariadb-conv

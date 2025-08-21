@@ -1,0 +1,7 @@
+description: Auto-generated manifest for checkbandwidth
+hash: sha256:698a2e1e8d5cb27671cf529d9ea0ba6f75268f560d68bf48461c8a13f35e5a10
+persona_hint: Defense
+source_path: /usr/share/doc/libsnmp-perl/examples/checkbandwidth
+tags:
+- unknown
+tool_name: checkbandwidth

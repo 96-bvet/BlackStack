@@ -1,0 +1,7 @@
+description: Auto-generated manifest for semver.js
+hash: sha256:59ab5bfd6c6d4f124269d7419fde08368ac3462e2fb17d2f707d8816ff9764c0
+persona_hint: Defense
+source_path: /usr/share/nodejs/semver/bin/semver.js
+tags:
+- unknown
+tool_name: semver.js

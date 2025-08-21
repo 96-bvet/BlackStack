@@ -1,0 +1,7 @@
+description: Auto-generated manifest for webacoo
+hash: sha256:974f1fd148d26aa1667c411595c0ff11a42ed978f840f573eba639de34dbaad7
+persona_hint: Defense
+source_path: /usr/bin/webacoo
+tags:
+- unknown
+tool_name: webacoo

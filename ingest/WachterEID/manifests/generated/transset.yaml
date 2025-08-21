@@ -1,0 +1,7 @@
+description: Auto-generated manifest for transset
+hash: sha256:02d034bb288a22b10b4ef76fe320f68892327e6a15e69c73e0fd6c536260c64e
+persona_hint: Defense
+source_path: /usr/bin/transset
+tags:
+- unknown
+tool_name: transset

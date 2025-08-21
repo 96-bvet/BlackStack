@@ -1,0 +1,7 @@
+description: Auto-generated manifest for w3m
+hash: sha256:d81b117acc31adab9de6e9ede9ad0c5d666e0a4c9493ce31de3db26cca13bebe
+persona_hint: Defense
+source_path: /usr/bin/w3m
+tags:
+- unknown
+tool_name: w3m

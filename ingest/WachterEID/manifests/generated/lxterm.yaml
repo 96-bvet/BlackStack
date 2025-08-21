@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lxterm
+hash: sha256:11c3ca65a185f28c07ef1fe563cd3d192718ed9e0b743e06248f5159651bfda3
+persona_hint: Defense
+source_path: /usr/bin/lxterm
+tags:
+- unknown
+tool_name: lxterm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvidia-sleep.sh
+hash: sha256:eeedbfa3bbc7118b7d667b108076db793cba11ad1fbc9e928198c153a3da737f
+persona_hint: Defense
+source_path: /usr/bin/nvidia-sleep.sh
+tags:
+- unknown
+tool_name: nvidia-sleep.sh

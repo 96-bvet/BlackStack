@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-access
+hash: sha256:601ab8b8093a3f1d361c674a8ae049bfec832b28d480bfe466e839e169c90293
+persona_hint: Defense
+source_path: /usr/bin/mariadb-access
+tags:
+- unknown
+tool_name: mariadb-access

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wce32.exe
+hash: sha256:ecbac2a6c0bf8dbc7bed2370ed098cd43a56b0d69a0db1d5715751270711f1d6
+persona_hint: Defense
+source_path: /usr/share/windows-resources/wce/wce32.exe
+tags:
+- unknown
+tool_name: wce32.exe

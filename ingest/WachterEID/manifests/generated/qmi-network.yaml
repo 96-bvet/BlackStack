@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qmi-network
+hash: sha256:6611b1ac7daf7e0fb96d3d1d9e214fbda94803d28d7fb420437a60ebf1b0e20f
+persona_hint: Defense
+source_path: /usr/bin/qmi-network
+tags:
+- unknown
+tool_name: qmi-network

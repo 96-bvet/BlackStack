@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.rtsp
+hash: sha256:ea8e40aae8a488aaca897396389c946c2113b4da86c4212e1e159803849fe675
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.rtsp
+tags:
+- unknown
+tool_name: basic.rtsp

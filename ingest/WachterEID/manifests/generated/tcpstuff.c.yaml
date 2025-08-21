@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpstuff.c
+hash: sha256:dd099171ccea30b1e1078206f6ba2687ed395143828fefd6a8a20296757b094e
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/tcpstuff.c
+tags:
+- unknown
+tool_name: tcpstuff.c

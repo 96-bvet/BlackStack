@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sbox.asm
+hash: sha256:a57e81799e87cb8f020d8fa3b4405412600914026aa44f9abddf1d88fdd436d7
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Payloads/Aes/32/sbox.asm
+tags:
+- unknown
+tool_name: sbox.asm

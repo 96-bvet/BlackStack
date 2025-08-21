@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cramtest.pl
+hash: sha256:f76d4c809ee99d2af02cea2abf521eae41429b3e67d789920d77945280b49a0a
+persona_hint: Defense
+source_path: /usr/share/doc/exim4-base/examples/cramtest.pl
+tags:
+- unknown
+tool_name: cramtest.pl

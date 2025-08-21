@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-mkpdf
+hash: sha256:dc83bcf6e5753e622ff53eaf6308be153ebddf91bd7f71f61f6ee594b661b133
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-mkpdf
+tags:
+- unknown
+tool_name: gtkdoc-mkpdf

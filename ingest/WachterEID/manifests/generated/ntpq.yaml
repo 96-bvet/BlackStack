@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntpq
+hash: sha256:b0cb0e98273e72575cb139a95719a15afad153a50749b653980850bb9161035a
+persona_hint: Defense
+source_path: /usr/bin/ntpq
+tags:
+- unknown
+tool_name: ntpq

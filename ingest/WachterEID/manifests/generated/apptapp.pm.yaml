@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apptapp.pm
+hash: sha256:90cd714c90c12fd5c7168f012127b0c2033228e2dfdf94af63b7210637609eaa
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/apptapp.pm
+tags:
+- unknown
+tool_name: apptapp.pm

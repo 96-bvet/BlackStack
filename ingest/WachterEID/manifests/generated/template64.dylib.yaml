@@ -1,0 +1,7 @@
+description: Auto-generated manifest for template64.dylib
+hash: sha256:027858b4268787155fa36f00cffc5d857025b8956363b936b4775e9e6233a70a
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/hijackers/template64.dylib
+tags:
+- unknown
+tool_name: template64.dylib

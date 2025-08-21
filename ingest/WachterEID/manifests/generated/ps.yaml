@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ps
+hash: sha256:b2a1f7b6ae39ca71cf915d9553877df8f65e1b5ee39c4c269ee3c0d0bb282546
+persona_hint: Defense
+source_path: /usr/bin/ps
+tags:
+- unknown
+tool_name: ps

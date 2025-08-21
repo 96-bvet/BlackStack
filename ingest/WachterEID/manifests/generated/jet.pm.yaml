@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jet.pm
+hash: sha256:00dcf08c771f1abe5cc23ecd8aeb8031e5b319e4886a047a62b5f2508475c06f
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/jet.pm
+tags:
+- unknown
+tool_name: jet.pm

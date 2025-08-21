@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-source
+hash: sha256:9074c5047a2dcbed6dc0f5d9f35a3ba49aabd5d7dfb9768737add989af5e4fc9
+persona_hint: Defense
+source_path: /usr/bin/dpkg-source
+tags:
+- unknown
+tool_name: dpkg-source

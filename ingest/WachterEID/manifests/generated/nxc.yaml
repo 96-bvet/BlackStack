@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nxc
+hash: sha256:4130afd37d2ad8cedbda362eaaf43ddfea5fa32892aafb5d8e06fff8be7b71cc
+persona_hint: Defense
+source_path: /usr/bin/nxc
+tags:
+- unknown
+tool_name: nxc

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tini
+hash: sha256:3a809bd78682d860096f95718e77db0d3bb6d8e93c38135036d6c5b4e857d275
+persona_hint: Defense
+source_path: /usr/bin/tini
+tags:
+- unknown
+tool_name: tini

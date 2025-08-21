@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getjar.pm
+hash: sha256:e0fec0a1a4de83b7d203d7b479f7551f7d5d1ddb266ca97f4846e674859b99a4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/getjar.pm
+tags:
+- unknown
+tool_name: getjar.pm

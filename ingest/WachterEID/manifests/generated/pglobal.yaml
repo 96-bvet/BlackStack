@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pglobal
+hash: sha256:fa9eb36066ced53c47137ccf91ae83f3bbc8ed9ff92de57be6ae5a762918a017
+persona_hint: Defense
+source_path: /usr/bin/pglobal
+tags:
+- unknown
+tool_name: pglobal

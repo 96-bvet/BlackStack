@@ -1,0 +1,7 @@
+description: Auto-generated manifest for server.browser-fuzz.blocks
+hash: sha256:19dc31b5e56f09b1cd08a24d8275ccfacdccb3d27411537a3d92ac6b71a973cd
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/server.browser-fuzz.blocks
+tags:
+- unknown
+tool_name: server.browser-fuzz.blocks

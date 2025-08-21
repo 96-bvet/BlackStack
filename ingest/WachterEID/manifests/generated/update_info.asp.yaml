@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update_info.asp
+hash: sha256:6aece80df364c6c4764b746e221283e0e5607cc3e42bc04c07833c9025a3b157
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/jet/update_info.asp
+tags:
+- unknown
+tool_name: update_info.asp

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for render-dctrl
+hash: sha256:55233756dd296d178afdd30500611db021837890d1b9095c5ef75716f6c7e8af
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/deb822/render-dctrl
+tags:
+- unknown
+tool_name: render-dctrl

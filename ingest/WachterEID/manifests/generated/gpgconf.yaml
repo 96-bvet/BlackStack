@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpgconf
+hash: sha256:14870b448ea181864c78c382b9b5b379ef939e8500c8eb1498134869d4a9d02d
+persona_hint: Defense
+source_path: /usr/bin/gpgconf
+tags:
+- unknown
+tool_name: gpgconf

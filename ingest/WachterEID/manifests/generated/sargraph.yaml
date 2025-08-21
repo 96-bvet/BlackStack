@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sargraph
+hash: sha256:3831a3e1e2011cdda62367a753dd9cd414cd570efad7a7335812025ae66b99c1
+persona_hint: Defense
+source_path: /usr/share/doc/sysstat/examples/sargraph
+tags:
+- unknown
+tool_name: sargraph

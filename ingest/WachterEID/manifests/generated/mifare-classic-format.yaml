@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-classic-format
+hash: sha256:221ff3a48918bbcbc302608054cff34109a140527d6936dee571e1c5b5ba20f9
+persona_hint: Defense
+source_path: /usr/bin/mifare-classic-format
+tags:
+- unknown
+tool_name: mifare-classic-format

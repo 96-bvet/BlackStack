@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsof
+hash: sha256:be5c18d434676144516e48bc8dac0e0e5957e51cc91c4e9f40b1274431f3d864
+persona_hint: Defense
+source_path: /usr/bin/lsof
+tags:
+- unknown
+tool_name: lsof

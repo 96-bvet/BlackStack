@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hyperion.exe
+hash: sha256:c984f520e6d712f54aaa0265c291c49fdf0a67bc37463f9f832c62432d6e49f6
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/hyperion.exe
+tags:
+- unknown
+tool_name: hyperion.exe

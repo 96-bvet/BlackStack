@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbpasswd
+hash: sha256:e6534ce6303c16b510673f0717c289768caff4bc3cb9a712462cb9ddd62d9699
+persona_hint: Defense
+source_path: /usr/bin/smbpasswd
+tags:
+- unknown
+tool_name: smbpasswd

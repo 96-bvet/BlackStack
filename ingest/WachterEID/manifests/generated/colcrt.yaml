@@ -1,0 +1,7 @@
+description: Auto-generated manifest for colcrt
+hash: sha256:33d47a31446d2eb53c442b9d3234ceb353e3e8d786776a9d835b4c807ef29fd8
+persona_hint: Defense
+source_path: /usr/bin/colcrt
+tags:
+- unknown
+tool_name: colcrt

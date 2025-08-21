@@ -1,0 +1,7 @@
+description: Auto-generated manifest for static_files.py
+hash: sha256:c59f49c210fe352501acb87b5c33448fd379e7d57ec376def54e29505f74b0ee
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/static_files.py
+tags:
+- unknown
+tool_name: static_files.py

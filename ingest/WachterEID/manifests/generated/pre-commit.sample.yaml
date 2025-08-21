@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pre-commit.sample
+hash: sha256:f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/pre-commit.sample
+tags:
+- unknown
+tool_name: pre-commit.sample

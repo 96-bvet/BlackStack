@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-dictionary
+hash: sha256:60adc979686a59266854ba20a1029d95614be64290b59fa65d00e4ebeb753620
+persona_hint: Defense
+source_path: /usr/bin/mate-dictionary
+tags:
+- unknown
+tool_name: mate-dictionary

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for example.py
+hash: sha256:e2c12c304172be04323e1663640ef28fd395b150ce4a2f7efbd01f8cc57219fc
+persona_hint: Defense
+source_path: /usr/share/doc/python3-mechanize/examples/forms/example.py
+tags:
+- unknown
+tool_name: example.py

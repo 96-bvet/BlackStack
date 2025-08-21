@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mimipenguin.py
+hash: sha256:e7cfe44c4b6c0c127bb20240ca0d50b7ab400b83a9473bb690940ecec4d91a20
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/python/collection/mimipenguin.py
+tags:
+- unknown
+tool_name: mimipenguin.py

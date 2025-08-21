@@ -1,0 +1,7 @@
+description: Auto-generated manifest for g++
+hash: sha256:dd91977c184e327710578363ad93ebb175c3a457b6236b874fd3911b7c055c65
+persona_hint: Defense
+source_path: /usr/bin/g++
+tags:
+- unknown
+tool_name: g++

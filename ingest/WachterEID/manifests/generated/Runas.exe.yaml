@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Runas.exe
+hash: sha256:e19fe5753fd7cf20e300c0d80d5c8e79e2e6fcd7ccba3f8115f0808d105636be
+persona_hint: Defense
+source_path: /usr/share/responder/tools/MultiRelay/bin/Runas.exe
+tags:
+- unknown
+tool_name: Runas.exe

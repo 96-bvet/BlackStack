@@ -1,0 +1,7 @@
+description: Auto-generated manifest for socat-chain.sh
+hash: sha256:fdf68679d22abd49aefc68c7a6ff9d109f34d90ee1a2a694e7e0243a50b5e151
+persona_hint: Defense
+source_path: /usr/bin/socat-chain.sh
+tags:
+- unknown
+tool_name: socat-chain.sh

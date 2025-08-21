@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dmitry
+hash: sha256:5423755aaf7abe521440f4feb80f8891918138d88e3533a2ed12b586569d5e96
+persona_hint: Defense
+source_path: /usr/bin/dmitry
+tags:
+- unknown
+tool_name: dmitry

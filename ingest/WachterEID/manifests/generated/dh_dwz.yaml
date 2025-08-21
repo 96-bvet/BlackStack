@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_dwz
+hash: sha256:b4330612a70dcad1c6b6abffd253abdfc507af3d8ca92f6edfb2a6037429ba33
+persona_hint: Defense
+source_path: /usr/bin/dh_dwz
+tags:
+- unknown
+tool_name: dh_dwz

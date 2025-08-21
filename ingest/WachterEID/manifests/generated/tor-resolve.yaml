@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tor-resolve
+hash: sha256:a46815c3fcda87e454eae420357b3f0306fa4f9616d5b400e33f615de66cf9ac
+persona_hint: Defense
+source_path: /usr/bin/tor-resolve
+tags:
+- unknown
+tool_name: tor-resolve

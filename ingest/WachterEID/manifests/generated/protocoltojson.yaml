@@ -1,0 +1,7 @@
+description: Auto-generated manifest for protocoltojson
+hash: sha256:92485d2309551fea6ade9b60487c1d35cbb1a3630605c47bc906ab8aa6a5a902
+persona_hint: Defense
+source_path: /usr/bin/protocoltojson
+tags:
+- unknown
+tool_name: protocoltojson

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rcracki_mt
+hash: sha256:48b8d5d6e7b54954878c1abae18c01143bc9afe83e30e50ce196e7875275e690
+persona_hint: Defense
+source_path: /usr/bin/rcracki_mt
+tags:
+- unknown
+tool_name: rcracki_mt

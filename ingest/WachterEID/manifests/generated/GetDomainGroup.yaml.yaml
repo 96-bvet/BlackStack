@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetDomainGroup.yaml
+hash: sha256:1eda8a65b834821976e58678ebbb278deefa41e3c4065947896bbf2af97a4f7b
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/GetDomainGroup.yaml
+tags:
+- unknown
+tool_name: GetDomainGroup.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for filan
+hash: sha256:25d67f4ba47e8f04237fa5318e3c89d18c6c9fd90ef4a7ce257f73dcf819b6f5
+persona_hint: Defense
+source_path: /usr/bin/filan
+tags:
+- unknown
+tool_name: filan

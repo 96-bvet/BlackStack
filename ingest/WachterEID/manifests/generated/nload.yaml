@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nload
+hash: sha256:ab18d00cf6f95963d7c8b0535cd49ba35c50c14c0d3960b71970c1a25f7dec47
+persona_hint: Defense
+source_path: /usr/bin/nload
+tags:
+- unknown
+tool_name: nload

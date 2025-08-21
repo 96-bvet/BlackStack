@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getArch.py
+hash: sha256:a33eda0bd891be3b119f2707b5c45092df3be9c051227dd896b3706ac573555e
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/getArch.py
+tags:
+- unknown
+tool_name: getArch.py

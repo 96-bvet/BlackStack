@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vpnc-script-sshd
+hash: sha256:294d8d15ab47c34994abfc238f07eb1f0aebdc2f40690d375870323c0c43f8ea
+persona_hint: Defense
+source_path: /usr/share/vpnc-scripts/vpnc-script-sshd
+tags:
+- unknown
+tool_name: vpnc-script-sshd

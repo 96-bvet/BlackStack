@@ -1,0 +1,7 @@
+description: Auto-generated manifest for age.pl
+hash: sha256:321659586f0ad33d5395af35f607af749c3aa554503d9dd7ed54d743cafc22bb
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/age.pl
+tags:
+- unknown
+tool_name: age.pl

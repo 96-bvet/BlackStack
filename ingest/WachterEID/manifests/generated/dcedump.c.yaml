@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dcedump.c
+hash: sha256:fd1f478eba3f2172f3811503ae82b47e85bcf752379c9d80a3244ad83882bac7
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/dcedump.c
+tags:
+- unknown
+tool_name: dcedump.c

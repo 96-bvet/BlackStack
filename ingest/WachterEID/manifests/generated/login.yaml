@@ -1,0 +1,7 @@
+description: Auto-generated manifest for login
+hash: sha256:404d24b9438eac4783bb90c440e30e414f746f1f5b9d65a8c178cd3fea435eff
+persona_hint: Defense
+source_path: /usr/bin/login
+tags:
+- unknown
+tool_name: login

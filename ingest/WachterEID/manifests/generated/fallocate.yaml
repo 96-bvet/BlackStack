@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fallocate
+hash: sha256:35888f0737e3a10c4cca703d094acc71e636f324b26ddc140c9a05f4bc47bc65
+persona_hint: Defense
+source_path: /usr/bin/fallocate
+tags:
+- unknown
+tool_name: fallocate

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htextsub
+hash: sha256:d2dedf3533f5d6cf5df97912188f785790cda1f97e5f175512cd65369fd21c9a
+persona_hint: Defense
+source_path: /usr/share/doc/libhtml-parser-perl/examples/htextsub
+tags:
+- unknown
+tool_name: htextsub

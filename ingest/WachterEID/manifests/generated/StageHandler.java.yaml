@@ -1,0 +1,7 @@
+description: Auto-generated manifest for StageHandler.java
+hash: sha256:dc19915844f300a9c7ed28448d5822062abd2273013cdc63b5d0b684daae8784
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/handler/stage/StageHandler.java
+tags:
+- unknown
+tool_name: StageHandler.java

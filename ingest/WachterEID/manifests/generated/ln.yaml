@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ln
+hash: sha256:26b4d4643e3791f277ee734b162428347164435a20456643e5346bfffb60d1a9
+persona_hint: Defense
+source_path: /usr/bin/ln
+tags:
+- unknown
+tool_name: ln

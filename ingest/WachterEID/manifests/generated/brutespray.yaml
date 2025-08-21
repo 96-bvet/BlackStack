@@ -1,0 +1,7 @@
+description: Auto-generated manifest for brutespray
+hash: sha256:3302d341203368ef64f1ee61df1917e71cd87d149ed26c1ec68c60fcc74ad081
+persona_hint: Defense
+source_path: /usr/bin/brutespray
+tags:
+- unknown
+tool_name: brutespray

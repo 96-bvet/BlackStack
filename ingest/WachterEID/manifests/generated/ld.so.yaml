@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ld.so
+hash: sha256:4fcc9bf6afe4458b9dc59004156f18a06dee3bf330a13342eda0679c8f76d81f
+persona_hint: Defense
+source_path: /usr/bin/ld.so
+tags:
+- unknown
+tool_name: ld.so

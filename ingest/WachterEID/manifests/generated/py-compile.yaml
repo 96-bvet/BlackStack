@@ -1,0 +1,7 @@
+description: Auto-generated manifest for py-compile
+hash: sha256:70be023f8bfc85f74344da2ed0739ea95ec18bfcb18cd7cc4063234463de63e8
+persona_hint: Defense
+source_path: /usr/share/automake-1.16/py-compile
+tags:
+- unknown
+tool_name: py-compile

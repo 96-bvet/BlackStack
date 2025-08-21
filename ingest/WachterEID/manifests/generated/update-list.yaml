@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-list
+hash: sha256:73ecd51ccf5994129f4c9e65b8ba4ad40e79e1a92c31a38fd4de69c71b65bc40
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/exploits/shell_shock_scanner/update-list
+tags:
+- unknown
+tool_name: update-list

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for roman
+hash: sha256:30a70bc819d099dd3f30ba6b52087721432653d25a984b476091aef938a16f3f
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/roman
+tags:
+- unknown
+tool_name: roman

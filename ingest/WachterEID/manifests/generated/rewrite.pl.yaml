@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rewrite.pl
+hash: sha256:a08b6d37acaa02a2c7f1ddc065fb401d82793450e9654ffe37aca108e12d669f
+persona_hint: Defense
+source_path: /usr/share/doc/libtext-csv-xs-perl/examples/rewrite.pl
+tags:
+- unknown
+tool_name: rewrite.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkerrors.sh
+hash: sha256:90b71a414eda11971b194f50aa111d81f5b4e8e8d4deb46c1e5bac15692a9905
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mkerrors.sh
+tags:
+- unknown
+tool_name: mkerrors.sh

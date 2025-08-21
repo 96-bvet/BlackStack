@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpg-wks-server
+hash: sha256:7fe5ac531f971aea7d59f464f1e18688c1fa5cd023c1d187374829ccdced46d8
+persona_hint: Defense
+source_path: /usr/bin/gpg-wks-server
+tags:
+- unknown
+tool_name: gpg-wks-server

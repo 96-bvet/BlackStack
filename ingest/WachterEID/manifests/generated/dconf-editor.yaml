@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dconf-editor
+hash: sha256:1cdb3a4f56d84b68d160be4d61d6ef7cc17520c8731866f6d0b88cffe982429d
+persona_hint: Defense
+source_path: /usr/bin/dconf-editor
+tags:
+- unknown
+tool_name: dconf-editor

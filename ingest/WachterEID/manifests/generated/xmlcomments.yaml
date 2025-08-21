@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xmlcomments
+hash: sha256:de80d32f575152bf1ce6824e7e421405be331bf365f11a14a05a482428d515e3
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-parser-perl/examples/xmlcomments
+tags:
+- unknown
+tool_name: xmlcomments

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clpeak
+hash: sha256:63f6aaf156c71893a1cae18093a0c5ceca8566e176b6deea3eb38778e1290ee1
+persona_hint: Defense
+source_path: /usr/bin/clpeak
+tags:
+- unknown
+tool_name: clpeak

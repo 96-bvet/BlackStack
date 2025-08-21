@@ -1,0 +1,7 @@
+description: Auto-generated manifest for inxi
+hash: sha256:93197a483292fa7a90a226d7372d2e630052d89b64b90526286b5b7f9466a23a
+persona_hint: Defense
+source_path: /usr/share/apps/konversation/scripts/inxi
+tags:
+- unknown
+tool_name: inxi

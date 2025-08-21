@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpasswd
+hash: sha256:a32d55a855d3167c44734b59dc4f9756d24fc49d98f5aac2a572493ebe3e41e1
+persona_hint: Defense
+source_path: /usr/bin/gpasswd
+tags:
+- unknown
+tool_name: gpasswd

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bridge-stop
+hash: sha256:c5a5c57b94d5fbe48799a227356e80f12557da75ae81cd7510838c716f37e6b5
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-scripts/bridge-stop
+tags:
+- unknown
+tool_name: bridge-stop

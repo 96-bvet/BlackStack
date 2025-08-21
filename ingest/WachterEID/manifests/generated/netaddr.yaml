@@ -1,0 +1,7 @@
+description: Auto-generated manifest for netaddr
+hash: sha256:eebfe89781a2ef79f5e295df00a8fbaea0487101db5a9f405efdfb561de1d3d8
+persona_hint: Defense
+source_path: /usr/bin/netaddr
+tags:
+- unknown
+tool_name: netaddr

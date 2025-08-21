@@ -1,0 +1,7 @@
+description: Auto-generated manifest for s3scanner
+hash: sha256:2b446ef5791d95d37c185fa16272dde93c8a7180b78502d7033f419a5325341c
+persona_hint: Defense
+source_path: /usr/bin/s3scanner
+tags:
+- unknown
+tool_name: s3scanner

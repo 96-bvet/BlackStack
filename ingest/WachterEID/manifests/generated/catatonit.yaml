@@ -1,0 +1,7 @@
+description: Auto-generated manifest for catatonit
+hash: sha256:d6ea8b578d8b026d1cd73498989f6d087e367fc2c4ad1fe38070a845b25429ec
+persona_hint: Defense
+source_path: /usr/bin/catatonit
+tags:
+- unknown
+tool_name: catatonit

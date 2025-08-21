@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-about-me
+hash: sha256:72485e889585627e8109a29b3bdafcab570ab78bdd50fd14068fdf948e56d0e4
+persona_hint: Defense
+source_path: /usr/bin/mate-about-me
+tags:
+- unknown
+tool_name: mate-about-me

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svn
+hash: sha256:f287caf9bce6ada038679f6fe908b001a3fabbb548189d6cd723bcf9b6985038
+persona_hint: Defense
+source_path: /usr/bin/svn
+tags:
+- unknown
+tool_name: svn

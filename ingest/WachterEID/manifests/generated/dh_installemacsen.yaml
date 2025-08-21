@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installemacsen
+hash: sha256:75bdf7a4a253f2c7f6bdfd8129b995258e0963b4e5ff0fb40eb7507e9bf32909
+persona_hint: Defense
+source_path: /usr/bin/dh_installemacsen
+tags:
+- unknown
+tool_name: dh_installemacsen

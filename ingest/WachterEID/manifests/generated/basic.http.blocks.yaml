@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.http.blocks
+hash: sha256:f1d5db4f8e1971f630d8d2deda8be8f3c842a717b505458464ccd6d9905e90a1
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.http.blocks
+tags:
+- unknown
+tool_name: basic.http.blocks

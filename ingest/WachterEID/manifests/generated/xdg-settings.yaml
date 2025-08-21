@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-settings
+hash: sha256:442777b1f7d206c5ff661fea00dc1a8319df6256feccc54f186f6edacf235801
+persona_hint: Defense
+source_path: /usr/share/burpsuite/burpbrowser/130.0.6723.69/xdg-settings
+tags:
+- unknown
+tool_name: xdg-settings

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mimetype
+hash: sha256:23d6f46c747c7977821d543ae53e2501193f5a53ab88e35e30ab825953d712c9
+persona_hint: Defense
+source_path: /usr/bin/mimetype
+tags:
+- unknown
+tool_name: mimetype

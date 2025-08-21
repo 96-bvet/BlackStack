@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pzstd
+hash: sha256:c1f67a7c41ba672877ab5bdfb0b295a46291d53ba2294866c3303bde835ae664
+persona_hint: Defense
+source_path: /usr/bin/pzstd
+tags:
+- unknown
+tool_name: pzstd

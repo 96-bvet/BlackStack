@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-session-save
+hash: sha256:49342c05f4218d17aec99e493ddbf8fe86fce2cdff515dd1191b5f33f0800ed6
+persona_hint: Defense
+source_path: /usr/bin/mate-session-save
+tags:
+- unknown
+tool_name: mate-session-save

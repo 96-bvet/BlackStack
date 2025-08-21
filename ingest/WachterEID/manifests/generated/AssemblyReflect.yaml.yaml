@@ -1,0 +1,7 @@
+description: Auto-generated manifest for AssemblyReflect.yaml
+hash: sha256:94cfee3307e6b9421fa66be7117b78611ad2487244a899ca9041d9a7217a03a0
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/AssemblyReflect.yaml
+tags:
+- unknown
+tool_name: AssemblyReflect.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvidia-smi
+hash: sha256:9c173fcc77818ca8930fc5928c70e8eec0721c111da2721640f0533b5c73b58c
+persona_hint: Defense
+source_path: /usr/bin/nvidia-smi
+tags:
+- unknown
+tool_name: nvidia-smi

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for beef-include-vendor
+hash: sha256:e1374eb7db54947c658168117278167262718238af89a0a77062c727dfac623c
+persona_hint: Defense
+source_path: /usr/share/beef-xss/beef-include-vendor
+tags:
+- unknown
+tool_name: beef-include-vendor

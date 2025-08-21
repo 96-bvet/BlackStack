@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-taskmanager
+hash: sha256:922a675cc468975d51e7cb195cac97f79b70e03797679be8ff0de56c1a047b2b
+persona_hint: Defense
+source_path: /usr/bin/xfce4-taskmanager
+tags:
+- unknown
+tool_name: xfce4-taskmanager

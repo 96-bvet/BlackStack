@@ -1,0 +1,7 @@
+description: Auto-generated manifest for download_post
+hash: sha256:8571cefd44dcacbab6c961693f57bd71d90511ea114f740e83fab6999d8aa072
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/bbappworld/download_post
+tags:
+- unknown
+tool_name: download_post

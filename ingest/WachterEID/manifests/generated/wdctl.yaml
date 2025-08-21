@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wdctl
+hash: sha256:1e95b3ebed7891aa8d5c562627d48bc70fce317ac64a6dd91d859c6b3fb2a3e8
+persona_hint: Defense
+source_path: /usr/bin/wdctl
+tags:
+- unknown
+tool_name: wdctl

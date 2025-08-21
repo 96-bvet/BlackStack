@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ncat-w32
+hash: sha256:a55e6139a6441b0f873a89570bc0b4370d0225e17e3c0512df676db06697da9c
+persona_hint: Defense
+source_path: /usr/bin/ncat-w32
+tags:
+- unknown
+tool_name: ncat-w32

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nm
+hash: sha256:4706e01de47617eea190458d5b787690bc1075b9526e2b2e2496789a8aa48139
+persona_hint: Defense
+source_path: /usr/bin/nm
+tags:
+- unknown
+tool_name: nm

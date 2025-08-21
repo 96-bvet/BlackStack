@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsser
+hash: sha256:416cbfc559afe118f264287ed7b390de562d435880cceab1860fdbe0953fedda
+persona_hint: Defense
+source_path: /usr/share/xsser/xsser
+tags:
+- unknown
+tool_name: xsser

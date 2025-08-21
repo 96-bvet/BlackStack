@@ -1,0 +1,7 @@
+description: Auto-generated manifest for j2me.jar
+hash: sha256:a057277506a0422bc93d95e5091d3518e23fa7b7e3c6e484a22d7270beeed791
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/nokia/j2me.jar
+tags:
+- unknown
+tool_name: j2me.jar

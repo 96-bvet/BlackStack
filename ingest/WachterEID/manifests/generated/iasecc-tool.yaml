@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iasecc-tool
+hash: sha256:62dda1c5312bb9c43131b5e33a1885ad2f9c8811a41844ae91fb8397f65c3e75
+persona_hint: Defense
+source_path: /usr/bin/iasecc-tool
+tags:
+- unknown
+tool_name: iasecc-tool

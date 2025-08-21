@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post11.spk
+hash: sha256:f3d2cb382fe0836f70c29488d2fba220a954a3fe1becaf08f824e82897210e70
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post11.spk
+tags:
+- unknown
+tool_name: post11.spk

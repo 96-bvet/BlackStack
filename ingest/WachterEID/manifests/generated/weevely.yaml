@@ -1,0 +1,7 @@
+description: Auto-generated manifest for weevely
+hash: sha256:0ba6887bf75ad3ade3b729e8d16b8ae118671ace907b162fc4c2d06b4d9c1b0a
+persona_hint: Defense
+source_path: /usr/bin/weevely
+tags:
+- unknown
+tool_name: weevely

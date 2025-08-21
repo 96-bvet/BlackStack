@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvidia-settings
+hash: sha256:240238ad60d49bf5fe3b008856610f5c495f878dc5047e1c79f702e2a9cbd9e2
+persona_hint: Defense
+source_path: /usr/bin/nvidia-settings
+tags:
+- unknown
+tool_name: nvidia-settings

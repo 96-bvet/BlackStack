@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opensc-tool
+hash: sha256:add64977e41bde33c8deded6f26f18a915a350747063feb52f5af62d722fe199
+persona_hint: Defense
+source_path: /usr/bin/opensc-tool
+tags:
+- unknown
+tool_name: opensc-tool

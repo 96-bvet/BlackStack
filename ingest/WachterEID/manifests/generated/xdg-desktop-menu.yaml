@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-desktop-menu
+hash: sha256:367a7b0c32bb1f607919b97c3def032486d006a862edfadafd08d92995c195ae
+persona_hint: Defense
+source_path: /usr/bin/xdg-desktop-menu
+tags:
+- unknown
+tool_name: xdg-desktop-menu

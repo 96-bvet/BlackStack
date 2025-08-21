@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tomlq
+hash: sha256:e7b666e30a358f4a41824d937bf59fc07fa159b7b03dc70dde8f54adf3ab8ebc
+persona_hint: Defense
+source_path: /usr/bin/tomlq
+tags:
+- unknown
+tool_name: tomlq

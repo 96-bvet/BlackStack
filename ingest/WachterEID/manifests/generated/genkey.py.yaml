@@ -1,0 +1,7 @@
+description: Auto-generated manifest for genkey.py
+hash: sha256:3f8ef0e39a6d59eccf2c8144ef35ada356f6ea2d6573138c8a8c4c9b2a7fca90
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/genkey.py
+tags:
+- unknown
+tool_name: genkey.py

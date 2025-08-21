@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nice
+hash: sha256:144ba2794c120a0347058d48081c9c13c2afe4321f1b44318538616295273060
+persona_hint: Defense
+source_path: /usr/bin/nice
+tags:
+- unknown
+tool_name: nice

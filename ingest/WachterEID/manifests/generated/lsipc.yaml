@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsipc
+hash: sha256:7a4dd5021f4dde003224339fc768857863f8684d664da537eaee2e6ef523da07
+persona_hint: Defense
+source_path: /usr/bin/lsipc
+tags:
+- unknown
+tool_name: lsipc

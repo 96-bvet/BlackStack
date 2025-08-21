@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stress-test.pl
+hash: sha256:b42a94c4dff891a4bbe735547a08934b25bb1183b8a75da4746aeda67cd0d713
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/stress-test.pl
+tags:
+- unknown
+tool_name: stress-test.pl

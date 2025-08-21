@@ -1,0 +1,7 @@
+description: Auto-generated manifest for caja-sendto
+hash: sha256:0df73b3b34102a5957d508e3af14c2106d91ac3f185a001cd29ba14be53df56c
+persona_hint: Defense
+source_path: /usr/bin/caja-sendto
+tags:
+- unknown
+tool_name: caja-sendto

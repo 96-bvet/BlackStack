@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysqlshow
+hash: sha256:7a3accf7f9c464147273caf6346648270f54d76a841def0b8cda3c93804bf4dd
+persona_hint: Defense
+source_path: /usr/bin/mysqlshow
+tags:
+- unknown
+tool_name: mysqlshow

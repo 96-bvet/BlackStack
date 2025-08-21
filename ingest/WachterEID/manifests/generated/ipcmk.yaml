@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ipcmk
+hash: sha256:8ba5ab02317e8a76ad32a2ae646c35a7f135021d5c3cbf26a522099c9d2c194d
+persona_hint: Defense
+source_path: /usr/bin/ipcmk
+tags:
+- unknown
+tool_name: ipcmk

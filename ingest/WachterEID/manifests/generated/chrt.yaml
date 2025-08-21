@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chrt
+hash: sha256:d4ee6ba79feacf908a5899f4240f06867ee0951c835d517b470630aaec14ea70
+persona_hint: Defense
+source_path: /usr/bin/chrt
+tags:
+- unknown
+tool_name: chrt

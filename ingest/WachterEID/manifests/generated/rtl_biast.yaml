@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_biast
+hash: sha256:a83513b00a4454860b98dba1d12f5952b6a1b8a585725e8aed6810607af5544c
+persona_hint: Defense
+source_path: /usr/bin/rtl_biast
+tags:
+- unknown
+tool_name: rtl_biast

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tap-driver.sh
+hash: sha256:52f1896f456d0108be7db7a0dc56620e4a3c4842616ede6125a46cc10a75c918
+persona_hint: Defense
+source_path: /usr/share/automake-1.16/tap-driver.sh
+tags:
+- unknown
+tool_name: tap-driver.sh

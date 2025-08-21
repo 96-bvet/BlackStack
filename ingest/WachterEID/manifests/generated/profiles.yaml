@@ -1,0 +1,7 @@
+description: Auto-generated manifest for profiles
+hash: sha256:8ee3069f82e8f95ef9f0387b1edb261025daca55b5238da7879bdccc4be7ff35
+persona_hint: Defense
+source_path: /usr/bin/profiles
+tags:
+- unknown
+tool_name: profiles

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svwar
+hash: sha256:6a99548754908106c1298b63ab19ea6432770fef7edd186f238ccd24c2cd62e1
+persona_hint: Defense
+source_path: /usr/bin/svwar
+tags:
+- unknown
+tool_name: svwar

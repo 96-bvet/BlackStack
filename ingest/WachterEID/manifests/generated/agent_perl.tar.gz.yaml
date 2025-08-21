@@ -1,0 +1,7 @@
+description: Auto-generated manifest for agent_perl.tar.gz
+hash: sha256:f754f7f2a515b5768f001910f3e2015aa46465b83a7430b4dfa23a7c7e8ce6a4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/agent_perl.tar.gz
+tags:
+- unknown
+tool_name: agent_perl.tar.gz

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remmina
+hash: sha256:05a7617d1e5817f6b64349313965a30ef6af36de3760c89401a31367da4c3050
+persona_hint: Defense
+source_path: /usr/bin/remmina
+tags:
+- unknown
+tool_name: remmina

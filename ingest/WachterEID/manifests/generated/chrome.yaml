@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chrome
+hash: sha256:800a6b1398338b8d12503f0caac3a3a8c70a53048f6cf7ccfd633ee00bb9bd62
+persona_hint: Defense
+source_path: /usr/share/burpsuite/burpbrowser/130.0.6723.69/chrome
+tags:
+- unknown
+tool_name: chrome

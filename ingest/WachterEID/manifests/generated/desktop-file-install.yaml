@@ -1,0 +1,7 @@
+description: Auto-generated manifest for desktop-file-install
+hash: sha256:6f9ccb5c728a550a58dd7f3c1a48116258458f85802422160952a5fb13bf52de
+persona_hint: Defense
+source_path: /usr/bin/desktop-file-install
+tags:
+- unknown
+tool_name: desktop-file-install

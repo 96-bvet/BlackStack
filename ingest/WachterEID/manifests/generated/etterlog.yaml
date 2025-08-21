@@ -1,0 +1,7 @@
+description: Auto-generated manifest for etterlog
+hash: sha256:e3007dffbd7b9d2a07d5374ff51cf438894ef8fd5a75ac6dda32dc34c2f5e98c
+persona_hint: Defense
+source_path: /usr/bin/etterlog
+tags:
+- unknown
+tool_name: etterlog

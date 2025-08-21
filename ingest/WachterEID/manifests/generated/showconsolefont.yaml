@@ -1,0 +1,7 @@
+description: Auto-generated manifest for showconsolefont
+hash: sha256:d47d2997252b27b70589990fa7dacceaa754f846587f542764534a5473f8b814
+persona_hint: Defense
+source_path: /usr/bin/showconsolefont
+tags:
+- unknown
+tool_name: showconsolefont

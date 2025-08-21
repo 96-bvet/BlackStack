@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Installer
+hash: sha256:01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/apptapp/Installer.app/Installer
+tags:
+- unknown
+tool_name: Installer

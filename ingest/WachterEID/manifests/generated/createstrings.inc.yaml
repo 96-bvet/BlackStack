@@ -1,0 +1,7 @@
+description: Auto-generated manifest for createstrings.inc
+hash: sha256:ecf09ca6fbe4f99dd94f97011a79df5099eec2e128e543b3ddc0b4b7e1c5ee46
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Container/64/createstrings.inc
+tags:
+- unknown
+tool_name: createstrings.inc

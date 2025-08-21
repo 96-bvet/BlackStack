@@ -1,0 +1,7 @@
+description: Auto-generated manifest for usbhid-dump
+hash: sha256:94253fa7bf5e83114088d378ff241d7b2c3396a7869489ed0b6da1724066bfc1
+persona_hint: Defense
+source_path: /usr/bin/usbhid-dump
+tags:
+- unknown
+tool_name: usbhid-dump

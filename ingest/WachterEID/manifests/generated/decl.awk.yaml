@@ -1,0 +1,7 @@
+description: Auto-generated manifest for decl.awk
+hash: sha256:4d245a6407737f1a1a23e917864446bf67b0f65a40ff8b2104792d296cd8c990
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/decl.awk
+tags:
+- unknown
+tool_name: decl.awk

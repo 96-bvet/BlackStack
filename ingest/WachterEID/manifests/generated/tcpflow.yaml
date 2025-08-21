@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpflow
+hash: sha256:5d487190376e166f29e52ea4e57ff64469e868704b8dec052bc6cc22aac876c6
+persona_hint: Defense
+source_path: /usr/bin/tcpflow
+tags:
+- unknown
+tool_name: tcpflow

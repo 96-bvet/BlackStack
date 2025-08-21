@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PackageInfo
+hash: sha256:3ba12ba0cc57674bb415e8641e5d24acb6bfb9f0de7cfdbfd4bf78c191080bdf
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/pkgbuild/expand/PackageInfo
+tags:
+- unknown
+tool_name: PackageInfo

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for frontend
+hash: sha256:030ccf14183171765689c3c8982d60eeb6295e32c4444661767389803eb38a62
+persona_hint: Defense
+source_path: /usr/share/debconf/frontend
+tags:
+- unknown
+tool_name: frontend

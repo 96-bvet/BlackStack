@@ -1,0 +1,8 @@
+name: guardrails
+path: examples/cai/agent_patterns/guardrails.py
+type: py
+category: misc
+hash: 6a56c60ee9d553304cf6e4b667567562b4965c82d548aca37ce0a15d55579e9c
+approved: true
+import: true
+license_stub: true

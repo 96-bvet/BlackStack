@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fee
+hash: sha256:1bcc42c15d3e5034f7da4ea9811cfd74b6167a10bd82fe4600c27102933c52e7
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/fee
+tags:
+- unknown
+tool_name: fee

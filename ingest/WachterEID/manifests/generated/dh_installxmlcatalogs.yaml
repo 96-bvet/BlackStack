@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installxmlcatalogs
+hash: sha256:f222c6ae1aa29ced0d69da2b2e375f1b8dcd356ee8cb5f641e012333f39928e5
+persona_hint: Defense
+source_path: /usr/bin/dh_installxmlcatalogs
+tags:
+- unknown
+tool_name: dh_installxmlcatalogs

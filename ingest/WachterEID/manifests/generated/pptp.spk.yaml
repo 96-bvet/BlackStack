@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pptp.spk
+hash: sha256:7f36f0573c7a6ba8f5bcc760c134081fbcee970a584d13481b50438a25980cbd
+persona_hint: Defense
+source_path: /usr/share/spike/audits/PPTP/pptp.spk
+tags:
+- unknown
+tool_name: pptp.spk

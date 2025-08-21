@@ -1,0 +1,8 @@
+name: stream_items
+path: examples/basic/stream_items.py
+type: py
+category: misc
+hash: c3781053ffeac59b009fcb7795496b6b9d93337083af451766e35d6b4d5b23b8
+approved: true
+import: true
+license_stub: true

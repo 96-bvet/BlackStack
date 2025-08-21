@@ -1,0 +1,7 @@
+description: Auto-generated manifest for async_app.ru
+hash: sha256:3ea94cf1841057fe81386317580f44376c20b45c9c2f23f76d1a73937e2d639e
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/example/async_app.ru
+tags:
+- unknown
+tool_name: async_app.ru

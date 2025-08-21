@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-stdio-bridge
+hash: sha256:fdf7f08f128ac8851a54936f266cf7bea6fbbd76565a8bfb4cc9243c51c9b41c
+persona_hint: Defense
+source_path: /usr/bin/systemd-stdio-bridge
+tags:
+- unknown
+tool_name: systemd-stdio-bridge

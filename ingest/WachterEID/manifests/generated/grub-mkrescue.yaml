@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mkrescue
+hash: sha256:951363a96874b6677ddb99a935e618ae0c0cfc85a69e78d3d54080039fc89aef
+persona_hint: Defense
+source_path: /usr/bin/grub-mkrescue
+tags:
+- unknown
+tool_name: grub-mkrescue

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-panel
+hash: sha256:e2f03cb240576781b8ecf833def9f4c36de5f81dd2f4d34a604309ff73c1f81e
+persona_hint: Defense
+source_path: /usr/bin/mate-panel
+tags:
+- unknown
+tool_name: mate-panel

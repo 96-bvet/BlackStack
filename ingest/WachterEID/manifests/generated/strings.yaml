@@ -1,0 +1,7 @@
+description: Auto-generated manifest for strings
+hash: sha256:e64869f034eca0ddb3191ac9a1b0503befd31bdc58d1f473f46f44b94bd6c9f3
+persona_hint: Defense
+source_path: /usr/bin/strings
+tags:
+- unknown
+tool_name: strings

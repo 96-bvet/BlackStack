@@ -1,0 +1,7 @@
+description: Auto-generated manifest for revoke-userid.py
+hash: sha256:e8c24676efed0e12ddcc411794c3e753a632717e0d0d65cbc80052af3138bcb2
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/revoke-userid.py
+tags:
+- unknown
+tool_name: revoke-userid.py

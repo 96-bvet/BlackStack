@@ -1,0 +1,16 @@
+name: reasoner_support
+path: src/cai/agents/meta/reasoner_support.py
+type: py
+category: misc
+hash: c0c33828a9ace81aea6ad38541f8ed9b53bec74af3d546c776c017cfb270d8b9
+approved: true
+import: true
+license_stub: true
+name: reasoner_support
+path: src/cai/agents/meta/reasoner_support.py
+type: py
+category: misc
+hash: c0c33828a9ace81aea6ad38541f8ed9b53bec74af3d546c776c017cfb270d8b9
+approved: true
+import: true
+license_stub: true

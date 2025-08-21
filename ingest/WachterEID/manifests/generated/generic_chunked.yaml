@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generic_chunked
+hash: sha256:a9a6f5789a0771214cc47a762a1bb8b4d93cab259822c6712c125866e396990f
+persona_hint: Defense
+source_path: /usr/bin/generic_chunked
+tags:
+- unknown
+tool_name: generic_chunked

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nmtui-connect
+hash: sha256:d596ebb627a082a419215d66c639ee3d783dddc9080ea5900fd34c98878c7099
+persona_hint: Defense
+source_path: /usr/bin/nmtui-connect
+tags:
+- unknown
+tool_name: nmtui-connect

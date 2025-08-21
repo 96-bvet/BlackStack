@@ -1,0 +1,7 @@
+description: Auto-generated manifest for all_generic_ide
+hash: sha256:59697cff80663c30132578d3fc6128692ff15826b4e32df3468e85db03ba3b93
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/init-top/all_generic_ide
+tags:
+- unknown
+tool_name: all_generic_ide

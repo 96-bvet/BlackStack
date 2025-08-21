@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clamscan
+hash: sha256:d79bb7d526e4d5208d1424e8dbbc38b42c6b1fd6a378e1d851c93380266898c7
+persona_hint: Defense
+source_path: /usr/bin/clamscan
+tags:
+- unknown
+tool_name: clamscan

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getfattr
+hash: sha256:afbc13cbbf90f2b4e1d9190126e089f5a8ad8f98831d2fde15f888dda06d9060
+persona_hint: Defense
+source_path: /usr/bin/getfattr
+tags:
+- unknown
+tool_name: getfattr

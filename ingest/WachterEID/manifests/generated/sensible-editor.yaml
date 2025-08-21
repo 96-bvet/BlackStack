@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sensible-editor
+hash: sha256:d6a9a5fb0afb017c3907ce9102723a23982a5a5b18862ac18761f5297395f10f
+persona_hint: Defense
+source_path: /usr/bin/sensible-editor
+tags:
+- unknown
+tool_name: sensible-editor

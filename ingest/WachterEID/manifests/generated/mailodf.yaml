@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mailodf
+hash: sha256:8b64de3beaf7a3da546311cf510756d5ccfa31fec34d42c45f67aa17c496d645
+persona_hint: Defense
+source_path: /usr/bin/mailodf
+tags:
+- unknown
+tool_name: mailodf

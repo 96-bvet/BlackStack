@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jspawnhelper
+hash: sha256:17a34fb693e5d6b3891e8fda1bc8ecc238b50bc71b224ebdee8e326a6fe8d9ed
+persona_hint: Defense
+source_path: /usr/share/burpsuite/jre/lib/jspawnhelper
+tags:
+- unknown
+tool_name: jspawnhelper

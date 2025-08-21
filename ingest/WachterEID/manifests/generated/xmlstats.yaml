@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xmlstats
+hash: sha256:db5c7213fd52f0c3b8dc4be5891731cd53f18afd29d64fe0c0bbae0fe6c0c1d3
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-parser-perl/examples/xmlstats
+tags:
+- unknown
+tool_name: xmlstats

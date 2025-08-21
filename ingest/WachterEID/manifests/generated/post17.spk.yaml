@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post17.spk
+hash: sha256:a20e79f49f288c2164027622885cec17e7638bf5dc1c313a59296e5ecca3d9c8
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post17.spk
+tags:
+- unknown
+tool_name: post17.spk

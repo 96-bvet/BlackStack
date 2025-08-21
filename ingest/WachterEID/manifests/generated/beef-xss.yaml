@@ -1,0 +1,7 @@
+description: Auto-generated manifest for beef-xss
+hash: sha256:90c6b73bc208ead0df5da943f56be4b2646238bb8468206595c5e93fbae9dd7b
+persona_hint: Defense
+source_path: /usr/bin/beef-xss
+tags:
+- unknown
+tool_name: beef-xss

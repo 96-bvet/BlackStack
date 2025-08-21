@@ -1,0 +1,7 @@
+description: Auto-generated manifest for growl.pm
+hash: sha256:a0e76202013eec09b6fdfb92080a8f78145e5f129ac460b61b356005fbff71e3
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/growl.pm
+tags:
+- unknown
+tool_name: growl.pm

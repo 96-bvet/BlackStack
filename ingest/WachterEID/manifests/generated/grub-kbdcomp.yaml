@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-kbdcomp
+hash: sha256:77b399133ac3bd9fe66c2f867141f6baedefa14dea01932544baf0a08c8c7e33
+persona_hint: Defense
+source_path: /usr/bin/grub-kbdcomp
+tags:
+- unknown
+tool_name: grub-kbdcomp

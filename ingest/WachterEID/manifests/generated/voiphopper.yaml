@@ -1,0 +1,7 @@
+description: Auto-generated manifest for voiphopper
+hash: sha256:e8d8a3b3ae663d6c0dcc24797d8f5323cbb62ddc2639d0e3ecfd04d93c8abf10
+persona_hint: Defense
+source_path: /usr/bin/voiphopper
+tags:
+- unknown
+tool_name: voiphopper

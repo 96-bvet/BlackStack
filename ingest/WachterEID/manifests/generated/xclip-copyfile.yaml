@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xclip-copyfile
+hash: sha256:1b8201654e2fc72ead7016875dba303e41921acaf27b87c5e2951bce8662b80d
+persona_hint: Defense
+source_path: /usr/bin/xclip-copyfile
+tags:
+- unknown
+tool_name: xclip-copyfile

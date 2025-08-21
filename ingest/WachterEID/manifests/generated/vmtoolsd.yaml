@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmtoolsd
+hash: sha256:b22c1a669028ed5f4884b19801e307f0960cc42ea694ae17874ee7a0345f7c2c
+persona_hint: Defense
+source_path: /usr/bin/vmtoolsd
+tags:
+- unknown
+tool_name: vmtoolsd

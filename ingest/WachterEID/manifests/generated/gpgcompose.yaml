@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpgcompose
+hash: sha256:c2d2d5c6a18f25b00516c260024d9d6789d9b8750f464b13ca5606623b237568
+persona_hint: Defense
+source_path: /usr/bin/gpgcompose
+tags:
+- unknown
+tool_name: gpgcompose

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PersistAutorun.yaml
+hash: sha256:42b2050f1934c3c1471aa7ab28b50e5064a2fdccc6b46c5a51f70d7189936738
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/persistence/SharpSploit/PersistAutorun.yaml
+tags:
+- unknown
+tool_name: PersistAutorun.yaml

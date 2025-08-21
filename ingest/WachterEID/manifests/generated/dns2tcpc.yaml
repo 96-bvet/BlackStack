@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dns2tcpc
+hash: sha256:8159a432c35bab2aeb11511cae7dec39c466fed8d36000566eb2f8f7a3fae943
+persona_hint: Defense
+source_path: /usr/bin/dns2tcpc
+tags:
+- unknown
+tool_name: dns2tcpc

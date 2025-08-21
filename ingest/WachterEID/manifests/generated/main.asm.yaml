@@ -1,0 +1,7 @@
+description: Auto-generated manifest for main.asm
+hash: sha256:5852507b741b60b18606533e76b4feb9cb37a8306225cbc035d37ad43ed7dc20
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Container/32/main.asm
+tags:
+- unknown
+tool_name: main.asm

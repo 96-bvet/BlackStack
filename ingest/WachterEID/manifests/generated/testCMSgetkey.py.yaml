@@ -1,0 +1,7 @@
+description: Auto-generated manifest for testCMSgetkey.py
+hash: sha256:2e1c09da37eb879b97945114626c07357b9200d4d00626d595e5b609934f5bab
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/testCMSgetkey.py
+tags:
+- unknown
+tool_name: testCMSgetkey.py

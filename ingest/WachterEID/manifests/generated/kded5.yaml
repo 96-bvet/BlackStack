@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kded5
+hash: sha256:165a089cd3fb097f549d00106771303da6710904881f8428d6bef7532acd93ae
+persona_hint: Defense
+source_path: /usr/bin/kded5
+tags:
+- unknown
+tool_name: kded5

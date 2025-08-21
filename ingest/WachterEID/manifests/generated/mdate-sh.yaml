@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdate-sh
+hash: sha256:d2cdc464a268dfa3039f3c7f32f3d0901f8be3dab26645abe45a1a25c05a5a20
+persona_hint: Defense
+source_path: /usr/share/automake-1.16/mdate-sh
+tags:
+- unknown
+tool_name: mdate-sh

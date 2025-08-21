@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dcomexec.py
+hash: sha256:8139d107fff6f807a00d3d8f5414499132a4d07ca7b45def718b6451fcc06bff
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/dcomexec.py
+tags:
+- unknown
+tool_name: dcomexec.py

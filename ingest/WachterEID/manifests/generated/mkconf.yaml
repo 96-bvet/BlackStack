@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkconf
+hash: sha256:5abc5d2e3083dd2a172d6735e3dd11c29ebd0f30c7b2935a2ac4f626bf87efa0
+persona_hint: Defense
+source_path: /usr/share/mdadm/mkconf
+tags:
+- unknown
+tool_name: mkconf

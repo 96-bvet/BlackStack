@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptgnupg
+hash: sha256:b7fc3319a66b7bcbeff25f0f4c9ece17a1d88a4318f8409f5a5385a6e02a2a3d
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/cryptgnupg
+tags:
+- unknown
+tool_name: cryptgnupg

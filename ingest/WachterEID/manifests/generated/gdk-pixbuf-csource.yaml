@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdk-pixbuf-csource
+hash: sha256:baee16e47151c89e14bd6983c3525cbdc89dc613cdc48272e0c07c42b1958836
+persona_hint: Defense
+source_path: /usr/bin/gdk-pixbuf-csource
+tags:
+- unknown
+tool_name: gdk-pixbuf-csource

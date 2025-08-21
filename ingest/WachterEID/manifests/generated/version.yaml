@@ -1,0 +1,7 @@
+description: Auto-generated manifest for version
+hash: sha256:577d604dd5c627ba807cec2e1a4d0f63111766f84fe5e7a61544d3c8b0fa3649
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/paintnet/version
+tags:
+- unknown
+tool_name: version

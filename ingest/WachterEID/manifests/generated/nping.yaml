@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nping
+hash: sha256:5f37afe9e4a4561fd6ca5848d6290e3af66405c3c2eb79436b03fceea2097246
+persona_hint: Defense
+source_path: /usr/bin/nping
+tags:
+- unknown
+tool_name: nping

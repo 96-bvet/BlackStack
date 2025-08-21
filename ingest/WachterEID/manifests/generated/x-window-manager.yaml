@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x-window-manager
+hash: sha256:35bbdadf34cea0d39f841a366e55b92f02edadfe9c76b83c63f98ec549b07bdd
+persona_hint: Defense
+source_path: /usr/bin/x-window-manager
+tags:
+- unknown
+tool_name: x-window-manager

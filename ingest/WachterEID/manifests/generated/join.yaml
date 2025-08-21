@@ -1,0 +1,7 @@
+description: Auto-generated manifest for join
+hash: sha256:8233e9e237d24c436cfe97af5ba2c95ac0b44742f9c4a3f9bdbad9e3d8868ddd
+persona_hint: Defense
+source_path: /usr/bin/join
+tags:
+- unknown
+tool_name: join

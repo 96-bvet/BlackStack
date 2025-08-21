@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bluemoon
+hash: sha256:c8b79d3718c59338937d31454e9ca1a21c2f1f98566c2eae321851d48be6a018
+persona_hint: Defense
+source_path: /usr/bin/bluemoon
+tags:
+- unknown
+tool_name: bluemoon

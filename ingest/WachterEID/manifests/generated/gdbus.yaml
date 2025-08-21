@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdbus
+hash: sha256:d9f9ca48004dfed0f25bbdb43279c3d6bb20170133d967fc0d45548e19b380fb
+persona_hint: Defense
+source_path: /usr/bin/gdbus
+tags:
+- unknown
+tool_name: gdbus

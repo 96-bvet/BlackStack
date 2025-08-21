@@ -1,0 +1,7 @@
+description: Auto-generated manifest for FTP.py
+hash: sha256:4f28eabd1c84eb20e001e88dd3be1d2ccfb59a96883febad2dacb67d870e2662
+persona_hint: Defense
+source_path: /usr/share/responder/servers/FTP.py
+tags:
+- unknown
+tool_name: FTP.py

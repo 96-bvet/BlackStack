@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nsupdate
+hash: sha256:1a181b698be6f0d9df0a98d08d4c23f16a2a6d8b3aa642ae752f1c7cc11ecce3
+persona_hint: Defense
+source_path: /usr/bin/nsupdate
+tags:
+- unknown
+tool_name: nsupdate

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-gp-display-text
+hash: sha256:4180a4b12554c6a189420a11217570c59815215c83caecabdde1727cb035ae0c
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-gp-display-text
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-gp-display-text

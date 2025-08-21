@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgcomm
+hash: sha256:ac4447782120e48c55afafae3454c4a37feb9b59cb1ff16351bc2cf4dbff104a
+persona_hint: Defense
+source_path: /usr/bin/msgcomm
+tags:
+- unknown
+tool_name: msgcomm

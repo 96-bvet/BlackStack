@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lwp-request
+hash: sha256:86c1db75d5ee27ecb7aa184ed6770625ccbc6dd9456c1b36ef4ea2dd5bf53707
+persona_hint: Defense
+source_path: /usr/bin/lwp-request
+tags:
+- unknown
+tool_name: lwp-request

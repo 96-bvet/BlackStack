@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dnsmap
+hash: sha256:aee83c4dd539cfdeb43bccf6015356e849b4a027f679b88592f6a39910b9eb73
+persona_hint: Defense
+source_path: /usr/bin/dnsmap
+tags:
+- unknown
+tool_name: dnsmap

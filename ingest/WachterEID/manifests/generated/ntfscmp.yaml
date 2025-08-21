@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfscmp
+hash: sha256:c9dae1cbb725001025d23b2673660a1f13892352d25309052774a48258f41424
+persona_hint: Defense
+source_path: /usr/bin/ntfscmp
+tags:
+- unknown
+tool_name: ntfscmp

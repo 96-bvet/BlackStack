@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setup
+hash: sha256:e201190bc24e9f00849b3efa5fbaece2cbf069703232e50c7fa15d41c47f2ead
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/xmlrpc-0.3.3/bin/setup
+tags:
+- unknown
+tool_name: setup

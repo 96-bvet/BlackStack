@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fcrackzip
+hash: sha256:b63d1ce8d62ac95dfb8392f8185cf4cf4c4c95556c37f53593082407b496d982
+persona_hint: Defense
+source_path: /usr/bin/fcrackzip
+tags:
+- unknown
+tool_name: fcrackzip

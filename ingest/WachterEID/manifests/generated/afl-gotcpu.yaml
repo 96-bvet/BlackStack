@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-gotcpu
+hash: sha256:b06ac09384a3b2c8e96681998159a6ca049acb8a66ff90ffe3e805fa4818d06f
+persona_hint: Defense
+source_path: /usr/bin/afl-gotcpu
+tags:
+- unknown
+tool_name: afl-gotcpu

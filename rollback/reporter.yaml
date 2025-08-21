@@ -1,0 +1,16 @@
+name: reporter
+path: src/cai/agents/reporter.py
+type: py
+category: misc
+hash: 6f0ecf760682858103f901eeaf8d887926e920945b99589210fd62f7f2304b89
+approved: true
+import: true
+license_stub: true
+name: reporter
+path: src/cai/agents/reporter.py
+type: py
+category: misc
+hash: 6f0ecf760682858103f901eeaf8d887926e920945b99589210fd62f7f2304b89
+approved: true
+import: true
+license_stub: true

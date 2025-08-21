@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-color-settings
+hash: sha256:3b5d1503a6484f67bb53112c61d73841193883b447fe187f8a89779645a22387
+persona_hint: Defense
+source_path: /usr/bin/xfce4-color-settings
+tags:
+- unknown
+tool_name: xfce4-color-settings

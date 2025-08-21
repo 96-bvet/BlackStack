@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-paranoid
+hash: sha256:6f74d3ffdf0f7359844d6accbb2cc713282bcd4542c2c29f959213644ea4a21d
+persona_hint: Defense
+source_path: /usr/share/git-core/contrib/hooks/update-paranoid
+tags:
+- unknown
+tool_name: update-paranoid

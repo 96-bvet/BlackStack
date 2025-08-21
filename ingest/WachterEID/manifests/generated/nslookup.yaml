@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nslookup
+hash: sha256:be48d087227f8e33c24c98bcd0adaf8e53530799c393cead5e2766922d625f8b
+persona_hint: Defense
+source_path: /usr/bin/nslookup
+tags:
+- unknown
+tool_name: nslookup

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bashbug
+hash: sha256:a904fc165728679b2e62047376131ed0684d039a4c576619fbf9ce0b9dd2ae6b
+persona_hint: Defense
+source_path: /usr/bin/bashbug
+tags:
+- unknown
+tool_name: bashbug

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vscode-sqlite3.node
+hash: sha256:2b01966becf28399e54359323d696185e125d6c5ec367ef53a996661b022863c
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@vscode/sqlite3/build/Release/vscode-sqlite3.node
+tags:
+- unknown
+tool_name: vscode-sqlite3.node

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsetwacom
+hash: sha256:f538b3b04bc23ebab044124207603ff0fbe7cbe8aba307f3fe10fd862077125c
+persona_hint: Defense
+source_path: /usr/bin/xsetwacom
+tags:
+- unknown
+tool_name: xsetwacom

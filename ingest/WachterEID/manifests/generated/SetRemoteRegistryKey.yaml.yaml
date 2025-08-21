@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SetRemoteRegistryKey.yaml
+hash: sha256:914c4dc5531f5cf7124c3bc20cfe4dc51f7341e6b63c122c89674651e4d6631f
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/SharpSploit/SetRemoteRegistryKey.yaml
+tags:
+- unknown
+tool_name: SetRemoteRegistryKey.yaml

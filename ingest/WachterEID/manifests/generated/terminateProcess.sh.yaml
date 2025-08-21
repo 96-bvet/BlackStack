@@ -1,0 +1,7 @@
+description: Auto-generated manifest for terminateProcess.sh
+hash: sha256:4936d2b03fcad939438630d467dc6d467a68c0c074dd1316c3331a3d98ab151c
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/out/vs/base/node/terminateProcess.sh
+tags:
+- unknown
+tool_name: terminateProcess.sh

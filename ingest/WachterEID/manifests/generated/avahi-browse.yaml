@@ -1,0 +1,7 @@
+description: Auto-generated manifest for avahi-browse
+hash: sha256:8db13fe58c3c457e143c1d62cd14638f58dca1ebdc2fa0180ac82636e8b86019
+persona_hint: Defense
+source_path: /usr/bin/avahi-browse
+tags:
+- unknown
+tool_name: avahi-browse

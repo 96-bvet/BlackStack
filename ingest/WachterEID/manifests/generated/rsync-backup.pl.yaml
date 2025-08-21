@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rsync-backup.pl
+hash: sha256:6e15644552c608ba84fd7d5d9900b8cd12d817ed94b6f5a8033783896656fc9a
+persona_hint: Defense
+source_path: /usr/share/doc/libipc-system-simple-perl/examples/rsync-backup.pl
+tags:
+- unknown
+tool_name: rsync-backup.pl

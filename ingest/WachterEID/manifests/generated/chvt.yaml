@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chvt
+hash: sha256:17d0f4df401853f3f0a2302965c400c0d15a027275c87cc52429ef5bc60e7dc1
+persona_hint: Defense
+source_path: /usr/bin/chvt
+tags:
+- unknown
+tool_name: chvt

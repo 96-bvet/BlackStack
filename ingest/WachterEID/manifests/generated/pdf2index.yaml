@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdf2index
+hash: sha256:7acb207d49591d4aade325bad56fd59d91e391835a8a23defd65d240cc4939ed
+persona_hint: Defense
+source_path: /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/pdf2index
+tags:
+- unknown
+tool_name: pdf2index

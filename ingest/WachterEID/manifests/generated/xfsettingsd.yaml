@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfsettingsd
+hash: sha256:50e5a14fee388bd4147789b447600494de11ce632328c0c2009da7277abbc57f
+persona_hint: Defense
+source_path: /usr/bin/xfsettingsd
+tags:
+- unknown
+tool_name: xfsettingsd

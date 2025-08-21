@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post22.spk
+hash: sha256:8f87971a64a38bce73d58c72918e51e2579226c2047daf91d8846d193d365872
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post22.spk
+tags:
+- unknown
+tool_name: post22.spk

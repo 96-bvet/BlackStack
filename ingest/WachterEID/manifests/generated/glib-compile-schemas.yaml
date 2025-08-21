@@ -1,0 +1,7 @@
+description: Auto-generated manifest for glib-compile-schemas
+hash: sha256:cb0b3c5c4be6f2cbbdb56138b5226ceb1b465bf41097900cb3dae1f4d724cf04
+persona_hint: Defense
+source_path: /usr/bin/glib-compile-schemas
+tags:
+- unknown
+tool_name: glib-compile-schemas

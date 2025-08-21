@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmstat
+hash: sha256:3e641cda76fd79873d630c5010575446c054f47ce5e38e53606347eae5fd1697
+persona_hint: Defense
+source_path: /usr/bin/vmstat
+tags:
+- unknown
+tool_name: vmstat

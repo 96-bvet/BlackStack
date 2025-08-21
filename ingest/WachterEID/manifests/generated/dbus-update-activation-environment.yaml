@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-update-activation-environment
+hash: sha256:59081d7d01ef57b60661d0084cd73979e9fe9ac2dd9e766d74e40ae8bd58b0a6
+persona_hint: Defense
+source_path: /usr/bin/dbus-update-activation-environment
+tags:
+- unknown
+tool_name: dbus-update-activation-environment

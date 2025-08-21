@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opera_update.xml
+hash: sha256:cc546dd1c49aaa9e0eccc9f0c4e288fd47f9a886c3b13e971487a42be49d8d0b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/opera/opera_update.xml
+tags:
+- unknown
+tool_name: opera_update.xml

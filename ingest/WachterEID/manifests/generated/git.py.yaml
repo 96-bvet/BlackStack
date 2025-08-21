@@ -1,0 +1,7 @@
+description: Auto-generated manifest for git.py
+hash: sha256:af54afe743302613cb4743ebd7053b4bc1e4b73cb4d65a4627bf433f0cdddb18
+persona_hint: Defense
+source_path: /usr/share/doc/python3-docopt/examples/git/git.py
+tags:
+- unknown
+tool_name: git.py

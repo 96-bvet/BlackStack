@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ClassBuilder.java
+hash: sha256:6d8161944c42211670745aec27cbb5c0e8e78ddb62b0d0eaa87d2ee3d33963c3
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/ClassBuilder.java
+tags:
+- unknown
+tool_name: ClassBuilder.java

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zdiff
+hash: sha256:1bcb10de5c01db497f845980ee4e79ec32f025443588a7410ba5001512a61ec9
+persona_hint: Defense
+source_path: /usr/bin/zdiff
+tags:
+- unknown
+tool_name: zdiff

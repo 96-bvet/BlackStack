@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sar.sysstat
+hash: sha256:0db4fad077c53b39ab579f072763920ac3d139f4f2a041a06d76c3f49bba875a
+persona_hint: Defense
+source_path: /usr/bin/sar.sysstat
+tags:
+- unknown
+tool_name: sar.sysstat

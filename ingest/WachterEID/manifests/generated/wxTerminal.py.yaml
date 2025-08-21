@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wxTerminal.py
+hash: sha256:1e31c55701938a6747dab50107a2127b75772af5b5769f30c497f325ad052b45
+persona_hint: Defense
+source_path: /usr/share/doc/python3-serial/examples/wxTerminal.py
+tags:
+- unknown
+tool_name: wxTerminal.py

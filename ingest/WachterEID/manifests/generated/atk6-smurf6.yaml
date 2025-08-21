@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-smurf6
+hash: sha256:ffe4507dea92d4bb61daf5ccf5db6a6d9bae7c0ea00d45042dfa8fc69cc3a858
+persona_hint: Defense
+source_path: /usr/bin/atk6-smurf6
+tags:
+- unknown
+tool_name: atk6-smurf6

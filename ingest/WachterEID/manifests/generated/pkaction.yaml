@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkaction
+hash: sha256:c642b78d988108c166e19ae1227e4b468ae6d72550a816bf5cae25629b13d929
+persona_hint: Defense
+source_path: /usr/bin/pkaction
+tags:
+- unknown
+tool_name: pkaction

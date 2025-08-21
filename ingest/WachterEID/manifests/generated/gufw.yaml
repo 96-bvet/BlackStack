@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gufw
+hash: sha256:c307a260b81c57baf526d94dd3e159fba88b6ef23893c533f0301009e0bd26c3
+persona_hint: Defense
+source_path: /usr/bin/gufw
+tags:
+- unknown
+tool_name: gufw

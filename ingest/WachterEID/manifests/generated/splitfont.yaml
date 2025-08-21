@@ -1,0 +1,7 @@
+description: Auto-generated manifest for splitfont
+hash: sha256:5b0b562fa8eaced05b10a84ec49e64b6efdb4d6cbadbde4f0499b265767f1356
+persona_hint: Defense
+source_path: /usr/bin/splitfont
+tags:
+- unknown
+tool_name: splitfont

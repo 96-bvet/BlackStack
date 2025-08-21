@@ -1,0 +1,7 @@
+description: Auto-generated manifest for masscan
+hash: sha256:04fc2bb4377f1f08430296f7f2c7a9b6dad8365896e39b3e63c0075251b89593
+persona_hint: Defense
+source_path: /usr/bin/masscan
+tags:
+- unknown
+tool_name: masscan

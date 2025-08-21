@@ -1,0 +1,7 @@
+description: Auto-generated manifest for packets.py
+hash: sha256:5f78b7244b210579bae6cc100deef362ca30c92991a6e488467325dbca498a69
+persona_hint: Defense
+source_path: /usr/share/responder/packets.py
+tags:
+- unknown
+tool_name: packets.py

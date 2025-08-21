@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrdp-sesrun
+hash: sha256:f070f151b73756081c8de44d85f80cc2b2d4a5e7eac74bc65e57d7276331f8ce
+persona_hint: Defense
+source_path: /usr/bin/xrdp-sesrun
+tags:
+- unknown
+tool_name: xrdp-sesrun

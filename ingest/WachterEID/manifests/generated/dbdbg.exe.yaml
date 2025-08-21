@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbdbg.exe
+hash: sha256:bf89e0064e3cd04801d83f562394c10efa2339ece533c4f7efc46bf5fd0d5aed
+persona_hint: Defense
+source_path: /usr/share/windows-resources/dbd/dbdbg.exe
+tags:
+- unknown
+tool_name: dbdbg.exe

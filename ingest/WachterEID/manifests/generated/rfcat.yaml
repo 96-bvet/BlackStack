@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rfcat
+hash: sha256:b00979bbb5356f6fd7745c8a0c45ecd9a4c5371246cf8dc22be2c9b56146c907
+persona_hint: Defense
+source_path: /usr/bin/rfcat
+tags:
+- unknown
+tool_name: rfcat

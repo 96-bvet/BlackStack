@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post9.txt
+hash: sha256:72a1bbe8b1f8fb0a18af7aba9d13108f17c3e5b7097f286f60e5dceb623179bd
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post9.txt
+tags:
+- unknown
+tool_name: post9.txt

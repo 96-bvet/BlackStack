@@ -1,0 +1,7 @@
+description: Auto-generated manifest for turing-graph.rb
+hash: sha256:eb74521e3ef4911176e961e09d6c8ef2629065c95f0b9ec856dfe8a87f9c14ae
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/tins-1.37.1/examples/turing-graph.rb
+tags:
+- unknown
+tool_name: turing-graph.rb

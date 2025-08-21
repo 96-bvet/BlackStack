@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cal.pl
+hash: sha256:f0eccfccf0c61a06b513a396d868c07fb1bc535acdabe29be65a49ec97a430e7
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/cal.pl
+tags:
+- unknown
+tool_name: cal.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smb2-quota
+hash: sha256:c253ebda399e865c3e08544d7575022196fd8ceac16a5cb80ace4aa653aac473
+persona_hint: Defense
+source_path: /usr/bin/smb2-quota
+tags:
+- unknown
+tool_name: smb2-quota

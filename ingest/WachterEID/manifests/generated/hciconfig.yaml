@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hciconfig
+hash: sha256:c8746b472df70614f0bc406295971954a34d9e68123c487e6b2fc6b3ff3811f3
+persona_hint: Defense
+source_path: /usr/bin/hciconfig
+tags:
+- unknown
+tool_name: hciconfig

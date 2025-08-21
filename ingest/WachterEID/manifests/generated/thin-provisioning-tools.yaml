@@ -1,0 +1,7 @@
+description: Auto-generated manifest for thin-provisioning-tools
+hash: sha256:6757d0876c4b60cfe4f1b7091c165568087f8675d889514a143d7ab634e6b98e
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/thin-provisioning-tools
+tags:
+- unknown
+tool_name: thin-provisioning-tools

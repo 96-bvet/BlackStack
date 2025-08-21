@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdf-tagged-text.pl
+hash: sha256:96a703f1001544150738f0b06f48cad7d0d0236ab15bbb5b34ac4c06ab90338d
+persona_hint: Defense
+source_path: /usr/share/doc/libcairo-perl/examples/pdf-tagged-text.pl
+tags:
+- unknown
+tool_name: pdf-tagged-text.pl

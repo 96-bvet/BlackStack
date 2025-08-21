@@ -1,0 +1,7 @@
+description: Auto-generated manifest for procan
+hash: sha256:b9431bb1719a0eef0180fe2a2b2867e9c735a15b4d6c6b487ba25b5bf76b562f
+persona_hint: Defense
+source_path: /usr/bin/procan
+tags:
+- unknown
+tool_name: procan

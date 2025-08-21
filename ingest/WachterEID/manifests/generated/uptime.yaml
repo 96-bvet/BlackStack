@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uptime
+hash: sha256:f22685e10934975b5552e1d2e7cd8726fd9abc5c71ede867264e4a0e7532b02e
+persona_hint: Defense
+source_path: /usr/bin/uptime
+tags:
+- unknown
+tool_name: uptime

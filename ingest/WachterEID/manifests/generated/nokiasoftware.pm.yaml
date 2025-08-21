@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nokiasoftware.pm
+hash: sha256:3ebd17d06edb1264d467b4db6cbedb0aa91c6d02c7ea4ad9ae141be6cbe3ec6a
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/nokiasoftware.pm
+tags:
+- unknown
+tool_name: nokiasoftware.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-fstest
+hash: sha256:7afa7204d2977fe9a2020de7893f5283fdff3afe2a439ffc7831f9d5b13dbb29
+persona_hint: Defense
+source_path: /usr/bin/grub-fstest
+tags:
+- unknown
+tool_name: grub-fstest

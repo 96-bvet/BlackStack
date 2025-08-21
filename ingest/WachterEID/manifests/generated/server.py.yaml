@@ -1,0 +1,7 @@
+description: Auto-generated manifest for server.py
+hash: sha256:71a4b2643ae016519a5a51bf2f9f14d6a2e9d8438f9a6d14c5130601db1f8eb6
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/server.py
+tags:
+- unknown
+tool_name: server.py

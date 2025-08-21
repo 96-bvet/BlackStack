@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_mkdocs
+hash: sha256:03d75bd083ddc39d5e570f5e5a80bcd8bf09df484e34363a32ac450d3cce20af
+persona_hint: Defense
+source_path: /usr/bin/dh_mkdocs
+tags:
+- unknown
+tool_name: dh_mkdocs

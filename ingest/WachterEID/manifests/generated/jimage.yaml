@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jimage
+hash: sha256:4876e58fabc5879e72d729e796827047996ccef4f1483dc87db46fa0265c9a7d
+persona_hint: Defense
+source_path: /usr/bin/jimage
+tags:
+- unknown
+tool_name: jimage

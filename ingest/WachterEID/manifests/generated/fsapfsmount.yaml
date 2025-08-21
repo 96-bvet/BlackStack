@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fsapfsmount
+hash: sha256:b5e9a612fa9745f5b4a9c7c249461fc74436e8fa4af8fb5cdc59e001d8077bcb
+persona_hint: Defense
+source_path: /usr/bin/fsapfsmount
+tags:
+- unknown
+tool_name: fsapfsmount

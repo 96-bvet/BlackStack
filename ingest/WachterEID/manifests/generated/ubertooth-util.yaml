@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-util
+hash: sha256:66196b7ef3e94aad33a45a8d73c9c40d618c19738863009718d16b38aa90747d
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-util
+tags:
+- unknown
+tool_name: ubertooth-util

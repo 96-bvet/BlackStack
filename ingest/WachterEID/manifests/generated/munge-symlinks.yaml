@@ -1,0 +1,7 @@
+description: Auto-generated manifest for munge-symlinks
+hash: sha256:2a387e54959e9942fbdc2bc3824ff22592e73fbe494ccd8b89c5387266470af7
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/munge-symlinks
+tags:
+- unknown
+tool_name: munge-symlinks

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tdbtool
+hash: sha256:d721ac62c226e0cd42d0a36ce21bddc505b21b5bdf67b8e83c97ce641d879a8d
+persona_hint: Defense
+source_path: /usr/bin/tdbtool
+tags:
+- unknown
+tool_name: tdbtool

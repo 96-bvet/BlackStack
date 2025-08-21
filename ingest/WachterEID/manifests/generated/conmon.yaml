@@ -1,0 +1,7 @@
+description: Auto-generated manifest for conmon
+hash: sha256:33a96ad022f4cb06865a8c5898e45bfaf7c962de1e0435430c05a3b56cd84272
+persona_hint: Defense
+source_path: /usr/bin/conmon
+tags:
+- unknown
+tool_name: conmon

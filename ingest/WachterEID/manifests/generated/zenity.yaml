@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zenity
+hash: sha256:e9e285cd80911c8891fdbb78e3b25ac4d6556e045fb01518896b2f30b8da67c7
+persona_hint: Defense
+source_path: /usr/bin/zenity
+tags:
+- unknown
+tool_name: zenity

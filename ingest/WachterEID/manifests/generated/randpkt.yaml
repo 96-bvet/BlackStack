@@ -1,0 +1,7 @@
+description: Auto-generated manifest for randpkt
+hash: sha256:e9f8c70d6ce539c66cbebd643543a7daf77224e4120497c0bf1bfc02cedb253f
+persona_hint: Defense
+source_path: /usr/bin/randpkt
+tags:
+- unknown
+tool_name: randpkt

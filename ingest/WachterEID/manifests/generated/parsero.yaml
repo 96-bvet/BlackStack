@@ -1,0 +1,7 @@
+description: Auto-generated manifest for parsero
+hash: sha256:3d0fbd78a05f585edbf72d344fff0325a757ed7d464258bfcce8a106b854bad5
+persona_hint: Defense
+source_path: /usr/bin/parsero
+tags:
+- unknown
+tool_name: parsero

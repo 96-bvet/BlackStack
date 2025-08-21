@@ -1,0 +1,7 @@
+description: Auto-generated manifest for appstreamcli
+hash: sha256:b4357fdad773ba2362e61d8adf98a9d5648498cb8e4809b370ec819ef40237bc
+persona_hint: Defense
+source_path: /usr/bin/appstreamcli
+tags:
+- unknown
+tool_name: appstreamcli

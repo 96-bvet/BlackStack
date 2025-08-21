@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-strip
+hash: sha256:a0710fbc6a3bf6acc3e18a93313418b72b9c82bee4991beb7c5200ec63a1ec56
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-strip
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-strip

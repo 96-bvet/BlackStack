@@ -1,0 +1,7 @@
+description: Auto-generated manifest for eps2eps
+hash: sha256:2134a13d558b4e27f2079f93c246b20c4afeee9e080b525166b286bcb917d904
+persona_hint: Defense
+source_path: /usr/bin/eps2eps
+tags:
+- unknown
+tool_name: eps2eps

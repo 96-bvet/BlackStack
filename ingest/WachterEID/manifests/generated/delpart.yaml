@@ -1,0 +1,7 @@
+description: Auto-generated manifest for delpart
+hash: sha256:5a79ea69827f651be5268a02c6bda2cf214099204df82b71b169da5b95385500
+persona_hint: Defense
+source_path: /usr/bin/delpart
+tags:
+- unknown
+tool_name: delpart

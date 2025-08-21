@@ -1,0 +1,7 @@
+description: Auto-generated manifest for send_demo
+hash: sha256:45247cbae770e4928ae6817d602343fa6666d74c7787a864070f8dc47e3f9365
+persona_hint: Defense
+source_path: /usr/share/doc/libmailtools-perl/examples/send_demo
+tags:
+- unknown
+tool_name: send_demo

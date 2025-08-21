@@ -1,0 +1,7 @@
+description: Auto-generated manifest for appres
+hash: sha256:7ccb78e306838a87b68d2c7d089e41ee491fc64b2bc3e24ec3fee558e9f06bd0
+persona_hint: Defense
+source_path: /usr/bin/appres
+tags:
+- unknown
+tool_name: appres

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for make.bash
+hash: sha256:0ecc80e92c91a9012d3feb298d15647ac05156ef00b65b3a3c255d777fb295ea
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/make.bash
+tags:
+- unknown
+tool_name: make.bash

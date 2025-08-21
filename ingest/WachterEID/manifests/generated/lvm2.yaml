@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lvm2
+hash: sha256:d326f83d858df77bd75b92fbb73d8652c7664d59115f802bb2781489375c5b55
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/lvm2
+tags:
+- unknown
+tool_name: lvm2

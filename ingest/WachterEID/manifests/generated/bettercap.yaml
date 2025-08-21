@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bettercap
+hash: sha256:0c0d42401ad6495c1bee251f466ea524b4babe05387f6f4d1ae70d0005fabc62
+persona_hint: Defense
+source_path: /usr/bin/bettercap
+tags:
+- unknown
+tool_name: bettercap

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-compress-dir
+hash: sha256:d2bcda1b5510444d27f6595eff820308ce29234a3b5f2f4ee789d2c54fc785de
+persona_hint: Defense
+source_path: /usr/bin/hwloc-compress-dir
+tags:
+- unknown
+tool_name: hwloc-compress-dir

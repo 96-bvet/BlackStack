@@ -1,0 +1,7 @@
+description: Auto-generated manifest for DNSserver.pm
+hash: sha256:f3a0df117174b5c51e550c659ca6e14f7ad0521afeea6ca6db0a6b7cad1c0ce1
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/Stanford/DNSserver.pm
+tags:
+- unknown
+tool_name: DNSserver.pm

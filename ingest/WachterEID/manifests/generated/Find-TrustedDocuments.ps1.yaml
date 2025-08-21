@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Find-TrustedDocuments.ps1
+hash: sha256:5c7fd0046e4289db3c698060256199462942bc5e385f83b619904406f7d58d68
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/situational_awareness/host/Find-TrustedDocuments.ps1
+tags:
+- unknown
+tool_name: Find-TrustedDocuments.ps1

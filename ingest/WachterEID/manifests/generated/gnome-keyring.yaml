@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gnome-keyring
+hash: sha256:2e90e55141aaa96d96cbc45a5d0d2785a214b3403ee3221ff5846be20db9e8e8
+persona_hint: Defense
+source_path: /usr/bin/gnome-keyring
+tags:
+- unknown
+tool_name: gnome-keyring

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cgroupfs-umount
+hash: sha256:d4217bbe9a9e902349f10136030d0dd58eb23a7a699544abc68ef076409b429d
+persona_hint: Defense
+source_path: /usr/bin/cgroupfs-umount
+tags:
+- unknown
+tool_name: cgroupfs-umount

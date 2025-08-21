@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpp
+hash: sha256:5734cad690f20414201547123ce3b3ce08e4e0b470871d260cacc1480e354365
+persona_hint: Defense
+source_path: /usr/share/cmake-3.25/Modules/Compiler/XL-Fortran/cpp
+tags:
+- unknown
+tool_name: cpp

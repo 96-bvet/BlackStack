@@ -1,0 +1,7 @@
+description: Auto-generated manifest for redialer
+hash: sha256:fb0ec8105646e30b878892baa36250dad87a11ec84d303010821f370dd6c3763
+persona_hint: Defense
+source_path: /usr/share/doc/ppp/examples/scripts/redialer
+tags:
+- unknown
+tool_name: redialer

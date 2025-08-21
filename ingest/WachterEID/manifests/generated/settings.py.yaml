@@ -1,0 +1,7 @@
+description: Auto-generated manifest for settings.py
+hash: sha256:c9dd20c75819c2a62504f518e9f1ca854db17f1f88ea51867fcf396d608c8ad6
+persona_hint: Defense
+source_path: /usr/share/responder/settings.py
+tags:
+- unknown
+tool_name: settings.py

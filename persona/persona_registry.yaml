@@ -1,0 +1,16 @@
+deepseek_v2:
+  approval_gate: true
+  audit_log: /home/blackhawk63/BlackStack/WachterEID/audit/deepseek_merge.log
+  fallback_logic: enabled
+  merged: 2025-08-20 13:21 EDT
+  path: ~/BlackStack/DeepSeek
+  tone_routing: modular
+toolset_cai:
+  path: /modules/cai/tools/
+  routing_tags: [utility, forensic, compat]
+  approval_required: true
+active_persona: Blackhawk
+
+personas:
+  Blackhawk:
+    approval_gate: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cifsiostat
+hash: sha256:d84891e77a5e52c0e18db23d0a97d79265711926e62756f06072ee332bad7af3
+persona_hint: Defense
+source_path: /usr/bin/cifsiostat
+tags:
+- unknown
+tool_name: cifsiostat

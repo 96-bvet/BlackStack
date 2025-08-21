@@ -1,0 +1,7 @@
+description: Auto-generated manifest for license.txt
+hash: sha256:13d4e08c5453c7ef306d41a644f9e4ccaa7c9bb96f52d268c9d09833ccbd5c5f
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Payloads/Aes/license.txt
+tags:
+- unknown
+tool_name: license.txt

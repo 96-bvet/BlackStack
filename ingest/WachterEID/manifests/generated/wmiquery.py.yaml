@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wmiquery.py
+hash: sha256:3be84607a6b14dc87d28f15c4b5a4264442709257165c72c777b90ae3907ec42
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/wmiquery.py
+tags:
+- unknown
+tool_name: wmiquery.py

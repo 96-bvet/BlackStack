@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gnome-vlc-default.sh
+hash: sha256:ba2c60e95ba5888cd93d1bca192bc20df517a3ea7678546f6d728c3a4d967bb1
+persona_hint: Defense
+source_path: /usr/share/vlc/utils/gnome-vlc-default.sh
+tags:
+- unknown
+tool_name: gnome-vlc-default.sh

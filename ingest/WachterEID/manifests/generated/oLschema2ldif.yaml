@@ -1,0 +1,7 @@
+description: Auto-generated manifest for oLschema2ldif
+hash: sha256:dd7039740b7912db69496b6d135548328645031c8c78f67cb255a6453dfe7f6e
+persona_hint: Defense
+source_path: /usr/bin/oLschema2ldif
+tags:
+- unknown
+tool_name: oLschema2ldif

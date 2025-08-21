@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-buildflags
+hash: sha256:4a363aa71affdea49cf5fc894783f3ff13ed66fcfe75646a82809ca7607e953a
+persona_hint: Defense
+source_path: /usr/bin/dpkg-buildflags
+tags:
+- unknown
+tool_name: dpkg-buildflags

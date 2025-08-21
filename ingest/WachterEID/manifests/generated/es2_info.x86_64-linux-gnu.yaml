@@ -1,0 +1,7 @@
+description: Auto-generated manifest for es2_info.x86_64-linux-gnu
+hash: sha256:d1338334a6175ea50bcb1e1b71a7986dcf3478001c402b50cc67f5810080b94c
+persona_hint: Defense
+source_path: /usr/bin/es2_info.x86_64-linux-gnu
+tags:
+- unknown
+tool_name: es2_info.x86_64-linux-gnu

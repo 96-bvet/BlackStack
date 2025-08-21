@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bash
+hash: sha256:55b89ab22bee4792a210f493a53fb066accd5d30b69837c28d98be5ff863efcf
+persona_hint: Defense
+source_path: /usr/bin/bash
+tags:
+- unknown
+tool_name: bash

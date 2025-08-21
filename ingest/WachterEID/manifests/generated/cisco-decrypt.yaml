@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cisco-decrypt
+hash: sha256:53cfcc0fac9418da054420513eef8b216f1057f535f03cfb5560065f30701511
+persona_hint: Defense
+source_path: /usr/bin/cisco-decrypt
+tags:
+- unknown
+tool_name: cisco-decrypt

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for readlink
+hash: sha256:bfeeebae7ec8362788bc6e58182d5d1f534e6f7ec970be28ef63590b74edc4a5
+persona_hint: Defense
+source_path: /usr/bin/readlink
+tags:
+- unknown
+tool_name: readlink

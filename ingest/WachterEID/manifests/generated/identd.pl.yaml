@@ -1,0 +1,7 @@
+description: Auto-generated manifest for identd.pl
+hash: sha256:faa6e8020de2b28831694659f92758532c28e97abd9500f7f92e693aba5bdf48
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/identd.pl
+tags:
+- unknown
+tool_name: identd.pl

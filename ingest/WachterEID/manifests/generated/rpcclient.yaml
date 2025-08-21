@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rpcclient
+hash: sha256:67fcadfc42a6caa66c22c4645651746d37d88c1fdd760ef2ff128d8e50deb120
+persona_hint: Defense
+source_path: /usr/bin/rpcclient
+tags:
+- unknown
+tool_name: rpcclient

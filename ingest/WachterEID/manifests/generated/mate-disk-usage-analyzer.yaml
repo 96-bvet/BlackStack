@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-disk-usage-analyzer
+hash: sha256:d4a20565afa6f2e80cffa18bf98b16658354f566c4a5587a649a5db430adec68
+persona_hint: Defense
+source_path: /usr/bin/mate-disk-usage-analyzer
+tags:
+- unknown
+tool_name: mate-disk-usage-analyzer

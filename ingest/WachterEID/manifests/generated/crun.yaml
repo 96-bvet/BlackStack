@@ -1,0 +1,7 @@
+description: Auto-generated manifest for crun
+hash: sha256:2210e1844d40cbee409e3a97c99ef974c10a6a249db4a933661e765396f5c1c9
+persona_hint: Defense
+source_path: /usr/bin/crun
+tags:
+- unknown
+tool_name: crun

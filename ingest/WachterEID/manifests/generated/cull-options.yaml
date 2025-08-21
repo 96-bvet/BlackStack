@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cull-options
+hash: sha256:ffdc63685bc3019c2680a88299d90d33a78a8fe04b0cd2c78e0b9fca86177806
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/cull-options
+tags:
+- unknown
+tool_name: cull-options

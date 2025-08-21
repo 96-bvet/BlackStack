@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tor-print-ed-signing-cert
+hash: sha256:1b9af850e1e8eb1bca0cff01ac46b90c30f9a9f3b5cb21651c36444fa14ddb19
+persona_hint: Defense
+source_path: /usr/bin/tor-print-ed-signing-cert
+tags:
+- unknown
+tool_name: tor-print-ed-signing-cert

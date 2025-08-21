@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xstdcmap
+hash: sha256:7ce6b88f7da0c15835c6cdbc6491b204e59c8ae7216c91ec0d8bb5247956d224
+persona_hint: Defense
+source_path: /usr/bin/xstdcmap
+tags:
+- unknown
+tool_name: xstdcmap

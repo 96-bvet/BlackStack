@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pahole
+hash: sha256:3014741682096f7a6a20f3fc581323f52cad9648540d174f1721690a137e1f4d
+persona_hint: Defense
+source_path: /usr/bin/pahole
+tags:
+- unknown
+tool_name: pahole

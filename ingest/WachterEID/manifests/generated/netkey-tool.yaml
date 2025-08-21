@@ -1,0 +1,7 @@
+description: Auto-generated manifest for netkey-tool
+hash: sha256:c639c8cf39d99c49b41a91e67bd5a9a81a544b98c1c7472f8478baa01e5ba143
+persona_hint: Defense
+source_path: /usr/bin/netkey-tool
+tags:
+- unknown
+tool_name: netkey-tool

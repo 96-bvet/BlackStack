@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kirbi2john.py
+hash: sha256:d9b32129b9b9c6f7a957a0ee669801d50a2ac49d8871a80127b6275929514a34
+persona_hint: Defense
+source_path: /usr/share/kerberoast/kirbi2john.py
+tags:
+- unknown
+tool_name: kirbi2john.py

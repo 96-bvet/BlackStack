@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvim
+hash: sha256:fe87658065672654709db2fb4dac6df94c976f92461cc5ea7f785133dfb72c2e
+persona_hint: Defense
+source_path: /usr/bin/nvim
+tags:
+- unknown
+tool_name: nvim

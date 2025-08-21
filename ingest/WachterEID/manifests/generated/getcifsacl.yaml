@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getcifsacl
+hash: sha256:08d383c8e360785d3bc5918694e6ec792d702c2c21155d7fe7d762627eb96c92
+persona_hint: Defense
+source_path: /usr/bin/getcifsacl
+tags:
+- unknown
+tool_name: getcifsacl

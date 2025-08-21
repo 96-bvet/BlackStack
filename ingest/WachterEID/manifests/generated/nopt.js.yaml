@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nopt.js
+hash: sha256:419fd0c250623dcf67bb4993817881331c17096960907ee34adc85af9e74da31
+persona_hint: Defense
+source_path: /usr/share/nodejs/nopt/bin/nopt.js
+tags:
+- unknown
+tool_name: nopt.js

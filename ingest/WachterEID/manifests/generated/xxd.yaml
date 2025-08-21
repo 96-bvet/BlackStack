@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xxd
+hash: sha256:f4cf1131823fe3e47c94a6e5c406bb84bfcd0b01ce322ea9f97ee8b6a671eb62
+persona_hint: Defense
+source_path: /usr/bin/xxd
+tags:
+- unknown
+tool_name: xxd

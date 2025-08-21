@@ -1,0 +1,7 @@
+description: Auto-generated manifest for web_ws.py
+hash: sha256:be7eb6ed674f772e61511e56e840fa3a3c71b96190d1973d97b4b4156be8a721
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/web_ws.py
+tags:
+- unknown
+tool_name: web_ws.py

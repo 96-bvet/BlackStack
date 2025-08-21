@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_perl_dbi
+hash: sha256:9139cf220dafd19351fe3b5d259fd09b794e938ac9f6105b32fbfc9e69792cc2
+persona_hint: Defense
+source_path: /usr/bin/dh_perl_dbi
+tags:
+- unknown
+tool_name: dh_perl_dbi

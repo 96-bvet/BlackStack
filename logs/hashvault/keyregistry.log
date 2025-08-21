@@ -1,0 +1,6 @@
+pub   rsa4096 2025-08-21 [CE] [expires: 2027-08-21]
+      6309 68D2 0EBA 1350 218E  8396 4CD5 29B7 240F 839F
+uid           [ultimate] WachterEID Vault <vault@wachtereid.local>
+
+8873879ca9509de401e7e7fb5781a8747e117042c540d3e6e9bdc8e543a8f70e  /home/blackhawk63/BlackStack/WachterEID/registry/keys/wachtereid.pub.asc
+2025-08-21T10:23:53-04:00 | wachtereid.pub.asc | 8873879ca9509de401e7e7fb5781a8747e117042c540d3e6e9bdc8e543a8f70e | Persona: WachterEID Vault

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpgtar
+hash: sha256:ea5f9d693c13b6f00080ee281263d189d5f40efb42fc8e2629c44000202e0748
+persona_hint: Defense
+source_path: /usr/bin/gpgtar
+tags:
+- unknown
+tool_name: gpgtar

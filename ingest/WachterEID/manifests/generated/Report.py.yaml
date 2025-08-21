@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Report.py
+hash: sha256:73194325a4ad5348ba80c47d513c9d391904d13f3aee851e7e1348907601ab98
+persona_hint: Defense
+source_path: /usr/share/responder/Report.py
+tags:
+- unknown
+tool_name: Report.py

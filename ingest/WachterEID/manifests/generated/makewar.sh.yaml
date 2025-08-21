@@ -1,0 +1,7 @@
+description: Auto-generated manifest for makewar.sh
+hash: sha256:5858dd31e9cbddb080de54cf7af3362a7fee9f35785b387ec2b6c97c51c4238a
+persona_hint: Defense
+source_path: /usr/share/laudanum/jsp/makewar.sh
+tags:
+- unknown
+tool_name: makewar.sh

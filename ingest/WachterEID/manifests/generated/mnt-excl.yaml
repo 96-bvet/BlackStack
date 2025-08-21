@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mnt-excl
+hash: sha256:765997da423df063d8721d08fb62ae94b6b7b197f396bb3e831429153cfcd831
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/mnt-excl
+tags:
+- unknown
+tool_name: mnt-excl

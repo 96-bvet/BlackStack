@@ -1,0 +1,7 @@
+description: Auto-generated manifest for node-gyp.cmd
+hash: sha256:4cf2b2890c2fcc782d82692aa50c68bc8c9dc54281b6c23e5e507986ea13d3fe
+persona_hint: Defense
+source_path: /usr/share/nodejs/@npmcli/run-script/lib/node-gyp-bin/node-gyp.cmd
+tags:
+- unknown
+tool_name: node-gyp.cmd

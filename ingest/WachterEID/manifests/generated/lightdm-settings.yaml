@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lightdm-settings
+hash: sha256:8a88c8e32273a9948cce03f0b7c2a71dd15f4d6d4f32a9286534c16e09164e81
+persona_hint: Defense
+source_path: /usr/bin/lightdm-settings
+tags:
+- unknown
+tool_name: lightdm-settings

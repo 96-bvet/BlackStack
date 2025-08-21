@@ -1,0 +1,7 @@
+description: Auto-generated manifest for glxinfo
+hash: sha256:31e234200ab84d5ebcca2191085e9a3eda19cd0d5162a357b0594cff7cd01174
+persona_hint: Defense
+source_path: /usr/bin/glxinfo
+tags:
+- unknown
+tool_name: glxinfo

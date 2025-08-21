@@ -1,0 +1,7 @@
+description: Auto-generated manifest for primes.awk
+hash: sha256:3c1f108966196a68e40ff5e96a586d0056ffddb9bffa289a999f6631858ba69e
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/primes.awk
+tags:
+- unknown
+tool_name: primes.awk

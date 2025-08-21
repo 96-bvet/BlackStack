@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generate_fonts.py
+hash: sha256:06a673594fa7db62f2a51bd0eac57b52f92ff39dd025adebcf9e3775ed15f612
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/katex/src/fonts/generate_fonts.py
+tags:
+- unknown
+tool_name: generate_fonts.py

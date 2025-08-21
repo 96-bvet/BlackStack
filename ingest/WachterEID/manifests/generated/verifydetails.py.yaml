@@ -1,0 +1,7 @@
+description: Auto-generated manifest for verifydetails.py
+hash: sha256:6cb3afea1cd42db51205aaf628be2dc6cfee6f448c1dda35f5a7a605ea69056f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/verifydetails.py
+tags:
+- unknown
+tool_name: verifydetails.py

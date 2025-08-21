@@ -1,0 +1,7 @@
+description: Auto-generated manifest for thermal
+hash: sha256:0e8ec63b8c3b745944b90e71bec7ef026d38ce423fc04b0fa9a176db22c5d49e
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/thermal
+tags:
+- unknown
+tool_name: thermal

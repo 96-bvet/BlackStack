@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-alternatives
+hash: sha256:4950c9c969ed2bc0a9659532001fbf2df2de7e4bdfd47530ed38e54dec676de1
+persona_hint: Defense
+source_path: /usr/bin/update-alternatives
+tags:
+- unknown
+tool_name: update-alternatives

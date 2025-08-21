@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-volume-control-status-icon
+hash: sha256:a01e515efbab71f3290bded420d18aa1e51850549d21ea4bb2046fb7fb90070c
+persona_hint: Defense
+source_path: /usr/bin/mate-volume-control-status-icon
+tags:
+- unknown
+tool_name: mate-volume-control-status-icon

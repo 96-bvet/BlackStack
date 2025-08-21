@@ -1,0 +1,16 @@
+name: red_team
+path: src/cai/agents/patterns/red_team.py
+type: py
+category: cybersecurity
+hash: 900b1288002f623dceadaac52bcfa304576728ec86d823c10d4e3c84aedf75dc
+approved: true
+import: true
+license_stub: true
+name: red_team
+path: src/cai/agents/patterns/red_team.py
+type: py
+category: cybersecurity
+hash: 900b1288002f623dceadaac52bcfa304576728ec86d823c10d4e3c84aedf75dc
+approved: true
+import: true
+license_stub: true

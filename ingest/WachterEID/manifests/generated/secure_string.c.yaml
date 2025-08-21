@@ -1,0 +1,7 @@
+description: Auto-generated manifest for secure_string.c
+hash: sha256:35225bcf87ed450363284a70107929024733ed8672910157031204430284848c
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/secure_string.c
+tags:
+- unknown
+tool_name: secure_string.c

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msrpcfuzz
+hash: sha256:22ff46b8e4bf5363a0c0fa0348a93726a2edb7e62c761db58617ed2d82d51870
+persona_hint: Defense
+source_path: /usr/bin/msrpcfuzz
+tags:
+- unknown
+tool_name: msrpcfuzz

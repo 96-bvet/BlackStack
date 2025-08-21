@@ -1,0 +1,7 @@
+description: Auto-generated manifest for networkctl
+hash: sha256:7e605214b1df537c335b70b4d2c327e276598a730c2c5ed8bd08c53b75469d8e
+persona_hint: Defense
+source_path: /usr/bin/networkctl
+tags:
+- unknown
+tool_name: networkctl

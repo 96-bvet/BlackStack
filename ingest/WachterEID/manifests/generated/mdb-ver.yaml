@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-ver
+hash: sha256:e8ddff37a00c0e4be6c395617a677c0a2faea215c9b78f63bd16d84675c965e2
+persona_hint: Defense
+source_path: /usr/bin/mdb-ver
+tags:
+- unknown
+tool_name: mdb-ver

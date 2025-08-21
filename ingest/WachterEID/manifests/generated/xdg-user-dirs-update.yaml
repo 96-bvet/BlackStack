@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-user-dirs-update
+hash: sha256:a30ee737d40c41f34e5f833c8f7c7a0b68b1553d75316491437b597e301ed931
+persona_hint: Defense
+source_path: /usr/bin/xdg-user-dirs-update
+tags:
+- unknown
+tool_name: xdg-user-dirs-update

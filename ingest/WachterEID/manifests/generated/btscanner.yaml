@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btscanner
+hash: sha256:81529e8cc4b3573fd839a982b2ce23795f936189119f2750c116702d62a15b3b
+persona_hint: Defense
+source_path: /usr/bin/btscanner
+tags:
+- unknown
+tool_name: btscanner

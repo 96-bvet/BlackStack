@@ -1,0 +1,7 @@
+description: Auto-generated manifest for esgenerate
+hash: sha256:5747d64dfa8e01c788c437c3738a6df39a85a6e5991c1d98d105bf2bc1641100
+persona_hint: Defense
+source_path: /usr/bin/esgenerate
+tags:
+- unknown
+tool_name: esgenerate

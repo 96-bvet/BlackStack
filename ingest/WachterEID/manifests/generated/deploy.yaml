@@ -1,0 +1,7 @@
+description: Auto-generated manifest for deploy
+hash: sha256:759f1690e89c5a47c2863a7c65886296222cdec449d2581f42b6defb9a9972b1
+persona_hint: Defense
+source_path: /usr/share/doc/node-commander/examples/deploy
+tags:
+- unknown
+tool_name: deploy

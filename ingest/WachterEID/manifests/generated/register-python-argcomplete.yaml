@@ -1,0 +1,7 @@
+description: Auto-generated manifest for register-python-argcomplete
+hash: sha256:5d77860f79636ef417dcb22100e0364e015c8745b360947a9f6b62a20d7d7395
+persona_hint: Defense
+source_path: /usr/bin/register-python-argcomplete
+tags:
+- unknown
+tool_name: register-python-argcomplete

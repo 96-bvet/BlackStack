@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-typing-monitor
+hash: sha256:c5af2d8c83e4a88ef72d763d7b9c6b3f2435708a54baad343b66f04af32e5f28
+persona_hint: Defense
+source_path: /usr/bin/mate-typing-monitor
+tags:
+- unknown
+tool_name: mate-typing-monitor

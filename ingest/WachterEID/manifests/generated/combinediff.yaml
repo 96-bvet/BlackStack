@@ -1,0 +1,7 @@
+description: Auto-generated manifest for combinediff
+hash: sha256:8ebb15a5c4d24a0f125fd7ce073883660123aaa909907077424f8aef37871ebd
+persona_hint: Defense
+source_path: /usr/bin/combinediff
+tags:
+- unknown
+tool_name: combinediff

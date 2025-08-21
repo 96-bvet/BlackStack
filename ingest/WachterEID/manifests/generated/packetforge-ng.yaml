@@ -1,0 +1,7 @@
+description: Auto-generated manifest for packetforge-ng
+hash: sha256:2549d1fe3273ba85335aecb1ef24f83021333e3816d2e3b8b4e5b9c9d2e67b00
+persona_hint: Defense
+source_path: /usr/bin/packetforge-ng
+tags:
+- unknown
+tool_name: packetforge-ng

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for egk-tool
+hash: sha256:63379dd90f35575331d9700c44c9e03d9648ab78cc08c4b1ced0211a03ece13e
+persona_hint: Defense
+source_path: /usr/bin/egk-tool
+tags:
+- unknown
+tool_name: egk-tool

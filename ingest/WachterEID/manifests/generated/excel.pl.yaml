@@ -1,0 +1,7 @@
+description: Auto-generated manifest for excel.pl
+hash: sha256:ab79b869d573addd7eab88a3adfe9be1f2f71afe11bfa6b5e3a09163f62988d3
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/excel.pl
+tags:
+- unknown
+tool_name: excel.pl

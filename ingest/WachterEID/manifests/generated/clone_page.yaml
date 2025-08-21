@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clone_page
+hash: sha256:b2c30ecbf02a79e71216a658986738f89dc0ba5eacaec3f61abc1b4fc742ac53
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/clone_page
+tags:
+- unknown
+tool_name: clone_page

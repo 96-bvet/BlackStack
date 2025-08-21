@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tbl
+hash: sha256:ca81690e56679d80caf363702b1121dd1f7fd1a69ba956b6618a66b33a4afbe4
+persona_hint: Defense
+source_path: /usr/bin/tbl
+tags:
+- unknown
+tool_name: tbl

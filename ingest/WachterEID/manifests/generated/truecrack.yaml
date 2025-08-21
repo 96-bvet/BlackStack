@@ -1,0 +1,7 @@
+description: Auto-generated manifest for truecrack
+hash: sha256:46be98a64fa18b05d2cbf7edfc49c9c748ac18c94bffb3d6e84ec096c80b53cc
+persona_hint: Defense
+source_path: /usr/bin/truecrack
+tags:
+- unknown
+tool_name: truecrack

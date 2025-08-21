@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-screensaver
+hash: sha256:b14ca8274d83d650769bc206206aab7d08f4d16d8037d40ac21c8352b73d535c
+persona_hint: Defense
+source_path: /usr/bin/xdg-screensaver
+tags:
+- unknown
+tool_name: xdg-screensaver

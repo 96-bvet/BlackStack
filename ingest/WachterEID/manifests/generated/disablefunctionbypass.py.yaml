@@ -1,0 +1,7 @@
+description: Auto-generated manifest for disablefunctionbypass.py
+hash: sha256:7b5de3e152ab4cee892dd909eda2b2bc490f85c662fa195713ba279e91c375bd
+persona_hint: Defense
+source_path: /usr/share/weevely/modules/audit/disablefunctionbypass.py
+tags:
+- unknown
+tool_name: disablefunctionbypass.py

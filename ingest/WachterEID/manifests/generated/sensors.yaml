@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sensors
+hash: sha256:8b2d66d8c53b83429baf99135eaf7a8e23594c5db4ef2432ae179a7c1f37ab56
+persona_hint: Defense
+source_path: /usr/bin/sensors
+tags:
+- unknown
+tool_name: sensors

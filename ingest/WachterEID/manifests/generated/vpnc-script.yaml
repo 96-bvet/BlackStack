@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vpnc-script
+hash: sha256:48cdff979f5f941e2740193c4ee2a90f55549908afcb1fcee64a66f8c0fec05f
+persona_hint: Defense
+source_path: /usr/share/vpnc-scripts/vpnc-script
+tags:
+- unknown
+tool_name: vpnc-script

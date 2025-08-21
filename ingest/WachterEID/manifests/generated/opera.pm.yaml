@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opera.pm
+hash: sha256:fbdb36e2b4604f947d3d8cd091a1d3a9e03945cd5ebe79f2a758aa10d7b47ea0
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/opera.pm
+tags:
+- unknown
+tool_name: opera.pm

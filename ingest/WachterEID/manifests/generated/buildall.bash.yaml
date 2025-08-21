@@ -1,0 +1,7 @@
+description: Auto-generated manifest for buildall.bash
+hash: sha256:8dda713f836b9cfdbaedb94d468af8d3e153dd539dce154e701a12ab50fe70b2
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/buildall.bash
+tags:
+- unknown
+tool_name: buildall.bash

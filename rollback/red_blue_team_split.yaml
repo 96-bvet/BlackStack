@@ -1,0 +1,16 @@
+name: red_blue_team_split
+path: src/cai/agents/patterns/red_blue_team_split.py
+type: py
+category: cybersecurity
+hash: 9140f411fa7b1ee949f89dc30cb2f02902d241b5ce950c0753b1cf8128164f03
+approved: true
+import: true
+license_stub: true
+name: red_blue_team_split
+path: src/cai/agents/patterns/red_blue_team_split.py
+type: py
+category: cybersecurity
+hash: 9140f411fa7b1ee949f89dc30cb2f02902d241b5ce950c0753b1cf8128164f03
+approved: true
+import: true
+license_stub: true

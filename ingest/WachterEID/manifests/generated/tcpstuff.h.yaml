@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpstuff.h
+hash: sha256:f7636fc0c9d2ca9310f9d6c6d352e895cd74993435eb9fa214bf367623702fa3
+persona_hint: Defense
+source_path: /usr/share/spike/include/tcpstuff.h
+tags:
+- unknown
+tool_name: tcpstuff.h

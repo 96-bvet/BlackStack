@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ask-for-passphrase
+hash: sha256:5f2fd15451943d43845debd8322def414e00dd89b66e34750900bbc1c2c4c312
+persona_hint: Defense
+source_path: /usr/share/apache2/ask-for-passphrase
+tags:
+- unknown
+tool_name: ask-for-passphrase

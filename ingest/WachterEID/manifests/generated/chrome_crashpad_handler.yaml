@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chrome_crashpad_handler
+hash: sha256:608f72cb95cdd86ff6b31effbec3ddffbc78fa3a02243c7ffd67533d682220c4
+persona_hint: Defense
+source_path: /usr/share/codium/chrome_crashpad_handler
+tags:
+- unknown
+tool_name: chrome_crashpad_handler

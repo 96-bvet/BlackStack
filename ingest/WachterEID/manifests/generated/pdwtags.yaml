@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdwtags
+hash: sha256:e5a734bbf7cbcb688dfd16a503c2f057ebd13be4b6b0ef73ff3faca0ca05ee54
+persona_hint: Defense
+source_path: /usr/bin/pdwtags
+tags:
+- unknown
+tool_name: pdwtags

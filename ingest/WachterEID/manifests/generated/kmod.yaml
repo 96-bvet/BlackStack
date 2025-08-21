@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kmod
+hash: sha256:2873da3460d2d2975ef9145067cf33fd7a7ef77f1e7fd19dad2d4cd7201ac99e
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/kmod
+tags:
+- unknown
+tool_name: kmod

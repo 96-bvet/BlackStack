@@ -1,0 +1,7 @@
+description: Auto-generated manifest for b2sum
+hash: sha256:c52220dbef49c19fbb16cbb53e7de82861c193a27bf9c252985a8377af872ddc
+persona_hint: Defense
+source_path: /usr/bin/b2sum
+tags:
+- unknown
+tool_name: b2sum

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pax11publish
+hash: sha256:edee3ebf0d102624b57d796c452e969bbb4b3ef738cb8f645270849ea7bdd874
+persona_hint: Defense
+source_path: /usr/bin/pax11publish
+tags:
+- unknown
+tool_name: pax11publish

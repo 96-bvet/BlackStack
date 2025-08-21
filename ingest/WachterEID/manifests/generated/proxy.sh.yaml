@@ -1,0 +1,7 @@
+description: Auto-generated manifest for proxy.sh
+hash: sha256:9dd9935c78712622f8ffb414471556bbdb974a284b9281310400a3d17715480e
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/proxy.sh
+tags:
+- unknown
+tool_name: proxy.sh

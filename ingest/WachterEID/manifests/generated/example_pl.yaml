@@ -1,0 +1,7 @@
+description: Auto-generated manifest for example_pl
+hash: sha256:9a8a82e6b92b01a502d7b15a73495a6e52fc28e3ca3eb127d170813bb78ad325
+persona_hint: Defense
+source_path: /usr/share/doc/libauthen-sasl-perl/examples/example_pl
+tags:
+- unknown
+tool_name: example_pl

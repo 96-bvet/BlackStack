@@ -1,0 +1,7 @@
+description: Auto-generated manifest for notes
+hash: sha256:835ffde8023857da172636184159cefc8afb8e60ae70c0ae51d271b0ae54f200
+persona_hint: Defense
+source_path: /usr/share/spike/audits/lotus/notes
+tags:
+- unknown
+tool_name: notes

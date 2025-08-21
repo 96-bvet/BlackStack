@@ -1,0 +1,7 @@
+description: Auto-generated manifest for switch-c
+hash: sha256:83e8d5bf6f22cafb364531d068d76798602c40df024f8bc60e36ff05f6fb9e0f
+persona_hint: Defense
+source_path: /usr/share/pluma/plugins/externaltools/tools/switch-c
+tags:
+- unknown
+tool_name: switch-c

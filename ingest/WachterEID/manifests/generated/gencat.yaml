@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gencat
+hash: sha256:a2c5a92f0fc7fd700e8a0de430ca426a2e5547db7d8304ead5b13f6d6033052b
+persona_hint: Defense
+source_path: /usr/bin/gencat
+tags:
+- unknown
+tool_name: gencat

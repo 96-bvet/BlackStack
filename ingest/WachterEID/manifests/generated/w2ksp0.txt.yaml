@@ -1,0 +1,7 @@
+description: Auto-generated manifest for w2ksp0.txt
+hash: sha256:d211c4f7de54ab49d05c19c886c2d0179e2e37be398a1f456501563fdc5fb32e
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/w2ksp0.txt
+tags:
+- unknown
+tool_name: w2ksp0.txt

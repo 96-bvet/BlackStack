@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pmkey-import-hkp-alt.py
+hash: sha256:ba2b059f216a27ac1f22344617fe24cefedea1a218175649769ce869347b7ff7
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/pmkey-import-hkp-alt.py
+tags:
+- unknown
+tool_name: pmkey-import-hkp-alt.py

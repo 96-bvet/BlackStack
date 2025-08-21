@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-popup-places
+hash: sha256:3f4d46501fd74ab155bad767a53f920b925bc4d0faff9d3a50c25c8edc43f970
+persona_hint: Defense
+source_path: /usr/bin/xfce4-popup-places
+tags:
+- unknown
+tool_name: xfce4-popup-places

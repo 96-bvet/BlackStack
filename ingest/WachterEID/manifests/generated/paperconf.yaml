@@ -1,0 +1,7 @@
+description: Auto-generated manifest for paperconf
+hash: sha256:ca9f7ce0137cff1fcb213ca26343fcb7e2ba0af9ceba5fc312ffc3273ef51880
+persona_hint: Defense
+source_path: /usr/bin/paperconf
+tags:
+- unknown
+tool_name: paperconf

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unknownuser.sh
+hash: sha256:fb6804232fce7b693f71407a42d2f1747d2325d5bb6fb4a6b56dc33d89ca8ea7
+persona_hint: Defense
+source_path: /usr/share/doc/exim4-base/examples/unknownuser.sh
+tags:
+- unknown
+tool_name: unknownuser.sh

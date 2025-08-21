@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbcquotas
+hash: sha256:64223553dc56fb665716f4f27d20afeaa41128c9d744cdf1b18c1e215d8ac644
+persona_hint: Defense
+source_path: /usr/bin/smbcquotas
+tags:
+- unknown
+tool_name: smbcquotas

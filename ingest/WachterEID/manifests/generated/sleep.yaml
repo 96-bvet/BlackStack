@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sleep
+hash: sha256:4add4bb89d8ca0e3b1bd861130ddd7ae0fd9617a8055de0a38c8d2ca1ac95723
+persona_hint: Defense
+source_path: /usr/bin/sleep
+tags:
+- unknown
+tool_name: sleep

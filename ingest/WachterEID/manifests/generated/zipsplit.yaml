@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zipsplit
+hash: sha256:8cb878fe3c3459ca592b26147bd5ec5dd9300184a872bc67e81f9e9c69f403d2
+persona_hint: Defense
+source_path: /usr/bin/zipsplit
+tags:
+- unknown
+tool_name: zipsplit

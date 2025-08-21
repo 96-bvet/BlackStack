@@ -1,0 +1,7 @@
+description: Auto-generated manifest for minicom
+hash: sha256:878e911770b361727ee6a56e7964b3bfd537e65d762b8f21a05cb8e2dc8f53b3
+persona_hint: Defense
+source_path: /usr/bin/minicom
+tags:
+- unknown
+tool_name: minicom

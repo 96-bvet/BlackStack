@@ -1,0 +1,7 @@
+description: Auto-generated manifest for flashget.pm
+hash: sha256:88933607ccbaac939a7dbda08782d4d48642200a768bbe0a8bcab5eb46d02ae7
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/flashget.pm
+tags:
+- unknown
+tool_name: flashget.pm

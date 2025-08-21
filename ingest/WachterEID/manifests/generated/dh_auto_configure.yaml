@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_auto_configure
+hash: sha256:e04c12d960e0f5cdc9c80fb107eea3786caba283128c0252d6753872263f4278
+persona_hint: Defense
+source_path: /usr/bin/dh_auto_configure
+tags:
+- unknown
+tool_name: dh_auto_configure

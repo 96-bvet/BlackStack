@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nocomment.awk
+hash: sha256:4b9742fc8772be0d6b0b3e1dfeaebd40e733d242e16ed678b9c84be4014d59d2
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/nocomment.awk
+tags:
+- unknown
+tool_name: nocomment.awk

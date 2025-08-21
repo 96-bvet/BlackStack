@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtmerge
+hash: sha256:5ef6d99af6261632487a404dddc90a6cf891643ede8f4bc1b53b93a7ccf663d5
+persona_hint: Defense
+source_path: /usr/share/rainbowcrack/rtmerge
+tags:
+- unknown
+tool_name: rtmerge

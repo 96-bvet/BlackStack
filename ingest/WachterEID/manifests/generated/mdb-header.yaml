@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-header
+hash: sha256:2e35dff5bb9f1c3aef9d2b7e33e5a255d43ba4fbbd0a39be040ec6a5efe71210
+persona_hint: Defense
+source_path: /usr/bin/mdb-header
+tags:
+- unknown
+tool_name: mdb-header

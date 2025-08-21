@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lspci
+hash: sha256:66340980ebe1126b4f4fd574c8a16df1bd4b277ff46ebb97de896f73d9c300ce
+persona_hint: Defense
+source_path: /usr/bin/lspci
+tags:
+- unknown
+tool_name: lspci

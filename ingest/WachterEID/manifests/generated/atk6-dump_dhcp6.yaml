@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-dump_dhcp6
+hash: sha256:e38e6c5f48e2c4db73494c4cb28882994bf692f405c6a5b4e1f12b1a77c41c82
+persona_hint: Defense
+source_path: /usr/bin/atk6-dump_dhcp6
+tags:
+- unknown
+tool_name: atk6-dump_dhcp6

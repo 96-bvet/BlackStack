@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rvlc
+hash: sha256:be9eec1fe388d6bf2ff0d6a176289089308355f0018ec64e449790ef4f9d2140
+persona_hint: Defense
+source_path: /usr/bin/rvlc
+tags:
+- unknown
+tool_name: rvlc

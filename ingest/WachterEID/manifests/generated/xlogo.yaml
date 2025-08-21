@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xlogo
+hash: sha256:94785e50c5a5f365d649692be13328083140d4be031213530c0bd3dcb7256199
+persona_hint: Defense
+source_path: /usr/bin/xlogo
+tags:
+- unknown
+tool_name: xlogo

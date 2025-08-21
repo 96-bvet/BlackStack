@@ -1,0 +1,16 @@
+name: case_study_generator
+path: tools/case_study_generator.py
+type: py
+category: misc
+hash: 5bfbe397a0e2ec2093e2bff0b81527587a3d4d0c568c070b23b687302231d509
+approved: true
+import: true
+license_stub: true
+name: case_study_generator
+path: tools/case_study_generator.py
+type: py
+category: misc
+hash: 5bfbe397a0e2ec2093e2bff0b81527587a3d4d0c568c070b23b687302231d509
+approved: true
+import: true
+license_stub: true

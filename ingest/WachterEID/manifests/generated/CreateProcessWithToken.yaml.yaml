@@ -1,0 +1,7 @@
+description: Auto-generated manifest for CreateProcessWithToken.yaml
+hash: sha256:e82218c0ab65c04134f8b1fa1934b58d5949a37165ec6449a46e81d01fc6c27e
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/SharpSploit/CreateProcessWithToken.yaml
+tags:
+- unknown
+tool_name: CreateProcessWithToken.yaml

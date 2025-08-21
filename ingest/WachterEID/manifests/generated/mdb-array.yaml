@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-array
+hash: sha256:57fa2fdc849b9a277c1db307f69ee7d8b5c0d42e242c8011197ce6900f04fd74
+persona_hint: Defense
+source_path: /usr/bin/mdb-array
+tags:
+- unknown
+tool_name: mdb-array

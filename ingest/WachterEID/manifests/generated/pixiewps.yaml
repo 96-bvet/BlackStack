@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pixiewps
+hash: sha256:21c568654c857f0b5808bc677bcccd29e510041d4f51197dac86b7d16fcb1f3a
+persona_hint: Defense
+source_path: /usr/bin/pixiewps
+tags:
+- unknown
+tool_name: pixiewps

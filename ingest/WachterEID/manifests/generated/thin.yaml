@@ -1,0 +1,7 @@
+description: Auto-generated manifest for thin
+hash: sha256:a832cbf3478a8b4117c62fe5731b68a61b45abc0b76c376297002e03617d3abb
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/bin/thin
+tags:
+- unknown
+tool_name: thin

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zap.sh
+hash: sha256:22371dc81b2ea6c1881e3789eef1f8d524430074d1d1402e72e1d26267bb5800
+persona_hint: Defense
+source_path: /usr/share/zaproxy/zap.sh
+tags:
+- unknown
+tool_name: zap.sh

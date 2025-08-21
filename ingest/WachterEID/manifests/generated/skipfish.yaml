@@ -1,0 +1,7 @@
+description: Auto-generated manifest for skipfish
+hash: sha256:b806bf12b8ca92a5b67a15563a182054a7ebe2028c3280dd66f3eb7967de3d4b
+persona_hint: Defense
+source_path: /usr/bin/skipfish
+tags:
+- unknown
+tool_name: skipfish

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for renice
+hash: sha256:cc701f54f452f8cee40e5cb5f37c28db6dce46c807965b22fcf248652eb49e07
+persona_hint: Defense
+source_path: /usr/bin/renice
+tags:
+- unknown
+tool_name: renice

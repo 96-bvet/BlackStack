@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fragrouter6
+hash: sha256:6f7a2837637f8dd9c591fa6a829115b66d7a29cb2c3c8ade043bd7357c4645ff
+persona_hint: Defense
+source_path: /usr/bin/atk6-fragrouter6
+tags:
+- unknown
+tool_name: atk6-fragrouter6

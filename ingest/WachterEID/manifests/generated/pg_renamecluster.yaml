@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_renamecluster
+hash: sha256:6e690ea6ccba94bd50a8e83e32a62693e55cdbb01f70a05952b3ab9e5070f740
+persona_hint: Defense
+source_path: /usr/bin/pg_renamecluster
+tags:
+- unknown
+tool_name: pg_renamecluster

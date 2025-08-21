@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reaver
+hash: sha256:72a3b4c46f925fc62c36ad4f309284ee758db87617069a2ea231a10f690a4719
+persona_hint: Defense
+source_path: /usr/bin/reaver
+tags:
+- unknown
+tool_name: reaver

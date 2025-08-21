@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fantaip
+hash: sha256:61a8ed038663d62e3002fb9b17621281b3134ea2060aa1519eac67ebe87054b4
+persona_hint: Defense
+source_path: /usr/bin/fantaip
+tags:
+- unknown
+tool_name: fantaip

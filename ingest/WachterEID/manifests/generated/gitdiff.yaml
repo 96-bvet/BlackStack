@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gitdiff
+hash: sha256:4236d2290b61b658a047cf59e40f2e9aad945b4a7e8a7452970bd1bb94846341
+persona_hint: Defense
+source_path: /usr/bin/gitdiff
+tags:
+- unknown
+tool_name: gitdiff

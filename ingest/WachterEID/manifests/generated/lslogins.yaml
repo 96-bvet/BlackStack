@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lslogins
+hash: sha256:8d2b598d0e2fef51daa59801be3b388164388196a0748c1e1376b6ae25b7f8c6
+persona_hint: Defense
+source_path: /usr/bin/lslogins
+tags:
+- unknown
+tool_name: lslogins

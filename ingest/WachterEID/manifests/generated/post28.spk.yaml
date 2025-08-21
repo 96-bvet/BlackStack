@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post28.spk
+hash: sha256:fdc2ffad0088261049db63b4158a88fa1a37659de68fbc581a4ab9cd473f0245
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post28.spk
+tags:
+- unknown
+tool_name: post28.spk

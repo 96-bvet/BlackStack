@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptoloop2hashcat.py
+hash: sha256:2aad7c546d8ca5beac610018c97e13bbc7257857bf84af2635a5aa7252e25322
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/cryptoloop2hashcat.py
+tags:
+- unknown
+tool_name: cryptoloop2hashcat.py

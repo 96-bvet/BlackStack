@@ -1,0 +1,7 @@
+description: Auto-generated manifest for calamares
+hash: sha256:5d3067b3af462eb7dfab846de435c5a084ed67d106a4d9f50024ce9ac30e3afe
+persona_hint: Defense
+source_path: /usr/bin/calamares
+tags:
+- unknown
+tool_name: calamares

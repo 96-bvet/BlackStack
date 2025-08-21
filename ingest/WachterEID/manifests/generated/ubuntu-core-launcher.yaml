@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubuntu-core-launcher
+hash: sha256:9f0e4fe79fcc067d7f48b44919875ec8edc437313524d3111ba7ba6aaa5e7869
+persona_hint: Defense
+source_path: /usr/bin/ubuntu-core-launcher
+tags:
+- unknown
+tool_name: ubuntu-core-launcher

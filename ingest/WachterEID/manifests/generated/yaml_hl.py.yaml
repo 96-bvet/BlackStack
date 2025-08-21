@@ -1,0 +1,7 @@
+description: Auto-generated manifest for yaml_hl.py
+hash: sha256:8e56fa6113ec39c7bd79742013e4cc0b8d5f27ebcb935ff09636d537582861cd
+persona_hint: Defense
+source_path: /usr/share/doc/python3-yaml/examples/yaml-highlight/yaml_hl.py
+tags:
+- unknown
+tool_name: yaml_hl.py

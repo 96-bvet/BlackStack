@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gobuster
+hash: sha256:14f94e32e7c7e449b91570aa68a23e4d1c9ab11cf8820770e6f451865cb5e7cc
+persona_hint: Defense
+source_path: /usr/bin/gobuster
+tags:
+- unknown
+tool_name: gobuster

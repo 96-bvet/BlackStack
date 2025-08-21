@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fakeroot
+hash: sha256:5975171ea5e96bf0ee313d5ca4d751b05df424103a9b8df50bc0bdfdfeddeea6
+persona_hint: Defense
+source_path: /usr/bin/fakeroot
+tags:
+- unknown
+tool_name: fakeroot

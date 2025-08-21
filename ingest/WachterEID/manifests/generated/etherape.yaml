@@ -1,0 +1,7 @@
+description: Auto-generated manifest for etherape
+hash: sha256:301287053f6e9df11b2ddcb802e016eb68411676bcf2856c73754c701834138d
+persona_hint: Defense
+source_path: /usr/bin/etherape
+tags:
+- unknown
+tool_name: etherape

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ex
+hash: sha256:5d3178628afc39f0318638cad19e9ad06ada89926dfb263e93ab35cc8f60e911
+persona_hint: Defense
+source_path: /usr/bin/ex
+tags:
+- unknown
+tool_name: ex

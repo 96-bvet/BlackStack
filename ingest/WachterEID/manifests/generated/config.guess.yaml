@@ -1,0 +1,7 @@
+description: Auto-generated manifest for config.guess
+hash: sha256:cf610daf8afdedbf2110abd79bdd4121d59080cab5ec46deaf67f97273bb6bda
+persona_hint: Defense
+source_path: /usr/share/misc/config.guess
+tags:
+- unknown
+tool_name: config.guess

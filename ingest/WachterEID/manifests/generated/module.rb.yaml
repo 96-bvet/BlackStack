@@ -1,0 +1,7 @@
+description: Auto-generated manifest for module.rb
+hash: sha256:1c62d036cfa24ef4480cb2a7b3316779d1926e880c5e4de6cf04b69082797eb7
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/social_engineering/lcamtuf_download/module.rb
+tags:
+- unknown
+tool_name: module.rb

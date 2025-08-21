@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mfcuk
+hash: sha256:1cc9da378324c9a66516ddd7d66db751dabd00c2e1788ad4e597d0aa7391ff7b
+persona_hint: Defense
+source_path: /usr/bin/mfcuk
+tags:
+- unknown
+tool_name: mfcuk

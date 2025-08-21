@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_compress
+hash: sha256:a67915ba7366cac2e060316a0ca0cb1ece7a6d9b1c13c0b40db0e243144e321a
+persona_hint: Defense
+source_path: /usr/bin/dh_compress
+tags:
+- unknown
+tool_name: dh_compress

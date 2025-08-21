@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_bash-completion
+hash: sha256:81ffb508a53c023aecb9d8b124419e2c6bc70a3ed7958b8f4ea17a3b499d3fed
+persona_hint: Defense
+source_path: /usr/bin/dh_bash-completion
+tags:
+- unknown
+tool_name: dh_bash-completion

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for busctl
+hash: sha256:f1e8ad3ef068b5b60e71d78e5792d2065b3d4f5def5aaa75fa5121c330178136
+persona_hint: Defense
+source_path: /usr/bin/busctl
+tags:
+- unknown
+tool_name: busctl

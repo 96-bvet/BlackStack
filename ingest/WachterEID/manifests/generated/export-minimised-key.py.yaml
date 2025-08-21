@@ -1,0 +1,7 @@
+description: Auto-generated manifest for export-minimised-key.py
+hash: sha256:b69ce4a3f4d689998c6f7ea20aa37cb580c0bbda9a0b29075d8474bc383fa03c
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/export-minimised-key.py
+tags:
+- unknown
+tool_name: export-minimised-key.py

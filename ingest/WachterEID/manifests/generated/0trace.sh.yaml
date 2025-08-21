@@ -1,0 +1,7 @@
+description: Auto-generated manifest for 0trace.sh
+hash: sha256:7fa73b11f94840f2fc0bfac83dcec4feef031623a5b0e85888728304db82807d
+persona_hint: Defense
+source_path: /usr/bin/0trace.sh
+tags:
+- unknown
+tool_name: 0trace.sh

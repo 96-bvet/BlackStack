@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smartsearch
+hash: sha256:f47c31b87852a263e225fc6a2a5ebde0fea1ddd16002457ce8b57d7f48201b9b
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debtags/smartsearch
+tags:
+- unknown
+tool_name: smartsearch

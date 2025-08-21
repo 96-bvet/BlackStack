@@ -1,0 +1,7 @@
+description: Auto-generated manifest for parallel
+hash: sha256:205e59fa6e8c69773ead83c867a6f4e05b90218486a66460c67c356735fbe989
+persona_hint: Defense
+source_path: /usr/bin/parallel
+tags:
+- unknown
+tool_name: parallel

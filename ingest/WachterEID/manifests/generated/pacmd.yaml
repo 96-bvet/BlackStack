@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pacmd
+hash: sha256:c6c6fffe5a4744e10a46a847be7fa61f6052438468183f1420819158833e5626
+persona_hint: Defense
+source_path: /usr/bin/pacmd
+tags:
+- unknown
+tool_name: pacmd

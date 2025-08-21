@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-version
+hash: sha256:b7a6ef925e61a5b2fcb0297611d7cc68027e2afdbaf935f340ee4f65c78925e9
+persona_hint: Defense
+source_path: /usr/share/doc/libapt-pkg-perl/examples/apt-version
+tags:
+- unknown
+tool_name: apt-version

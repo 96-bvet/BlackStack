@@ -1,0 +1,7 @@
+description: Auto-generated manifest for codium-tunnel
+hash: sha256:0f0dadbbb06040fa7ebea15f2438b5ac647462e3d36fbbd9594047b7b68659f2
+persona_hint: Defense
+source_path: /usr/share/codium/bin/codium-tunnel
+tags:
+- unknown
+tool_name: codium-tunnel

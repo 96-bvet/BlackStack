@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nroff
+hash: sha256:a2317cc420a921eb18e4b71da94d3e4a3875090767d11425468b9a3c780d511b
+persona_hint: Defense
+source_path: /usr/bin/nroff
+tags:
+- unknown
+tool_name: nroff

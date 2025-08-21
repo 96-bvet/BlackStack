@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-rpctool
+hash: sha256:5b50bd01bb464b575988471a944be692a1c984d5d10698abd0cb06dbde052061
+persona_hint: Defense
+source_path: /usr/bin/vmware-rpctool
+tags:
+- unknown
+tool_name: vmware-rpctool

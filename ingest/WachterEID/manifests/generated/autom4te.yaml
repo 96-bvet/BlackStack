@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autom4te
+hash: sha256:c59d277a63b425828bdf005eaf3c4cfcf61f5e99ecf719a43f8b846cad245331
+persona_hint: Defense
+source_path: /usr/bin/autom4te
+tags:
+- unknown
+tool_name: autom4te

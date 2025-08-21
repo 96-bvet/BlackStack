@@ -1,0 +1,7 @@
+description: Auto-generated manifest for csv-check
+hash: sha256:138e1c5982106a475fe596099ec717254fadceefab809c56b682a23673f4e7e8
+persona_hint: Defense
+source_path: /usr/share/doc/libtext-csv-xs-perl/examples/csv-check
+tags:
+- unknown
+tool_name: csv-check

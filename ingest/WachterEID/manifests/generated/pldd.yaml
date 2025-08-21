@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pldd
+hash: sha256:f9a7f2c39f46be41ae4210a5539529445fd25f5732a64e83df47c190b356ebd9
+persona_hint: Defense
+source_path: /usr/bin/pldd
+tags:
+- unknown
+tool_name: pldd

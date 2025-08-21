@@ -1,0 +1,7 @@
+description: Auto-generated manifest for onsgmls
+hash: sha256:b219ce8dbe68e6c44f19732858d3a88dcb75bd4b8dadf242a31015480f6d4245
+persona_hint: Defense
+source_path: /usr/bin/onsgmls
+tags:
+- unknown
+tool_name: onsgmls

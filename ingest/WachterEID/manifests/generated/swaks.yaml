@@ -1,0 +1,7 @@
+description: Auto-generated manifest for swaks
+hash: sha256:9c0383765531f9dfea32c21fb262d6fb1a0a580a6c66d5c618d76951639472f1
+persona_hint: Defense
+source_path: /usr/bin/swaks
+tags:
+- unknown
+tool_name: swaks

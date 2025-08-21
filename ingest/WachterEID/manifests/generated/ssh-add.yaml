@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-add
+hash: sha256:a5951565d1d092db72ab2fe23bc3a1584db6c96f4e49faccade7f3d2b02ce9bb
+persona_hint: Defense
+source_path: /usr/bin/ssh-add
+tags:
+- unknown
+tool_name: ssh-add

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gzexe
+hash: sha256:ec1bf1611079caf2a981b570453d4b8b5b4a1efb20dd32138f393eb994b70fea
+persona_hint: Defense
+source_path: /usr/bin/gzexe
+tags:
+- unknown
+tool_name: gzexe

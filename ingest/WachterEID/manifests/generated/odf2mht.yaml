@@ -1,0 +1,7 @@
+description: Auto-generated manifest for odf2mht
+hash: sha256:1c40e201151afd40a550ac6bed02a1bd42acbcfdeba14d067e8ab1d619bbb426
+persona_hint: Defense
+source_path: /usr/bin/odf2mht
+tags:
+- unknown
+tool_name: odf2mht

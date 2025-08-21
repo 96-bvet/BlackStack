@@ -1,0 +1,7 @@
+description: Auto-generated manifest for appleupdate.pm
+hash: sha256:cf8788e33549edde01b7fb644a6c4aaa4aa6f04838ca51bed3c38ef48b89098c
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/appleupdate.pm
+tags:
+- unknown
+tool_name: appleupdate.pm

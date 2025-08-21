@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtpinsertsound
+hash: sha256:31f9cffbc0b4351aa5450021b6799a892090e18732328a44d0defd4db39ad5ac
+persona_hint: Defense
+source_path: /usr/bin/rtpinsertsound
+tags:
+- unknown
+tool_name: rtpinsertsound

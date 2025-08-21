@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cmp.bash
+hash: sha256:84789ca855ada42a8201e0d5e305d5091cd4fdbe48627eb93faffbfe8a6461cd
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/cmp.bash
+tags:
+- unknown
+tool_name: cmp.bash

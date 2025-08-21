@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kintercept.py
+hash: sha256:a2461d6bb9b3fdec4d4d3bb54b7e705d38f92ed0cacd4fdd3022eb48295e2428
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/kintercept.py
+tags:
+- unknown
+tool_name: kintercept.py

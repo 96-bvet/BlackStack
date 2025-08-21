@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mcomp
+hash: sha256:300526322ec087c38a7de11379da8878898b805e32b0ff3b18a39b11734ead5d
+persona_hint: Defense
+source_path: /usr/bin/mcomp
+tags:
+- unknown
+tool_name: mcomp

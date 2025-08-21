@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sotruss
+hash: sha256:a71cf37229ca91ac22f456095b6e068865fb0fcfa5f1de6571ba34cd6e6f22b6
+persona_hint: Defense
+source_path: /usr/bin/sotruss
+tags:
+- unknown
+tool_name: sotruss

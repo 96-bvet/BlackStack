@@ -1,0 +1,7 @@
+description: Auto-generated manifest for diff3
+hash: sha256:28b969ec6262924ba1d93fc320c43e01e89d9b97d74235cc86f2d9b263ed1675
+persona_hint: Defense
+source_path: /usr/bin/diff3
+tags:
+- unknown
+tool_name: diff3

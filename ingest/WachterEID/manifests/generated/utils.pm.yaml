@@ -1,0 +1,7 @@
+description: Auto-generated manifest for utils.pm
+hash: sha256:24b0834e31b8eb0f088055702c467d29fb20cd8ccba5cf8880215031b1245881
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/utils.pm
+tags:
+- unknown
+tool_name: utils.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tail
+hash: sha256:cd67c2baaef8395ae68a396b8ce0bd24dabd9272f501f1afb7f76f7ef0cfc083
+persona_hint: Defense
+source_path: /usr/bin/tail
+tags:
+- unknown
+tool_name: tail

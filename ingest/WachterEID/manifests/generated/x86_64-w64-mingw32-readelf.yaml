@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-readelf
+hash: sha256:372d7d5438cf1483505b6109833c5457b3a8dc1aed57a3e3b61f167101bb90ef
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-readelf
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-readelf

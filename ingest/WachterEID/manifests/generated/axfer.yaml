@@ -1,0 +1,7 @@
+description: Auto-generated manifest for axfer
+hash: sha256:d9e300bc03d74c5f95ae659274fc9e683417c1d7ac76b5e2323d14126e955308
+persona_hint: Defense
+source_path: /usr/bin/axfer
+tags:
+- unknown
+tool_name: axfer

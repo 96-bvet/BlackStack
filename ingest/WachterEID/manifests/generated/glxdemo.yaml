@@ -1,0 +1,7 @@
+description: Auto-generated manifest for glxdemo
+hash: sha256:811b8a1f9b9d17cc2bdefcbb0e38d1c9f9559b26c4f8f611690128b61e3f573d
+persona_hint: Defense
+source_path: /usr/bin/glxdemo
+tags:
+- unknown
+tool_name: glxdemo

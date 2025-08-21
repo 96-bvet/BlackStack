@@ -1,0 +1,7 @@
+description: Auto-generated manifest for racc
+hash: sha256:0ee148b66a7574148fffe8ab81baa13a15c597cfca6fe9003847ae1ae699d4fa
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/bin/racc
+tags:
+- unknown
+tool_name: racc

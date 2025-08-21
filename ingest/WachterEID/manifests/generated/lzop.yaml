@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lzop
+hash: sha256:3f023064e439986b85c4909306e0b7350448b667aab359a2c1680c644a3dbb84
+persona_hint: Defense
+source_path: /usr/bin/lzop
+tags:
+- unknown
+tool_name: lzop

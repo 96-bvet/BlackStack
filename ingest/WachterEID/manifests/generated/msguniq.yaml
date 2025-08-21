@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msguniq
+hash: sha256:9833419f17e9e4ef9a883d8bb835d65e6a6295dbe439027685b95c8c6f82a32e
+persona_hint: Defense
+source_path: /usr/bin/msguniq
+tags:
+- unknown
+tool_name: msguniq

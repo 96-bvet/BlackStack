@@ -1,0 +1,7 @@
+description: Auto-generated manifest for request-key-debug.sh
+hash: sha256:a38d3de7932c6ba13193bd985e0bc9918f8a514fc201fd23de018a172fd5c44c
+persona_hint: Defense
+source_path: /usr/share/keyutils/request-key-debug.sh
+tags:
+- unknown
+tool_name: request-key-debug.sh

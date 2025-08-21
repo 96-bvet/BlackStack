@@ -1,0 +1,7 @@
+description: Auto-generated manifest for test
+hash: sha256:9a9cb09f9f71ae289fd3a93a86c1b8189048ea01f6b956dfa4734bb74dc834f7
+persona_hint: Defense
+source_path: /usr/bin/test
+tags:
+- unknown
+tool_name: test

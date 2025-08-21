@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-syslinux2cfg
+hash: sha256:448ec6f7daf588dddcce09f1a1dd0b1c3ec48ebc3c9dc625a84b4bce5b94f197
+persona_hint: Defense
+source_path: /usr/bin/grub-syslinux2cfg
+tags:
+- unknown
+tool_name: grub-syslinux2cfg

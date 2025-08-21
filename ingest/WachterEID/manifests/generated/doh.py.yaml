@@ -1,0 +1,7 @@
+description: Auto-generated manifest for doh.py
+hash: sha256:a53e247b0b51ca3cec4ed48502bf77221219949813f246e39ca315010305a4f7
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/doh.py
+tags:
+- unknown
+tool_name: doh.py

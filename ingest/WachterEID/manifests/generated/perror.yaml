@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perror
+hash: sha256:e6726b41d2c38e636db5d7a41f92ebad98a8d40637d058c861693bf45766f574
+persona_hint: Defense
+source_path: /usr/bin/perror
+tags:
+- unknown
+tool_name: perror

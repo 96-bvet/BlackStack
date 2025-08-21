@@ -1,0 +1,7 @@
+description: Auto-generated manifest for buddy-ng
+hash: sha256:203fc64994689f8a47199e82e85f682954ca9134c5550f6e90373c0f90ef21c7
+persona_hint: Defense
+source_path: /usr/bin/buddy-ng
+tags:
+- unknown
+tool_name: buddy-ng

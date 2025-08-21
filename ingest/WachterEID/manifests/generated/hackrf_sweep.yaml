@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_sweep
+hash: sha256:a6787bb6b1ccfc694589ddf7b86e1b2bd965b497a7c70c3a471998655287d0af
+persona_hint: Defense
+source_path: /usr/bin/hackrf_sweep
+tags:
+- unknown
+tool_name: hackrf_sweep

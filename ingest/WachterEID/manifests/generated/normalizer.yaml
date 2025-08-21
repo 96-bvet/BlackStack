@@ -1,0 +1,7 @@
+description: Auto-generated manifest for normalizer
+hash: sha256:1685b20101e4c46dd1b47ca88658367bb7d5355513bdc89be2c065fc65757c7b
+persona_hint: Defense
+source_path: /usr/bin/normalizer
+tags:
+- unknown
+tool_name: normalizer

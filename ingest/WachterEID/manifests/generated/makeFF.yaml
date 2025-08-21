@@ -1,0 +1,7 @@
+description: Auto-generated manifest for makeFF
+hash: sha256:ca217873a52190e0edbe775c1c39c8c716e5ad66e23603cf3eb978a3b2b825bb
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/katex/src/fonts/makeFF
+tags:
+- unknown
+tool_name: makeFF

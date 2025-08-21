@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fgconsole
+hash: sha256:d5cca2078a84f69d97ea04c611aed27f7327583107b782ce2d5c1a12b8728557
+persona_hint: Defense
+source_path: /usr/bin/fgconsole
+tags:
+- unknown
+tool_name: fgconsole

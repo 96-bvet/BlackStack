@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-addr2line
+hash: sha256:bbe166501d953b6eb3c837cc8b499ad51212d2438379301d9c662aa4f2ca4aa2
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-addr2line
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-addr2line

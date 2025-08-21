@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ip
+hash: sha256:fbd52378992f01db500baedf16c799781e84cd953d89c31977ed92931de80393
+persona_hint: Defense
+source_path: /usr/bin/ip
+tags:
+- unknown
+tool_name: ip

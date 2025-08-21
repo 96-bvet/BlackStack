@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bully
+hash: sha256:687577b3ad86afa2eef3ca29de4c7e51c06fd957d68809ec6634bc62e73bbce2
+persona_hint: Defense
+source_path: /usr/bin/bully
+tags:
+- unknown
+tool_name: bully

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bridge-start
+hash: sha256:6bd6359067b850c0bc3d5ed68581774f532f687a9554daf1da63603b69b14239
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-scripts/bridge-start
+tags:
+- unknown
+tool_name: bridge-start

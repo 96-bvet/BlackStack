@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pf2afm
+hash: sha256:af4ae09119119350e7704749ff0ce8a9fbcabb6f41a747534854130fbdc30764
+persona_hint: Defense
+source_path: /usr/bin/pf2afm
+tags:
+- unknown
+tool_name: pf2afm

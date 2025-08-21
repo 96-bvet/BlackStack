@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-dbus-proxy
+hash: sha256:96de3e17b886b325ec6dec92044073b22eabc27b691c25dff7d7837bfa7f86e7
+persona_hint: Defense
+source_path: /usr/bin/xdg-dbus-proxy
+tags:
+- unknown
+tool_name: xdg-dbus-proxy

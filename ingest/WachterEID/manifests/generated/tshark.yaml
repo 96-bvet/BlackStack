@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tshark
+hash: sha256:11c60692429e3d70daf3c61c0bce7015331a79218e0e8563d7988b2f79ca849e
+persona_hint: Defense
+source_path: /usr/bin/tshark
+tags:
+- unknown
+tool_name: tshark

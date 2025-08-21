@@ -1,0 +1,7 @@
+description: Auto-generated manifest for irb3.1
+hash: sha256:f11e57c59469e72b015ff2cb05405ecc3f3e431ed382dd95ec395d2042e68996
+persona_hint: Defense
+source_path: /usr/bin/irb3.1
+tags:
+- unknown
+tool_name: irb3.1

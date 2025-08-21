@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aplaymidi
+hash: sha256:e9289c08718f15ddd5781ebd382fb94784b7a963991035ed371e769cbbbf3a82
+persona_hint: Defense
+source_path: /usr/bin/aplaymidi
+tags:
+- unknown
+tool_name: aplaymidi

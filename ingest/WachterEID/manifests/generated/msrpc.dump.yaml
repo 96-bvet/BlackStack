@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msrpc.dump
+hash: sha256:02b594624bf24a5c26244ce2e3e415b63c2fb768c2063c02fca3aea5e0c17d89
+persona_hint: Defense
+source_path: /usr/share/spike/data/msrpc.dump
+tags:
+- unknown
+tool_name: msrpc.dump

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-persistent-config
+hash: sha256:d6ffab29063f83f7317487c94854dd4f692039b1b07786326d13d17b31723c4b
+persona_hint: Defense
+source_path: /usr/bin/afl-persistent-config
+tags:
+- unknown
+tool_name: afl-persistent-config

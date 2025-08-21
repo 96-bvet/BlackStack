@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bind.pl
+hash: sha256:c63c4d474bb52b5b9f538aa6e7f2913ab0e64e740edd9a3b9b6ae2dab6bea612
+persona_hint: Defense
+source_path: /usr/share/doc/libio-socket-socks-perl/examples/bind.pl
+tags:
+- unknown
+tool_name: bind.pl

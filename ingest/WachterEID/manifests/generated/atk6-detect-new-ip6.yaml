@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-detect-new-ip6
+hash: sha256:39e001f285600a9437727e1af3f561f75d4d969a341c240b992378141c3410ac
+persona_hint: Defense
+source_path: /usr/bin/atk6-detect-new-ip6
+tags:
+- unknown
+tool_name: atk6-detect-new-ip6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for spellintian
+hash: sha256:f0e068e172af40686f9ec2c4a65b17b42c1f320c5dc12ed86c2e36a73b7f8e1a
+persona_hint: Defense
+source_path: /usr/share/lintian/bin/spellintian
+tags:
+- unknown
+tool_name: spellintian

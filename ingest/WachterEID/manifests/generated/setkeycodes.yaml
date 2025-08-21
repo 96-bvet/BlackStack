@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setkeycodes
+hash: sha256:6177b410486981ba0a5de714ce3c9e9d6e03f20d788476e6855deeec22a48b7d
+persona_hint: Defense
+source_path: /usr/bin/setkeycodes
+tags:
+- unknown
+tool_name: setkeycodes

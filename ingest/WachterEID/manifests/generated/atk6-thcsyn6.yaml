@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-thcsyn6
+hash: sha256:94b24ed73c0ad8e80bfc74e2a9a67853bc6e3b18fd3b49ad734d33c0ada7b91c
+persona_hint: Defense
+source_path: /usr/bin/atk6-thcsyn6
+tags:
+- unknown
+tool_name: atk6-thcsyn6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-dump
+hash: sha256:542f3973c1c8e6c0bec7911c55a82777f0efa6969e0c5069d0570a2f02135b5d
+persona_hint: Defense
+source_path: /usr/bin/mariadb-dump
+tags:
+- unknown
+tool_name: mariadb-dump

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for net
+hash: sha256:a3800e1a51a20c29a2bf6d1a86eafc5305328d0f662e8a295b2ff32c95d9d7c5
+persona_hint: Defense
+source_path: /usr/bin/net
+tags:
+- unknown
+tool_name: net

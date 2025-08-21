@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sensible-pager
+hash: sha256:e393cfddce0317238c0cebe88459bef9dfae2fe624425759d3dc0dc813f2b8ea
+persona_hint: Defense
+source_path: /usr/bin/sensible-pager
+tags:
+- unknown
+tool_name: sensible-pager

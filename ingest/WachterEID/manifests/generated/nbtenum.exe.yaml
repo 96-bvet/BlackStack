@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nbtenum.exe
+hash: sha256:1bf4608c6495003946100a021d61ebce94f85f992d339019f6381a508a9fa514
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/nbtenum/nbtenum.exe
+tags:
+- unknown
+tool_name: nbtenum.exe

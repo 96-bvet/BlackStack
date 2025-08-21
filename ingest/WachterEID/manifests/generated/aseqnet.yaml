@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aseqnet
+hash: sha256:fd44792a015edbb859ec40168d278e51067717e80daddb439fd6f1b098c6416d
+persona_hint: Defense
+source_path: /usr/bin/aseqnet
+tags:
+- unknown
+tool_name: aseqnet

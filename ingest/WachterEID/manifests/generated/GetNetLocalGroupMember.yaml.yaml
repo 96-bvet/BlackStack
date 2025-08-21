@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetNetLocalGroupMember.yaml
+hash: sha256:4b113ba75c73580ffa299ea5033dafe97d0e1525e1e5156d57d32344f6736dca
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/GetNetLocalGroupMember.yaml
+tags:
+- unknown
+tool_name: GetNetLocalGroupMember.yaml

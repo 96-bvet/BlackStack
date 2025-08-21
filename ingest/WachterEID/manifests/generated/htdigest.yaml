@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htdigest
+hash: sha256:437f0f4460a53df86dd805295d63a16860182dd48393a81f23c5254024a2cec2
+persona_hint: Defense
+source_path: /usr/bin/htdigest
+tags:
+- unknown
+tool_name: htdigest

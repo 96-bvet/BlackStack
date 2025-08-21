@@ -1,0 +1,7 @@
+description: Auto-generated manifest for paintnet.pm
+hash: sha256:9d1283a3eabd506e173c5b748b6dc044e99963a3f7f1c953d99a222be7fc5e8b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/paintnet.pm
+tags:
+- unknown
+tool_name: paintnet.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generic_send_tcp
+hash: sha256:86d5334e6012778ece351ed31ef7e0b34fd6f569cd68d9644ee83de3e7df725f
+persona_hint: Defense
+source_path: /usr/bin/generic_send_tcp
+tags:
+- unknown
+tool_name: generic_send_tcp

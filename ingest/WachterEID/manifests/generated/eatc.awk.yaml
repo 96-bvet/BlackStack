@@ -1,0 +1,7 @@
+description: Auto-generated manifest for eatc.awk
+hash: sha256:61f37c365c8031d75adaad557d21b2747c0ee4c5ebc740b73eb6d1f4b99107a9
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/eatc.awk
+tags:
+- unknown
+tool_name: eatc.awk

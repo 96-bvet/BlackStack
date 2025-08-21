@@ -1,0 +1,7 @@
+description: Auto-generated manifest for padsp
+hash: sha256:aafe461993292a7e61a4ad2a3a485e55d5d9455d4a0ec4e9242207b7d7145b76
+persona_hint: Defense
+source_path: /usr/bin/padsp
+tags:
+- unknown
+tool_name: padsp

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xml-writer-string.pl
+hash: sha256:ff4389a6ca99f6c7c92803bf302d2d4f2d36af6ab8fe23ad13c4419c9f968046
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-writer-perl/examples/xml-writer-string.pl
+tags:
+- unknown
+tool_name: xml-writer-string.pl

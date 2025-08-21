@@ -1,0 +1,7 @@
+description: Auto-generated manifest for samba-regedit
+hash: sha256:f0868b32233fc56b245c0a06639820db868e6fc3a8a7322722ac66a9920cafad
+persona_hint: Defense
+source_path: /usr/bin/samba-regedit
+tags:
+- unknown
+tool_name: samba-regedit

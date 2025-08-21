@@ -1,0 +1,7 @@
+description: Auto-generated manifest for BrowserListener.py
+hash: sha256:c14203db86905dd3c57292a6d605c09c4c50aefaa7ec0a70672595a0af3d5a5a
+persona_hint: Defense
+source_path: /usr/share/responder/tools/BrowserListener.py
+tags:
+- unknown
+tool_name: BrowserListener.py

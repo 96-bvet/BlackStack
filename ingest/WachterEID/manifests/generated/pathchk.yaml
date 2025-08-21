@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pathchk
+hash: sha256:531bd451b4f0dcf767a51ef56d926acdd26f88fcbc2d688c617d610f1ec7fd4c
+persona_hint: Defense
+source_path: /usr/bin/pathchk
+tags:
+- unknown
+tool_name: pathchk

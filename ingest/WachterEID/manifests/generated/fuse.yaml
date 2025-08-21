@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fuse
+hash: sha256:c0477da2af956f172e5d37a1d08021961a2ad667bec726392842a26f50ce82db
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/fuse
+tags:
+- unknown
+tool_name: fuse

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for import-keys.py
+hash: sha256:25e69909bbc9df6b59d12860bfba6c3f3fc8ebf253cc975518d2f8d14a22d514
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/import-keys.py
+tags:
+- unknown
+tool_name: import-keys.py

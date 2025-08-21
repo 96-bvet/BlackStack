@@ -1,0 +1,7 @@
+description: Auto-generated manifest for agent.exe
+hash: sha256:44f4e3f65f6ca375df4e0247fa0ee1efedbe2965a1c35e910d8d035ec61b76bd
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/agent.exe
+tags:
+- unknown
+tool_name: agent.exe

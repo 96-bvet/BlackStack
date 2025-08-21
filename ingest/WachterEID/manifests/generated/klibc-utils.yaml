@@ -1,0 +1,7 @@
+description: Auto-generated manifest for klibc-utils
+hash: sha256:cbf958037f123a092c7b13a87206397f3950aa3dc402c4dde8ffb3884628f0f2
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/klibc-utils
+tags:
+- unknown
+tool_name: klibc-utils

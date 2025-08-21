@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autoheader
+hash: sha256:81e0a70d884b3a2de197a8436bf683cd932d6b2af1adf1f407a3ac86f846bce8
+persona_hint: Defense
+source_path: /usr/bin/autoheader
+tags:
+- unknown
+tool_name: autoheader

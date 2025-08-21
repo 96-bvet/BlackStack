@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gcov-tool
+hash: sha256:c3eb076754a86e09fcb7093ef19c8134aa7c1adffc628d3ccf12aea7a50902e1
+persona_hint: Defense
+source_path: /usr/bin/gcov-tool
+tags:
+- unknown
+tool_name: gcov-tool

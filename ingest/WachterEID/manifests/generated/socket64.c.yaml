@@ -1,0 +1,7 @@
+description: Auto-generated manifest for socket64.c
+hash: sha256:1e402b1712945939b4d407b5f703bd9eb5702ffac6d6681711fbfdeb257cb168
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/exploits/beefbind/shellcode_sources/linux/x64/socket64.c
+tags:
+- unknown
+tool_name: socket64.c

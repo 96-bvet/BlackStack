@@ -1,0 +1,7 @@
+description: Auto-generated manifest for flatpak
+hash: sha256:0477a47361c10309134ba7f1aa2ddfb25d9cb0e067a03e26d7407316283beff7
+persona_hint: Defense
+source_path: /usr/bin/flatpak
+tags:
+- unknown
+tool_name: flatpak

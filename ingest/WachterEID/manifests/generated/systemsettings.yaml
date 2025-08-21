@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemsettings
+hash: sha256:d372e2d7a74bc5e16baf23a34236ec9a35a771ee542240080825ecdd2729c83a
+persona_hint: Defense
+source_path: /usr/bin/systemsettings
+tags:
+- unknown
+tool_name: systemsettings

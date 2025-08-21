@@ -1,0 +1,7 @@
+description: Auto-generated manifest for escodegen.js
+hash: sha256:228010416405befd8b405a26d1afb191c5c28aa81587ea1dd74784f422bdc5e5
+persona_hint: Defense
+source_path: /usr/share/nodejs/escodegen/bin/escodegen.js
+tags:
+- unknown
+tool_name: escodegen.js

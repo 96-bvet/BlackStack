@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kstats
+hash: sha256:760ee094000567304e2dee275c259a55fb9440ea1579ca314e240830e4e2817a
+persona_hint: Defense
+source_path: /usr/bin/kstats
+tags:
+- unknown
+tool_name: kstats

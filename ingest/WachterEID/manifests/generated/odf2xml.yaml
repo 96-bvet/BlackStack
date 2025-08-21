@@ -1,0 +1,7 @@
+description: Auto-generated manifest for odf2xml
+hash: sha256:a3c5e12e9d2941d4ceb72987a6d2d02b977b0b554fee7a53fad1a3d92814843b
+persona_hint: Defense
+source_path: /usr/bin/odf2xml
+tags:
+- unknown
+tool_name: odf2xml

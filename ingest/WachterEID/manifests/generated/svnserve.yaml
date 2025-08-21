@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnserve
+hash: sha256:006bb2cbd6aa7386f3fb8b58e10fb7a194ec6f4a9b45ea1475cd2f49ef84febf
+persona_hint: Defense
+source_path: /usr/bin/svnserve
+tags:
+- unknown
+tool_name: svnserve

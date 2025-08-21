@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rview
+hash: sha256:f04c9baa97f49afe7969826b45e283c60e2d52e28aa3ea7fa93a62dab0408a55
+persona_hint: Defense
+source_path: /usr/bin/rview
+tags:
+- unknown
+tool_name: rview

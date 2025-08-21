@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-ld-lto
+hash: sha256:aa609d36cb285a901a667bfb37e020dc4721cb617edda68ac17c579eaf43998c
+persona_hint: Defense
+source_path: /usr/bin/afl-ld-lto
+tags:
+- unknown
+tool_name: afl-ld-lto

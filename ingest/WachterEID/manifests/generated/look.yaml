@@ -1,0 +1,7 @@
+description: Auto-generated manifest for look
+hash: sha256:88a360e13887b1c1d2c46cfe97f4d22d453268c067a691f682615ac48b793fed
+persona_hint: Defense
+source_path: /usr/bin/look
+tags:
+- unknown
+tool_name: look

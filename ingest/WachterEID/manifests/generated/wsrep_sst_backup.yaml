@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wsrep_sst_backup
+hash: sha256:0626f4015b64fc6943725e53f671522b358f9988facf7794fc20112b2af68476
+persona_hint: Defense
+source_path: /usr/bin/wsrep_sst_backup
+tags:
+- unknown
+tool_name: wsrep_sst_backup

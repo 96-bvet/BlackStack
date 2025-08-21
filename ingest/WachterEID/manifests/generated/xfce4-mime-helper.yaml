@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-mime-helper
+hash: sha256:07cccb07252d87b3ef772eb5855056ef7a7d75a02932983c82b76890e5c888f9
+persona_hint: Defense
+source_path: /usr/bin/xfce4-mime-helper
+tags:
+- unknown
+tool_name: xfce4-mime-helper

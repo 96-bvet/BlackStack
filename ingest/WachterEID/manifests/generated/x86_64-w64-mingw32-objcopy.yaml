@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-objcopy
+hash: sha256:4a412e6e10e3e1511525ca1a6936e670e8ea54dd77907f32713ff6312a77ffa0
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-objcopy
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-objcopy

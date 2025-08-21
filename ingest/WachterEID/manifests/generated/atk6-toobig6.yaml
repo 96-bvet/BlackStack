@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-toobig6
+hash: sha256:b56ffc96ee2820593cd0ad5769fe8ce57a92770b203f241082d3772b2a883ae7
+persona_hint: Defense
+source_path: /usr/bin/atk6-toobig6
+tags:
+- unknown
+tool_name: atk6-toobig6

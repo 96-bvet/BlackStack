@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-config
+hash: sha256:823b3137f9ed73447139e0f8157b95643d95f33b34f95d66e723161774a0d7a3
+persona_hint: Defense
+source_path: /usr/share/doc/libapt-pkg-perl/examples/apt-config
+tags:
+- unknown
+tool_name: apt-config

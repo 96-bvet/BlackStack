@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get-producer-section.js
+hash: sha256:d01c115a017fbff80133aed21313b3d3b2d0407a88b58aa65e574d2fe8e69124
+persona_hint: Defense
+source_path: /usr/share/nodejs/@webassemblyjs/cli/lib/get-producer-section.js
+tags:
+- unknown
+tool_name: get-producer-section.js

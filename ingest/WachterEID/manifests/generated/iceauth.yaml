@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iceauth
+hash: sha256:0bc6ae9369c7918de7db6152df061150ed85984ef4562790f93468a70d2583b5
+persona_hint: Defense
+source_path: /usr/bin/iceauth
+tags:
+- unknown
+tool_name: iceauth

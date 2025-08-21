@@ -1,0 +1,7 @@
+description: Auto-generated manifest for joomscan
+hash: sha256:bbaebb9809d7caf11d20673986bcbbdbbc4367baac2c37f2563d861674fd2cb4
+persona_hint: Defense
+source_path: /usr/bin/joomscan
+tags:
+- unknown
+tool_name: joomscan

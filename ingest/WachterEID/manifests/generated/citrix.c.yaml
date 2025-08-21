@@ -1,0 +1,7 @@
+description: Auto-generated manifest for citrix.c
+hash: sha256:714462ac0c054022656179520b90d1f718c23a6ad16c888cb38d8a6d7ed80b33
+persona_hint: Defense
+source_path: /usr/share/spike/backups/citrix.c
+tags:
+- unknown
+tool_name: citrix.c

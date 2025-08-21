@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mssql.spk
+hash: sha256:c074f8598275149c3ff298bb36aed285e9cdc4c62aed6497b6c045c8ad06247a
+persona_hint: Defense
+source_path: /usr/share/spike/audits/MSSQL/mssql.spk
+tags:
+- unknown
+tool_name: mssql.spk

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JShSignalSender.java
+hash: sha256:daeab82a5dff1e12c597d8c617fe9e07684bd2a173315ca09c0ac68f6b550513
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stage/JShSignalSender.java
+tags:
+- unknown
+tool_name: JShSignalSender.java

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdebi-gtk
+hash: sha256:427880f10dc8423065b7eed91d93eb0ed3a4e88a690e2f5ab8527dd65d3ee83e
+persona_hint: Defense
+source_path: /usr/share/gdebi/gdebi-gtk
+tags:
+- unknown
+tool_name: gdebi-gtk

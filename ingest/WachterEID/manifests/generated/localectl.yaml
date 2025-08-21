@@ -1,0 +1,7 @@
+description: Auto-generated manifest for localectl
+hash: sha256:96f3a8c440be785225800b2e8375e16292486d1fed24d4e81f4155215357efc8
+persona_hint: Defense
+source_path: /usr/bin/localectl
+tags:
+- unknown
+tool_name: localectl

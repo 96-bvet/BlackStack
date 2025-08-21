@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libtoolize
+hash: sha256:a28dde6a274a6a83adf18ac7edef7cefd76bda4902605f2a2c17e966ac7edeb9
+persona_hint: Defense
+source_path: /usr/bin/libtoolize
+tags:
+- unknown
+tool_name: libtoolize

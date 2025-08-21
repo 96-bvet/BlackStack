@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wish
+hash: sha256:bf47d5bae3fb002a9b61193749ce5557b9b761b4e3ab3e32aa7ee521b6077ce5
+persona_hint: Defense
+source_path: /usr/bin/wish
+tags:
+- unknown
+tool_name: wish

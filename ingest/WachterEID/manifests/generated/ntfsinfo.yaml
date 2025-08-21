@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsinfo
+hash: sha256:540e2b348d38d281115a6b861cf5d72f96c90411e6c1ad4f20be10232a7aa2c0
+persona_hint: Defense
+source_path: /usr/bin/ntfsinfo
+tags:
+- unknown
+tool_name: ntfsinfo

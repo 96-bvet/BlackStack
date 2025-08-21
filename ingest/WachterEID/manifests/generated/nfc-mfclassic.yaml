@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-mfclassic
+hash: sha256:316c49604f9165152d5b53b862f9f72646f2c3cfc2beb02e6b85f029740a44fe
+persona_hint: Defense
+source_path: /usr/bin/nfc-mfclassic
+tags:
+- unknown
+tool_name: nfc-mfclassic

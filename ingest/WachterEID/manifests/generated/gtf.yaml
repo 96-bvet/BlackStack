@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtf
+hash: sha256:eaf825e3a0280371eac4d8935792d0437631534b33d08fd8030d45f73c131739
+persona_hint: Defense
+source_path: /usr/bin/gtf
+tags:
+- unknown
+tool_name: gtf

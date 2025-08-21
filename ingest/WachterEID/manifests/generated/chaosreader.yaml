@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chaosreader
+hash: sha256:dbbe7098af49b0419f5294ecf3030b84789c8857d1e688ef98275a46f360c35e
+persona_hint: Defense
+source_path: /usr/bin/chaosreader
+tags:
+- unknown
+tool_name: chaosreader

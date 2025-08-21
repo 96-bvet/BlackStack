@@ -1,0 +1,7 @@
+description: Auto-generated manifest for keychain.asm
+hash: sha256:dcf898a92035c6f4e4d633724c599183b76909e4faf1629d7fab65df90e2ab2c
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Payloads/Aes/32/keychain.asm
+tags:
+- unknown
+tool_name: keychain.asm

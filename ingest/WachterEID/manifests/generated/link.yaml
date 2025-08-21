@@ -1,0 +1,7 @@
+description: Auto-generated manifest for link
+hash: sha256:913f86d046789715a1e60371e7434af359a737db8853c8a24dd79bd309a1b6d6
+persona_hint: Defense
+source_path: /usr/bin/link
+tags:
+- unknown
+tool_name: link

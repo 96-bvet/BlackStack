@@ -1,0 +1,7 @@
+description: Auto-generated manifest for burpsuite
+hash: sha256:60b82d8b15738a86013306ebb9a42b5372fd4b826c60d30bec0e09f0f1b9252f
+persona_hint: Defense
+source_path: /usr/bin/burpsuite
+tags:
+- unknown
+tool_name: burpsuite

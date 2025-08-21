@@ -1,0 +1,7 @@
+description: Auto-generated manifest for odflint
+hash: sha256:02b69171aa0eb9f9ff1c180ff6a8d16dcea4f8cad1b6730f2289258b4e98e865
+persona_hint: Defense
+source_path: /usr/bin/odflint
+tags:
+- unknown
+tool_name: odflint

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installdebconf
+hash: sha256:51fefa04f88e2da0f13e50cecc2eabdc7c765663b470e9f89cc2d663a94b4d59
+persona_hint: Defense
+source_path: /usr/bin/dh_installdebconf
+tags:
+- unknown
+tool_name: dh_installdebconf

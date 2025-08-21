@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perlbug
+hash: sha256:3658c95d1f53288f5ca7629c5103dd45b9054ad2cfa5ff1804c50a3e76bcb4b8
+persona_hint: Defense
+source_path: /usr/bin/perlbug
+tags:
+- unknown
+tool_name: perlbug

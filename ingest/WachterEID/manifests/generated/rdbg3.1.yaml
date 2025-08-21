@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rdbg3.1
+hash: sha256:3dd85514a348d87a43f5e070dff9efe4f3c9750ac6eb68f31762f67d8334617a
+persona_hint: Defense
+source_path: /usr/bin/rdbg3.1
+tags:
+- unknown
+tool_name: rdbg3.1

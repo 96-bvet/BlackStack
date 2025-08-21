@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wsrep_sst_rsync_wan
+hash: sha256:3432348a1764354af57fa6330f9c68e0c129afb8e46884b891f2f2b3fd92fbb3
+persona_hint: Defense
+source_path: /usr/bin/wsrep_sst_rsync_wan
+tags:
+- unknown
+tool_name: wsrep_sst_rsync_wan

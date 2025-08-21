@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dig
+hash: sha256:2fe9f5941c08251f050182988d7ed6bcfb430afeaec0db89a551b6dc0607b1f7
+persona_hint: Defense
+source_path: /usr/bin/dig
+tags:
+- unknown
+tool_name: dig

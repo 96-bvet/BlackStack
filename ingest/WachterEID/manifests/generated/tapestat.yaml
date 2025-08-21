@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tapestat
+hash: sha256:6f779b5ca26fd53cb1492d9b6054971555db354f9b83c9e53ccef714de3e1ccc
+persona_hint: Defense
+source_path: /usr/bin/tapestat
+tags:
+- unknown
+tool_name: tapestat

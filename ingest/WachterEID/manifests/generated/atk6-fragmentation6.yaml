@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fragmentation6
+hash: sha256:73f829656b198fbb50a4111462950489717b9d8864712d06ffce0638d81cf019
+persona_hint: Defense
+source_path: /usr/bin/atk6-fragmentation6
+tags:
+- unknown
+tool_name: atk6-fragmentation6

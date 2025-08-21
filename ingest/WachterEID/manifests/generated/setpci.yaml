@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setpci
+hash: sha256:e53df98c9330cf7c8bf3de4b2b4da3eae99eba4f7d3a165d1afed3da42f4861a
+persona_hint: Defense
+source_path: /usr/bin/setpci
+tags:
+- unknown
+tool_name: setpci

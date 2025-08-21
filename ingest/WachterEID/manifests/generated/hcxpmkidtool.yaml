@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxpmkidtool
+hash: sha256:e36273741cbf10d3ebfc3cb51b6788f4f815583b0469f3c400cb50f670f53041
+persona_hint: Defense
+source_path: /usr/bin/hcxpmkidtool
+tags:
+- unknown
+tool_name: hcxpmkidtool

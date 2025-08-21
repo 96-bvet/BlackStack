@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-vmblock-fuse
+hash: sha256:62081d64d168394a10b3dc1d6191e49a1ac1ef96498077d01e7903cc14b94771
+persona_hint: Defense
+source_path: /usr/bin/vmware-vmblock-fuse
+tags:
+- unknown
+tool_name: vmware-vmblock-fuse

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for racc3.1
+hash: sha256:118220022a52603c40f24e29109930ef940ed2f7651d90102d8bb6b8b69e9cab
+persona_hint: Defense
+source_path: /usr/bin/racc3.1
+tags:
+- unknown
+tool_name: racc3.1

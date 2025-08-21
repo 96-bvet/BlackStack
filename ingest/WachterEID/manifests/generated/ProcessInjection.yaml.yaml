@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ProcessInjection.yaml
+hash: sha256:49dd113c213bc6605616f78052072d8cf7f802f980a02f91a7bc77b3516affc8
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/ProcessInjection.yaml
+tags:
+- unknown
+tool_name: ProcessInjection.yaml

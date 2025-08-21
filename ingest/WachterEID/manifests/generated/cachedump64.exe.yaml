@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cachedump64.exe
+hash: sha256:e38edac8c838a043d0d9d28c71a96fe8f7b7f61c5edf69f1ce0c13e141be281f
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/fgdump/cachedump64.exe
+tags:
+- unknown
+tool_name: cachedump64.exe

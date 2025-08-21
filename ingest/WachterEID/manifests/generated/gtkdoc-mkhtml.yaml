@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-mkhtml
+hash: sha256:9eb8fd77ce2541cf6f7fe57b346cfdd1ba8118eb2cce6eb5d293185356581857
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-mkhtml
+tags:
+- unknown
+tool_name: gtkdoc-mkhtml

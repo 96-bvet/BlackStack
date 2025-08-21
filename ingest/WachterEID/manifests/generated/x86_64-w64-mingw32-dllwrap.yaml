@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-dllwrap
+hash: sha256:17791b2e108d6e72d531e22ca579ae2a325880b99f36264818966b5284042091
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-dllwrap
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-dllwrap

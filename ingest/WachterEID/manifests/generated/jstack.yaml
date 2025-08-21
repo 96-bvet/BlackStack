@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jstack
+hash: sha256:3718ca657eafe2cbd4e4a9cfa0bad1350f72baf20f90ccb9c5646a0132958ced
+persona_hint: Defense
+source_path: /usr/bin/jstack
+tags:
+- unknown
+tool_name: jstack

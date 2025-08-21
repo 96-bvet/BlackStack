@@ -1,0 +1,7 @@
+description: Auto-generated manifest for list_NULf.pl
+hash: sha256:fba6a3fb151710af2f77f11cff6b1218ed4139ba9502466ea319b78044655043
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/list_NULf.pl
+tags:
+- unknown
+tool_name: list_NULf.pl

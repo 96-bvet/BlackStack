@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsser.rtupdate
+hash: sha256:19ffeb5ad7edc6a13baa262b1dcd304ff97d04f0c2b9cce19b12a17a230c7437
+persona_hint: Defense
+source_path: /usr/share/python3/runtime.d/xsser.rtupdate
+tags:
+- unknown
+tool_name: xsser.rtupdate

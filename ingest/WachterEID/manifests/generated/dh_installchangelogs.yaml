@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installchangelogs
+hash: sha256:044024c06aeca78df6359d69d680b1faf6df0e4b7ab22822f3bfd589a1926b69
+persona_hint: Defense
+source_path: /usr/bin/dh_installchangelogs
+tags:
+- unknown
+tool_name: dh_installchangelogs

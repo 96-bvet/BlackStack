@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fixcvsdiff
+hash: sha256:b578223f4d0ef167936617e0c995ae4fdb4caaf099f0d65177def725aeb003f1
+persona_hint: Defense
+source_path: /usr/bin/fixcvsdiff
+tags:
+- unknown
+tool_name: fixcvsdiff

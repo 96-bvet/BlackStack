@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ddcmon
+hash: sha256:1759cc1447d9f72973f1c13945ad4dde2e3fb2b824247bf90c389f6c4d74a2bf
+persona_hint: Defense
+source_path: /usr/bin/ddcmon
+tags:
+- unknown
+tool_name: ddcmon

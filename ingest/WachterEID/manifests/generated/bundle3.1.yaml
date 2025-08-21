@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bundle3.1
+hash: sha256:a27bb3dc4bf82aa5cd896899f63cc8c4efd5e111ef0e9d9d2d820d15c3f22585
+persona_hint: Defense
+source_path: /usr/bin/bundle3.1
+tags:
+- unknown
+tool_name: bundle3.1

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post15.txt
+hash: sha256:765c1b8309529ca820db6c56f2e2edb951b163ff9944d357f268ec8a8fad2cf4
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post15.txt
+tags:
+- unknown
+tool_name: post15.txt

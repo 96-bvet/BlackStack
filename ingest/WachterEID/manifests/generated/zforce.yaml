@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zforce
+hash: sha256:61b3a0106c72648199611b79caf2e7a8c0800a8ef5745193cc0fa16455a79901
+persona_hint: Defense
+source_path: /usr/bin/zforce
+tags:
+- unknown
+tool_name: zforce

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for java
+hash: sha256:f139b559c2ee105fb24eb4da35018eaa687c69af097c3660dc53845bfc223592
+persona_hint: Defense
+source_path: /usr/share/burpsuite/jre/bin/java
+tags:
+- unknown
+tool_name: java

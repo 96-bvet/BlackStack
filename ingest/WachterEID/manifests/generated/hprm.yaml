@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hprm
+hash: sha256:769c0fae1fe09edb591dc21ad8c37b47163388818f6d4d9b8842d21da321cace
+persona_hint: Defense
+source_path: /usr/bin/hprm
+tags:
+- unknown
+tool_name: hprm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for git-shell
+hash: sha256:6c9f0a00d66959225e1721d2a0408aeadefb833958a890b204135b06c403fdec
+persona_hint: Defense
+source_path: /usr/bin/git-shell
+tags:
+- unknown
+tool_name: git-shell

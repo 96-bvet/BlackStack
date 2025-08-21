@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_assistant
+hash: sha256:5cc1bd070b0662153aa2f43e867d5ef6c77969653c4d713c72c166e28b0bbe5d
+persona_hint: Defense
+source_path: /usr/bin/dh_assistant
+tags:
+- unknown
+tool_name: dh_assistant

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pipal
+hash: sha256:7b0ff52e3af4e8187bf484ee62d03ed69a7432d2ee068480246d55c31bbb1979
+persona_hint: Defense
+source_path: /usr/bin/pipal
+tags:
+- unknown
+tool_name: pipal

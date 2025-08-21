@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post14.txt
+hash: sha256:0bd0599f79ea37d33ff2d0fb158e0511369189afef890fd7beb115ceeb2ccfc4
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post14.txt
+tags:
+- unknown
+tool_name: post14.txt

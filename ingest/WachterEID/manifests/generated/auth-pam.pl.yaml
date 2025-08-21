@@ -1,0 +1,7 @@
+description: Auto-generated manifest for auth-pam.pl
+hash: sha256:074141e181040b911440ad37c7f845741ec9cc5fb8e7946d90b29a8392ec317b
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-scripts/auth-pam.pl
+tags:
+- unknown
+tool_name: auth-pam.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sliver-server
+hash: sha256:66c44f5ff7d8b46a60726b2e9acb93460c16c19f563cc65d650bf1119a2b1ee3
+persona_hint: Defense
+source_path: /usr/bin/sliver-server
+tags:
+- unknown
+tool_name: sliver-server

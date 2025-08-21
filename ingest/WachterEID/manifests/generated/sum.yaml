@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sum
+hash: sha256:209faef4b3dc0bdd04b65fe2ec50e772229085d2e3a60bdc318578b3dc3a628f
+persona_hint: Defense
+source_path: /usr/bin/sum
+tags:
+- unknown
+tool_name: sum

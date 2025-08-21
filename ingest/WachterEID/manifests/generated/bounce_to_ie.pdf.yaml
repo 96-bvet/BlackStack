@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bounce_to_ie.pdf
+hash: sha256:02c70331006964044a3ef6baaca5a757ec7bf54a69a210f4a681e07c7054e889
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/host/hook_default_browser/bounce_to_ie.pdf
+tags:
+- unknown
+tool_name: bounce_to_ie.pdf

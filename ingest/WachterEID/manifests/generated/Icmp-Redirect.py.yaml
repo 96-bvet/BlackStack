@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Icmp-Redirect.py
+hash: sha256:dcc0d37c0360a29b3db86c7177d92c3e77c711453929461c0f7a69732b738f09
+persona_hint: Defense
+source_path: /usr/share/responder/tools/Icmp-Redirect.py
+tags:
+- unknown
+tool_name: Icmp-Redirect.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-optimize
+hash: sha256:65fc532bd1c1cec3458db2f3e2d94b231c50f6cd10e6862abb2ddf6f01773d0f
+persona_hint: Defense
+source_path: /usr/bin/mariadb-optimize
+tags:
+- unknown
+tool_name: mariadb-optimize

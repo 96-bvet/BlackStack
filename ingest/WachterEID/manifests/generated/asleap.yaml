@@ -1,0 +1,7 @@
+description: Auto-generated manifest for asleap
+hash: sha256:6d7578d9c3a3af25192ac1d55c72f02f789ed1173685911d84bab5630e9202eb
+persona_hint: Defense
+source_path: /usr/bin/asleap
+tags:
+- unknown
+tool_name: asleap

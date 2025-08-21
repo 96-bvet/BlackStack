@@ -1,0 +1,7 @@
+description: Auto-generated manifest for BurpSuiteCommunity
+hash: sha256:067f0755bdd3661d60d99dcdad39b57263f42590808a347a380a1bdb2b717e2e
+persona_hint: Defense
+source_path: /usr/share/burpsuite/BurpSuiteCommunity
+tags:
+- unknown
+tool_name: BurpSuiteCommunity

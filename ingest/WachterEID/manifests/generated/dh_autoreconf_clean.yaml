@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_autoreconf_clean
+hash: sha256:c0dddbcb0bcd9a8663edaf8a9128a182b136bd2f821e5dfdece5217f7a169027
+persona_hint: Defense
+source_path: /usr/bin/dh_autoreconf_clean
+tags:
+- unknown
+tool_name: dh_autoreconf_clean

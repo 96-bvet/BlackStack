@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tellerstats.sh
+hash: sha256:143eaa2ec05da4f5cf30af8fe12faccce212543914294c5981e48117ae30553f
+persona_hint: Defense
+source_path: /usr/share/doc/lm-sensors/examples/tellerstats/tellerstats.sh
+tags:
+- unknown
+tool_name: tellerstats.sh

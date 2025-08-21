@@ -1,0 +1,7 @@
+description: Auto-generated manifest for spawn-fcgi
+hash: sha256:43f6b1c3531efe17758bf0ceb19162df371689d490c144228608d1e294acf1de
+persona_hint: Defense
+source_path: /usr/bin/spawn-fcgi
+tags:
+- unknown
+tool_name: spawn-fcgi

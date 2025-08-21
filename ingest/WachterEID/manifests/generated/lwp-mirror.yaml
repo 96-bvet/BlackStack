@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lwp-mirror
+hash: sha256:88507cede987da1cd61ab0d7782e18ac8468910b00137086f45380195f12924e
+persona_hint: Defense
+source_path: /usr/bin/lwp-mirror
+tags:
+- unknown
+tool_name: lwp-mirror

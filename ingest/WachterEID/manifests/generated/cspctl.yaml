@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cspctl
+hash: sha256:1701285fedbe716e11642886189bf0119e51c221fbbf811ae45d40a133be2397
+persona_hint: Defense
+source_path: /usr/bin/cspctl
+tags:
+- unknown
+tool_name: cspctl

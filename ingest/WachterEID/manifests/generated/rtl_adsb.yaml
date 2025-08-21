@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_adsb
+hash: sha256:5113e76b26827727c41a3b2dff74c27926521b4ef2a8a01443502d915185aa56
+persona_hint: Defense
+source_path: /usr/bin/rtl_adsb
+tags:
+- unknown
+tool_name: rtl_adsb

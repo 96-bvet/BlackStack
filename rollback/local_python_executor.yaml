@@ -1,0 +1,16 @@
+name: local_python_executor
+path: src/cai/agents/meta/local_python_executor.py
+type: py
+category: misc
+hash: 359124a8d4e27753b141f03a75ded494ba3870df64e85e98fafb77f32b438de1
+approved: true
+import: true
+license_stub: false
+name: local_python_executor
+path: src/cai/agents/meta/local_python_executor.py
+type: py
+category: misc
+hash: 359124a8d4e27753b141f03a75ded494ba3870df64e85e98fafb77f32b438de1
+approved: true
+import: true
+license_stub: false

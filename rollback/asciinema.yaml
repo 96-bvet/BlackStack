@@ -1,0 +1,16 @@
+name: asciinema
+path: tools/asciinema.py
+type: py
+category: misc
+hash: 236584f27337f2e2add995caabe80f5b1f6f8df774a218e1a5067ba9def4ffee
+approved: true
+import: true
+license_stub: true
+name: asciinema
+path: tools/asciinema.py
+type: py
+category: misc
+hash: 236584f27337f2e2add995caabe80f5b1f6f8df774a218e1a5067ba9def4ffee
+approved: true
+import: true
+license_stub: true

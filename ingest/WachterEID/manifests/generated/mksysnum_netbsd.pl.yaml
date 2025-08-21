@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mksysnum_netbsd.pl
+hash: sha256:222763524c5554c51e61602de62f59999afed435a0bff1d3e90e5d75ca1ee0dd
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mksysnum_netbsd.pl
+tags:
+- unknown
+tool_name: mksysnum_netbsd.pl

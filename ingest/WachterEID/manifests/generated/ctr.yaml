@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ctr
+hash: sha256:857eba250c450212cf79fc11071e3f4f50454997bd6d9619480fd090a48abab5
+persona_hint: Defense
+source_path: /usr/bin/ctr
+tags:
+- unknown
+tool_name: ctr

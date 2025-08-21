@@ -1,0 +1,7 @@
+description: Auto-generated manifest for se_bank_holidays.pl
+hash: sha256:627a877e302a6229c766d6efc23f8cc59a2c88fb84e17671764ced4a8e0ba540
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/se_bank_holidays.pl
+tags:
+- unknown
+tool_name: se_bank_holidays.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrdb
+hash: sha256:e518d9e8d3b77386d523f51ba23997d0559d929edf88588adceae42bde563c90
+persona_hint: Defense
+source_path: /usr/bin/xrdb
+tags:
+- unknown
+tool_name: xrdb

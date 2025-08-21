@@ -1,0 +1,7 @@
+description: Auto-generated manifest for itunes_version.xml
+hash: sha256:ea1ba82e951737ed31efdd701631ce4869f9e5dc38430d296eb7f267e1de0a6e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/itunes/itunes_version.xml
+tags:
+- unknown
+tool_name: itunes_version.xml

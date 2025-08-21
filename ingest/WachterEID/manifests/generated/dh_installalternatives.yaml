@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installalternatives
+hash: sha256:61255561330b97fc2870a1dd9d83e6009f8ccd92cb33c4e8e5b7c132a6036378
+persona_hint: Defense
+source_path: /usr/bin/dh_installalternatives
+tags:
+- unknown
+tool_name: dh_installalternatives

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for portability.h
+hash: sha256:e90a5cb445665fe5c2bbd25c5d1f96212d53c2e4d6f6714dcb4e3c8d921e3c21
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/portability.h
+tags:
+- unknown
+tool_name: portability.h

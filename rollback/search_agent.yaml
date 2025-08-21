@@ -1,0 +1,16 @@
+name: search_agent
+path: examples/financial_research_agent/agents/search_agent.py
+type: py
+category: misc
+hash: e950acf5c7482d9f50e308bf92ded9ffe474e76f6ada822d19da0c7d216ed4e5
+approved: true
+import: true
+license_stub: true
+name: search_agent
+path: examples/research_bot/agents/search_agent.py
+type: py
+category: misc
+hash: 5f0e3bb0e6b0469510c9cc7a0ee816d9352f4ae17e5ef896d16ebc4e5eed4e5f
+approved: true
+import: true
+license_stub: true

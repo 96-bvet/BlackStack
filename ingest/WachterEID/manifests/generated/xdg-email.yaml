@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-email
+hash: sha256:7315da5e84bb102de9cc2d10b7e7e6dad0a8a4a09d2882626d8a859a9552c97b
+persona_hint: Defense
+source_path: /usr/bin/xdg-email
+tags:
+- unknown
+tool_name: xdg-email

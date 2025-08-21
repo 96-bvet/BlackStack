@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xzmore
+hash: sha256:7e37bae12136bd0e06a8bfd3115e55bd28d9f9b76d4095e334d9c2a2d574b3b3
+persona_hint: Defense
+source_path: /usr/bin/xzmore
+tags:
+- unknown
+tool_name: xzmore

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post24.txt
+hash: sha256:af30e6d0704dd8e735a06ea07da962e926d0fd1d2a3ba7e306d4020b86b25464
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post24.txt
+tags:
+- unknown
+tool_name: post24.txt

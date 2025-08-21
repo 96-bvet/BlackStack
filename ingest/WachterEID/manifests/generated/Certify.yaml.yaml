@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Certify.yaml
+hash: sha256:d2591dac0641e696d488e9fdb43f88a46a76446815162e047d1c5f6bfce2e452
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/collection/Certify.yaml
+tags:
+- unknown
+tool_name: Certify.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fsck
+hash: sha256:9a95579d98f02241eca2320648f3d4e67ea10a9a5572c2422bb6ed683b4d03f0
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/fsck
+tags:
+- unknown
+tool_name: fsck

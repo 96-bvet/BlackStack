@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xq-python
+hash: sha256:77c830b13d602d725af756a684b989ba258522c160bd43068f03f3a027cae60f
+persona_hint: Defense
+source_path: /usr/bin/xq-python
+tags:
+- unknown
+tool_name: xq-python

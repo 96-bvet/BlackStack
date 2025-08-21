@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptopensc
+hash: sha256:48387c4868e05dc729d57988b58f195de78906b3e15ad94c5bd2233de7fb01c6
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/local-top/cryptopensc
+tags:
+- unknown
+tool_name: cryptopensc

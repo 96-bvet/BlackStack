@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PowerView.ps1
+hash: sha256:507e8666c239397561c58609f7ea569c9c49ddbb900cd260e7e42b02d03cfd87
+persona_hint: Defense
+source_path: /usr/share/windows-resources/powersploit/Recon/PowerView.ps1
+tags:
+- unknown
+tool_name: PowerView.ps1

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wce64.exe
+hash: sha256:68a15a34c2e28b9b521a240b948634617d72ad619e3950bc6dc769e60a0c3cf2
+persona_hint: Defense
+source_path: /usr/share/windows-resources/wce/wce64.exe
+tags:
+- unknown
+tool_name: wce64.exe

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnlook
+hash: sha256:334361bbc4fd1984c318d1b8b17e476eb5c5480e9ada03e25cbfeef4c10d2a9b
+persona_hint: Defense
+source_path: /usr/bin/svnlook
+tags:
+- unknown
+tool_name: svnlook

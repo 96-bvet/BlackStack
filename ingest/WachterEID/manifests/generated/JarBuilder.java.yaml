@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JarBuilder.java
+hash: sha256:1ecaeee3589d3158023c44b6b7a6653b761b3df5e59a3650be75591e9cf78742
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/JarBuilder.java
+tags:
+- unknown
+tool_name: JarBuilder.java

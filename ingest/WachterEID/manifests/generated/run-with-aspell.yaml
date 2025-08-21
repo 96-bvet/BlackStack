@@ -1,0 +1,7 @@
+description: Auto-generated manifest for run-with-aspell
+hash: sha256:e64b260765e6e4fac2308cfa19864e8341eb2404b09753363f0aa22641430be2
+persona_hint: Defense
+source_path: /usr/bin/run-with-aspell
+tags:
+- unknown
+tool_name: run-with-aspell

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-calc-cmd
+hash: sha256:701657fedfab7fc9892e3b45ca37c019a783bc11ea1d84c399a23652ce582a42
+persona_hint: Defense
+source_path: /usr/bin/mate-calc-cmd
+tags:
+- unknown
+tool_name: mate-calc-cmd

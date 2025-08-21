@@ -1,0 +1,7 @@
+description: Auto-generated manifest for preunzip
+hash: sha256:7ab05f928bfb57ee41a45db1aaab9024e74f3432099bf856b6460ea597ca7472
+persona_hint: Defense
+source_path: /usr/bin/preunzip
+tags:
+- unknown
+tool_name: preunzip

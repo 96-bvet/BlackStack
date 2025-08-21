@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pty.node
+hash: sha256:901287763508ffd78fd46e88d687d5ae4393b93b67e3ced5eb369c6140c723e7
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/node-pty/build/Release/pty.node
+tags:
+- unknown
+tool_name: pty.node

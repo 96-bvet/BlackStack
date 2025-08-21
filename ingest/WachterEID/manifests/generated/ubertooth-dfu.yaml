@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-dfu
+hash: sha256:2dcabbb99ce708177e2975b01713961c8dd68acf9beb15452d004f1e5d598abc
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-dfu
+tags:
+- unknown
+tool_name: ubertooth-dfu

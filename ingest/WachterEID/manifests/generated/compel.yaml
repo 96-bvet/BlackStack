@@ -1,0 +1,7 @@
+description: Auto-generated manifest for compel
+hash: sha256:060d67d4bbacb9f04594f8bdd707d5d55baa773349e13bdce57dbc625cf76433
+persona_hint: Defense
+source_path: /usr/bin/compel
+tags:
+- unknown
+tool_name: compel

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for alsabat
+hash: sha256:3f37d2efaa7144f76ed665a25da62452bcbd56dfc6d339c1db1990b690cea144
+persona_hint: Defense
+source_path: /usr/bin/alsabat
+tags:
+- unknown
+tool_name: alsabat

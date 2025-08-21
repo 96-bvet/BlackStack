@@ -1,0 +1,7 @@
+description: Auto-generated manifest for STRUCT.INC
+hash: sha256:eadd6a384b82a2f2563bb2c8ab94cc57d8d0c6fa3014272084fe239fadf810ba
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/MACRO/STRUCT.INC
+tags:
+- unknown
+tool_name: STRUCT.INC

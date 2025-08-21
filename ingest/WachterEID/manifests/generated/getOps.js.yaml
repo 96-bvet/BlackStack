@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getOps.js
+hash: sha256:cb0c36541b8ae074f55a5800261135e18baef8c62e9245bbb3ebc3458fefdda2
+persona_hint: Defense
+source_path: /usr/share/nodejs/es-abstract/operations/getOps.js
+tags:
+- unknown
+tool_name: getOps.js

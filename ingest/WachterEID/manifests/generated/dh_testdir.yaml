@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_testdir
+hash: sha256:b987387d2ee55315b27a4de8a52dc3c07be05112bc78ac6a0ed63e53b6738740
+persona_hint: Defense
+source_path: /usr/bin/dh_testdir
+tags:
+- unknown
+tool_name: dh_testdir

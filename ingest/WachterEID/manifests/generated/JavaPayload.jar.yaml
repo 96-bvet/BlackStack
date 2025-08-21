@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JavaPayload.jar
+hash: sha256:789687cb22bc071178fac21a07c21ef74573f0ccf5de7d0e0da38b5f1c1cf44d
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/JavaPayload.jar
+tags:
+- unknown
+tool_name: JavaPayload.jar

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for md5sums
+hash: sha256:be4bcfa417008060ebd3b7e5056d2b8a8daddcb6bb8a417f94778918cf632a54
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/debian/seed-debian/DEBIAN/md5sums
+tags:
+- unknown
+tool_name: md5sums

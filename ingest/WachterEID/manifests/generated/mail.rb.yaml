@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mail.rb
+hash: sha256:3ad7468b93a9503b4d94bc9c2e79122fba98729d03970688c2423d9910d64508
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/tins-1.37.1/examples/mail.rb
+tags:
+- unknown
+tool_name: mail.rb

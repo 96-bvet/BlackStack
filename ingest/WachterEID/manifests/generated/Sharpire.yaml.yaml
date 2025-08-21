@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Sharpire.yaml
+hash: sha256:ab4afbf9ab6351594db0021d60f523b878215a7f50b78e61def4c181ec2e5321
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/stagers/Sharpire.yaml
+tags:
+- unknown
+tool_name: Sharpire.yaml

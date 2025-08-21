@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gom.ini
+hash: sha256:d920af9fc911ea25f97d0f202fd08f096ce161ee740e33ce80e40bbf5588c587
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/gom/gom.ini
+tags:
+- unknown
+tool_name: gom.ini

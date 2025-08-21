@@ -1,0 +1,7 @@
+description: Auto-generated manifest for https-proxy-snif.pl
+hash: sha256:0410b9f0e1f21cb1c8d76f1300ddef7273a3b239c61d91480859f1d997f7fb39
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/https-proxy-snif.pl
+tags:
+- unknown
+tool_name: https-proxy-snif.pl

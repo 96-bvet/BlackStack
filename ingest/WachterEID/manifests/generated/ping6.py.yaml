@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ping6.py
+hash: sha256:65937b1ae27fac66a712f1eee088667e32aedc0ed896df24d611d17708cfcca2
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/ping6.py
+tags:
+- unknown
+tool_name: ping6.py

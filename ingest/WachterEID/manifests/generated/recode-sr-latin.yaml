@@ -1,0 +1,7 @@
+description: Auto-generated manifest for recode-sr-latin
+hash: sha256:882a4a3bf3cb65eaf616e93b83cb6daf5fbe06f1311d38ba161b0c505a167720
+persona_hint: Defense
+source_path: /usr/bin/recode-sr-latin
+tags:
+- unknown
+tool_name: recode-sr-latin

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for odfimgimport
+hash: sha256:f3b48a8cfeca4b72888a51510e49e3637b508aef247c4433028d390936116079
+persona_hint: Defense
+source_path: /usr/bin/odfimgimport
+tags:
+- unknown
+tool_name: odfimgimport

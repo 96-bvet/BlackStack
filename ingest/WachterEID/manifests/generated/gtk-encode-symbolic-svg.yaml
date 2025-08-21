@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk-encode-symbolic-svg
+hash: sha256:576c251869de4b2cc7a1d7ccdc0690059122d8d09b384188dcddb41b32e55f32
+persona_hint: Defense
+source_path: /usr/bin/gtk-encode-symbolic-svg
+tags:
+- unknown
+tool_name: gtk-encode-symbolic-svg

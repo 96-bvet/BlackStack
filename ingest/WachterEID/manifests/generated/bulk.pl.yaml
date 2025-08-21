@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bulk.pl
+hash: sha256:80678bef1c207d56def836da5d7e84a8faf52181edb804e7fa8cf37bccc8b244
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/bulk.pl
+tags:
+- unknown
+tool_name: bulk.pl

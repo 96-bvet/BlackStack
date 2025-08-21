@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zcat
+hash: sha256:f0b4d86b6a10064b7f2f41a452ab5437f61d4f17d8b1ab3488f3f345519f4f8d
+persona_hint: Defense
+source_path: /usr/bin/zcat
+tags:
+- unknown
+tool_name: zcat

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xgamma
+hash: sha256:aab6be7296a8392c5cf6a612ac53433bb4eaa28cab520d5df8a532f57e47f576
+persona_hint: Defense
+source_path: /usr/bin/xgamma
+tags:
+- unknown
+tool_name: xgamma

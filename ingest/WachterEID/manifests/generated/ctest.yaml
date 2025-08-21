@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ctest
+hash: sha256:64e438b67f39e0a7151fd95e8f3523bc5d09ba2aaab1eed8e26ca1612a1aef32
+persona_hint: Defense
+source_path: /usr/bin/ctest
+tags:
+- unknown
+tool_name: ctest

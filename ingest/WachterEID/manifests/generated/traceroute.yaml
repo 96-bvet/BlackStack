@@ -1,0 +1,7 @@
+description: Auto-generated manifest for traceroute
+hash: sha256:9c0f788963985898b5692cce020ffe9ad718b21175524292e7aee3ef1bd06c79
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/traceroute
+tags:
+- unknown
+tool_name: traceroute

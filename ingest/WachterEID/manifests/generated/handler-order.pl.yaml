@@ -1,0 +1,7 @@
+description: Auto-generated manifest for handler-order.pl
+hash: sha256:ec32498c264e679d5d923545e969b78756acb7f6bdbbb3d6f706589f85350dae
+persona_hint: Defense
+source_path: /usr/share/doc/libwww-perl/examples/handler-order.pl
+tags:
+- unknown
+tool_name: handler-order.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for eom
+hash: sha256:e1ede70b2601cd0b574db326f61a767a1ea371c3ec5e718de899a5f91fb5a47e
+persona_hint: Defense
+source_path: /usr/bin/eom
+tags:
+- unknown
+tool_name: eom

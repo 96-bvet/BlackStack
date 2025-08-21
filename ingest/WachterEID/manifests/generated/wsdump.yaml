@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wsdump
+hash: sha256:287d31833242b5d1107838dbba63a2e1ae63a24a923421e3cb9f87910d17b1cd
+persona_hint: Defense
+source_path: /usr/bin/wsdump
+tags:
+- unknown
+tool_name: wsdump

@@ -1,0 +1,16 @@
+name: memory_analysis_agent
+path: src/cai/agents/memory_analysis_agent.py
+type: py
+category: forensic
+hash: 2f9f6534e0115720ffddcf8d7da113ba5c30cb5ac11b7057b8fa6d0ccca45075
+approved: true
+import: true
+license_stub: true
+name: memory_analysis_agent
+path: src/cai/agents/memory_analysis_agent.py
+type: py
+category: forensic
+hash: 2f9f6534e0115720ffddcf8d7da113ba5c30cb5ac11b7057b8fa6d0ccca45075
+approved: true
+import: true
+license_stub: true

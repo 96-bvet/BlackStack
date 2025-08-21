@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntpmon
+hash: sha256:709c2745cc907871dc61c8691a6ec7e6e66e80a1cf4c82855f78bc8a4f15ff70
+persona_hint: Defense
+source_path: /usr/bin/ntpmon
+tags:
+- unknown
+tool_name: ntpmon

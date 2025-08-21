@@ -1,0 +1,7 @@
+description: Auto-generated manifest for godoh
+hash: sha256:154e954d1d8a18a2eabcf886d855d9f1faced5ff5c392be65070909117853696
+persona_hint: Defense
+source_path: /usr/bin/godoh
+tags:
+- unknown
+tool_name: godoh

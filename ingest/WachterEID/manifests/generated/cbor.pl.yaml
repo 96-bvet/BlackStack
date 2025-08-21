@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cbor.pl
+hash: sha256:9cdac618f36a24a50d4009b58c18b99129492fe6f5b9a5d9428e4fa2ace7e5ec
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/cbor.pl
+tags:
+- unknown
+tool_name: cbor.pl

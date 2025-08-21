@@ -1,0 +1,39 @@
+=== Hash Migration Log: 2025-08-21_12-23-13 ===
+=== Hash Migration Log: 2025-08-21_12-23-53 ===
+=== Hash Migration Log: 2025-08-21_12-25-19 ===
+=== Hash Migration Log: 2025-08-21_12-27-45 ===
+=== Hash Migration Log: 2025-08-21_12-29-23 ===
+=== Hash Migration Log: 2025-08-21_12-35-47 ===
+=== Hash Migration Log: 2025-08-21_12-38-19 ===
+Moved: /home/blackhawk63/BlackStack/WachterEID/audit/deepseek_hashes.sha256 → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/deepseek_hashes.sha256
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/veracrypt2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/veracrypt2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/truecrypt2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/truecrypt2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/DumpHash.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/DumpHash.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/virtualbox2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/virtualbox2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/bitwarden2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/bitwarden2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/hcxhash2cap.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hcxhash2cap.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/hcxhashcattool.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hcxhashcattool.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/cryptoloop2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/cryptoloop2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/securenotes2hashcat.pl.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/securenotes2hashcat.pl.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/krbroast-pcap2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/krbroast-pcap2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/aescrypt2hashcat.pl.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/aescrypt2hashcat.pl.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/metamask2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/metamask2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/hash_gpu.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hash_gpu.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/vmwarevmx2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/vmwarevmx2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/hashid.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hashid.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/exodus2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/exodus2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/radmin3_to_hashcat.pl.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/radmin3_to_hashcat.pl.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/mozilla2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/mozilla2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/c_rehash.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/c_rehash.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/luks2hashcat.py.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/luks2hashcat.py.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/hcxhashtool.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hcxhashtool.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/hashcat.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hashcat.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/ingest/WachterEID/manifests/generated/sqlcipher2hashcat.pl.yaml → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/sqlcipher2hashcat.pl.yaml
+Moved: /home/blackhawk63/BlackStack/WachterEID/logs/bootstrap_hashes.log → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/bootstrap_hashes.log
+Moved: /home/blackhawk63/BlackStack/WachterEID/logs/registry_ingest/hash_verification.log → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hash_verification.log
+Moved: /home/blackhawk63/BlackStack/WachterEID/core/init/WachterEID/logs/registry_ingest/hash_verification.log → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hash_verification_2025-08-21_12-38-19.log
+Moved: /home/blackhawk63/BlackStack/WachterEID/modules/decrypt/embed_hash_log.sh → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/embed_hash_log.sh
+Moved: /home/blackhawk63/BlackStack/WachterEID/modules/decrypt/migrate_hashes_to_vault.sh → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/migrate_hashes_to_vault.sh
+Moved: /home/blackhawk63/BlackStack/WachterEID/modules/approval_hooks/verify_unit_hash.sh → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/verify_unit_hash.sh
+=== Hash Migration Log: 2025-08-21_12-45-13 ===
+Moved: /home/blackhawk63/BlackStack/WachterEID/core/init/WachterEID/logs/registry_ingest/hash_verification.log → /home/blackhawk63/BlackStack/WachterEID/logs/hashvault/hash_verification_2025-08-21_12-45-13.log

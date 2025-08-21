@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sign.py
+hash: sha256:ca48b18d526fbf674b2cc99e114fe2a73677ffa41b5277a3ba131aa2be015e19
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/sign.py
+tags:
+- unknown
+tool_name: sign.py

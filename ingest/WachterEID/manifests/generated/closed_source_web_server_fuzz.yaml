@@ -1,0 +1,7 @@
+description: Auto-generated manifest for closed_source_web_server_fuzz
+hash: sha256:cfbb1ad7afe9d7387cbc7515cca1e95affca4b12db1686bf436f98599fb5573b
+persona_hint: Defense
+source_path: /usr/bin/closed_source_web_server_fuzz
+tags:
+- unknown
+tool_name: closed_source_web_server_fuzz

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getconf
+hash: sha256:9aa6d2248e9bbbf1b7f5aa010998c76675c28a63805c17de37474c7a92089f42
+persona_hint: Defense
+source_path: /usr/bin/getconf
+tags:
+- unknown
+tool_name: getconf

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jmod
+hash: sha256:50e2674c5c6beea99eeaf1fbbb7eac198f5aa0c44d3c19184e7a4e383f7bfcda
+persona_hint: Defense
+source_path: /usr/bin/jmod
+tags:
+- unknown
+tool_name: jmod

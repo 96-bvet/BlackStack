@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installudev
+hash: sha256:fe8c1778fef6560039b4333f474aa96fb67fad65a0683d14d82f01c834da6597
+persona_hint: Defense
+source_path: /usr/bin/dh_installudev
+tags:
+- unknown
+tool_name: dh_installudev

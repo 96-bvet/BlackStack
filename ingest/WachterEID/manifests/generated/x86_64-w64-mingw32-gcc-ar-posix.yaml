@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-gcc-ar-posix
+hash: sha256:1b5bbc921353f4253f87b08953b87f118bb9b03bc8e66fe67f7919645e20b8f1
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-gcc-ar-posix
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-gcc-ar-posix

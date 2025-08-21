@@ -1,0 +1,7 @@
+description: Auto-generated manifest for timeout
+hash: sha256:5ef0eaaaa4220593add7716aad74da927ca3bb10605e964330de64fecc3ef15e
+persona_hint: Defense
+source_path: /usr/bin/timeout
+tags:
+- unknown
+tool_name: timeout

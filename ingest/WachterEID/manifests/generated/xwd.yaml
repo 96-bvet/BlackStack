@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xwd
+hash: sha256:d8fc582ba950576b03b601ec4f42634eb646c280ef27ee0761a7b3a6101abc29
+persona_hint: Defense
+source_path: /usr/bin/xwd
+tags:
+- unknown
+tool_name: xwd

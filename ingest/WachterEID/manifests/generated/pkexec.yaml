@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkexec
+hash: sha256:fae5b4b701fcc75087c46d7ea5e252c47d4e5310ecea38c462fd73257925939c
+persona_hint: Defense
+source_path: /usr/bin/pkexec
+tags:
+- unknown
+tool_name: pkexec

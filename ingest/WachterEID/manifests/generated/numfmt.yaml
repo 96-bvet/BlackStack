@@ -1,0 +1,7 @@
+description: Auto-generated manifest for numfmt
+hash: sha256:bf48f9377ce2851931573d54bc74e19b1bf45c5e19ba108a8b3e153cd71235f2
+persona_hint: Defense
+source_path: /usr/bin/numfmt
+tags:
+- unknown
+tool_name: numfmt

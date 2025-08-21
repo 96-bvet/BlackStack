@@ -1,0 +1,7 @@
+description: Auto-generated manifest for c99-gcc
+hash: sha256:5d3a3621b0f1272264a4d37e379300f2495aabef997eb12c2f8b48cf16d01366
+persona_hint: Defense
+source_path: /usr/bin/c99-gcc
+tags:
+- unknown
+tool_name: c99-gcc

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for frequency.rb
+hash: sha256:d53900be8d8ce309e90ddd000416f1e99d88d0863058d95f396403e569ecb5ef
+persona_hint: Defense
+source_path: /usr/share/pipal/checkers_available/frequency.rb
+tags:
+- unknown
+tool_name: frequency.rb

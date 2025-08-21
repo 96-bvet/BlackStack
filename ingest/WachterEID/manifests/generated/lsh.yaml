@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsh
+hash: sha256:690be55a404a961da5a5e4dcc5e1ecfbd0b3795d361728afc7a8d8d532ee1419
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/lsh
+tags:
+- unknown
+tool_name: lsh

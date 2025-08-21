@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bbappworld.pm
+hash: sha256:631f924edc3c9bed43f6bfcc105986c97936d5417aa4d14d75b050e18c42d411
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/bbappworld.pm
+tags:
+- unknown
+tool_name: bbappworld.pm

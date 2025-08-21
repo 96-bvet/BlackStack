@@ -1,0 +1,7 @@
+description: Auto-generated manifest for VGAuthService
+hash: sha256:3f852afed5786c7aea065e2441a30014b4f6b17a5d2e436fd7c3d1dd4dad1df0
+persona_hint: Defense
+source_path: /usr/bin/VGAuthService
+tags:
+- unknown
+tool_name: VGAuthService

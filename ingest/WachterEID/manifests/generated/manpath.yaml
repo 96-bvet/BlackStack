@@ -1,0 +1,7 @@
+description: Auto-generated manifest for manpath
+hash: sha256:8a3b848510bd092049fd769ceaf25a55f496b2301c239fbed4b660b6035ad0f3
+persona_hint: Defense
+source_path: /usr/bin/manpath
+tags:
+- unknown
+tool_name: manpath

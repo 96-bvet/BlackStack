@@ -1,0 +1,7 @@
+description: Auto-generated manifest for composite.rb
+hash: sha256:94f3772807dae9a7ceb99dde3783d5ca49bec7b5349e75f92aa9ca12376ca779
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/mojo_magick-0.6.8/examples/composite.rb
+tags:
+- unknown
+tool_name: composite.rb

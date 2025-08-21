@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sync
+hash: sha256:8ebfcf0eb6d1f19ef5b9db1c9dd945679a65c7a8d3589fdc3f9ce2ffd65933ed
+persona_hint: Defense
+source_path: /usr/bin/sync
+tags:
+- unknown
+tool_name: sync

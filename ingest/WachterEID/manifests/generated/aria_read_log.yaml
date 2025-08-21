@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aria_read_log
+hash: sha256:889ac85ea82e1e45f6484996dcbe3e780ba3d8bf3b0d7ac72f89767ef8b78f91
+persona_hint: Defense
+source_path: /usr/bin/aria_read_log
+tags:
+- unknown
+tool_name: aria_read_log

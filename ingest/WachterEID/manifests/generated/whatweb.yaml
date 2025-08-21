@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whatweb
+hash: sha256:6fc15d114546c8f8029d35f702358840e7c9c0aa5a25837df78d9273db466961
+persona_hint: Defense
+source_path: /usr/bin/whatweb
+tags:
+- unknown
+tool_name: whatweb

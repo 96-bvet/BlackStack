@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-dump
+hash: sha256:ff1f310db49e204cb7cc418cb5b820d499a6e58ac17b44f583800cbb20cd6d90
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-dump
+tags:
+- unknown
+tool_name: ubertooth-dump

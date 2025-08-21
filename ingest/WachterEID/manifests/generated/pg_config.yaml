@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_config
+hash: sha256:56e697a2dd537bcaf15258f5aa10fa39b4506e7a9866fd466731ba21d0d2a2f7
+persona_hint: Defense
+source_path: /usr/bin/pg_config
+tags:
+- unknown
+tool_name: pg_config

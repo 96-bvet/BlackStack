@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsm
+hash: sha256:cdf1dd646142e63b3a97e76cd4b216f86660a8629ab723b2c3537903169adbe7
+persona_hint: Defense
+source_path: /usr/bin/xsm
+tags:
+- unknown
+tool_name: xsm

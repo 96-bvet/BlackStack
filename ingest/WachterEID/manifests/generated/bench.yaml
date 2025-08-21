@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bench
+hash: sha256:bc844f62f0bcec0e1f2cc159b02f76533d27c89d7b095a1aa7517dde48ac0a4e
+persona_hint: Defense
+source_path: /usr/share/doc/libjson-xs-perl/examples/bench
+tags:
+- unknown
+tool_name: bench

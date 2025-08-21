@@ -1,0 +1,7 @@
+description: Auto-generated manifest for findrule
+hash: sha256:90792a4e693674f127e276235220d887deed9232832fce3bded53ca6956af8da
+persona_hint: Defense
+source_path: /usr/bin/findrule
+tags:
+- unknown
+tool_name: findrule

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkcs11-register
+hash: sha256:88209f8a1ff075a200480eab36d1c11074b692fb698976509486911d8045c2a0
+persona_hint: Defense
+source_path: /usr/bin/pkcs11-register
+tags:
+- unknown
+tool_name: pkcs11-register

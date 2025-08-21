@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-checkvm
+hash: sha256:70e0867c7f0f8e0637377ab57053932761c5f69a5cae991f009ae2622f3543c3
+persona_hint: Defense
+source_path: /usr/bin/vmware-checkvm
+tags:
+- unknown
+tool_name: vmware-checkvm

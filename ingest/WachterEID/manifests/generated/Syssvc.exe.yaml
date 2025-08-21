@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Syssvc.exe
+hash: sha256:77ec2608772edf1f1f20226d7f59943a55d8a4def1a5e017bb484dec9dcc9175
+persona_hint: Defense
+source_path: /usr/share/responder/tools/MultiRelay/bin/Syssvc.exe
+tags:
+- unknown
+tool_name: Syssvc.exe

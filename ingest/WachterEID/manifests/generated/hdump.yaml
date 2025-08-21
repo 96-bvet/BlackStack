@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hdump
+hash: sha256:ecf5d97e1ad511dfbc1e46110975753eb9d2eb6eba15b8daf10d641fda03b51f
+persona_hint: Defense
+source_path: /usr/share/doc/libhtml-parser-perl/examples/hdump
+tags:
+- unknown
+tool_name: hdump

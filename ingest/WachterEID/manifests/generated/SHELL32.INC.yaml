@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SHELL32.INC
+hash: sha256:03f357a0898b069bf0e0eb15ca7a8afdf6cf3eb7b4c907be63316d815c68efec
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/PCOUNT/SHELL32.INC
+tags:
+- unknown
+tool_name: SHELL32.INC

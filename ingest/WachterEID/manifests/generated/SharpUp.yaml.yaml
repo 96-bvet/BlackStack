@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SharpUp.yaml
+hash: sha256:19e79892338ed46141325d1c55c8b8a1ca737d04850e247899a937f64df5bf9d
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/privesc/SharpUp.yaml
+tags:
+- unknown
+tool_name: SharpUp.yaml

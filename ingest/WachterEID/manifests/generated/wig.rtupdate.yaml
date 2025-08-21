@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wig.rtupdate
+hash: sha256:b187c42bae343f99830c77cda4eecd11a0f3130d165637458b42afd64380d76e
+persona_hint: Defense
+source_path: /usr/share/python3/runtime.d/wig.rtupdate
+tags:
+- unknown
+tool_name: wig.rtupdate

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_router26
+hash: sha256:ea498b2fe03a87720d1f62ae28b5a12733e3338205d116202dd70f426e3e66fe
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_router26
+tags:
+- unknown
+tool_name: atk6-fake_router26

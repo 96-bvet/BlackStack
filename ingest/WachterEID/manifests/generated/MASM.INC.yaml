@@ -1,0 +1,7 @@
+description: Auto-generated manifest for MASM.INC
+hash: sha256:4bc05428fb189dfc9a7a40d461e9659f74ff66fe00823f46282adc95396b4937
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/MACRO/MASM.INC
+tags:
+- unknown
+tool_name: MASM.INC

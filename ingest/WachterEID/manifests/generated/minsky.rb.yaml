@@ -1,0 +1,7 @@
+description: Auto-generated manifest for minsky.rb
+hash: sha256:58f0993f3d4e47cf6832011f34ae2cb78c56d346c8daada5a06876ebe7e74ed8
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/tins-1.37.1/examples/minsky.rb
+tags:
+- unknown
+tool_name: minsky.rb

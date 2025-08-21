@@ -1,0 +1,7 @@
+description: Auto-generated manifest for loadapis.asm
+hash: sha256:fdf37ed225f2b2655b784f328036c5802e5e3e6b2ace883ad76d9ded40c64e4e
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Container/32/loadapis.asm
+tags:
+- unknown
+tool_name: loadapis.asm

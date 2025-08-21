@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xlsclients
+hash: sha256:94f7161da15c3e709bcea0db5cb37ba2ebb2a8f2775168ff58e9490d3fbae0d3
+persona_hint: Defense
+source_path: /usr/bin/xlsclients
+tags:
+- unknown
+tool_name: xlsclients

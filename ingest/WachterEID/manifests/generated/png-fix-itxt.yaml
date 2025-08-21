@@ -1,0 +1,7 @@
+description: Auto-generated manifest for png-fix-itxt
+hash: sha256:1b5b026f1f3a451b2766dff5c3bdfaee3e4b8d977680ad78d8fbdc38d30eac16
+persona_hint: Defense
+source_path: /usr/bin/png-fix-itxt
+tags:
+- unknown
+tool_name: png-fix-itxt

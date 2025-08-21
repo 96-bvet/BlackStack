@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aria_chk
+hash: sha256:33bd77d385ef2c9f1f593495420adaf5e45c162827d0c6161688a2283890ad33
+persona_hint: Defense
+source_path: /usr/bin/aria_chk
+tags:
+- unknown
+tool_name: aria_chk

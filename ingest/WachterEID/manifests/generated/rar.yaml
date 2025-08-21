@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rar
+hash: sha256:79f52a22aef132cdf2e41f712df0b96916d6209d6b75b08ac9ff655ebd995b01
+persona_hint: Defense
+source_path: /usr/bin/rar
+tags:
+- unknown
+tool_name: rar

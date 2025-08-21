@@ -1,0 +1,7 @@
+description: Auto-generated manifest for galera_recovery
+hash: sha256:b1ec4127cd5c1b880cb46e09dbba356c431fc973d961f1a7816cbfd95f31d1ec
+persona_hint: Defense
+source_path: /usr/bin/galera_recovery
+tags:
+- unknown
+tool_name: galera_recovery

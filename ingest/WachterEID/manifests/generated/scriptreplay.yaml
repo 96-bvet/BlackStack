@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scriptreplay
+hash: sha256:190a035ffc750ef5595bc343515c4594ae32e48586007a40bec77dc812d3c88a
+persona_hint: Defense
+source_path: /usr/bin/scriptreplay
+tags:
+- unknown
+tool_name: scriptreplay

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mergerfs-fusermount
+hash: sha256:02cf39cb1b73fa3eb204e8385ad70a56e2f10e71840030ec69bd4922da4370a6
+persona_hint: Defense
+source_path: /usr/bin/mergerfs-fusermount
+tags:
+- unknown
+tool_name: mergerfs-fusermount

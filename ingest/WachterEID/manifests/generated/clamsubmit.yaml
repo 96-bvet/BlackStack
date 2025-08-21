@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clamsubmit
+hash: sha256:396cb7233fd42434e2fb89b9d1bf8c0baa12ffdfb5ce5244da2f2f395a8ae9b8
+persona_hint: Defense
+source_path: /usr/bin/clamsubmit
+tags:
+- unknown
+tool_name: clamsubmit

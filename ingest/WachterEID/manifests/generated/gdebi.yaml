@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdebi
+hash: sha256:321e71fbb6ad3dde87ba27dae08fee5fe64da11c8bb34378816e0f0cfdeed239
+persona_hint: Defense
+source_path: /usr/share/gdebi/gdebi
+tags:
+- unknown
+tool_name: gdebi

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_plugin
+hash: sha256:5c964543e069c645d43772cc208f5c2e893c2e5bc82935350ee08fbf90e47600
+persona_hint: Defense
+source_path: /usr/bin/mysql_plugin
+tags:
+- unknown
+tool_name: mysql_plugin

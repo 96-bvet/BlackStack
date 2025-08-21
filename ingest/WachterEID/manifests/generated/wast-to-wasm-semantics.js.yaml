@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wast-to-wasm-semantics.js
+hash: sha256:bf09bb8f3563a5fe07edb9dc197e1ad7fe2f86a5bee9680710b526f2b979db32
+persona_hint: Defense
+source_path: /usr/share/nodejs/@webassemblyjs/cli/lib/wast-to-wasm-semantics.js
+tags:
+- unknown
+tool_name: wast-to-wasm-semantics.js

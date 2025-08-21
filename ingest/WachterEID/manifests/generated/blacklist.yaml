@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blacklist
+hash: sha256:e3fd2f67b92756f053ee3045c45f4d40ba957bf310f2ca64c11f80f6f25604a1
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/init-top/blacklist
+tags:
+- unknown
+tool_name: blacklist

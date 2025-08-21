@@ -1,0 +1,7 @@
+description: Auto-generated manifest for synclient
+hash: sha256:2d2fe8b44125514891efe34832f7e48c3ed8e4b77f565aa7d91a71f2f38ce5e9
+persona_hint: Defense
+source_path: /usr/bin/synclient
+tags:
+- unknown
+tool_name: synclient

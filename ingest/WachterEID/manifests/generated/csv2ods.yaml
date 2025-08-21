@@ -1,0 +1,7 @@
+description: Auto-generated manifest for csv2ods
+hash: sha256:ed1675003e02bd7b0b08c1685fc46f181bd09245797c5a6940f61769824506af
+persona_hint: Defense
+source_path: /usr/bin/csv2ods
+tags:
+- unknown
+tool_name: csv2ods

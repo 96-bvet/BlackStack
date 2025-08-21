@@ -1,0 +1,7 @@
+description: Auto-generated manifest for decryptionrounds.asm
+hash: sha256:e9a591fa2a41bf8db0143246d5a1e7f9cf03bc037dfd6a2a770493a7ebd10a16
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Payloads/Aes/32/decryptionrounds.asm
+tags:
+- unknown
+tool_name: decryptionrounds.asm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kwriteconfig5
+hash: sha256:05f1d65cc479ed17f86aacb94c603f8565466b5011ab04847f2bd1bf313aa0d0
+persona_hint: Defense
+source_path: /usr/bin/kwriteconfig5
+tags:
+- unknown
+tool_name: kwriteconfig5

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for arecordmidi
+hash: sha256:9bf70a3f14ef64d5c09d8c098a8fd70093311f820e7691ee342ed7840f4cc81a
+persona_hint: Defense
+source_path: /usr/bin/arecordmidi
+tags:
+- unknown
+tool_name: arecordmidi

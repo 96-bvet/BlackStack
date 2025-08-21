@@ -1,0 +1,7 @@
+description: Auto-generated manifest for locale
+hash: sha256:2d93b8f16e1e587c94a4c33d1cd35692cce1b287ca132fc9084c839d6d87953d
+persona_hint: Defense
+source_path: /usr/bin/locale
+tags:
+- unknown
+tool_name: locale

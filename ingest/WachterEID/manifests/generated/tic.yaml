@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tic
+hash: sha256:074cbccb57d3d64badd590ebf7e27de3602853e0fca56958fcbdc94999ee332d
+persona_hint: Defense
+source_path: /usr/bin/tic
+tags:
+- unknown
+tool_name: tic

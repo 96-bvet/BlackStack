@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_systemd_enable
+hash: sha256:a9ced63985485d6a1ab1368bd48dfda40b2766baa38ee1645ee9237462295cca
+persona_hint: Defense
+source_path: /usr/bin/dh_systemd_enable
+tags:
+- unknown
+tool_name: dh_systemd_enable

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fuser
+hash: sha256:6488f2631a403f4dd1a2f27c69e59f1012fc8be675e8c9c1015af2df8c75b8b3
+persona_hint: Defense
+source_path: /usr/bin/fuser
+tags:
+- unknown
+tool_name: fuser

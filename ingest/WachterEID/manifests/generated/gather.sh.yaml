@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gather.sh
+hash: sha256:aec7de4481f298b0be8f3e8466d715ee5593a93b01a9dbe42f1742372b71b370
+persona_hint: Defense
+source_path: /usr/share/doc/lm-sensors/examples/tellerstats/gather.sh
+tags:
+- unknown
+tool_name: gather.sh

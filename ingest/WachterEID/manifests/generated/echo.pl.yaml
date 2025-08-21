@@ -1,0 +1,7 @@
+description: Auto-generated manifest for echo.pl
+hash: sha256:5ad6c9298d7ccf1eb11e6aa34ad84e49751ec3f23906eb32300b4ae6c8656e42
+persona_hint: Defense
+source_path: /usr/share/doc/libfcgi-perl/examples/echo.pl
+tags:
+- unknown
+tool_name: echo.pl

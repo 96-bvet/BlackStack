@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Start-MonitorTCPConnections.ps1
+hash: sha256:b6d54f26fedb357db5d1e884365a63136fe458bb603e9e7e4c13ffda8cb1d2dc
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/situational_awareness/host/Start-MonitorTCPConnections.ps1
+tags:
+- unknown
+tool_name: Start-MonitorTCPConnections.ps1

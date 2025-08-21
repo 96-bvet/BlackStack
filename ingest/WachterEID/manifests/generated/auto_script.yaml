@@ -1,0 +1,7 @@
+description: Auto-generated manifest for auto_script
+hash: sha256:89392293e695431762ad3cb048575326950e24b783f7fc4ccf158ba478363011
+persona_hint: Defense
+source_path: /usr/share/sipp/tools/monitor/auto_script
+tags:
+- unknown
+tool_name: auto_script

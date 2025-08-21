@@ -1,0 +1,7 @@
+description: Auto-generated manifest for free
+hash: sha256:c8d08d0fc72b20d0b423ff0700a999ba2cf60dd00e5f066552729941fde1b7a4
+persona_hint: Defense
+source_path: /usr/bin/free
+tags:
+- unknown
+tool_name: free

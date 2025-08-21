@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pwd
+hash: sha256:14b89d92c7047e3cebb7b8e7b7249360a0979349125f5e567d59924cde59ac58
+persona_hint: Defense
+source_path: /usr/bin/pwd
+tags:
+- unknown
+tool_name: pwd

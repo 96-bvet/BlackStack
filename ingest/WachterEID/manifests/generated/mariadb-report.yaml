@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-report
+hash: sha256:8618cddc84033a5d638c707900a39c8289c58dd7f31b47852e41748644d269bd
+persona_hint: Defense
+source_path: /usr/bin/mariadb-report
+tags:
+- unknown
+tool_name: mariadb-report

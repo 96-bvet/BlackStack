@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btattach
+hash: sha256:9c0df7017a276334f8b9e53d3fc70c4482e3c506c3380b6461ba88ba4951d942
+persona_hint: Defense
+source_path: /usr/bin/btattach
+tags:
+- unknown
+tool_name: btattach

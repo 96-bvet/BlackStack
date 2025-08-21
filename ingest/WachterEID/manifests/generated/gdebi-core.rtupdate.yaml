@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdebi-core.rtupdate
+hash: sha256:fe4598d735a22ffb5a98a27df9d4498384f17e528c56d3b79d875ca7a50fe1c5
+persona_hint: Defense
+source_path: /usr/share/python3/runtime.d/gdebi-core.rtupdate
+tags:
+- unknown
+tool_name: gdebi-core.rtupdate

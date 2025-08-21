@@ -1,0 +1,7 @@
+description: Auto-generated manifest for UTF8.INC
+hash: sha256:cbc5d259f7e3424b716a3fbc661d5d54e4eeae3713c36c4685c0eebbfdf36845
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/ENCODING/UTF8.INC
+tags:
+- unknown
+tool_name: UTF8.INC

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for editdiff
+hash: sha256:f802ce475d689b861d195d5295d7f5ee17393deffb5d22148b15b7962ab385b7
+persona_hint: Defense
+source_path: /usr/bin/editdiff
+tags:
+- unknown
+tool_name: editdiff

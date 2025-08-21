@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-dos-new-ip6
+hash: sha256:1075d80ca93e5a7efc4a6c3dbdb6a010f94207a8108098340e165a875c1d10be
+persona_hint: Defense
+source_path: /usr/bin/atk6-dos-new-ip6
+tags:
+- unknown
+tool_name: atk6-dos-new-ip6

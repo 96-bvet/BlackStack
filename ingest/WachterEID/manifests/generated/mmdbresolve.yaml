@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mmdbresolve
+hash: sha256:20f57b421fc0f004e7f196ae80ac902c4a336c97ab2e6bfb6f8954062c935282
+persona_hint: Defense
+source_path: /usr/bin/mmdbresolve
+tags:
+- unknown
+tool_name: mmdbresolve

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rules
+hash: sha256:4a137aac0bc1ad2e455aa688026a08ac1dcff6b581838abecd75a5c808811016
+persona_hint: Defense
+source_path: /usr/share/equivs/template/debian/rules
+tags:
+- unknown
+tool_name: rules

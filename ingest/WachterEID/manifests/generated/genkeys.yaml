@@ -1,0 +1,7 @@
+description: Auto-generated manifest for genkeys
+hash: sha256:c6410ad529bcf1fe74ef9ae783e2c23b2a4563e95f6a84142fa84a93d1b81fc9
+persona_hint: Defense
+source_path: /usr/bin/genkeys
+tags:
+- unknown
+tool_name: genkeys

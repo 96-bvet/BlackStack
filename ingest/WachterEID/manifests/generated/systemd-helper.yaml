@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-helper
+hash: sha256:4423d1127e89add67d3e64f345860fd663644b912fdb4dc04971ea0fb1f2c147
+persona_hint: Defense
+source_path: /usr/share/dnsmasq/systemd-helper
+tags:
+- unknown
+tool_name: systemd-helper

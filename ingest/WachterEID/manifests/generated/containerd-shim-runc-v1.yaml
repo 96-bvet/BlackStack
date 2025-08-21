@@ -1,0 +1,7 @@
+description: Auto-generated manifest for containerd-shim-runc-v1
+hash: sha256:92e0a4efb84ecc0b5c93b5498bd9e18160fb0ecc86ab9c6be4ce92d04605f1fe
+persona_hint: Defense
+source_path: /usr/bin/containerd-shim-runc-v1
+tags:
+- unknown
+tool_name: containerd-shim-runc-v1

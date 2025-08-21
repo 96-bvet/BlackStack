@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jstat
+hash: sha256:56c2a39356bd5cf17d636acd3697bebcd8cfb3abe4f55b379af8fbc3e0360c00
+persona_hint: Defense
+source_path: /usr/bin/jstat
+tags:
+- unknown
+tool_name: jstat

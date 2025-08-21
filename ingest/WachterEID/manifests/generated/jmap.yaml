@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jmap
+hash: sha256:116828fa08e3dacbe2a3e9d70f73c1d48abcc344b3b1fcdb915dc391c474da32
+persona_hint: Defense
+source_path: /usr/bin/jmap
+tags:
+- unknown
+tool_name: jmap

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for known_pins.db
+hash: sha256:deeaf78b6c4ed3a345cdc79210d33e1a87b548e6fa24bf5389f01f3822fc628b
+persona_hint: Defense
+source_path: /usr/share/airgeddon/known_pins.db
+tags:
+- unknown
+tool_name: known_pins.db

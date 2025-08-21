@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Seatbelt.yaml
+hash: sha256:194ac48475295e5110c7fa5a101afab88f58548a65fd6490109f7607e58af481
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/Seatbelt.yaml
+tags:
+- unknown
+tool_name: Seatbelt.yaml

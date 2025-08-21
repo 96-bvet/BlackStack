@@ -1,0 +1,7 @@
+description: Auto-generated manifest for node-gyp
+hash: sha256:e53b78076c589dc0b7a2de2a8eff769101293e2c7aecbd7d3646dfe51f0227d6
+persona_hint: Defense
+source_path: /usr/share/nodejs/npm/bin/node-gyp-bin/node-gyp
+tags:
+- unknown
+tool_name: node-gyp

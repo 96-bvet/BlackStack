@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lesskey
+hash: sha256:c4386c673ca84ffc224f6522f4442452a9b19d1cb3cb21aab04b73bafc831b4f
+persona_hint: Defense
+source_path: /usr/bin/lesskey
+tags:
+- unknown
+tool_name: lesskey

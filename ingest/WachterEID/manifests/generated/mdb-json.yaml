@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-json
+hash: sha256:393166a56f60850719fa46552d77b5db8710f86900f4acc41721edf39ecb1f29
+persona_hint: Defense
+source_path: /usr/bin/mdb-json
+tags:
+- unknown
+tool_name: mdb-json

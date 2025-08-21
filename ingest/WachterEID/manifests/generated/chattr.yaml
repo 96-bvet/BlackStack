@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chattr
+hash: sha256:c859edeacc90ee369c58b202a8a7ad2edcae28c6e2caf05f2fb5dd47a1d6b077
+persona_hint: Defense
+source_path: /usr/bin/chattr
+tags:
+- unknown
+tool_name: chattr

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ipcount
+hash: sha256:12ffe9df3ab9090a67c05b0b0817a277c54df937bb3f9347a79522f8ee6e4b99
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ip-perl/examples/ipcount
+tags:
+- unknown
+tool_name: ipcount

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for workstation.nft
+hash: sha256:13f6a7fefa22f0e2463718c629fb13897a460683d88d643709afc493b58bec1c
+persona_hint: Defense
+source_path: /usr/share/doc/nftables/examples/workstation.nft
+tags:
+- unknown
+tool_name: workstation.nft

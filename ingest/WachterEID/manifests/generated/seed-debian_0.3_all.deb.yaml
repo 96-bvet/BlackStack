@@ -1,0 +1,7 @@
+description: Auto-generated manifest for seed-debian_0.3_all.deb
+hash: sha256:4b901a25dc73e41fdb9aef29241b53cec5065796c63a733b99d5539c7d6439d4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/debian/seed-debian_0.3_all.deb
+tags:
+- unknown
+tool_name: seed-debian_0.3_all.deb

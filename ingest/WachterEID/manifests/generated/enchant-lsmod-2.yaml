@@ -1,0 +1,7 @@
+description: Auto-generated manifest for enchant-lsmod-2
+hash: sha256:4a99b23c3e185270e0982e051003b2921b71024cfbca4d7436a86862617430eb
+persona_hint: Defense
+source_path: /usr/bin/enchant-lsmod-2
+tags:
+- unknown
+tool_name: enchant-lsmod-2

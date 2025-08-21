@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vm-support
+hash: sha256:c6c7aa43c3a87ce54f42b1324b3b202a63dcdf0d908aef188cfcb615a708e667
+persona_hint: Defense
+source_path: /usr/bin/vm-support
+tags:
+- unknown
+tool_name: vm-support

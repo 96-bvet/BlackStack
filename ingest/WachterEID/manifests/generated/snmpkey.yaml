@@ -1,0 +1,7 @@
+description: Auto-generated manifest for snmpkey
+hash: sha256:172cacc67cc1abf1feed12ce970f99610783bb7997e21435af23a722e7ae9566
+persona_hint: Defense
+source_path: /usr/bin/snmpkey
+tags:
+- unknown
+tool_name: snmpkey

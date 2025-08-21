@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chrome-sandbox
+hash: sha256:a66611ad1829bc59469eab57dc72ac44c86df2728770e4905adc47fad2990e75
+persona_hint: Defense
+source_path: /usr/share/codium/chrome-sandbox
+tags:
+- unknown
+tool_name: chrome-sandbox

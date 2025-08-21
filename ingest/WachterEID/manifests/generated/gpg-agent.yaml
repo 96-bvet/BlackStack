@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpg-agent
+hash: sha256:376889550a0155d984b24341f6e8fe5474aeb87619150e691773d93e1d013941
+persona_hint: Defense
+source_path: /usr/bin/gpg-agent
+tags:
+- unknown
+tool_name: gpg-agent

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsrecover
+hash: sha256:b550485d97bd223ecb080c0f22fd991f12690b58a83eaf22b0404159ec9dc05d
+persona_hint: Defense
+source_path: /usr/bin/ntfsrecover
+tags:
+- unknown
+tool_name: ntfsrecover

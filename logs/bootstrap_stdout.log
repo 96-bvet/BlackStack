@@ -1,0 +1,76 @@
++ set -x
++ export HOME=/home/blackhawk63
++ HOME=/home/blackhawk63
++ cd /home/blackhawk63/BlackStack/WachterEID/core/init
++ SERVICE_NAME=registry_ingest
++ UNIT_PATH=WachterEID/systemd/registry_ingest.service
++ LOG_PATH=WachterEID/logs/registry_ingest/hash_verification.log
++ SYMLINK_PATH=/etc/systemd/system/registry_ingest.service
++ echo '[WachterEID] Bootstrapping registry_ingest...'
+[WachterEID] Bootstrapping registry_ingest...
++ bash WachterEID/modules/approval_hooks/verify_unit_hash.sh WachterEID/systemd/registry_ingest.service WachterEID/logs/registry_ingest/hash_verification.log
+bash: WachterEID/modules/approval_hooks/verify_unit_hash.sh: No such file or directory
++ '[' 127 -ne 0 ']'
++ echo '[✗] Hash verification failed. Aborting startup.'
+[✗] Hash verification failed. Aborting startup.
++ exit 1
++ set -x
++ export HOME=/home/blackhawk63
++ HOME=/home/blackhawk63
++ cd /home/blackhawk63/BlackStack/WachterEID/core/init
++ SERVICE_NAME=registry_ingest
++ UNIT_PATH=WachterEID/systemd/registry_ingest.service
++ LOG_PATH=WachterEID/logs/registry_ingest/hash_verification.log
++ SYMLINK_PATH=/etc/systemd/system/registry_ingest.service
++ echo '[WachterEID] Bootstrapping registry_ingest...'
+[WachterEID] Bootstrapping registry_ingest...
++ bash WachterEID/modules/approval_hooks/verify_unit_hash.sh WachterEID/systemd/registry_ingest.service WachterEID/logs/registry_ingest/hash_verification.log
+bash: WachterEID/modules/approval_hooks/verify_unit_hash.sh: No such file or directory
++ '[' 127 -ne 0 ']'
++ echo '[✗] Hash verification failed. Aborting startup.'
+[✗] Hash verification failed. Aborting startup.
++ exit 1
++ export HOME=/home/blackhawk63
++ HOME=/home/blackhawk63
++ cd /home/blackhawk63/BlackStack/WachterEID/core/init
++ ROOT=/home/blackhawk63/BlackStack/WachterEID
++ SERVICE_NAME=registry_ingest
++ UNIT_PATH=/home/blackhawk63/BlackStack/WachterEID/systemd/registry_ingest.service
++ LOG_PATH=/home/blackhawk63/BlackStack/WachterEID/logs/registry_ingest/hash_verification.log
++ SYMLINK_PATH=/etc/systemd/system/registry_ingest.service
++ HOOK_PATH=/home/blackhawk63/BlackStack/WachterEID/modules/approval_hooks/verify_unit_hash.sh
++ echo '[WachterEID] Bootstrapping registry_ingest...'
+[WachterEID] Bootstrapping registry_ingest...
++ bash /home/blackhawk63/BlackStack/WachterEID/modules/approval_hooks/verify_unit_hash.sh /home/blackhawk63/BlackStack/WachterEID/systemd/registry_ingest.service /home/blackhawk63/BlackStack/WachterEID/logs/registry_ingest/hash_verification.log
++ export HOME=/home/blackhawk63
++ HOME=/home/blackhawk63
++ cd /home/blackhawk63/BlackStack/WachterEID/core/init
++ ROOT=/home/blackhawk63/BlackStack/WachterEID
++ SERVICE_NAME=registry_ingest
++ UNIT_PATH=/home/blackhawk63/BlackStack/WachterEID/systemd/registry_ingest.service
++ LOG_PATH=/home/blackhawk63/BlackStack/WachterEID/logs/registry_ingest/hash_verification.log
++ SYMLINK_PATH=/etc/systemd/system/registry_ingest.service
++ HOOK_PATH=/home/blackhawk63/BlackStack/WachterEID/modules/approval_hooks/verify_unit_hash.sh
++ echo '[WachterEID] Bootstrapping registry_ingest...'
+[WachterEID] Bootstrapping registry_ingest...
++ bash /home/blackhawk63/BlackStack/WachterEID/modules/approval_hooks/verify_unit_hash.sh /home/blackhawk63/BlackStack/WachterEID/systemd/registry_ingest.service /home/blackhawk63/BlackStack/WachterEID/logs/registry_ingest/hash_verification.log
+sha256sum: WachterEID/systemd/registry_ingest.servicesha256sum: WachterEID/systemd/registry_ingest.service: No such file or directory
+: No such file or directory
+[✓] Hash logged for WachterEID/systemd/registry_ingest.service at Thu Aug 21 09:04:43 AM EDT 2025
+[✓] Hash logged for WachterEID/systemd/registry_ingest.service at Thu Aug 21 09:04:43 AM EDT 2025
++ [[ 0 -ne 0 ]]
++ [[ 0 -ne 0 ]]
++ [[ ! -f /etc/systemd/system/registry_ingest.service ]]
++ echo '[✓] Creating systemd symlink for registry_ingest...'
+[✓] Creating systemd symlink for registry_ingest...
++ sudo ln -s /home/blackhawk63/BlackStack/WachterEID/systemd/registry_ingest.service /etc/systemd/system/registry_ingest.service
++ [[ ! -f /etc/systemd/system/registry_ingest.service ]]
++ echo '[✓] Creating systemd symlink for registry_ingest...'
+[✓] Creating systemd symlink for registry_ingest...
++ sudo ln -s /home/blackhawk63/BlackStack/WachterEID/systemd/registry_ingest.service /etc/systemd/system/registry_ingest.service
++ echo '[✓] Bootstrap completed successfully.'
+[✓] Bootstrap completed successfully.
++ echo '[✓] Bootstrap completed successfully.'
+[✓] Bootstrap completed successfully.
++ exit 0
++ exit 0

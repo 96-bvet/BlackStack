@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpcapinfo
+hash: sha256:6f188f7da483fcbaed297d5ad2384fe2779bac8f26f2cf1e0b4990543861f7a5
+persona_hint: Defense
+source_path: /usr/bin/tcpcapinfo
+tags:
+- unknown
+tool_name: tcpcapinfo

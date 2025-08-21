@@ -1,0 +1,7 @@
+description: Auto-generated manifest for decode-dimms
+hash: sha256:aa458c661c8e6c2f8bdd8b5b8def0ac7ebb462cdc40ffa2c1c4df2c4c4e4438f
+persona_hint: Defense
+source_path: /usr/bin/decode-dimms
+tags:
+- unknown
+tool_name: decode-dimms

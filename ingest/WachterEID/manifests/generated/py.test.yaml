@@ -1,0 +1,7 @@
+description: Auto-generated manifest for py.test
+hash: sha256:8ef7f936d3f2044ca3d0151925b54e5450c9df1ea2458c023e22daa6f939f97c
+persona_hint: Defense
+source_path: /usr/bin/py.test
+tags:
+- unknown
+tool_name: py.test

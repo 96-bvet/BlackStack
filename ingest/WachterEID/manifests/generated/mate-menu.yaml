@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-menu
+hash: sha256:d95a8715357b276a658e02fba5d0a5631157a08e1bc51b6b2eda5717842d4d8a
+persona_hint: Defense
+source_path: /usr/bin/mate-menu
+tags:
+- unknown
+tool_name: mate-menu

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wig
+hash: sha256:eb882ee876cf4b1ed5ec1e3a5b7a0a981a28794434a172601cff1c88972d277a
+persona_hint: Defense
+source_path: /usr/share/wig/wig
+tags:
+- unknown
+tool_name: wig

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for StratumMiner.yaml
+hash: sha256:7fbea3ee532cb30cc3f0768292dc3e0ce7be2737fa130e72c984d0f582a67232
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/StratumMiner.yaml
+tags:
+- unknown
+tool_name: StratumMiner.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptoflex-tool
+hash: sha256:2c9c94c3e401c46566b75044b64a16cb5eb03c930f631a38434fd0a8ce50a702
+persona_hint: Defense
+source_path: /usr/bin/cryptoflex-tool
+tags:
+- unknown
+tool_name: cryptoflex-tool

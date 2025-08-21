@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_strip
+hash: sha256:e785e2c7fc3106a358bd6ac13bbb4dd128027524f2b6b3cae36aa24a909ff16c
+persona_hint: Defense
+source_path: /usr/bin/dh_strip
+tags:
+- unknown
+tool_name: dh_strip

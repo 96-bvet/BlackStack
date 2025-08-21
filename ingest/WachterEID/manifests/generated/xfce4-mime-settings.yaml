@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-mime-settings
+hash: sha256:52d82d710ba39f2f79d277ebeb5a745a7bf4a9e548e370566aca43b28ecddf7e
+persona_hint: Defense
+source_path: /usr/bin/xfce4-mime-settings
+tags:
+- unknown
+tool_name: xfce4-mime-settings

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-inject_alive6
+hash: sha256:7625a246c70e28496578f5496584269a1fa01913295916fcb0acb18087b21fff
+persona_hint: Defense
+source_path: /usr/bin/atk6-inject_alive6
+tags:
+- unknown
+tool_name: atk6-inject_alive6

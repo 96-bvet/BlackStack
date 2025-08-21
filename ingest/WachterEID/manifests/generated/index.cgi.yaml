@@ -1,0 +1,7 @@
+description: Auto-generated manifest for index.cgi
+hash: sha256:0a542da75c5f324e858cad802a9fb49b384d51462837eb4227486711e02914f6
+persona_hint: Defense
+source_path: /usr/share/gitweb/index.cgi
+tags:
+- unknown
+tool_name: index.cgi

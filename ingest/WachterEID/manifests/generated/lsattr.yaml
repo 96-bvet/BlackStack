@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsattr
+hash: sha256:61d9a2e2c163796807107538e22b91c38a4a3b254cdc62173ba72694c060952e
+persona_hint: Defense
+source_path: /usr/bin/lsattr
+tags:
+- unknown
+tool_name: lsattr

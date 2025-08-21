@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ifne
+hash: sha256:6c271b85cf85755f341613cb36ef637b5f5900a512c81d8da7bc0516f7713d41
+persona_hint: Defense
+source_path: /usr/bin/ifne
+tags:
+- unknown
+tool_name: ifne

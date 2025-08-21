@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GDI32.INC
+hash: sha256:445688625eb0fdf445b9ddea453994b53d4118820e224bd85548f020317aa905
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/PCOUNT/GDI32.INC
+tags:
+- unknown
+tool_name: GDI32.INC

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-architecture
+hash: sha256:ce16700da9905ac300963e09e9716004c8c35c780b06d108de8b9c93d6ddbbaf
+persona_hint: Defense
+source_path: /usr/bin/dpkg-architecture
+tags:
+- unknown
+tool_name: dpkg-architecture

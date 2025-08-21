@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-cache
+hash: sha256:c51fb060668b7df8c66cf27b8172fa1fb9bec69023b6bd5b2f25170a18d7fe99
+persona_hint: Defense
+source_path: /usr/share/doc/libapt-pkg-perl/examples/apt-cache
+tags:
+- unknown
+tool_name: apt-cache

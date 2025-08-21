@@ -1,0 +1,7 @@
+description: Auto-generated manifest for recipe2.rb
+hash: sha256:f49a20cacc49f12e11d07b18cdf810825936b143b8884568c60f132ae324aa02
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/tins-1.37.1/examples/recipe2.rb
+tags:
+- unknown
+tool_name: recipe2.rb

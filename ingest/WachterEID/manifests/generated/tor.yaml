@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tor
+hash: sha256:c8393e20d05f3c3d57c6baf2fb98eaeb04fa0aed1fab7838b862b308d9149d1a
+persona_hint: Defense
+source_path: /usr/bin/tor
+tags:
+- unknown
+tool_name: tor

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for node-which
+hash: sha256:055f0ac4eed1a1591d033d59462972968bf3483b4cc07e163589569c0fb999f0
+persona_hint: Defense
+source_path: /usr/share/nodejs/which/bin/node-which
+tags:
+- unknown
+tool_name: node-which

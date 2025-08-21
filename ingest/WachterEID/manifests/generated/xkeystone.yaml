@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkeystone
+hash: sha256:8f0e1c4ee9efe72a991f099ab343de1d436f2c6e9424bf075fb1266db36b3c94
+persona_hint: Defense
+source_path: /usr/bin/xkeystone
+tags:
+- unknown
+tool_name: xkeystone

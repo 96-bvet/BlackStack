@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cifscreds
+hash: sha256:05f430ee5450721edfe0cb62098b4dfe319d79248330b5670ce3ddae21e47ad0
+persona_hint: Defense
+source_path: /usr/bin/cifscreds
+tags:
+- unknown
+tool_name: cifscreds

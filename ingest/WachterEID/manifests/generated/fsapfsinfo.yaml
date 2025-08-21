@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fsapfsinfo
+hash: sha256:3938f6a667bdf19ba6bed3cb61b282aaa9979353dfcefd81119e729caaca9ecd
+persona_hint: Defense
+source_path: /usr/bin/fsapfsinfo
+tags:
+- unknown
+tool_name: fsapfsinfo

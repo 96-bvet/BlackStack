@@ -1,0 +1,7 @@
+description: Auto-generated manifest for istat.pm
+hash: sha256:80189a3cd69b57197f828b97ff6b4004b0388c6dbfc630473f75b4d5ff7dabfa
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/istat.pm
+tags:
+- unknown
+tool_name: istat.pm

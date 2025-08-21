@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-trace6
+hash: sha256:9ade2cc311ddba0f0340c28401556c7ae6b5c17c97c85e3bc54db4336cb3acdb
+persona_hint: Defense
+source_path: /usr/bin/atk6-trace6
+tags:
+- unknown
+tool_name: atk6-trace6

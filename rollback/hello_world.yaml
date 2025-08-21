@@ -1,0 +1,8 @@
+name: hello_world
+path: examples/basic/hello_world.py
+type: py
+category: misc
+hash: a5a0f5f47a0d79c18df3ed8790e5c5fba022f3628a7544cdd90e10270b0cf7c6
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfs-3g.probe
+hash: sha256:2ce620b468c34e2565de3eeef90d4eddcd536eb9417c33d7e7a9fa557d968c74
+persona_hint: Defense
+source_path: /usr/bin/ntfs-3g.probe
+tags:
+- unknown
+tool_name: ntfs-3g.probe

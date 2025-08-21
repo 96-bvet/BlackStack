@@ -1,0 +1,7 @@
+description: Auto-generated manifest for client.js
+hash: sha256:3b1acaed984b8dbe31f04260455975bd27fe154631a2ee6dfa4c11afc1675971
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/chrome-remote-interface/bin/client.js
+tags:
+- unknown
+tool_name: client.js

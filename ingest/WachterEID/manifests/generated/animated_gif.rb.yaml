@@ -1,0 +1,7 @@
+description: Auto-generated manifest for animated_gif.rb
+hash: sha256:f62ea436ab7036d52d1d4705d569d2462cd61b56bd6cf2bb9a08e70b668b0e88
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/mojo_magick-0.6.8/examples/animated_gif.rb
+tags:
+- unknown
+tool_name: animated_gif.rb

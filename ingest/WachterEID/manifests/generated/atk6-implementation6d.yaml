@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-implementation6d
+hash: sha256:2f5d3975c18acb1a5a9d4c520a6f8c6da9419541fe6421889ae16ab4e5842de8
+persona_hint: Defense
+source_path: /usr/bin/atk6-implementation6d
+tags:
+- unknown
+tool_name: atk6-implementation6d

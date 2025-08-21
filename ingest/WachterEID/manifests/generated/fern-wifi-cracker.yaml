@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fern-wifi-cracker
+hash: sha256:56c5813be59186411f2423f77ec8cb8ea8aebe62dfe1a3e7229be29f0d8eac53
+persona_hint: Defense
+source_path: /usr/bin/fern-wifi-cracker
+tags:
+- unknown
+tool_name: fern-wifi-cracker

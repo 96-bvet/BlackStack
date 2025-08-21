@@ -1,0 +1,7 @@
+description: Auto-generated manifest for isympy3
+hash: sha256:ef15b6b7dfacf746bbfb7f8ce41aa78a8f559a49201c2c2387ee7430baa4ba4d
+persona_hint: Defense
+source_path: /usr/bin/isympy3
+tags:
+- unknown
+tool_name: isympy3

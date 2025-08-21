@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mime-unique-id.pl
+hash: sha256:b012099845803ea5a8675f0fced511b6b4032f2d72199a8a54a78160fca5ba18
+persona_hint: Defense
+source_path: /usr/share/doc/libcairo-perl/examples/mime-unique-id.pl
+tags:
+- unknown
+tool_name: mime-unique-id.pl

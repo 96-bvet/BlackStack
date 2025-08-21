@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nm-applet
+hash: sha256:1d194ec9bd4def5340b5d3e6949ce8c2a261f43d146e6de20d7b712d22726f62
+persona_hint: Defense
+source_path: /usr/bin/nm-applet
+tags:
+- unknown
+tool_name: nm-applet

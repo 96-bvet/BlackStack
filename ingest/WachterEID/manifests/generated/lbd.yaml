@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lbd
+hash: sha256:b1aa78bb7fcff006b76a8f1072cb34489ee876d1b14f8a99180db123a20775ba
+persona_hint: Defense
+source_path: /usr/bin/lbd
+tags:
+- unknown
+tool_name: lbd

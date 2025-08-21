@@ -1,0 +1,7 @@
+description: Auto-generated manifest for objdump
+hash: sha256:19717049e8ecd98cfbb17fd9eb25e9fd896ecec2fc4af6b931f3dd0bc4e903de
+persona_hint: Defense
+source_path: /usr/bin/objdump
+tags:
+- unknown
+tool_name: objdump

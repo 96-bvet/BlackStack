@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-keyboard-properties
+hash: sha256:09dd1656aaa369322dcd8525626a6acddeee57e861d6bdb6beb70c18e3cb46c9
+persona_hint: Defense
+source_path: /usr/bin/mate-keyboard-properties
+tags:
+- unknown
+tool_name: mate-keyboard-properties

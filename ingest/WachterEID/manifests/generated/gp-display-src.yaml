@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gp-display-src
+hash: sha256:c0f43fdb1dbff2a54bb48130879acf7bce50687ba9c93c79a2462137477cce1e
+persona_hint: Defense
+source_path: /usr/bin/gp-display-src
+tags:
+- unknown
+tool_name: gp-display-src

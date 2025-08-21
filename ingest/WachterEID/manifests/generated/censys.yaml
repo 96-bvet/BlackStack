@@ -1,0 +1,7 @@
+description: Auto-generated manifest for censys
+hash: sha256:af8ed5b741bc125ce8ac57ec846c1e9c1b2c01bc7ef5de8f0adf5017453bbe8d
+persona_hint: Defense
+source_path: /usr/bin/censys
+tags:
+- unknown
+tool_name: censys

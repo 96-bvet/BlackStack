@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pe64.c
+hash: sha256:8ac05b8f030cdcae178ffe37281d842446c6cd1bec6676e6146c43983e4afe69
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/pe64.c
+tags:
+- unknown
+tool_name: pe64.c

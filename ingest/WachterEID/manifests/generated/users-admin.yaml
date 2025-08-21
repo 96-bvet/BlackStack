@@ -1,0 +1,7 @@
+description: Auto-generated manifest for users-admin
+hash: sha256:ad1595ec1361b2c9271fd8f95a0f1b41d94c3e32fd86a1ba2663b38f9189a9f6
+persona_hint: Defense
+source_path: /usr/bin/users-admin
+tags:
+- unknown
+tool_name: users-admin

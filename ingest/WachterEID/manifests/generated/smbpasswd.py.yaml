@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbpasswd.py
+hash: sha256:9887b888e833c0962a951c8eceb0a13ced64cb25ffef934fdc18a8f377dbd429
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/smbpasswd.py
+tags:
+- unknown
+tool_name: smbpasswd.py

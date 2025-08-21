@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-statoverride
+hash: sha256:deabf0c4c529d775591de0e73a211acf714ca559f6a8a085515ef9fbc70ff83f
+persona_hint: Defense
+source_path: /usr/bin/dpkg-statoverride
+tags:
+- unknown
+tool_name: dpkg-statoverride

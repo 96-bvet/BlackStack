@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_pim6
+hash: sha256:4698c6a0860055caaadc6fd754a7ad9a1d70b6d815dbb4c44871085192b00961
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_pim6
+tags:
+- unknown
+tool_name: atk6-fake_pim6

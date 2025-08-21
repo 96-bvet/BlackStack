@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpprep
+hash: sha256:c41c3efefe31330d68e548c08f5ddae049fbf3fcc80f250eb4587a8a5c10b4ca
+persona_hint: Defense
+source_path: /usr/bin/tcpprep
+tags:
+- unknown
+tool_name: tcpprep

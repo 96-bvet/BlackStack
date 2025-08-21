@@ -1,0 +1,7 @@
+description: Auto-generated manifest for h2ph
+hash: sha256:86c19c01835bba602e1e954e48b69846286c9deaf453ea30d63d72190832bdb0
+persona_hint: Defense
+source_path: /usr/bin/h2ph
+tags:
+- unknown
+tool_name: h2ph

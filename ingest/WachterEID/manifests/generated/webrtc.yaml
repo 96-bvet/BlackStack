@@ -1,0 +1,7 @@
+description: Auto-generated manifest for webrtc
+hash: sha256:825383c1748f065135ee01c9b7e7605e3762264bd2091f9767f19b325baf3b06
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/webrtc
+tags:
+- unknown
+tool_name: webrtc

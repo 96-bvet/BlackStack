@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rpcdump.py
+hash: sha256:02c9f303702f5e3b86c92af86eabbef39c6a46c51ffb0b9dc235b9ebd099afa2
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/rpcdump.py
+tags:
+- unknown
+tool_name: rpcdump.py

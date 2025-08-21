@@ -1,0 +1,7 @@
+description: Auto-generated manifest for inject_agent_packages.sh
+hash: sha256:0b9f533498eaa575806519d5d5f0794057b3a015b70c95e5fcf71d64f95a05d7
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/debian/inject_agent_packages.sh
+tags:
+- unknown
+tool_name: inject_agent_packages.sh

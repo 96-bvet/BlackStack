@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dtagnames
+hash: sha256:9d6847446d939992811ed7f7f4fae43bd50ff1f29b99553d42d1096730c6fdd4
+persona_hint: Defense
+source_path: /usr/bin/dtagnames
+tags:
+- unknown
+tool_name: dtagnames

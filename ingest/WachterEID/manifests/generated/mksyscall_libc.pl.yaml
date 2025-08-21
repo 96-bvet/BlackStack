@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mksyscall_libc.pl
+hash: sha256:b7481762b6ae7d85f6c436a04bb1121ce54f0d86fa3021bf71b2711842fef829
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mksyscall_libc.pl
+tags:
+- unknown
+tool_name: mksyscall_libc.pl

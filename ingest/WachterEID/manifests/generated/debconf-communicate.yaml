@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf-communicate
+hash: sha256:705b8ce793f999f21bf2f20348b390738a139116c9e483fb39165a508fde4d27
+persona_hint: Defense
+source_path: /usr/bin/debconf-communicate
+tags:
+- unknown
+tool_name: debconf-communicate

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for amidi
+hash: sha256:7eff94bc4afbe51e481e68150207f97b69801d0f5a643d37f7d115502d7356b0
+persona_hint: Defense
+source_path: /usr/bin/amidi
+tags:
+- unknown
+tool_name: amidi

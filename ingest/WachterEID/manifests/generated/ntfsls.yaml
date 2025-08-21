@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsls
+hash: sha256:c2568e8386c7c9303200a72e39f998cf70aa45d39d12fe0e25371dc82c899405
+persona_hint: Defense
+source_path: /usr/bin/ntfsls
+tags:
+- unknown
+tool_name: ntfsls

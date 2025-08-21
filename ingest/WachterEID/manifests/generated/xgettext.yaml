@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xgettext
+hash: sha256:c10198ef6c1f08107aa35ab6a18ef8c6513e14800bb88df6038f4202b4430e07
+persona_hint: Defense
+source_path: /usr/bin/xgettext
+tags:
+- unknown
+tool_name: xgettext

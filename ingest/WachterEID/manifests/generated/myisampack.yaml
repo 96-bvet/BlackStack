@@ -1,0 +1,7 @@
+description: Auto-generated manifest for myisampack
+hash: sha256:5763d5fbb5a701c99008c4d1c43196e1cb371e582b2039725c6407bd1b8b314e
+persona_hint: Defense
+source_path: /usr/bin/myisampack
+tags:
+- unknown
+tool_name: myisampack

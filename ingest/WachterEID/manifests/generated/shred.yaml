@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shred
+hash: sha256:df3e060af6fefde5ef7579833938dcca23b5c81f900ae0470a28ef96015d5897
+persona_hint: Defense
+source_path: /usr/bin/shred
+tags:
+- unknown
+tool_name: shred

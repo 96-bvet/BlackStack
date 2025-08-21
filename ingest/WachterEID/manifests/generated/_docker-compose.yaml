@@ -1,0 +1,7 @@
+description: Auto-generated manifest for _docker-compose
+hash: sha256:f93536502e26c399c5437331e077d3b5a8cb6d7cb39e0446bbd810cedc2ce52d
+persona_hint: Defense
+source_path: /usr/share/zsh/vendor-completions/_docker-compose
+tags:
+- unknown
+tool_name: _docker-compose

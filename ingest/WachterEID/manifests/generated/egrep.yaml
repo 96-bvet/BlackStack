@@ -1,0 +1,7 @@
+description: Auto-generated manifest for egrep
+hash: sha256:10caa507f39367738ca977a5f2014406159064b072dbade0c0c23a40597f66da
+persona_hint: Defense
+source_path: /usr/bin/egrep
+tags:
+- unknown
+tool_name: egrep

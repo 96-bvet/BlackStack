@@ -1,0 +1,7 @@
+description: Auto-generated manifest for video-vlc-default.sh
+hash: sha256:d8fb21f47b831756607121fb483cbbbe8774ce926face42b3d01a3c2b9c2ea91
+persona_hint: Defense
+source_path: /usr/share/vlc/utils/video-vlc-default.sh
+tags:
+- unknown
+tool_name: video-vlc-default.sh

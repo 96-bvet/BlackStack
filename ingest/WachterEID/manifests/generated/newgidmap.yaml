@@ -1,0 +1,7 @@
+description: Auto-generated manifest for newgidmap
+hash: sha256:55e0dc0ee5a3b22d91e53c9fabafcbcba95e1a9cdd9f866a0220ba9766075bc6
+persona_hint: Defense
+source_path: /usr/bin/newgidmap
+tags:
+- unknown
+tool_name: newgidmap

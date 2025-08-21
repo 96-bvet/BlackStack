@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nat.nft
+hash: sha256:cb1e6aa55349e1af4e617464f25c80e797e5ae19ab3e4c893dab81be78df6e60
+persona_hint: Defense
+source_path: /usr/share/doc/nftables/examples/nat.nft
+tags:
+- unknown
+tool_name: nat.nft

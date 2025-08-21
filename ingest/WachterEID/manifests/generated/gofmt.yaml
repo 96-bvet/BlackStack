@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gofmt
+hash: sha256:ba80d8ccd2694d5567d77e7630cc0230ecd0f95cbeaae8f373855239f5e21de8
+persona_hint: Defense
+source_path: /usr/bin/gofmt
+tags:
+- unknown
+tool_name: gofmt

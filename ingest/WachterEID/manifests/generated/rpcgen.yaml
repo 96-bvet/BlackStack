@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rpcgen
+hash: sha256:4b5f02379c1a72317e9b4e5bcca596791fdbd4d112f786ded176c3ac49957b64
+persona_hint: Defense
+source_path: /usr/bin/rpcgen
+tags:
+- unknown
+tool_name: rpcgen

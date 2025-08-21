@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vacuumdb
+hash: sha256:fc00112585bd75eb9eb6fcd11ca4cf7222acf10259a1f21eea4889536dee640a
+persona_hint: Defense
+source_path: /usr/bin/vacuumdb
+tags:
+- unknown
+tool_name: vacuumdb

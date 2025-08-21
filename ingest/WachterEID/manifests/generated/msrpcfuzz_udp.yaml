@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msrpcfuzz_udp
+hash: sha256:03c7615e44b9821d42d98913ed250f9b8709df71c148aaf34af8bbaba3d09526
+persona_hint: Defense
+source_path: /usr/bin/msrpcfuzz_udp
+tags:
+- unknown
+tool_name: msrpcfuzz_udp

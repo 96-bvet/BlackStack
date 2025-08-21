@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xditview
+hash: sha256:083a457ff96e77310337a04ee254de070c86527038b8db5eb8b39a0cd70017fc
+persona_hint: Defense
+source_path: /usr/bin/xditview
+tags:
+- unknown
+tool_name: xditview

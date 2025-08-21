@@ -1,0 +1,7 @@
+description: Auto-generated manifest for MakeToken.yaml
+hash: sha256:a6e9fc448609fca334c1b37fcd67009250855947bae702ba44198ac12d59ad34
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/credentials/SharpSploit/MakeToken.yaml
+tags:
+- unknown
+tool_name: MakeToken.yaml

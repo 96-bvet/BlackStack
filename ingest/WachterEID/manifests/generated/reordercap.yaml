@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reordercap
+hash: sha256:03c70db9108b81bd1cf1327e35ff3c6605624e1e9f9d2ef71e03c8a8925de20d
+persona_hint: Defense
+source_path: /usr/bin/reordercap
+tags:
+- unknown
+tool_name: reordercap

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf-set-selections
+hash: sha256:5ad5ab05980f95eeb3862d2e525dca617e6557f6fa5fc2ee725bd36be7e066f9
+persona_hint: Defense
+source_path: /usr/bin/debconf-set-selections
+tags:
+- unknown
+tool_name: debconf-set-selections

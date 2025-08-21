@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt.pm
+hash: sha256:76cfc5a59c64d5fcd91188dac5e1f64325f761dd6bd871057254b7890b76a0eb
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/apt.pm
+tags:
+- unknown
+tool_name: apt.pm

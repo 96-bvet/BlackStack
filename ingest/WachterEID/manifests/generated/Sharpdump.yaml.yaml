@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Sharpdump.yaml
+hash: sha256:f206731be32c242519b594e72cee8d5dac3973a25ca07784a37927594a1df218
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/collection/Sharpdump.yaml
+tags:
+- unknown
+tool_name: Sharpdump.yaml

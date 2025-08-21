@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rplyto_demo
+hash: sha256:e09ced2179d58211fbd3371c766307fbbbfa076e1d6110e096674af5ebcfba35
+persona_hint: Defense
+source_path: /usr/share/doc/libmailtools-perl/examples/rplyto_demo
+tags:
+- unknown
+tool_name: rplyto_demo

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pip
+hash: sha256:6d1f19b17ef3ab9b6d3532be2198766bb1709c83da6a6684152b8af1930da6fa
+persona_hint: Defense
+source_path: /usr/bin/pip
+tags:
+- unknown
+tool_name: pip

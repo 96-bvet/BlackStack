@@ -1,0 +1,7 @@
+description: Auto-generated manifest for faked-sysv
+hash: sha256:c86babf3e9251fec66df30e67ad70e17a3c47ad4a75a42f4b617bcf573c11663
+persona_hint: Defense
+source_path: /usr/bin/faked-sysv
+tags:
+- unknown
+tool_name: faked-sysv

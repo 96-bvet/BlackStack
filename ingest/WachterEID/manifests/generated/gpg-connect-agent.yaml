@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpg-connect-agent
+hash: sha256:3b8670221ad6d82a58a295b7cbf15405a981359c34f3d4e8fb8d8290938e3536
+persona_hint: Defense
+source_path: /usr/bin/gpg-connect-agent
+tags:
+- unknown
+tool_name: gpg-connect-agent

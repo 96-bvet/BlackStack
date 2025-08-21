@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysqld_safe_helper
+hash: sha256:47e7c5cab040bb10c9bb83d6fc8094df8faa447aa51085e709442435693c65e2
+persona_hint: Defense
+source_path: /usr/bin/mysqld_safe_helper
+tags:
+- unknown
+tool_name: mysqld_safe_helper

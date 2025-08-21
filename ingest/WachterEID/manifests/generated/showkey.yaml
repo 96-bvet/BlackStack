@@ -1,0 +1,7 @@
+description: Auto-generated manifest for showkey
+hash: sha256:5dd97341c023238aefdcc1bb9d552dc88fa467efda9905b10956c0696a025495
+persona_hint: Defense
+source_path: /usr/bin/showkey
+tags:
+- unknown
+tool_name: showkey

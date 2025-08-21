@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iptab
+hash: sha256:3ca1177514004f357d4a50bbf3a38b9a2653fae1f85e39373ea59edb294cb619
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ip-perl/examples/iptab
+tags:
+- unknown
+tool_name: iptab

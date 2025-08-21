@@ -1,0 +1,7 @@
+description: Auto-generated manifest for beef-xss-stop
+hash: sha256:e4e9e721aafe2187158a930073cf7fa909cb6d0f7274a2695a4fa600b81b0e4a
+persona_hint: Defense
+source_path: /usr/bin/beef-xss-stop
+tags:
+- unknown
+tool_name: beef-xss-stop

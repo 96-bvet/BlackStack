@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-about
+hash: sha256:f4b30785a9620065b33c8f3e8d68a1ab31a8d62e051fb213b880ea0fe4e1d9b1
+persona_hint: Defense
+source_path: /usr/bin/xfce4-about
+tags:
+- unknown
+tool_name: xfce4-about

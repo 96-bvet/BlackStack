@@ -1,0 +1,1531 @@
+[]
+{
+  "name": "gif",
+  "path": "tools/gif.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f609a2b4ca8abd1317feea7e4b69ecce5b8bdf27f11b1fb3a5dc4bc56855aa21",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "logs",
+  "path": "tools/logs.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a84958eac1c5c6222f5fd6c35a1a72c71d22b09adef2bf17cd578e2fbdb8fc60",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "replay",
+  "path": "tools/replay.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "90ebc23303f2a97026503bf3e9922e6d91debdcaf7e644bed84aabb92f2a7bcc",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "output_guardrails",
+  "path": "examples/agent_patterns/output_guardrails.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "63e6ad76f9416f7d2b3f41fc2889e8933b57b1eec7a20d2a69d3c723ff2ff7ef",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "server",
+  "path": "examples/mcp/sse_example/server.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "6a984e7f47104e852166451b1f5dfe485d2826b43bff5f3e0539b08f6f4caddd",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "custom_example_agent",
+  "path": "examples/model_providers/custom_example_agent.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a6f96e2a197363f864d28a8aa4a9a1b2e9833a8f1f83282da2d18dc0b1964bd1",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "custom_example_global",
+  "path": "examples/model_providers/custom_example_global.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "8019d397843bcbf86a09209f777c49629941afa9a5e3906a51bef14df2dc1e61",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "custom_example_provider",
+  "path": "examples/model_providers/custom_example_provider.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "60dc3b86c782eade388794e873162fc82b1a3e61fc80ee8ba2778e64ac72ef57",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "litellm",
+  "path": "examples/model_providers/litellm.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "8b6cc7543b348d9d7cf1731d5ffe80528f0ef489de8874685c78d2eab4d036c3",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "computer_use",
+  "path": "examples/tools/computer_use.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ee4b5ee937846bc645b90fbdc677ede197edc1404cac23bef05240742fefe55f",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "file_search",
+  "path": "examples/tools/file_search.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "5537905002c94b790305b6bd4483e94aa6c5b6d08afc30bdb2791967ddd57757",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "web_search",
+  "path": "examples/tools/web_search.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "67724928f8fe65de2f4f7c9cadf9e9918017a1b212e92f941c16fbc23e02a1f7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "util",
+  "path": "examples/voice/static/util.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "8a2afb6dabfe54768af81bc17204ab11b66ea690d99889633e418a26da5d9202",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "my_workflow",
+  "path": "examples/voice/streamed/my_workflow.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f162b2a765a4f43078f236fcdfc36156542536993196ee0740209f76c455f186",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "portswiggerbot",
+  "path": "fluency/my-first-hack/utils/portswiggerbot.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ffd60bd494da8b665fa3fa7aa0455dc927f1b768a527b7ec02fec2200feb4302",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "cli",
+  "path": "src/cai/cli.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "1a6c5030fea8739aa4feaade21c50cdfd6e532503b3e2a3acf8e396ff7d26aea",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "util",
+  "path": "src/cai/util.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "0e7ef93d464c998582d78362d861e3683352b80b2e90572d53c663d54cdb7c14",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "endpoints",
+  "path": "src/cai/internal/components/endpoints.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "77a3343c2b13e1c451805e5f5a79dbb303d7d7591e48d13e4c0f10a6e2197396",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "metrics",
+  "path": "src/cai/internal/components/metrics.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "4075a6b319aa0b1b7e26f7a11378134b0b069b2460cf5f6c875c5a029c333748",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "network",
+  "path": "src/cai/internal/components/network.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "382c1d9d065a1e052e11506dde658eb71ebe1f2035358d664b1a16deaae85ffc",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "transfer",
+  "path": "src/cai/internal/components/transfer.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "5bf7a5a7614ef4b0bd1b7fa9fedd2975b1ee194c987c65df597d60ff3a0e6143",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "agent",
+  "path": "src/cai/repl/commands/agent.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "669c928f1720fe1922bc5ecffe9201d8321eb5fef001bfa7d0c8a2092384b04d",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "base",
+  "path": "src/cai/repl/commands/base.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "0e34511800149502b8c3aeb95d4b3635f13b4096e72cdc26c66af9ca5e0da8d6",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "compact",
+  "path": "src/cai/repl/commands/compact.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "fb5f21b6df9cbcf4137b598a1324828ebb25af8288b6de7080b774528e79c380",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "completer",
+  "path": "src/cai/repl/commands/completer.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "4fee8b3fa85f67bdf5b83759ca1b665b8ba6f3e91cecfa979ba248be97d6d2d9",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "config",
+  "path": "src/cai/repl/commands/config.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "cae1cb274275b785cc4b72441966279358511a8dd6c8817ebb6efa086d020d55",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "cost",
+  "path": "src/cai/repl/commands/cost.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "fbfae64a6ff7a3f473ecb1cf63ed6600eac0ce2d563f150cdd6bfc95e9d80626",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "env",
+  "path": "src/cai/repl/commands/env.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ab91d5da9a0575b1feed7adadb06378eee9e17b0a4818948b434ff1916c15586",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "exit",
+  "path": "src/cai/repl/commands/exit.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "818f78dec9fcc57152a6d5466f4b54bdd3c0b18709fd442825173a46b20fcf2c",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "flush",
+  "path": "src/cai/repl/commands/flush.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "5c3a21d480e8501342fd1943fafdc8850a770e33277d3c2594c806dfed6a71c4",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "graph",
+  "path": "src/cai/repl/commands/graph.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "230c4768491f9fc3d860d1e5ad2a8e90eda722b599957077f9c20e455fdfd42c",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "help",
+  "path": "src/cai/repl/commands/help.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "547c6df33233556a75d2a29a6edb66be486e8aceae918200b57335065190e2a9",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "history",
+  "path": "src/cai/repl/commands/history.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "1cc031472d6ac14104bacefaff6c5e6240473904644103abd55fce61f24477fb",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "kill",
+  "path": "src/cai/repl/commands/kill.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "354eec9ef8e4907a40c05f490925fd292fbe0800d664e8e2424143057c8e99f7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "load",
+  "path": "src/cai/repl/commands/load.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "cf20d3b9a5e1cfc27816025b67b1701454c52616fb6879154fd345b9ef7921ec",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "mcp",
+  "path": "src/cai/repl/commands/mcp.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ee51b18edfb4272f4da31c23b74b3657f9643884d22bfbe0d57b9cbb39c3da66",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "merge",
+  "path": "src/cai/repl/commands/merge.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a1ff1e048e32b435de0c70a71d7054e5f507a095c43a0cf9ad7b126f3885f8a0",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "model",
+  "path": "src/cai/repl/commands/model.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "8cd0398b039819b91641be88696df4c21babaa079e195d507be565f1b85a245a",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "parallel",
+  "path": "src/cai/repl/commands/parallel.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "e753f1c03fd01f17407d0ebe2212e068630fda3c30cb5a51ff8a050fac8a7123",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "platform",
+  "path": "src/cai/repl/commands/platform.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "76cb1d76f3c47577e8650eeadce251a3b9511da3ac4da868b6bbc980d9efa43d",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "quickstart",
+  "path": "src/cai/repl/commands/quickstart.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "58f02a739d00b6757ecd24835d22318e3f30beea37c72c962756755e9791db06",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "run",
+  "path": "src/cai/repl/commands/run.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "2ac317be8c7c9281dbbaa385265f87d53f176bac4f850114a5b56e426a92dfe4",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "shell",
+  "path": "src/cai/repl/commands/shell.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "567e11b41cdb994591f5c8888533977fab85edabbe31a4f4b794c7f06986e32e",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "virtualization",
+  "path": "src/cai/repl/commands/virtualization.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "06e3199e79bbe4423035048d90f85c8fdb1f56e5b7b4676a31aeefa1b3c830ed",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "workspace",
+  "path": "src/cai/repl/commands/workspace.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "807cbf788383d7570d541441c386bf5cef4d38b96ad2aeec3197befa55029787",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "banner",
+  "path": "src/cai/repl/ui/banner.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "3d7eb1a52164cc65b355609800e59858f6e50d57be5fde0bb5496e52e5ab6538",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "keybindings",
+  "path": "src/cai/repl/ui/keybindings.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "53ca52e6f461d58f5037f7da426dd2514db915ded6a01256b379f88f129c1c67",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "logging",
+  "path": "src/cai/repl/ui/logging.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "82bec53800f462369bb50fb2c68de4efb9befff1c5945ef443c48af272882e5c",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "prompt",
+  "path": "src/cai/repl/ui/prompt.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "86d2a56a257ff2c206a431072bf6095061e63dacda0232bd01038e07be0ddb8d",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "toolbar",
+  "path": "src/cai/repl/ui/toolbar.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "0f1f39944414f69b37e449eef45f1e14546d1fda410b2343a4d8358c50dc9077",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_config",
+  "path": "src/cai/sdk/agents/_config.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "00daccec63f655241e84390c73daa873191494fc2a53e8b9b2278c272130c693",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_debug",
+  "path": "src/cai/sdk/agents/_debug.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ece2b2b369438de0ad1a081390ce779bff2fc34588af7cadfbf24f043027b30d",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_run_impl",
+  "path": "src/cai/sdk/agents/_run_impl.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "336489225bfeea1288dfb17379c3444c9b90e1175a8128dd5c6032d173158054",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "agent",
+  "path": "src/cai/sdk/agents/agent.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "9fdbd64ae9d1b941f70d1618819be3ecb0ade115187d311ad85efaa155e22064",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "agent_output",
+  "path": "src/cai/sdk/agents/agent_output.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "b1496cbabd3f0b6a4fa24cafb29a398312243343ed70dc5d6d999ebbfe99e131",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "agent_registry",
+  "path": "src/cai/sdk/agents/agent_registry.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f59448e8bbededfa2986f6b06f5402617f01d699f8855e6a7ca5f1229e0599eb",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "computer",
+  "path": "src/cai/sdk/agents/computer.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "5c3e385208945927e78affb12b0c033fac05295c0189992968bd613bed3eed90",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "exceptions",
+  "path": "src/cai/sdk/agents/exceptions.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "7aa90f6b0f7d5c484cea38ff2144ac42241870d215c7ef1d8b25582deadf5ec6",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "function_schema",
+  "path": "src/cai/sdk/agents/function_schema.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "065b07aedbe190e7a1388814bb85e643368098b12d0b0ebeb179c662d51fa9e7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "global_usage_tracker",
+  "path": "src/cai/sdk/agents/global_usage_tracker.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a2b23a12755e9414ce58fd4041569012c390373327501f58580b2c48c61108a6",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "guardrail",
+  "path": "src/cai/sdk/agents/guardrail.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "bd659c029a3db3fe9a1daa50e40324a34f0ca82f09ae593e2798aa21172d0834",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "items",
+  "path": "src/cai/sdk/agents/items.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "99d42c39f30e5c8074018be0b7a6fe8bad6f356e1d8f57f8cb78476ffc80c7ba",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "lifecycle",
+  "path": "src/cai/sdk/agents/lifecycle.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "c18146e8f2d2290edb2022956c1f281ad76824d20d1aaf686e1d9148a9409031",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "logger",
+  "path": "src/cai/sdk/agents/logger.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a7f79feef58aa417afe451726cf26386b082422ccad3c632d40d840ced5234d8",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "model_settings",
+  "path": "src/cai/sdk/agents/model_settings.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ed9efbb407f229a51451193b39dcbe764c3210d1f2bb497c6b0e8270878aa482",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "parallel_isolation",
+  "path": "src/cai/sdk/agents/parallel_isolation.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "3159813db759f567fb868cecd6ce9a248ed7a7de556cff9815b6b3d524c33f8e",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "parallel_tool_executor",
+  "path": "src/cai/sdk/agents/parallel_tool_executor.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "9c23ff7961ca566d045a06f93250b122f1ebb933a31173c3dd336a6936ba0d4b",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "result",
+  "path": "src/cai/sdk/agents/result.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "24eb1c1e8876108518e30f8448ee74d19dc39cd62aebbbed911ad6afbd1f3abe",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "run",
+  "path": "src/cai/sdk/agents/run.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "adeeeface01473512e69504c7d9c89e493a4d64ae8a9cec1e7302da14672682a",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "run_context",
+  "path": "src/cai/sdk/agents/run_context.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "bee49440cf0ee022de9ec418dbbfb6d9f3aa1029f0ef2bf02fd53758ef1bfdb9",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "run_to_jsonl",
+  "path": "src/cai/sdk/agents/run_to_jsonl.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f670fc5c40a17ee336d2b36b5626ddf00c52b76d6aa70d89f85eb959ab09f5e0",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "simple_agent_manager",
+  "path": "src/cai/sdk/agents/simple_agent_manager.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "8da6311a6fe6f1eb394bafa84ce9b7a3aef5d942278554d40c044c3778f4b2c8",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "stream_events",
+  "path": "src/cai/sdk/agents/stream_events.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "50b80111c2ff1f8be4959a31869636ca899ea31545d14897becc2c16c8c5bf8b",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "strict_schema",
+  "path": "src/cai/sdk/agents/strict_schema.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "fcab842648259aaf858f71d27983f85aa4efaabc5b48abba81ecdfcf906b861d",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "tool",
+  "path": "src/cai/sdk/agents/tool.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "fa714769a3da442866b7ebd4f29f0ddbe0341b7c9f1e9fe2d0ec03f768afc645",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "usage",
+  "path": "src/cai/sdk/agents/usage.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f8c64e9920d5756c40d95ff25559e651cc1570b76f60571cbf41d767b3b0dff0",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "version",
+  "path": "src/cai/sdk/agents/version.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "6e47a0d83698052f0e9d5ed1ec9e8eb85e69340fffd26278419b098c2d434c8d",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "handoff_filters",
+  "path": "src/cai/sdk/agents/extensions/handoff_filters.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "d9c5f1bb525139ecfde82a53886b93f4f22e688ac813c92c3f4d5f5fcde4aca3",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "handoff_prompt",
+  "path": "src/cai/sdk/agents/extensions/handoff_prompt.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a0658dd2e361dd9d4bec4f84bf6ba9f16d3ce1f16b0cd3ac2c3cbb3fa6dc9a27",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "visualization",
+  "path": "src/cai/sdk/agents/extensions/visualization.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "cb766378ef903b26a030d9f6d1335ab57f7eeae9121f0e649d0827cce380ecbb",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "server",
+  "path": "src/cai/sdk/agents/mcp/server.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "bd919868e5fb4dc8a22691011fe65bb9f6e0b48faa1138a265e577d934018f7f",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "util",
+  "path": "src/cai/sdk/agents/mcp/util.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "34d769aa505f30319f9705679ed2a781ab3b6fc9e2f550a366492ebbbe996af8",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_openai_shared",
+  "path": "src/cai/sdk/agents/models/_openai_shared.py",
+  "type": "py",
+  "category": "cybersecurity",
+  "hash": "e0d830a3616fd915d8eb53ea724d5c60f912967dad0e76fc022f9aa38406fa21",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "fake_id",
+  "path": "src/cai/sdk/agents/models/fake_id.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "95b5e351448c78043c785c7857940b52704294713a69d2656186afe794651b9c",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "interface",
+  "path": "src/cai/sdk/agents/models/interface.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "7602252b23da09b3514c75f177ac7b390c09b807a51b717e0b5f4ff9a69c1d64",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "openai_chatcompletions",
+  "path": "src/cai/sdk/agents/models/openai_chatcompletions.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "368b59bac7d304b670c7aa104abd499c4cdbfee06512959641f12be71da222ff",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "openai_provider",
+  "path": "src/cai/sdk/agents/models/openai_provider.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "3ffa65beb45cb9acd65b31b671669ce9ae1c9d927d261670886c9e3d3ea21fea",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "openai_responses",
+  "path": "src/cai/sdk/agents/models/openai_responses.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "304ce67c132f0acf86f0b2f113d13875667683252c833c02928be9459a405f2b",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "create",
+  "path": "src/cai/sdk/agents/tracing/create.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "46cd6eff8c9f0688c10636084798fb8d23d1cded73f2da2e3d96e24cdd3958ca",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "logger",
+  "path": "src/cai/sdk/agents/tracing/logger.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "2782940d14866bbc795157d4c167be81b2b0a1aabc01e11346a90fb7742fb468",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "processor_interface",
+  "path": "src/cai/sdk/agents/tracing/processor_interface.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "c0dc990b0349928e42ad42160ff94ca2ee69a50ebb085630bd646c251337ba9f",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "processors",
+  "path": "src/cai/sdk/agents/tracing/processors.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "5c108d63d27cf4dbf33e48030f90f7a3522d3082fc00bcf0a7033ff687bcc1ba",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "scope",
+  "path": "src/cai/sdk/agents/tracing/scope.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f3880e112a857d1d84fd7099b13d750cbc91fb7513caac47adf0418c7d48738e",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "setup",
+  "path": "src/cai/sdk/agents/tracing/setup.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "d7044c2159ec30ec799d65a795da9b4d7838e1aefe001702d2364ae2ae08f92f",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "span_data",
+  "path": "src/cai/sdk/agents/tracing/span_data.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "d7bde33d1f7ab9916ae8964c39902377e772c03df6f3e1043df6bf5e51953e4c",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "spans",
+  "path": "src/cai/sdk/agents/tracing/spans.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "eaf573a1c18cb1d80899ad64b2a90166685aafdd718f846981ca540b78a26ea8",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "traces",
+  "path": "src/cai/sdk/agents/tracing/traces.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "1b92e510248af8305114ff9b8d3f266998c142e973e9268720b61ab945657eaf",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "util",
+  "path": "src/cai/sdk/agents/tracing/util.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "c79b40c366012a083043cac7e4d1bc1a226b14e9cf12b9493e4ee889c04ed5d0",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_coro",
+  "path": "src/cai/sdk/agents/util/_coro.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "4b7f17518142edba9310b4a031406c017d46a11948ad5edca2ea5c500587fffe",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_error_tracing",
+  "path": "src/cai/sdk/agents/util/_error_tracing.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "85d918371d7cd1bd7c94fd0f481d6da04e5ab4d1ec320fc19bd3acc3cd76bcba",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_json",
+  "path": "src/cai/sdk/agents/util/_json.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "78a79078c9509015d115e2f78a5359166b331b27e1b7365d5bf196fc0b3a75c8",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_pretty_print",
+  "path": "src/cai/sdk/agents/util/_pretty_print.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ad1569db85264e0cc29be5b8ae2b5604ec719cf4629f315dad994e8538b52954",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_transforms",
+  "path": "src/cai/sdk/agents/util/_transforms.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "0997bbe0d3879079deca8e1f1d87c55a4b024939fe917b44c9e8cbf4fd3fc650",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "_types",
+  "path": "src/cai/sdk/agents/util/_types.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f0ac587c2c3481848c59c42669c26873743b2dce3a2e64fe016be1175d0a27e1",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "events",
+  "path": "src/cai/sdk/agents/voice/events.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "e1a3c0642d3ffe87209a0fe6717e1cd73bfd1a8f9874a21522d43691882dc9ed",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "exceptions",
+  "path": "src/cai/sdk/agents/voice/exceptions.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "41cc9fbda51305ee20c5b14ff36a0349afe9bb36786783b8934d41f290079cad",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "imports",
+  "path": "src/cai/sdk/agents/voice/imports.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "55a13923c6894cff5997fd3ecbd771d547003fb28f44331a8a414ada31679fcb",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "input",
+  "path": "src/cai/sdk/agents/voice/input.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "1526dd1cc21d2d5297e2f61c99fdd6049e5d025879ccc0e3080b867d73994d0b",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "model",
+  "path": "src/cai/sdk/agents/voice/model.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "e29b5690a3df5066d5b20f2ed74294225eb888d8505fdaf1ed8d03fd970596fd",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "pipeline",
+  "path": "src/cai/sdk/agents/voice/pipeline.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "e4b2934c3cad42de10959cd52a06c1f71dd7db303e4de47de054e2d79bc851cd",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "pipeline_config",
+  "path": "src/cai/sdk/agents/voice/pipeline_config.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "fdcca76e7cf1bd08a3c641ab3181c9cc8579e05f5b46f0ec3d5db8a9ec553bc7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "result",
+  "path": "src/cai/sdk/agents/voice/result.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "631f4908c18213d39f5da71a0457c52d0251c24368e7e87836a9bd38f9de994e",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "workflow",
+  "path": "src/cai/sdk/agents/voice/workflow.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "95e7f536e9733475858a23d411219e6ffe96843e82a2e3f55b934e5006057b09",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "openai_model_provider",
+  "path": "src/cai/sdk/agents/voice/models/openai_model_provider.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "d2585fc92d2723f06e4be50be17a2be25a3e35166cf88250ac8a05cf1cf59d4a",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "openai_stt",
+  "path": "src/cai/sdk/agents/voice/models/openai_stt.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "630e9d9590c5980bf91f26b68b4838748604e54e30b85cd64de3eca1db6c273d",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "openai_tts",
+  "path": "src/cai/sdk/agents/voice/models/openai_tts.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "6b3946983f51d421e6ba5be60b80c3aa0f078d75b0acedb7b4ca5a20f2155323",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "common",
+  "path": "src/cai/tools/common.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a18fc8dc3008213cfac34cc5c4a8e6b98603303a3889f28c36e1da9b485d2017",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "command_and_control",
+  "path": "src/cai/tools/command_and_control/command_and_control.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f12bc6090ca9500d37bcb45cfe8ccce64ae559d9b873710b4659d7785eb219a6",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "sshpass",
+  "path": "src/cai/tools/command_and_control/sshpass.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "bf2e6e65d62ecd5b7d41a9b4df01cf316000fe19715279d58b5af29cd004fec7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "cli_utils",
+  "path": "src/cai/tools/misc/cli_utils.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "4e6bdaa60f58c57ec269686a3131c8102fd6d82365cfbc6c93371ea9321b776a",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "code_interpreter",
+  "path": "src/cai/tools/misc/code_interpreter.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a791f233d29f4bf0d966c89d6525d7ba3c7ba54ce833366af7bc8ca4cf182490",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "rag",
+  "path": "src/cai/tools/misc/rag.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "247f36948e3d442aefc339fc5125ce68e6e4d15fdae541d7108b33cf0f7fbed7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "reasoning",
+  "path": "src/cai/tools/misc/reasoning.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "98bcaf4436933b10173f2fe9479f92a5f1473afdf4928bbd5056b95c44c32e79",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "capture_traffic",
+  "path": "src/cai/tools/network/capture_traffic.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "9b17e1121c4b5ad2fbd5a011a5536ef031c4b5cc7df15488595aabc5a61d632a",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "scripting",
+  "path": "src/cai/tools/others/scripting.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "61eca4ad6f47b14a6c11a4f560cdd62d660c7f9799ea926c2704b245b1072261",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "crypto_tools",
+  "path": "src/cai/tools/reconnaissance/crypto_tools.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "510ab747749ccbf51f501c5b078e833ce51e98a4debcf437ecc373c1c1f92292",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "curl",
+  "path": "src/cai/tools/reconnaissance/curl.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "de6f4dfbd720573833345f2283e20d659250b55d99dd44f40902745fd682c186",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "exec_code",
+  "path": "src/cai/tools/reconnaissance/exec_code.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "4191ec48c981bfbda63e1cb352cedb7dde69ffd01a7560fe376ec60d35d4839c",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "filesystem",
+  "path": "src/cai/tools/reconnaissance/filesystem.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "01004524ed376bfa0958350e02aee7083c4284c993318c4d07b16db074965c70",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "generic_linux_command",
+  "path": "src/cai/tools/reconnaissance/generic_linux_command.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "86c3710a3f76e3bfd6927869dd583928d5d2fe9fb31640fbb8537c235f756be7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "netcat",
+  "path": "src/cai/tools/reconnaissance/netcat.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "b2dc59b071fa7bce5a0f1c3bca57b2c8eea93a32414861533aafb98c81702974",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "netstat",
+  "path": "src/cai/tools/reconnaissance/netstat.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "566183de20384eea892ceead468cbc1b57e30cd6f87f64374139fcc14711b8d5",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "nmap",
+  "path": "src/cai/tools/reconnaissance/nmap.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "c931a7bdac2280bb954d8ea8c28bc5abbeaf44caca26e06b878eff47061e84ee",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "shodan",
+  "path": "src/cai/tools/reconnaissance/shodan.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "7b7b366f0056693017ef829c2a066ad3c8fbfd5a767f434d6e20d355680dea45",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "wget",
+  "path": "src/cai/tools/reconnaissance/wget.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "cec6ffa5894a430aa2b3f7a97bdd0051f6dd6a2f99091e1fd0da3eba94f68ef8",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "google_search",
+  "path": "src/cai/tools/web/google_search.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "620adc42c930c0829a717379f501f19ccf97b0d6c209fac69a32bf242bc7b8a3",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "headers",
+  "path": "src/cai/tools/web/headers.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "b5366b43643e5d485fb31751381b8942ef6d7bbec464b5745acaacc9cfb3b298",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "search_web",
+  "path": "src/cai/tools/web/search_web.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "5b9a060d5185d9aa69c24b373faab38467f58192042dc88591dbfdd0e8efdace",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "webshell_suit",
+  "path": "src/cai/tools/web/webshell_suit.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ab2578f651300204bb1613c63aaa469650268388044cb1c7958bf18ec330e5fe",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "conftest",
+  "path": "tests/conftest.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a3dd4c7428848d4993f5f2b773f0678e0d5f4d2b5f414ba8754b94d373ad2601",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "conftest_pricing",
+  "path": "tests/conftest_pricing.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ba6c13bd81788798f54f98ba28e9ea146da90a846ec3dacf6307f79ea1e380ee",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "fake_model",
+  "path": "tests/fake_model.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "7c52678832cb76d79f3184d541cb9a8133ae2af3473ef1a7b2db798b4bd121f3",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "helpers",
+  "path": "tests/helpers.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "e4c002e50373df5ab55b4f486bda68b27aa969c1e60f7be2d986bb188c9455a7",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "testing_processor",
+  "path": "tests/testing_processor.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "5b22c756fe82d9ff307d705894ea68992e61306379e6aed18187b3165f1936ef",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "base_cli_test",
+  "path": "tests/cli/base_cli_test.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "e7e4c9aabc40e90d4b867f3af9e44b4d20fd5f0f95b7743882316529476cb8ff",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "conftest",
+  "path": "tests/mcp/conftest.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "40811aceedc05a8f43d6f013c3f56f18e47f0c8c3ffd91fa597b4f280bfc59fa",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "helpers",
+  "path": "tests/mcp/helpers.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "8049f60ca9dde220a178cf47c08aa9620bf6d669413ef18810e522d3a52f4fbf",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "conftest",
+  "path": "tests/voice/conftest.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "1a38a785be6bbec5c769d2274d522e6765a6218ea5e79ce769cf9d2cb8d1a251",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "fake_models",
+  "path": "tests/voice/fake_models.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "ca0203611e9032da9f3fc90f61cefe924683df836820d00a48b858264618997a",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "helpers",
+  "path": "tests/voice/helpers.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "8049f60ca9dde220a178cf47c08aa9620bf6d669413ef18810e522d3a52f4fbf",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "gif",
+  "path": "tools/gif.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "f609a2b4ca8abd1317feea7e4b69ecce5b8bdf27f11b1fb3a5dc4bc56855aa21",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "logs",
+  "path": "tools/logs.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "a84958eac1c5c6222f5fd6c35a1a72c71d22b09adef2bf17cd578e2fbdb8fc60",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}
+{
+  "name": "replay",
+  "path": "tools/replay.py",
+  "type": "py",
+  "category": "misc",
+  "hash": "90ebc23303f2a97026503bf3e9922e6d91debdcaf7e644bed84aabb92f2a7bcc",
+  "approved": false,
+  "import": true,
+  "license_stub": true
+}

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for siege
+hash: sha256:e8749f58db8c0645c85cd0bde8023710120063ed2ec93bf65ad764f59377c358
+persona_hint: Defense
+source_path: /usr/bin/siege
+tags:
+- unknown
+tool_name: siege

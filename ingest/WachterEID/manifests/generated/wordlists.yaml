@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wordlists
+hash: sha256:7e849378956b0eecd8c02c1045f8fb9cc56f0ac676f3a1691e3de77aa15efeb9
+persona_hint: Defense
+source_path: /usr/bin/wordlists
+tags:
+- unknown
+tool_name: wordlists

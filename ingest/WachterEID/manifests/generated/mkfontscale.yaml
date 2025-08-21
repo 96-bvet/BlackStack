@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkfontscale
+hash: sha256:fcb209e5c55f3d55cf750cbfc34b28a4a22bebb131efd21892d85210df3c388d
+persona_hint: Defense
+source_path: /usr/bin/mkfontscale
+tags:
+- unknown
+tool_name: mkfontscale

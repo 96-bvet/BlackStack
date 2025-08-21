@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-find-rows
+hash: sha256:6ef840bd005836d4d990323b9b026ef3a43a723f7f47b4694e5ce5bde30c8128
+persona_hint: Defense
+source_path: /usr/bin/mariadb-find-rows
+tags:
+- unknown
+tool_name: mariadb-find-rows

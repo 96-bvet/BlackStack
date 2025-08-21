@@ -1,0 +1,7 @@
+description: Auto-generated manifest for logfilter
+hash: sha256:0e3fcdee08f4744098cd19e4cd228d1b476c977a0cbb163c50d99663bcf97dfe
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/logfilter
+tags:
+- unknown
+tool_name: logfilter

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mmcli
+hash: sha256:c74f0908a830aa6ea3a8fbeafd1dc8d05a0b26f1859e94163e1ac651b5fa0c33
+persona_hint: Defense
+source_path: /usr/bin/mmcli
+tags:
+- unknown
+tool_name: mmcli

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for truncate
+hash: sha256:4e5f263a7415b772646de61ea89d1ab62c21b2d64a15b0d426e618fee45e6e9b
+persona_hint: Defense
+source_path: /usr/bin/truncate
+tags:
+- unknown
+tool_name: truncate

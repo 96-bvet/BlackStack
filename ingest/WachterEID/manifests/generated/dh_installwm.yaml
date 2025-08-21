@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installwm
+hash: sha256:cb4ba6afb2acbde33b807fee9a7839fc9152a7150a7e0fb556526d9145ae15c1
+persona_hint: Defense
+source_path: /usr/bin/dh_installwm
+tags:
+- unknown
+tool_name: dh_installwm

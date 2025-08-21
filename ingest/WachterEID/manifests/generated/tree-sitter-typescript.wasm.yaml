@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tree-sitter-typescript.wasm
+hash: sha256:b92b8f1b09429b26953a73928a40c56496eedfb373dc19a84bde3e205de7f438
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-typescript.wasm
+tags:
+- unknown
+tool_name: tree-sitter-typescript.wasm

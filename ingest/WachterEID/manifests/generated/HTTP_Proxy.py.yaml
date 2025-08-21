@@ -1,0 +1,7 @@
+description: Auto-generated manifest for HTTP_Proxy.py
+hash: sha256:ed9e44951db5b620cf4b707675b3e2557896c8fa87931b7a48e62ea84afe59c3
+persona_hint: Defense
+source_path: /usr/share/responder/servers/HTTP_Proxy.py
+tags:
+- unknown
+tool_name: HTTP_Proxy.py

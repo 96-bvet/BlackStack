@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bitmap
+hash: sha256:805c17ff405d40a77cf48da6818f5c65bf03ad9ec046342843802394ed17b383
+persona_hint: Defense
+source_path: /usr/bin/bitmap
+tags:
+- unknown
+tool_name: bitmap

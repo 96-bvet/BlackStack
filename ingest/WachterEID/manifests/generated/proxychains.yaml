@@ -1,0 +1,7 @@
+description: Auto-generated manifest for proxychains
+hash: sha256:d4ed026df668788925091499f498063fcda2b68269649d0cab025e310089dbc4
+persona_hint: Defense
+source_path: /usr/bin/proxychains
+tags:
+- unknown
+tool_name: proxychains

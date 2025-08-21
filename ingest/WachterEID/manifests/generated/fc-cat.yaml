@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-cat
+hash: sha256:65d55d87b75f07c9d536b7d90a0059b51340ed463bbc1c2ba6caf8fc03fa04e0
+persona_hint: Defense
+source_path: /usr/bin/fc-cat
+tags:
+- unknown
+tool_name: fc-cat

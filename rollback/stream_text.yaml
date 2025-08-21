@@ -1,0 +1,8 @@
+name: stream_text
+path: examples/basic/stream_text.py
+type: py
+category: misc
+hash: 53a37d1a92b789036d5ff8fd1aaa409d7c22c09e1fbc34a6707a5ae9784322ef
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jsql-injection
+hash: sha256:a4c0eb969068044bc542a71800a9bf2c712e6f77d1c41b4e290cbdbf77f008b2
+persona_hint: Defense
+source_path: /usr/bin/jsql-injection
+tags:
+- unknown
+tool_name: jsql-injection

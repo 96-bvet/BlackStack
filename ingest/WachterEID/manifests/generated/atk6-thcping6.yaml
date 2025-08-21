@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-thcping6
+hash: sha256:7e222ef95589f699ae7593af9f48f65f54c6877f69dc673744f7fc6127d8204e
+persona_hint: Defense
+source_path: /usr/bin/atk6-thcping6
+tags:
+- unknown
+tool_name: atk6-thcping6

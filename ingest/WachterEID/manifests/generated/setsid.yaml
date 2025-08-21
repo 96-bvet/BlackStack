@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setsid
+hash: sha256:987014d86311daf58f2ec2326f6467ce5d01dfd863558aaf915fcf8ce36269f9
+persona_hint: Defense
+source_path: /usr/bin/setsid
+tags:
+- unknown
+tool_name: setsid

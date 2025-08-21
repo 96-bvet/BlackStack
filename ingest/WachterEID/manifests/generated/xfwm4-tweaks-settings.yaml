@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfwm4-tweaks-settings
+hash: sha256:f6c8c0ed13f7cb8d1be920f1c0b6ec7b9559995f9fc3a40e7cc497bfae4b6b11
+persona_hint: Defense
+source_path: /usr/bin/xfwm4-tweaks-settings
+tags:
+- unknown
+tool_name: xfwm4-tweaks-settings

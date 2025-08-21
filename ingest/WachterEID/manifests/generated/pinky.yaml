@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pinky
+hash: sha256:5ea948c7ee616bb167ab8758899614202d712753acfca3eb430e98afb0f44d7f
+persona_hint: Defense
+source_path: /usr/bin/pinky
+tags:
+- unknown
+tool_name: pinky

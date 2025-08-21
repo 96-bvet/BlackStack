@@ -1,0 +1,7 @@
+description: Auto-generated manifest for config.rpath
+hash: sha256:9153320951eac143ec6e2715fe660f0eb842a5a058bcbfef98870d114ed6f07a
+persona_hint: Defense
+source_path: /usr/share/gettext/config.rpath
+tags:
+- unknown
+tool_name: config.rpath

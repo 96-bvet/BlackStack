@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-umount
+hash: sha256:39cf2c67483218b9625a2baceafa2169e465d744b27412485b9b6afab7dcdc12
+persona_hint: Defense
+source_path: /usr/bin/systemd-umount
+tags:
+- unknown
+tool_name: systemd-umount

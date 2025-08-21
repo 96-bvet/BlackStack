@@ -1,0 +1,7 @@
+description: Auto-generated manifest for r8168-dkms
+hash: sha256:3b401758a29b413818d1eca79ef741b6ca0aea0ff8eb8ec303b8fef071180239
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/r8168-dkms
+tags:
+- unknown
+tool_name: r8168-dkms

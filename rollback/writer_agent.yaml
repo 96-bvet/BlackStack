@@ -1,0 +1,16 @@
+name: writer_agent
+path: examples/financial_research_agent/agents/writer_agent.py
+type: py
+category: misc
+hash: 746bfe7e57888238f975b0600faa79390f68124730d99d3c6db7af62c7f623e4
+approved: true
+import: true
+license_stub: true
+name: writer_agent
+path: examples/research_bot/agents/writer_agent.py
+type: py
+category: misc
+hash: ebc4f7123bf5e119c9f1ddff4efbd259f0266b901b3944279fa49920381c42b6
+approved: true
+import: true
+license_stub: true

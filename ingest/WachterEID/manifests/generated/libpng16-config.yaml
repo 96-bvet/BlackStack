@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libpng16-config
+hash: sha256:9c9adc14ed6e74d6e70c6c1dde583c464c4d6745fed2b14e8b937f0e06b238cb
+persona_hint: Defense
+source_path: /usr/bin/libpng16-config
+tags:
+- unknown
+tool_name: libpng16-config

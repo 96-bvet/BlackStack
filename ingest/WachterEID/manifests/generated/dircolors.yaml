@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dircolors
+hash: sha256:fc001a80992e958df0198979131b608fd5ec92e57dcb4bbc89588f4f12f99758
+persona_hint: Defense
+source_path: /usr/bin/dircolors
+tags:
+- unknown
+tool_name: dircolors

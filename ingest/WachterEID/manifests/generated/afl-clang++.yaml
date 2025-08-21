@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-clang++
+hash: sha256:77d51e5cbec4888191cfb427b48a244fbe6042c76ecf390ab5cfd5967022017f
+persona_hint: Defense
+source_path: /usr/bin/afl-clang++
+tags:
+- unknown
+tool_name: afl-clang++

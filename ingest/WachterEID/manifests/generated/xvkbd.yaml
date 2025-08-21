@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xvkbd
+hash: sha256:9a3d31bd52d8514ff976f7de5a2cc6ca82f5cbd07fbdf4cf59de1984790ff12d
+persona_hint: Defense
+source_path: /usr/bin/xvkbd
+tags:
+- unknown
+tool_name: xvkbd

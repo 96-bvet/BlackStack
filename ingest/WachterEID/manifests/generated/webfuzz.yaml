@@ -1,0 +1,7 @@
+description: Auto-generated manifest for webfuzz
+hash: sha256:aaeb9e9f952307aa98de7b9578b78f4289a6965c9e755272a5a029392f38ae1d
+persona_hint: Defense
+source_path: /usr/bin/webfuzz
+tags:
+- unknown
+tool_name: webfuzz

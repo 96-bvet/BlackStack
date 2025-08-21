@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dm-tool
+hash: sha256:fda1fbc09b1ace3ed2c3c42f62a6a2375e12da1665d6865a556107b2c6948635
+persona_hint: Defense
+source_path: /usr/bin/dm-tool
+tags:
+- unknown
+tool_name: dm-tool

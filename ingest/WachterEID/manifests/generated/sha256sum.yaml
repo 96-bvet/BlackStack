@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sha256sum
+hash: sha256:6cd7c6bfc81d645ba13b927e31651a1466092a28ed0bd2632e82f8b27882b25e
+persona_hint: Defense
+source_path: /usr/bin/sha256sum
+tags:
+- unknown
+tool_name: sha256sum

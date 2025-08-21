@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tns.txt
+hash: sha256:a1186799ef078a5f0b5535112a94711d1b2f4014b6fc9f6b63480671bc35d18a
+persona_hint: Defense
+source_path: /usr/share/spike/audits/ORACLE/tns.txt
+tags:
+- unknown
+tool_name: tns.txt

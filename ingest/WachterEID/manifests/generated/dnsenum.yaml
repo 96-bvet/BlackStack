@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dnsenum
+hash: sha256:32c7283e83a86492b6b62a9cd5d3fa5ac3bd19286ff4e6a5b6359142ba7d750f
+persona_hint: Defense
+source_path: /usr/bin/dnsenum
+tags:
+- unknown
+tool_name: dnsenum

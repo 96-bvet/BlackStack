@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ristretto
+hash: sha256:3848d584e021393280044cd58790d90af2bcf1bcbc3b327de9eb14352932ba05
+persona_hint: Defense
+source_path: /usr/bin/ristretto
+tags:
+- unknown
+tool_name: ristretto

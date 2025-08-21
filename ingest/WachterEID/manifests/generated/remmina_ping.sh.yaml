@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remmina_ping.sh
+hash: sha256:e0ff90d68282374c3f86045948bdfb0e6c9bc6a106ceeef0205040939137af0a
+persona_hint: Defense
+source_path: /usr/share/remmina/external_tools/remmina_ping.sh
+tags:
+- unknown
+tool_name: remmina_ping.sh

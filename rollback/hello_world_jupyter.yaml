@@ -1,0 +1,8 @@
+name: hello_world_jupyter
+path: examples/basic/hello_world_jupyter.py
+type: py
+category: misc
+hash: 4a6b0b036a10826e8ceb13949d42880c42ae60b9d52856aa65f9b439cd409b11
+approved: true
+import: true
+license_stub: true

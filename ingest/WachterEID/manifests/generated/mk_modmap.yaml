@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mk_modmap
+hash: sha256:85dff20f816abc06f0f617b200632c81b3276e882ba51e33e3926cc2b791e681
+persona_hint: Defense
+source_path: /usr/bin/mk_modmap
+tags:
+- unknown
+tool_name: mk_modmap

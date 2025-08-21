@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-power-preferences
+hash: sha256:8b23271159ee0ae507504a86fd72e4084316995f74c99f636c1057dbef482478
+persona_hint: Defense
+source_path: /usr/bin/mate-power-preferences
+tags:
+- unknown
+tool_name: mate-power-preferences

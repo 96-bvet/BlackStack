@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-match
+hash: sha256:8a5395eb0e9093f7bb2b1ad5bfdb7d36ad0e76d0f85a566c9e7e8b012d3d6d05
+persona_hint: Defense
+source_path: /usr/bin/fc-match
+tags:
+- unknown
+tool_name: fc-match

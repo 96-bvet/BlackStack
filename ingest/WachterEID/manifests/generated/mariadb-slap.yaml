@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-slap
+hash: sha256:43446b6c8b34e3001015e77a670510a63eedab714ec7f60d7deb11d31952e5d8
+persona_hint: Defense
+source_path: /usr/bin/mariadb-slap
+tags:
+- unknown
+tool_name: mariadb-slap

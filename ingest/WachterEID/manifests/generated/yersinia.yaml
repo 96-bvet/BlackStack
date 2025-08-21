@@ -1,0 +1,7 @@
+description: Auto-generated manifest for yersinia
+hash: sha256:f6925547d03ff12491bf04bc3267d95e17bc6be0dd5489e52b4c788c0440190d
+persona_hint: Defense
+source_path: /usr/bin/yersinia
+tags:
+- unknown
+tool_name: yersinia

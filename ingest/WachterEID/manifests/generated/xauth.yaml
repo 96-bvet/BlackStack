@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xauth
+hash: sha256:d5d3c556e7acc1a224a2847095bd5551a81b2418e2de827193119a028b0d0058
+persona_hint: Defense
+source_path: /usr/bin/xauth
+tags:
+- unknown
+tool_name: xauth

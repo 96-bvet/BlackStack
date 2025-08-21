@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsusb
+hash: sha256:b546dfc187d8b3d53411754be7b78550fd66143d303bae72f4ca759c9a05d1cd
+persona_hint: Defense
+source_path: /usr/bin/lsusb
+tags:
+- unknown
+tool_name: lsusb

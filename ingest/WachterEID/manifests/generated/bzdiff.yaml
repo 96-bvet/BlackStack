@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bzdiff
+hash: sha256:d115316919735ea43b057063dad2609b05051a11f3819291a403ecceb55ba102
+persona_hint: Defense
+source_path: /usr/bin/bzdiff
+tags:
+- unknown
+tool_name: bzdiff

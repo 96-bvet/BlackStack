@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-ultralight-info
+hash: sha256:ecbe50c9b919d3f2dc6a6d0be9e7792af22b7cc58322306d4a9ef3e77a848812
+persona_hint: Defense
+source_path: /usr/bin/mifare-ultralight-info
+tags:
+- unknown
+tool_name: mifare-ultralight-info

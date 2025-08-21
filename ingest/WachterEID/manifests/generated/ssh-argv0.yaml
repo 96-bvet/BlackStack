@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-argv0
+hash: sha256:fcf4ffdfab652a0882b7b2417a25265d07a936c4268e2d3f4dec14797a9e5734
+persona_hint: Defense
+source_path: /usr/bin/ssh-argv0
+tags:
+- unknown
+tool_name: ssh-argv0

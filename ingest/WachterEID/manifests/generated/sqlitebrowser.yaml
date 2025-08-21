@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sqlitebrowser
+hash: sha256:3048ff127098ea217511a949d13a3003e790b11fb63b37bf3884fafea5fd21ae
+persona_hint: Defense
+source_path: /usr/bin/sqlitebrowser
+tags:
+- unknown
+tool_name: sqlitebrowser

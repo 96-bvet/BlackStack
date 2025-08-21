@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mtrace
+hash: sha256:84cf06b59f5e0795ec433e56f52b10ca81024cf3e6fe9ca5d476892b34268700
+persona_hint: Defense
+source_path: /usr/bin/mtrace
+tags:
+- unknown
+tool_name: mtrace

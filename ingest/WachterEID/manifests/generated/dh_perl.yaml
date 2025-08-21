@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_perl
+hash: sha256:0c4dfc6436935b163e7b8093917e2408fadf976b09d60db6aeb1e69d3ded6e32
+persona_hint: Defense
+source_path: /usr/bin/dh_perl
+tags:
+- unknown
+tool_name: dh_perl

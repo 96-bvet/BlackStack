@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-pattern
+hash: sha256:b9c8f2d7e0870a84782b0866cb65ebe2ac75579d7eacfaaf557e46d7a9b51b8a
+persona_hint: Defense
+source_path: /usr/bin/fc-pattern
+tags:
+- unknown
+tool_name: fc-pattern

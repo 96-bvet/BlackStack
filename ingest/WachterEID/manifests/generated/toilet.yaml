@@ -1,0 +1,7 @@
+description: Auto-generated manifest for toilet
+hash: sha256:6a1ddecac1d5c1285071877e69860fdd2f1b48ccab89c49b52ad5e52d2b8c90c
+persona_hint: Defense
+source_path: /usr/bin/toilet
+tags:
+- unknown
+tool_name: toilet

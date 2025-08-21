@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sed
+hash: sha256:73b13fa951d414c5434c88e0acf8f993e375fb970c1a9b05b61722217f721c48
+persona_hint: Defense
+source_path: /usr/bin/sed
+tags:
+- unknown
+tool_name: sed

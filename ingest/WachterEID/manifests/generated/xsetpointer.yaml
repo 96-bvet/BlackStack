@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsetpointer
+hash: sha256:591b3813b21a166c1f8c6bd14844e62479b3e2fd7eaa553a2a479f8fec017ff1
+persona_hint: Defense
+source_path: /usr/bin/xsetpointer
+tags:
+- unknown
+tool_name: xsetpointer

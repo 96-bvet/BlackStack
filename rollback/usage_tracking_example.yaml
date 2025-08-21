@@ -1,0 +1,8 @@
+name: usage_tracking_example
+path: examples/basic/usage_tracking_example.py
+type: py
+category: misc
+hash: 05f80cc86d89ab4ffa0054f222916959ecc0b925c3b624e9025e33530cde815f
+approved: true
+import: true
+license_stub: true

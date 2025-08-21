@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setvtrgb
+hash: sha256:8d8d26e2e0f37e2821915d41415e5d9cff43e942aa1d2f00c4ff780b2ecb13f2
+persona_hint: Defense
+source_path: /usr/bin/setvtrgb
+tags:
+- unknown
+tool_name: setvtrgb

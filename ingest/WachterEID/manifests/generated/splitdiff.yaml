@@ -1,0 +1,7 @@
+description: Auto-generated manifest for splitdiff
+hash: sha256:3512ca209dec23fc0f333bcfc96ed5aab7e188612fa273ef1778c8f469e885a8
+persona_hint: Defense
+source_path: /usr/bin/splitdiff
+tags:
+- unknown
+tool_name: splitdiff

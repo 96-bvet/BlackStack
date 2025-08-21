@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkdocs
+hash: sha256:ea2bcacd785f3ae3842d228620fd3023896815d3b5080a8e79e479cc23cba1aa
+persona_hint: Defense
+source_path: /usr/bin/mkdocs
+tags:
+- unknown
+tool_name: mkdocs

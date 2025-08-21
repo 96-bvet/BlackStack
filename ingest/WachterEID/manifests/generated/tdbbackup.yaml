@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tdbbackup
+hash: sha256:492cc18f31b0e51ad7ccd639389c6467ab08482dd9a847bc6741d495bfd9eddf
+persona_hint: Defense
+source_path: /usr/bin/tdbbackup
+tags:
+- unknown
+tool_name: tdbbackup

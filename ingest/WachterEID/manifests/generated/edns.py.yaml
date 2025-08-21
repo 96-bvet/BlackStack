@@ -1,0 +1,7 @@
+description: Auto-generated manifest for edns.py
+hash: sha256:bfc38567917b302f25bb49ce0166e8c6e8d1a74c7714bbf2535fb1cc1e4b03b8
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/edns.py
+tags:
+- unknown
+tool_name: edns.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for keymapping.node
+hash: sha256:0b08029d6880ae437c9e93bb0951a897b2394113f7d844beadda0fe0913210de
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/native-keymap/build/Release/keymapping.node
+tags:
+- unknown
+tool_name: keymapping.node

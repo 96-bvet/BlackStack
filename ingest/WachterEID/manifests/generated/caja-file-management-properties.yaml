@@ -1,0 +1,7 @@
+description: Auto-generated manifest for caja-file-management-properties
+hash: sha256:ad4547c38ac1c87afaee2c667b1fd85a00c746f64f091c884be42f3774766cdc
+persona_hint: Defense
+source_path: /usr/bin/caja-file-management-properties
+tags:
+- unknown
+tool_name: caja-file-management-properties

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for load_balancing.nft
+hash: sha256:336d0fd8232098fca619f6423059560911c3c1064bc91a8949939b46f81e5b3b
+persona_hint: Defense
+source_path: /usr/share/doc/nftables/examples/load_balancing.nft
+tags:
+- unknown
+tool_name: load_balancing.nft

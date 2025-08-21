@@ -1,0 +1,7 @@
+description: Auto-generated manifest for flip4mac.pm
+hash: sha256:feb4a2d9dffb7b84d0d78f19ec9c12eaa1bde63ccf41253c01211040b1f3832b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/flip4mac.pm
+tags:
+- unknown
+tool_name: flip4mac.pm

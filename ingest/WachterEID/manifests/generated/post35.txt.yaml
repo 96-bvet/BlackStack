@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post35.txt
+hash: sha256:6b91abe16280dffbe2f5e3f7bad8d4d18b859136a064f5cee706fa803bc42054
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post35.txt
+tags:
+- unknown
+tool_name: post35.txt

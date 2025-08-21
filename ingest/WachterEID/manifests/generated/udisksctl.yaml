@@ -1,0 +1,7 @@
+description: Auto-generated manifest for udisksctl
+hash: sha256:5654061393a35e4d33fa7bd2c7f96e83871d4e5e69670deed7a342b47276c0a5
+persona_hint: Defense
+source_path: /usr/bin/udisksctl
+tags:
+- unknown
+tool_name: udisksctl

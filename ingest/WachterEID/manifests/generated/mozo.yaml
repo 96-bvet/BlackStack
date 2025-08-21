@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mozo
+hash: sha256:2d9781c6c0863c0da490602f807a37d05ab0d7fd5aafb9fd7fae7e52e6e53ef5
+persona_hint: Defense
+source_path: /usr/bin/mozo
+tags:
+- unknown
+tool_name: mozo

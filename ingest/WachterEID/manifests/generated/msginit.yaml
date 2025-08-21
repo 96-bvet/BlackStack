@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msginit
+hash: sha256:caaf8d775df10b705a4249345de879fc2774b7398c3c6ba126051c7e0d3a84a8
+persona_hint: Defense
+source_path: /usr/bin/msginit
+tags:
+- unknown
+tool_name: msginit

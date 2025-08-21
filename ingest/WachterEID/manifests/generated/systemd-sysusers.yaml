@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-sysusers
+hash: sha256:24a6752bf908f4b785d6e12d401b5f6969e04174f30374d3eada460ef637240f
+persona_hint: Defense
+source_path: /usr/bin/systemd-sysusers
+tags:
+- unknown
+tool_name: systemd-sysusers

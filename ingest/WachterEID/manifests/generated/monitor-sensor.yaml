@@ -1,0 +1,7 @@
+description: Auto-generated manifest for monitor-sensor
+hash: sha256:8ba1f49bfe485e28ac72512912f8359f656d6d90d78685f49420dad89fab7572
+persona_hint: Defense
+source_path: /usr/bin/monitor-sensor
+tags:
+- unknown
+tool_name: monitor-sensor

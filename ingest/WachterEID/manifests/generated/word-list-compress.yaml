@@ -1,0 +1,7 @@
+description: Auto-generated manifest for word-list-compress
+hash: sha256:bf5c76ba79d0b77a2035381c9d074ae1d4f14044bdbc3639265374ae6c696614
+persona_hint: Defense
+source_path: /usr/bin/word-list-compress
+tags:
+- unknown
+tool_name: word-list-compress

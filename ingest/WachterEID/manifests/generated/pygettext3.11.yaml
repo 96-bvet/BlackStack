@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pygettext3.11
+hash: sha256:04b152ef167b467b252dff8f0bc472ee0ed2a0db75c0b9f3aa4bf2f63bc692d3
+persona_hint: Defense
+source_path: /usr/bin/pygettext3.11
+tags:
+- unknown
+tool_name: pygettext3.11

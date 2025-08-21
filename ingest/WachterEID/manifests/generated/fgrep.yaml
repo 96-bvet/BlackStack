@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fgrep
+hash: sha256:f1bdb63da98989d55e56cef651139f70448d4c8f6ea40bb02610be439e29bf0c
+persona_hint: Defense
+source_path: /usr/bin/fgrep
+tags:
+- unknown
+tool_name: fgrep

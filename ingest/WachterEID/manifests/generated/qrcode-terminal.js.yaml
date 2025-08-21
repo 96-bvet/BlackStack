@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qrcode-terminal.js
+hash: sha256:ca492212f6251d730aaaf738262819c9a9aa3fc81d5af51fab47094913e69f74
+persona_hint: Defense
+source_path: /usr/share/nodejs/qrcode-terminal/bin/qrcode-terminal.js
+tags:
+- unknown
+tool_name: qrcode-terminal.js

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for crc32
+hash: sha256:7b7bf04d63e00f5586c2e378e6a897da090c416f71f8f3cfad469f9b2fcaf55f
+persona_hint: Defense
+source_path: /usr/bin/crc32
+tags:
+- unknown
+tool_name: crc32

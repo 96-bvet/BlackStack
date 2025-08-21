@@ -1,0 +1,16 @@
+name: bb_triage
+path: src/cai/agents/patterns/bb_triage.py
+type: py
+category: misc
+hash: 590519f3465f60d9c95c1628dad9326a9bb1e1b18286d02d9dde4d353b58f537
+approved: true
+import: true
+license_stub: true
+name: bb_triage
+path: src/cai/agents/patterns/bb_triage.py
+type: py
+category: misc
+hash: 590519f3465f60d9c95c1628dad9326a9bb1e1b18286d02d9dde4d353b58f537
+approved: true
+import: true
+license_stub: true

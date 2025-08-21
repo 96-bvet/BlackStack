@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cd-create-profile
+hash: sha256:6bdd253a0fd944d8d220f0958b4b8a03c21306b48cb9c61e853be28c76d6b006
+persona_hint: Defense
+source_path: /usr/bin/cd-create-profile
+tags:
+- unknown
+tool_name: cd-create-profile

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nc.exe
+hash: sha256:be4211fe5c1a19ff393a2bcfa21dad8d0a687663263a63789552bda446d9421b
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/nc.exe
+tags:
+- unknown
+tool_name: nc.exe

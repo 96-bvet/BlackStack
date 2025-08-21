@@ -1,0 +1,7 @@
+description: Auto-generated manifest for prettypacket
+hash: sha256:c2722b4fbb00d6a3b12d8d05b0fa5453fc5f6c423211c3b849a5a52c952ada77
+persona_hint: Defense
+source_path: /usr/bin/prettypacket
+tags:
+- unknown
+tool_name: prettypacket

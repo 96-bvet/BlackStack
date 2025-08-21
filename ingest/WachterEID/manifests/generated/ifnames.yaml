@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ifnames
+hash: sha256:12bdd28d34b5cef20bec9923a06c0559cb021d7e28e0e218d29e2d77f8a0e64a
+persona_hint: Defense
+source_path: /usr/bin/ifnames
+tags:
+- unknown
+tool_name: ifnames

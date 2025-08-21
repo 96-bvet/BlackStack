@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clear_console
+hash: sha256:24dd58ec386be7ab32e9d92bc318d94d655d4b63a49b258cf69f0873241c90dd
+persona_hint: Defense
+source_path: /usr/bin/clear_console
+tags:
+- unknown
+tool_name: clear_console

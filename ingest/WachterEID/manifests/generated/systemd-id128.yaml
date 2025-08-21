@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-id128
+hash: sha256:40a6c826966fdb47a74da4c3b01e82917668342755449b24ee73fd428c2f15c9
+persona_hint: Defense
+source_path: /usr/bin/systemd-id128
+tags:
+- unknown
+tool_name: systemd-id128

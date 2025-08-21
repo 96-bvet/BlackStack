@@ -1,0 +1,7 @@
+description: Auto-generated manifest for EXPORT.INC
+hash: sha256:0caa022f5c22fe28a2921a638d94ba85150fed292c48022f25e0f76669f0d3c5
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/MACRO/EXPORT.INC
+tags:
+- unknown
+tool_name: EXPORT.INC

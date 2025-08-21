@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zstd
+hash: sha256:cee5aaa2d86c0bf168fc57b759439f5900f2a3b55a9250271c473a7b08e3d3e3
+persona_hint: Defense
+source_path: /usr/bin/zstd
+tags:
+- unknown
+tool_name: zstd

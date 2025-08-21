@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iaxflood
+hash: sha256:148f89827f9d142d36b07747681afbbbe9553747a5d22799eaaa905d81b68278
+persona_hint: Defense
+source_path: /usr/bin/iaxflood
+tags:
+- unknown
+tool_name: iaxflood

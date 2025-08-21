@@ -1,0 +1,7 @@
+description: Auto-generated manifest for westcos-tool
+hash: sha256:5ca58c7e5a71621a02ed1a7b348bf0d0f724e38b1f9724db04e2130a3a079b3d
+persona_hint: Defense
+source_path: /usr/bin/westcos-tool
+tags:
+- unknown
+tool_name: westcos-tool

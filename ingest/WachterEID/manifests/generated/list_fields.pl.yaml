@@ -1,0 +1,7 @@
+description: Auto-generated manifest for list_fields.pl
+hash: sha256:ef68ab6358621e2245b79ced5dd0ea74bc27980ca07aa2277415284b50e2fda6
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/list_fields.pl
+tags:
+- unknown
+tool_name: list_fields.pl

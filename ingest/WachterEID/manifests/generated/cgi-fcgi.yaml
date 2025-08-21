@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cgi-fcgi
+hash: sha256:d48bb944429971334a4f17a2456d9d8ec2a11e6dd984aa1807215e226ead008d
+persona_hint: Defense
+source_path: /usr/bin/cgi-fcgi
+tags:
+- unknown
+tool_name: cgi-fcgi

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SignedApplet.java
+hash: sha256:1fbf43daadf230a7c5a9c28a129204c39346ec5e7dbac17485b0afb8643535f3
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/exploits/local_host/signed_applet_dropper/applet/SignedApplet.java
+tags:
+- unknown
+tool_name: SignedApplet.java

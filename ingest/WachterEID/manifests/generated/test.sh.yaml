@@ -1,0 +1,7 @@
+description: Auto-generated manifest for test.sh
+hash: sha256:78511f923d821293ce398de1f7798b2da4e398bfd940148d2eb7c606520eef2e
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/test.sh
+tags:
+- unknown
+tool_name: test.sh

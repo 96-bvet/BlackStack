@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-strings
+hash: sha256:43f105ff4ec4deb9537953afe21e1fbeabbaf3663a9bda223f6cb17dd8a0bf50
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-strings
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-strings

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for koi8rxterm
+hash: sha256:4ae44fda7bcd1a5872aa06159ea34982f1d2676c48592bce17623d3df34fea60
+persona_hint: Defense
+source_path: /usr/bin/koi8rxterm
+tags:
+- unknown
+tool_name: koi8rxterm

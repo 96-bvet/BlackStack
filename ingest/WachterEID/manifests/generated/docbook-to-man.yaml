@@ -1,0 +1,7 @@
+description: Auto-generated manifest for docbook-to-man
+hash: sha256:a60bda1f731c4604ed0c96324ce970c2aea00620517d4e42ba39d6e26ae05296
+persona_hint: Defense
+source_path: /usr/bin/docbook-to-man
+tags:
+- unknown
+tool_name: docbook-to-man

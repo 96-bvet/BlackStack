@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sh
+hash: sha256:f5adb8bf0100ed0f8c7782ca5f92814e9229525a4b4e0d401cf3bea09ac960a6
+persona_hint: Defense
+source_path: /usr/bin/sh
+tags:
+- unknown
+tool_name: sh

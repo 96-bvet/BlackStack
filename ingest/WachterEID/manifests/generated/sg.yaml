@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sg
+hash: sha256:bf7580a644d512bdaf9ac4717e5b9f737160722d6818940d94bf58c1de3cc00a
+persona_hint: Defense
+source_path: /usr/bin/sg
+tags:
+- unknown
+tool_name: sg

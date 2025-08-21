@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdsearch
+hash: sha256:359d66ace120e2c56f928da2423a3acb628ebb819ed88c50d5bf0c3962296474
+persona_hint: Defense
+source_path: /usr/bin/mdsearch
+tags:
+- unknown
+tool_name: mdsearch

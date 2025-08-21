@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cygwin.pm
+hash: sha256:6f30dbe5c28948b5b9069f33856a6fa877e9595ad8106949da1ae9582c0844df
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/cygwin.pm
+tags:
+- unknown
+tool_name: cygwin.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bzegrep
+hash: sha256:3300749d903f145a8815c07fa1389dba04268fee1fec97ca1f01abf07ac5ee04
+persona_hint: Defense
+source_path: /usr/bin/bzegrep
+tags:
+- unknown
+tool_name: bzegrep

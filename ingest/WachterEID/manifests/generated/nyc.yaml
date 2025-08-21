@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nyc
+hash: sha256:5b562acbf534c1f06bd53814819cc2ac62b5af90c54aa74c34baac7e55dcf73b
+persona_hint: Defense
+source_path: /usr/bin/nyc
+tags:
+- unknown
+tool_name: nyc

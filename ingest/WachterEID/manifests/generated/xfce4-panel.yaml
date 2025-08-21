@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-panel
+hash: sha256:715d2bf3a59b0979ce04e4fed4d19fc217f1ce9fb594fe97f1f9ba2312f8a672
+persona_hint: Defense
+source_path: /usr/bin/xfce4-panel
+tags:
+- unknown
+tool_name: xfce4-panel

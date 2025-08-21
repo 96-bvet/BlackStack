@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-showmap
+hash: sha256:1f4878f98fc3af4b952e0243877b2e1e21cf50560505c53ed67420dea7973cd4
+persona_hint: Defense
+source_path: /usr/bin/afl-showmap
+tags:
+- unknown
+tool_name: afl-showmap

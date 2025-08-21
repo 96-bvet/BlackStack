@@ -1,0 +1,7 @@
+description: Auto-generated manifest for detect-libc.js
+hash: sha256:99a4f0b6ebe4b213e904a3563973da0b98caba8b7f2877fbbe5084aeadeeb307
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@parcel/watcher/node_modules/detect-libc/bin/detect-libc.js
+tags:
+- unknown
+tool_name: detect-libc.js

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for async_tailer.ru
+hash: sha256:b740a43fea2487c6788789df69493db66adfa0421991f9b391de4c5b18263f2e
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/example/async_tailer.ru
+tags:
+- unknown
+tool_name: async_tailer.ru

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-desfire-ev1-configure-random-uid
+hash: sha256:34e18db1cc35e74e229c40682d279b05131457e9a1c99f856ce2bac2456cff60
+persona_hint: Defense
+source_path: /usr/bin/mifare-desfire-ev1-configure-random-uid
+tags:
+- unknown
+tool_name: mifare-desfire-ev1-configure-random-uid

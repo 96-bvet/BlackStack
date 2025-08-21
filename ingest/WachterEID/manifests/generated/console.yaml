@@ -1,0 +1,7 @@
+description: Auto-generated manifest for console
+hash: sha256:b63d32fb652a243c355f33058d9bfbf941224f34beb3237dd89e40441112af67
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/xmlrpc-0.3.3/bin/console
+tags:
+- unknown
+tool_name: console

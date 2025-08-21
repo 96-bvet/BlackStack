@@ -1,0 +1,7 @@
+description: Auto-generated manifest for userns-block-fd.py
+hash: sha256:b81332c2cae1c4de4f9c0f7f13e101731e47ade5871c4d739c029520bf0a0c13
+persona_hint: Defense
+source_path: /usr/share/doc/bubblewrap/examples/userns-block-fd.py
+tags:
+- unknown
+tool_name: userns-block-fd.py

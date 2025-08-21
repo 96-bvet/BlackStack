@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perlsh
+hash: sha256:f97186409cedc06df3f55f9d1984a4fa2d5f491b9e1bfc685dfc789b509c1a9d
+persona_hint: Defense
+source_path: /usr/bin/perlsh
+tags:
+- unknown
+tool_name: perlsh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for big_brother.pl
+hash: sha256:3661a231f4d73e2e0f75a8b9e238b0f902dc65a77a8fd915c9b8bd9822868017
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/big_brother.pl
+tags:
+- unknown
+tool_name: big_brother.pl

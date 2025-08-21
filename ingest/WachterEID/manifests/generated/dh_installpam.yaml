@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installpam
+hash: sha256:05de0d70b2403c46c746e88bb82548ce280829fa8be8e2b17dd38a13ccb7c25a
+persona_hint: Defense
+source_path: /usr/bin/dh_installpam
+tags:
+- unknown
+tool_name: dh_installpam

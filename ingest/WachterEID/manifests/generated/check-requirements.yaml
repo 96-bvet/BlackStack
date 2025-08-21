@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check-requirements
+hash: sha256:e29a69beb46a000f7942325754bcae809a85580d8bb33331285e96340e6af2c7
+persona_hint: Defense
+source_path: /usr/share/ufw/check-requirements
+tags:
+- unknown
+tool_name: check-requirements

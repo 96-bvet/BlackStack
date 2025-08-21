@@ -1,0 +1,7 @@
+description: Auto-generated manifest for eject
+hash: sha256:fe2a3ee79e814a1ff1ac9a77e49f231b8ded27285d598b6f466883e68a02ddb3
+persona_hint: Defense
+source_path: /usr/bin/eject
+tags:
+- unknown
+tool_name: eject

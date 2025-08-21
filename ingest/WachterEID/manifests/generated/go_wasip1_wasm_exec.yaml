@@ -1,0 +1,7 @@
+description: Auto-generated manifest for go_wasip1_wasm_exec
+hash: sha256:4afc724a92f2801e2f586c67371a47f47b740b65bca65f5bbb7215a77c48201e
+persona_hint: Defense
+source_path: /usr/share/go-1.23/misc/wasm/go_wasip1_wasm_exec
+tags:
+- unknown
+tool_name: go_wasip1_wasm_exec

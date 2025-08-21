@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sha512sum
+hash: sha256:951c8e889d1c3a4c2c5098912ee517203a00f89f1bb3b7f5d3b36e49cfdc157d
+persona_hint: Defense
+source_path: /usr/bin/sha512sum
+tags:
+- unknown
+tool_name: sha512sum

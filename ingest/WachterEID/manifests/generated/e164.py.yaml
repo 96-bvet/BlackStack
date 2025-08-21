@@ -1,0 +1,7 @@
+description: Auto-generated manifest for e164.py
+hash: sha256:6464a578a96e122dad0feb03c5a5124070599ebcb3120f451b7135d59c6e0128
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/e164.py
+tags:
+- unknown
+tool_name: e164.py

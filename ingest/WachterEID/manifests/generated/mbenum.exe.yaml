@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mbenum.exe
+hash: sha256:5fcde4197fd0547b79b31fea842403332cf8857a8120f4a9429e5cbb004a6a3c
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/mbenum/mbenum.exe
+tags:
+- unknown
+tool_name: mbenum.exe

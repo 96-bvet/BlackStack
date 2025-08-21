@@ -1,0 +1,7 @@
+description: Auto-generated manifest for joomscan.pl
+hash: sha256:f16abb1c2fadc3d358212e25ad299ddb5590bd614b77a055d0b773e7d68885e1
+persona_hint: Defense
+source_path: /usr/share/joomscan/joomscan.pl
+tags:
+- unknown
+tool_name: joomscan.pl

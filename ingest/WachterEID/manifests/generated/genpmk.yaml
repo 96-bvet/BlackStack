@@ -1,0 +1,7 @@
+description: Auto-generated manifest for genpmk
+hash: sha256:f928d22ef9113411b189e84521c7ac9e8be991d227a81779090442efc06b7311
+persona_hint: Defense
+source_path: /usr/bin/genpmk
+tags:
+- unknown
+tool_name: genpmk

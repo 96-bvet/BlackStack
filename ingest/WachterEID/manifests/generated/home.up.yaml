@@ -1,0 +1,7 @@
+description: Auto-generated manifest for home.up
+hash: sha256:170c094052efa123841b50cd336f91e13fbedf25ef23bda6b5512846c4d684f8
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-config-files/home.up
+tags:
+- unknown
+tool_name: home.up

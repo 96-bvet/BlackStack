@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xman
+hash: sha256:e037076fa74ff943ba78bfcdf3482d7250712840a66cc1274fac26e1c393a0a8
+persona_hint: Defense
+source_path: /usr/bin/xman
+tags:
+- unknown
+tool_name: xman

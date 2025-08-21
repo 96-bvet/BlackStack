@@ -1,0 +1,7 @@
+description: Auto-generated manifest for samba-log-parser
+hash: sha256:7b10bd6713aacd41d5a39eb0b5e2735cb65f61a478a3f702f2b85a050087a7a5
+persona_hint: Defense
+source_path: /usr/bin/samba-log-parser
+tags:
+- unknown
+tool_name: samba-log-parser

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jsonclient
+hash: sha256:64256f0d323a856e753e65e30f73c999a073eace314a1a077624ffd684bab671
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/httpclient-2.8.3/bin/jsonclient
+tags:
+- unknown
+tool_name: jsonclient

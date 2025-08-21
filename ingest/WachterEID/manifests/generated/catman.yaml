@@ -1,0 +1,7 @@
+description: Auto-generated manifest for catman
+hash: sha256:a460e7037b2a0f4ac27681d60e584d5dc29afe97087c130bfa2e588e75a030b7
+persona_hint: Defense
+source_path: /usr/bin/catman
+tags:
+- unknown
+tool_name: catman

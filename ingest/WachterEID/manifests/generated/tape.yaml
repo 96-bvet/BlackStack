@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tape
+hash: sha256:abf0b3d650fd171668b17cec848251760d94064c35d29d02221cdda7d61967de
+persona_hint: Defense
+source_path: /usr/share/nodejs/tape/bin/tape
+tags:
+- unknown
+tool_name: tape

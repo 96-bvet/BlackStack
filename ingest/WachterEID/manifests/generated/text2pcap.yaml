@@ -1,0 +1,7 @@
+description: Auto-generated manifest for text2pcap
+hash: sha256:de8c5a1a1ef798989b3cede6293fe9194995a1c35130b1410f83a63b8910ab51
+persona_hint: Defense
+source_path: /usr/bin/text2pcap
+tags:
+- unknown
+tool_name: text2pcap

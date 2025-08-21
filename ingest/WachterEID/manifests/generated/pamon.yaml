@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pamon
+hash: sha256:fd1f93f9bf5be29d8b91248609a7ac2e6e22233ef39bda690d2bc52d8295c726
+persona_hint: Defense
+source_path: /usr/bin/pamon
+tags:
+- unknown
+tool_name: pamon

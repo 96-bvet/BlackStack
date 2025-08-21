@@ -1,0 +1,7 @@
+description: Auto-generated manifest for speed.pl
+hash: sha256:05ba9fd9bb6d9e4e0909d41cfed99698caa79d7bcbfc1f03975b6440e169c95b
+persona_hint: Defense
+source_path: /usr/share/doc/libtext-csv-xs-perl/examples/speed.pl
+tags:
+- unknown
+tool_name: speed.pl

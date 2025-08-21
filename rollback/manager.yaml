@@ -1,0 +1,16 @@
+name: manager
+path: examples/financial_research_agent/manager.py
+type: py
+category: misc
+hash: 0326510bfe98c18b86a266c7721ea0e018cb30a865a59f22a9dd421fc69ca7d4
+approved: true
+import: true
+license_stub: true
+name: manager
+path: examples/research_bot/manager.py
+type: py
+category: misc
+hash: ffbbd56497b9d2c897f3ef7cf1c76e1de40775a31e729631275da632258314d7
+approved: true
+import: true
+license_stub: true

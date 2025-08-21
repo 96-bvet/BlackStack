@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dos2unix
+hash: sha256:18316431468bdea5eb4c2958223a4169979c721f5af9627a07fe0f91365150ce
+persona_hint: Defense
+source_path: /usr/bin/dos2unix
+tags:
+- unknown
+tool_name: dos2unix

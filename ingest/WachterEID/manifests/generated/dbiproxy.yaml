@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbiproxy
+hash: sha256:8aa25769727a81d870e5ca2de70f04840567a91082d75de6781a320a0e79cb81
+persona_hint: Defense
+source_path: /usr/bin/dbiproxy
+tags:
+- unknown
+tool_name: dbiproxy

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gio
+hash: sha256:d6749e7f4b695538a70377034a3ce6236e468e6dfd974614120b0f1b948f6b32
+persona_hint: Defense
+source_path: /usr/bin/gio
+tags:
+- unknown
+tool_name: gio

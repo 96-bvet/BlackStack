@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pfbtopfa
+hash: sha256:3c72b0295a853070356bf25c297da945df3cd16c235c0f37fd37516a4659f321
+persona_hint: Defense
+source_path: /usr/bin/pfbtopfa
+tags:
+- unknown
+tool_name: pfbtopfa

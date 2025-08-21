@@ -1,0 +1,7 @@
+description: Auto-generated manifest for netview.py
+hash: sha256:03ebb9c563684c6f15cb1b318e998c2f218e617065053fbcb5219c4a642523e3
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/netview.py
+tags:
+- unknown
+tool_name: netview.py

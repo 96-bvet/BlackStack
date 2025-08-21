@@ -1,0 +1,7 @@
+description: Auto-generated manifest for webserver.pm
+hash: sha256:e738115732da4a8cc4b2f0334b574b78549cb106b69bca16fbc99e7ee276ed20
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/webserver.pm
+tags:
+- unknown
+tool_name: webserver.pm

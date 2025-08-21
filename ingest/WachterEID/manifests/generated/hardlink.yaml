@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hardlink
+hash: sha256:7029a48c90fe1ed63189d02ac5dc5da8bc6368f3897daad457639d62a549f7fd
+persona_hint: Defense
+source_path: /usr/bin/hardlink
+tags:
+- unknown
+tool_name: hardlink

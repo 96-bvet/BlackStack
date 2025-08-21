@@ -1,0 +1,7 @@
+description: Auto-generated manifest for MultiRelay.py
+hash: sha256:d0aa757675949c6f5d83f3e133ee92288ed3ae6ffa32e1d2dbe1a49dab8a8a88
+persona_hint: Defense
+source_path: /usr/share/responder/tools/MultiRelay.py
+tags:
+- unknown
+tool_name: MultiRelay.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for factor
+hash: sha256:84c037114720d0fb68eeca953bc2675ffd545770ee75fcace29052f126a5ffae
+persona_hint: Defense
+source_path: /usr/bin/factor
+tags:
+- unknown
+tool_name: factor

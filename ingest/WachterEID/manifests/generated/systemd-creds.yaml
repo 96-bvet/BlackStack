@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-creds
+hash: sha256:3ef0a6657c1378509f473d8117e988ec25adf305ad8cf337d395370bdd636816
+persona_hint: Defense
+source_path: /usr/bin/systemd-creds
+tags:
+- unknown
+tool_name: systemd-creds

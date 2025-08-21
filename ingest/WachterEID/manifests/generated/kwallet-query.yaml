@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kwallet-query
+hash: sha256:abd95d09366148a229d198e1f9742cd550fa2de303c3aa0b4e5ddd46ae5b2f43
+persona_hint: Defense
+source_path: /usr/bin/kwallet-query
+tags:
+- unknown
+tool_name: kwallet-query

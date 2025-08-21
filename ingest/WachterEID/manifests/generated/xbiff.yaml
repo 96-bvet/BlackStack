@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xbiff
+hash: sha256:c0bc0528d7ea0805785ff984fa04b8878e8f3115190b3419aadd39b19c839e65
+persona_hint: Defense
+source_path: /usr/bin/xbiff
+tags:
+- unknown
+tool_name: xbiff

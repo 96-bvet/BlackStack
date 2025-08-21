@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stripAPI.py
+hash: sha256:e8a60ddcbb0ca57aa9393db587d02cf01843c7648b155f3440099729532cc52a
+persona_hint: Defense
+source_path: /usr/share/vulkan/registry/stripAPI.py
+tags:
+- unknown
+tool_name: stripAPI.py

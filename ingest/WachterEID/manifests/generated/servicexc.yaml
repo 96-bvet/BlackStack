@@ -1,0 +1,7 @@
+description: Auto-generated manifest for servicexc
+hash: sha256:91324f7d3d549cbb41abe0b77b166fedf5a78d0ddb1ba201da545714c267c338
+persona_hint: Defense
+source_path: /usr/bin/servicexc
+tags:
+- unknown
+tool_name: servicexc

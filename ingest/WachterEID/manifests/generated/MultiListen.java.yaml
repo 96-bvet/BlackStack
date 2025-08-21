@@ -1,0 +1,7 @@
+description: Auto-generated manifest for MultiListen.java
+hash: sha256:cf0006fadb494845587f55dd42b4a7ae112120b557fe366da64f6520e51f72cc
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/handler/stager/MultiListen.java
+tags:
+- unknown
+tool_name: MultiListen.java

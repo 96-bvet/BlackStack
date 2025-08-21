@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ldapdomaindump
+hash: sha256:193c1e7c318f5a4fc25b0f9669815de8815c7b3f7d4193f3b7e3c012f9ad58d1
+persona_hint: Defense
+source_path: /usr/bin/ldapdomaindump
+tags:
+- unknown
+tool_name: ldapdomaindump

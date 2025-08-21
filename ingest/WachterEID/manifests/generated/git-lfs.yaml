@@ -1,0 +1,7 @@
+description: Auto-generated manifest for git-lfs
+hash: sha256:ce21d04c6416edec8f483387ad0abdb0e219464f0eb6081e06d829597d0a522d
+persona_hint: Defense
+source_path: /usr/bin/git-lfs
+tags:
+- unknown
+tool_name: git-lfs

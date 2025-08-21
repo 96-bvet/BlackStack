@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rmdir
+hash: sha256:139377cd5fd9cdf4f6f049d09dc0a9e7113936790d65b82b7a25a0f147177024
+persona_hint: Defense
+source_path: /usr/bin/rmdir
+tags:
+- unknown
+tool_name: rmdir

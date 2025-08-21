@@ -1,0 +1,7 @@
+description: Auto-generated manifest for download_resp
+hash: sha256:b5b83b42a8feedeb74da9a2c01f09d45ce137d42cf3c78303d6990c103e24da8
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/bbappworld/download_resp
+tags:
+- unknown
+tool_name: download_resp

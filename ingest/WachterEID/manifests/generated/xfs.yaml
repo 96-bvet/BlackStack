@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfs
+hash: sha256:965fd88a9cf3d2042f127e6afa18a1fae321008cd255dd6463746c28db67a347
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/xfs
+tags:
+- unknown
+tool_name: xfs

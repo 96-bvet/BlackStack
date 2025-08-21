@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wscat
+hash: sha256:0c45a839a8c0a7e55ba690a372cb05abd6648083dc28fa43890771ff1c60e7b3
+persona_hint: Defense
+source_path: /usr/share/nodejs/wscat/bin/wscat
+tags:
+- unknown
+tool_name: wscat

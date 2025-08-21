@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-sensors
+hash: sha256:1b7180f97d12caf9b5a46f679d47eef873388ea359131a97155e80d09d7d2551
+persona_hint: Defense
+source_path: /usr/bin/xfce4-sensors
+tags:
+- unknown
+tool_name: xfce4-sensors

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tor-gencert
+hash: sha256:b61431914848ccded52124dea45f20ba12f525b87fb033ca0fde633585d0d8e0
+persona_hint: Defense
+source_path: /usr/bin/tor-gencert
+tags:
+- unknown
+tool_name: tor-gencert

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsmove
+hash: sha256:ef89062114e67de15ff3936ae5bd829b47271bdb0e6050f8c2e3b17718a58ccf
+persona_hint: Defense
+source_path: /usr/bin/ntfsmove
+tags:
+- unknown
+tool_name: ntfsmove

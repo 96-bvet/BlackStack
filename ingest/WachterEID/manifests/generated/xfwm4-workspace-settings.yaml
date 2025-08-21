@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfwm4-workspace-settings
+hash: sha256:2e4867e070a1546495ea6449139b7cd9e5e8d3963797532a421b833c69702a81
+persona_hint: Defense
+source_path: /usr/bin/xfwm4-workspace-settings
+tags:
+- unknown
+tool_name: xfwm4-workspace-settings

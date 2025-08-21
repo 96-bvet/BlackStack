@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-disk-image-mounter
+hash: sha256:3e79a764e711c1b139b5e1f7a15d9e0300800cccb9e9560049c4a0a3ddce90b1
+persona_hint: Defense
+source_path: /usr/bin/mate-disk-image-mounter
+tags:
+- unknown
+tool_name: mate-disk-image-mounter

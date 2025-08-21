@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libGLESv2.so
+hash: sha256:fb1142bb68c8d32493e6805ae5ae8935a4c79bbd160fdf2af1b6e70cd0afe7d7
+persona_hint: Defense
+source_path: /usr/share/codium/libGLESv2.so
+tags:
+- unknown
+tool_name: libGLESv2.so

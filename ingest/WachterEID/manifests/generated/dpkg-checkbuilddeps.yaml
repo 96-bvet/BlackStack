@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-checkbuilddeps
+hash: sha256:869d51a380a2f7e438af8f836b20ac0232f1a5b45f156ca51955f130cb2c28fa
+persona_hint: Defense
+source_path: /usr/bin/dpkg-checkbuilddeps
+tags:
+- unknown
+tool_name: dpkg-checkbuilddeps

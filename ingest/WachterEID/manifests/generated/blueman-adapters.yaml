@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blueman-adapters
+hash: sha256:2f00d236f74241c463181ba194c47f84874602e54d6f3785c76a6b5005fae6f5
+persona_hint: Defense
+source_path: /usr/bin/blueman-adapters
+tags:
+- unknown
+tool_name: blueman-adapters

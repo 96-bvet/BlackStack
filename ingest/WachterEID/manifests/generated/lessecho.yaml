@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lessecho
+hash: sha256:9201404e4bc61f959ba70f0f6f193b03e2f1e55466684642958ab1fd9ed4bf51
+persona_hint: Defense
+source_path: /usr/bin/lessecho
+tags:
+- unknown
+tool_name: lessecho

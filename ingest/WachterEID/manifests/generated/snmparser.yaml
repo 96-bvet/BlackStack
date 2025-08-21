@@ -1,0 +1,7 @@
+description: Auto-generated manifest for snmparser
+hash: sha256:738b576d23b3195b2c4ffd3299cb9c52dc40bc42eb004c767b02815420b6de0d
+persona_hint: Defense
+source_path: /usr/share/sipp/tools/monitor/snmparser
+tags:
+- unknown
+tool_name: snmparser

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for divxsuite.pm
+hash: sha256:d007b971625acde0124b70fcc21289a58e3b385e8c11b0c8edd85e76393a5e6d
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/divxsuite.pm
+tags:
+- unknown
+tool_name: divxsuite.pm

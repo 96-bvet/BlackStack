@@ -1,0 +1,7 @@
+description: Auto-generated manifest for csv2xls
+hash: sha256:671122d69d385be6c3bb02867c4e7488e157e655f2ba42b4ff38011aa46cec10
+persona_hint: Defense
+source_path: /usr/share/doc/libtext-csv-xs-perl/examples/csv2xls
+tags:
+- unknown
+tool_name: csv2xls

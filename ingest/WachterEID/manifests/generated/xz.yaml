@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xz
+hash: sha256:31c8422d8432de91ffa9b3713743c98cb8011c561546c76759600c9476357dc0
+persona_hint: Defense
+source_path: /usr/bin/xz
+tags:
+- unknown
+tool_name: xz

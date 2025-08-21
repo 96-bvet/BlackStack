@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-genbuildinfo
+hash: sha256:ea892fe9ccde89d43d3ab990a00a098cafc0826251973f2eebb01464aa067cf0
+persona_hint: Defense
+source_path: /usr/bin/dpkg-genbuildinfo
+tags:
+- unknown
+tool_name: dpkg-genbuildinfo

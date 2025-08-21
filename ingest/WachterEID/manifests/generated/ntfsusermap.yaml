@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsusermap
+hash: sha256:857088f7d9a347da595154d6dd9e58a25fe6a8ed74af9607f0ed606650054019
+persona_hint: Defense
+source_path: /usr/bin/ntfsusermap
+tags:
+- unknown
+tool_name: ntfsusermap

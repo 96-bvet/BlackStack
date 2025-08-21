@@ -1,0 +1,8 @@
+name: financials_agent
+path: examples/financial_research_agent/agents/financials_agent.py
+type: py
+category: misc
+hash: f1b72df6e125b5a9b69408ea7a1434ee00034e75b8a93b5f0c16ad2a437b32fa
+approved: true
+import: true
+license_stub: true

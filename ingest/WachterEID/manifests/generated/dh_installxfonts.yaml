@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installxfonts
+hash: sha256:02173a9526b3ad01458cf91ebc33444a5271eb49486769307c9c8dbe671d5869
+persona_hint: Defense
+source_path: /usr/bin/dh_installxfonts
+tags:
+- unknown
+tool_name: dh_installxfonts

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aria_pack
+hash: sha256:2a58ca5e7c4d3375988da6259ca4a08e3a20f3afdb6ab1a945f33bb7fcc32fd8
+persona_hint: Defense
+source_path: /usr/bin/aria_pack
+tags:
+- unknown
+tool_name: aria_pack

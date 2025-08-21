@@ -1,0 +1,16 @@
+name: pattern
+path: src/cai/agents/patterns/pattern.py
+type: py
+category: misc
+hash: 3a0e07c6bd328b6a82fcfba8bfd6e2a4a8186d8996c93557dad2a2603cdee81d
+approved: true
+import: true
+license_stub: true
+name: pattern
+path: src/cai/agents/patterns/pattern.py
+type: py
+category: misc
+hash: 3a0e07c6bd328b6a82fcfba8bfd6e2a4a8186d8996c93557dad2a2603cdee81d
+approved: true
+import: true
+license_stub: true

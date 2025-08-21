@@ -1,0 +1,7 @@
+description: Auto-generated manifest for travis-gh-pages
+hash: sha256:a237607f9992de6e13a77c10a05557cd071425b7bdb6341578b0b83da3d07264
+persona_hint: Defense
+source_path: /usr/share/nodejs/ajv/scripts/travis-gh-pages
+tags:
+- unknown
+tool_name: travis-gh-pages

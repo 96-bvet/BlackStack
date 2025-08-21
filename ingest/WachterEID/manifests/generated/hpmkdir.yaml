@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hpmkdir
+hash: sha256:7f7582a4bb7df0f6bb936d53a4dc1d7f323aa3cd05a730068a613b176d4107d6
+persona_hint: Defense
+source_path: /usr/bin/hpmkdir
+tags:
+- unknown
+tool_name: hpmkdir

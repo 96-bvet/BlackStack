@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tqdm
+hash: sha256:32d60da4cf367cce140331e26a2cf6f5e75fbc7bf8294ffecdf1de96338452e8
+persona_hint: Defense
+source_path: /usr/bin/tqdm
+tags:
+- unknown
+tool_name: tqdm

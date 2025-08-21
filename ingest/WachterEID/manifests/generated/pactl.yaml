@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pactl
+hash: sha256:b5e3fbf4af5985a3a077ee92925135f5cc5b567ba62e9ed2a66cae625540295c
+persona_hint: Defense
+source_path: /usr/bin/pactl
+tags:
+- unknown
+tool_name: pactl

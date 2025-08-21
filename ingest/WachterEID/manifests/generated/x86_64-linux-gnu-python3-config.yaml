@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-python3-config
+hash: sha256:26f4ee5a30768fadcb379393c22968965e1fb8b0acd487903a4595a8f44ed1be
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-python3-config
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-python3-config

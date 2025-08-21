@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tdbdump
+hash: sha256:af34d96c46c1e0c2777b6df8dfef0dadf5d8523b932c5da6b6131c7dccac3ebe
+persona_hint: Defense
+source_path: /usr/bin/tdbdump
+tags:
+- unknown
+tool_name: tdbdump

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bmtoa
+hash: sha256:e105dbd091b0efab20878bb29733697fa1d72f014dc909479a3e9ddc49008764
+persona_hint: Defense
+source_path: /usr/bin/bmtoa
+tags:
+- unknown
+tool_name: bmtoa

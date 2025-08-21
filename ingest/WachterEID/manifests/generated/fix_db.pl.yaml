@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fix_db.pl
+hash: sha256:3023d816728349ffe6647f852722046631f1802737753f75517ebff0461473df
+persona_hint: Defense
+source_path: /usr/share/debconf/fix_db.pl
+tags:
+- unknown
+tool_name: fix_db.pl

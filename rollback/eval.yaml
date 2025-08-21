@@ -1,0 +1,8 @@
+name: eval
+path: benchmarks/eval.py
+type: py
+category: misc
+hash: 113b3142467aef30342979a56d3c6dc92116b86a90ed95d9adc456eae79b250d
+approved: true
+import: true
+license_stub: true

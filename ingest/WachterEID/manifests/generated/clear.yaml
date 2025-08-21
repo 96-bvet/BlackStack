@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clear
+hash: sha256:c6543c0d7d5479fc76c1808f9e5a033b54b67e35f2ec1663b7c354267e2adfb6
+persona_hint: Defense
+source_path: /usr/bin/clear
+tags:
+- unknown
+tool_name: clear

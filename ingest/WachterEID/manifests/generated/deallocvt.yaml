@@ -1,0 +1,7 @@
+description: Auto-generated manifest for deallocvt
+hash: sha256:cd536f80758401c9fc75108f04546ee603dfa06f91edbfa795c239ee89223142
+persona_hint: Defense
+source_path: /usr/bin/deallocvt
+tags:
+- unknown
+tool_name: deallocvt

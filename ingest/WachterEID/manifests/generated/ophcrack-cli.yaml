@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ophcrack-cli
+hash: sha256:e5f95e56051a0a27c997475e3b1ac1579696f75186c18c907384e10fbb81f4d1
+persona_hint: Defense
+source_path: /usr/bin/ophcrack-cli
+tags:
+- unknown
+tool_name: ophcrack-cli

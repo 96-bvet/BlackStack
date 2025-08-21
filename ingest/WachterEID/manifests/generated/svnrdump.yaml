@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnrdump
+hash: sha256:91193e7acb0850a75c17207a20c1c2a9da1ae2816aa1eef8d4f39b75dedbfe3a
+persona_hint: Defense
+source_path: /usr/bin/svnrdump
+tags:
+- unknown
+tool_name: svnrdump

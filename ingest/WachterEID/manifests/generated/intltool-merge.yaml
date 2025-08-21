@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intltool-merge
+hash: sha256:6723b8c5db856b60d77624af5b4da91fea87fb04336b8ac28453fd846f630d03
+persona_hint: Defense
+source_path: /usr/share/intltool-debian/intltool-merge
+tags:
+- unknown
+tool_name: intltool-merge

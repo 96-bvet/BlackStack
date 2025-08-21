@@ -1,0 +1,7 @@
+description: Auto-generated manifest for freshclam
+hash: sha256:7802c142fe4abacb7920eeb15a326086c91ca72187bd39c9db57fc1925554f3b
+persona_hint: Defense
+source_path: /usr/bin/freshclam
+tags:
+- unknown
+tool_name: freshclam

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbtree
+hash: sha256:7456a48ca710a68697f8eb2a80d168fca4688e9ddfa43afe789faa2413d2b41a
+persona_hint: Defense
+source_path: /usr/bin/smbtree
+tags:
+- unknown
+tool_name: smbtree

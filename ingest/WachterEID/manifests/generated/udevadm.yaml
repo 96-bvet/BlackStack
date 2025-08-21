@@ -1,0 +1,7 @@
+description: Auto-generated manifest for udevadm
+hash: sha256:08fcfe81f6d29f04a4deac894e330764444e35b7c72701f896a575b0ed847462
+persona_hint: Defense
+source_path: /usr/bin/udevadm
+tags:
+- unknown
+tool_name: udevadm

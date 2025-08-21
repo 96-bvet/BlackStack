@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zz-busybox
+hash: sha256:cb80ae3bfb866cdfc4372d0a104049017892c85f92dd8b9d3975df2af79fcbf6
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/zz-busybox
+tags:
+- unknown
+tool_name: zz-busybox

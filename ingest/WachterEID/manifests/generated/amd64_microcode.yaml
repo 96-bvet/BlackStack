@@ -1,0 +1,7 @@
+description: Auto-generated manifest for amd64_microcode
+hash: sha256:3c28a710ef8bf1fecefbfaec3f56a9187a26f6564a23c36b10ee712043eab04b
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/amd64_microcode
+tags:
+- unknown
+tool_name: amd64_microcode

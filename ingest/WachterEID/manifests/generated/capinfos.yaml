@@ -1,0 +1,7 @@
+description: Auto-generated manifest for capinfos
+hash: sha256:97a367da16a14bcb832cfa5f75d2731e0f67d2ed5d1ad1eeff6124a65b8e534e
+persona_hint: Defense
+source_path: /usr/bin/capinfos
+tags:
+- unknown
+tool_name: capinfos

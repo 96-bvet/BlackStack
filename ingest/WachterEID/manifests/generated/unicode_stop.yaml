@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unicode_stop
+hash: sha256:25b5f53829d24589a34e573d83b704e4bf9a0e557395d137091155423e3ba106
+persona_hint: Defense
+source_path: /usr/bin/unicode_stop
+tags:
+- unknown
+tool_name: unicode_stop

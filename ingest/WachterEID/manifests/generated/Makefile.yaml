@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Makefile
+hash: sha256:6894b00c70ab9a78ec17b08bad4d78d0027db90c2be732e385fe00a4d0d2dfcf
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/Makefile
+tags:
+- unknown
+tool_name: Makefile

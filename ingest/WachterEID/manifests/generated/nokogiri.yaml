@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nokogiri
+hash: sha256:0e4729e12f865f9f4a25b739d99e09946ea9318abc2a174bd6f6823327cd8d04
+persona_hint: Defense
+source_path: /usr/bin/nokogiri
+tags:
+- unknown
+tool_name: nokogiri

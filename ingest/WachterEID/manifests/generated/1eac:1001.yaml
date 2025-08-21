@@ -1,0 +1,7 @@
+description: Auto-generated manifest for 1eac:1001
+hash: sha256:d568f0e06c8d818cb7f63b54cc3ed93d4b1ab6365e7230ed19a02a2b5c361d41
+persona_hint: Defense
+source_path: /usr/share/ModemManager/fcc-unlock.available.d/1eac:1001
+tags:
+- unknown
+tool_name: 1eac:1001

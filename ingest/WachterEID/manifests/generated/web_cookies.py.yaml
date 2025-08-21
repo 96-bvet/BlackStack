@@ -1,0 +1,7 @@
+description: Auto-generated manifest for web_cookies.py
+hash: sha256:ffe5340f2c13e44b4f31a9aa0365c111b64a5da48d55208a92e658487344f170
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/web_cookies.py
+tags:
+- unknown
+tool_name: web_cookies.py

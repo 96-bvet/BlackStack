@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.cvs
+hash: sha256:de7912cae9fbd583b4792a3dfd496e217524348cb9acfcef2c0b1f18e4cf187a
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.cvs
+tags:
+- unknown
+tool_name: basic.cvs

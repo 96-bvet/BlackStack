@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-appearance-settings
+hash: sha256:d4989bcf74b666e01afc2e9a31eb249adc88d90399fb5ab64fbfcade0d7977af
+persona_hint: Defense
+source_path: /usr/bin/xfce4-appearance-settings
+tags:
+- unknown
+tool_name: xfce4-appearance-settings

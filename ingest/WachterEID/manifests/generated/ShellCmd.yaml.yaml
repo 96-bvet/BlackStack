@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ShellCmd.yaml
+hash: sha256:737523b093aa464de7d6f339a24bb4e0c9e4c50e4e814318d10ea288481a84c3
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/SharpSploit/ShellCmd.yaml
+tags:
+- unknown
+tool_name: ShellCmd.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ipdb3
+hash: sha256:22c7d6806196ff565ba497533090e9d7d4b859c4c934cd707afb9f3ea4433c71
+persona_hint: Defense
+source_path: /usr/bin/ipdb3
+tags:
+- unknown
+tool_name: ipdb3

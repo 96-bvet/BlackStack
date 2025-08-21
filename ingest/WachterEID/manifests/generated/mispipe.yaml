@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mispipe
+hash: sha256:1eb401b2ea808790e069be6abee2929cf9f9bef93cbe8f7dd7ad6d17888b1141
+persona_hint: Defense
+source_path: /usr/bin/mispipe
+tags:
+- unknown
+tool_name: mispipe

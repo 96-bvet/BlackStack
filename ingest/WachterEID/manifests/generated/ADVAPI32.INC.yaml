@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ADVAPI32.INC
+hash: sha256:86ee2f49667432611c9be785a70f63f17bfbc5329f092b454a9b4eb433e13f96
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/PCOUNT/ADVAPI32.INC
+tags:
+- unknown
+tool_name: ADVAPI32.INC

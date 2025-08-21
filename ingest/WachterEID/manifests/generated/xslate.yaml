@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xslate
+hash: sha256:62377b50cd2da314d325d2912882b6bc65fecf6d95660914872014044e25a50c
+persona_hint: Defense
+source_path: /usr/bin/xslate
+tags:
+- unknown
+tool_name: xslate

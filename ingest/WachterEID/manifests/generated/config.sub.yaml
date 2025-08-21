@@ -1,0 +1,7 @@
+description: Auto-generated manifest for config.sub
+hash: sha256:deb02c26f43b2ea64276c9ede77ec0f53d08e6256710f3c0a12275712085c348
+persona_hint: Defense
+source_path: /usr/share/misc/config.sub
+tags:
+- unknown
+tool_name: config.sub

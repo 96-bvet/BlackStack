@@ -1,0 +1,7 @@
+description: Auto-generated manifest for startx
+hash: sha256:d4c0b820b34e0690bca0fe8ee722fc4ca20d1a670a64c8af0dc90cf84f023778
+persona_hint: Defense
+source_path: /usr/bin/startx
+tags:
+- unknown
+tool_name: startx

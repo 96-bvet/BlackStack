@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ischroot
+hash: sha256:5a6f7f1afd73ebb908b673bc9627be9726d6dd50be2c08ab349e16d359defa8c
+persona_hint: Defense
+source_path: /usr/bin/ischroot
+tags:
+- unknown
+tool_name: ischroot

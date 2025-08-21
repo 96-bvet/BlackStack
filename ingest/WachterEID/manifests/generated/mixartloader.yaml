@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mixartloader
+hash: sha256:23dc11b89802e40f001769e423e75789f6cee069526eeed36240dcf5cb83c963
+persona_hint: Defense
+source_path: /usr/bin/mixartloader
+tags:
+- unknown
+tool_name: mixartloader

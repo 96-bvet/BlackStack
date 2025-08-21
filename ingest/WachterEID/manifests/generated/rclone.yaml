@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rclone
+hash: sha256:f6eceb9f7d680e079093cde0a3bcb430ae379f99269ead1f372dbacde604473c
+persona_hint: Defense
+source_path: /usr/bin/rclone
+tags:
+- unknown
+tool_name: rclone

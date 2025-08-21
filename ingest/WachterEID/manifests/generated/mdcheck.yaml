@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdcheck
+hash: sha256:1c318d317bc193e07e27c83dffc45832ca1aeda1f4d99df96e79e16e41a5325c
+persona_hint: Defense
+source_path: /usr/share/mdadm/mdcheck
+tags:
+- unknown
+tool_name: mdcheck

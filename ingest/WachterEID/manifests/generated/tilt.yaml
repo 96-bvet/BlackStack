@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tilt
+hash: sha256:f43cb76e82900cae202be3d83879638e1cc133fb02e5a0e812a944255eaad930
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/tilt-2.5.0/bin/tilt
+tags:
+- unknown
+tool_name: tilt

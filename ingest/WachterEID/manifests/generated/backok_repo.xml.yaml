@@ -1,0 +1,7 @@
+description: Auto-generated manifest for backok_repo.xml
+hash: sha256:6052d7779b041a45f32d4e564588bf92cd5a8c03e85f7f71974b1a8b7be026c9
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/apptapp/backok_repo.xml
+tags:
+- unknown
+tool_name: backok_repo.xml

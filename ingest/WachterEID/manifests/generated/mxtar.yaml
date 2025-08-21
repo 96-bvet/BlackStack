@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mxtar
+hash: sha256:68cde7076f9b718f81d550db63e50e59df38566fa2f267c9770b7c4c152ac943
+persona_hint: Defense
+source_path: /usr/bin/mxtar
+tags:
+- unknown
+tool_name: mxtar

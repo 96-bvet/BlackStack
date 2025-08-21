@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get-edid
+hash: sha256:9b4a2b2e6cb56fb4e794fde73c28136e4ebbc6a108645017eb1a626aca705473
+persona_hint: Defense
+source_path: /usr/bin/get-edid
+tags:
+- unknown
+tool_name: get-edid

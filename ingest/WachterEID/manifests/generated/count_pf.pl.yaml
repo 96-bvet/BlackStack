@@ -1,0 +1,7 @@
+description: Auto-generated manifest for count_pf.pl
+hash: sha256:f512db71e5f83c11782e58f22438111193978fd47c027144eac7b80c58e38645
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/count_pf.pl
+tags:
+- unknown
+tool_name: count_pf.pl

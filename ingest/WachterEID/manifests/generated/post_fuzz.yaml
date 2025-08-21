@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post_fuzz
+hash: sha256:fd93b34ee5e725f14188122c6218ba9168103e35b768713b189dffac5c956584
+persona_hint: Defense
+source_path: /usr/bin/post_fuzz
+tags:
+- unknown
+tool_name: post_fuzz

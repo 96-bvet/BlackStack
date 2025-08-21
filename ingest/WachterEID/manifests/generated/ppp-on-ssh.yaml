@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ppp-on-ssh
+hash: sha256:8bc16120b2398e92ac50c303285b0f589b8f3f88058c83375a4500bab3c2142e
+persona_hint: Defense
+source_path: /usr/share/doc/ppp/examples/scripts/ppp-on-ssh
+tags:
+- unknown
+tool_name: ppp-on-ssh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for winzip.pm
+hash: sha256:df4b4631d89c0c93a8bb4435cab79660c95b5c23f34248721ce5468399caa011
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/winzip.pm
+tags:
+- unknown
+tool_name: winzip.pm

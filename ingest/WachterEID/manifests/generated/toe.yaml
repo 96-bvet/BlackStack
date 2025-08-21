@@ -1,0 +1,7 @@
+description: Auto-generated manifest for toe
+hash: sha256:e3a63d17db7185649a74bacef8cc7362e566fe0b5a551a9b94a62811d7d6d6ad
+persona_hint: Defense
+source_path: /usr/bin/toe
+tags:
+- unknown
+tool_name: toe

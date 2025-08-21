@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sunjava_update.xml
+hash: sha256:8fffabc3c381c00ab161a91d12d4958b37ace45e0196ecdf2caa4da3d606cf7b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/sunjava_update.xml
+tags:
+- unknown
+tool_name: sunjava_update.xml

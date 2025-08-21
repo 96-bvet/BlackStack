@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SharpDPAPI.yaml
+hash: sha256:f1a62d96d69283cfffb11d6623fe549c80e7c3861da8a94dae9291656f64c2dd
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/credentials/SharpDPAPI.yaml
+tags:
+- unknown
+tool_name: SharpDPAPI.yaml

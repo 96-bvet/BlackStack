@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libvulkan.so.1
+hash: sha256:7b74c3b9c5310a06a3200bd864a54467fa2418674925f67bafbf6e68b44b7b0c
+persona_hint: Defense
+source_path: /usr/share/codium/libvulkan.so.1
+tags:
+- unknown
+tool_name: libvulkan.so.1

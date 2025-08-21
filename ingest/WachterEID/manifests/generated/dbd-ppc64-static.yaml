@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbd-ppc64-static
+hash: sha256:2a5560747403275a2e15e946877aa7d53211a047993590a7051c87277d881a59
+persona_hint: Defense
+source_path: /usr/share/dbd/binaries/dbd-ppc64-static
+tags:
+- unknown
+tool_name: dbd-ppc64-static

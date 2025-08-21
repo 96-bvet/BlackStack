@@ -1,0 +1,7 @@
+description: Auto-generated manifest for last
+hash: sha256:6d73f0cc6fe2b708307842fcd499017a82c9136169c82456c3722f805815213f
+persona_hint: Defense
+source_path: /usr/bin/last
+tags:
+- unknown
+tool_name: last

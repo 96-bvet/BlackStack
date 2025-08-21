@@ -1,0 +1,7 @@
+description: Auto-generated manifest for loginctl
+hash: sha256:642f37084ee736269798b4ae78cbed6a9d7d8b2093d7329373b7e38f719c4656
+persona_hint: Defense
+source_path: /usr/bin/loginctl
+tags:
+- unknown
+tool_name: loginctl

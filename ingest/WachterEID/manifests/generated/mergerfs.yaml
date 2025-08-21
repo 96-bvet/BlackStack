@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mergerfs
+hash: sha256:de0f1f4303503b3c1c7499ef10e09282de8eaa6bc08b4e6a68fa3e62a07084f3
+persona_hint: Defense
+source_path: /usr/bin/mergerfs
+tags:
+- unknown
+tool_name: mergerfs

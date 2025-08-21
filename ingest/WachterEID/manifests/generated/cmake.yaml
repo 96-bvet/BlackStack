@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cmake
+hash: sha256:bad2e2bae7a1cc2c885d1aa06f19ae91be6684819aaeaf03f89410cf4854ecea
+persona_hint: Defense
+source_path: /usr/bin/cmake
+tags:
+- unknown
+tool_name: cmake

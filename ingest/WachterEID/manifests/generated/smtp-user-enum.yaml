@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smtp-user-enum
+hash: sha256:945aac91ac04cd4abdffbd594517f8b7b14153241487addd750bf595ff713c8a
+persona_hint: Defense
+source_path: /usr/bin/smtp-user-enum
+tags:
+- unknown
+tool_name: smtp-user-enum

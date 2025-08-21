@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rsync
+hash: sha256:af95c097c72473ced47fcd44520920156501c9d1e234f7aca381c9ffc5380be2
+persona_hint: Defense
+source_path: /usr/bin/rsync
+tags:
+- unknown
+tool_name: rsync

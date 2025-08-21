@@ -1,0 +1,7 @@
+description: Auto-generated manifest for csvdiff
+hash: sha256:ed303a0e6ae9e5395aaff56fca804f9510f578ad21c2c9aaa2f62b800c447735
+persona_hint: Defense
+source_path: /usr/share/doc/libtext-csv-xs-perl/examples/csvdiff
+tags:
+- unknown
+tool_name: csvdiff

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for control
+hash: sha256:0691c10a36aef253614ca9fadaffed3083b346c2c71abff8f0e95a6e0a197c80
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/debian/seed-debian/DEBIAN/control
+tags:
+- unknown
+tool_name: control

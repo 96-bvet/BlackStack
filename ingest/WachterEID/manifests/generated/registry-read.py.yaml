@@ -1,0 +1,7 @@
+description: Auto-generated manifest for registry-read.py
+hash: sha256:485ec4cb8b76e044d7a6563a3c61c696b2342b126b37836ef82f37ec569337b4
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/registry-read.py
+tags:
+- unknown
+tool_name: registry-read.py

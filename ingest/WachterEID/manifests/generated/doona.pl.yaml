@@ -1,0 +1,7 @@
+description: Auto-generated manifest for doona.pl
+hash: sha256:074203fd065376ce8329d31d1600ca6828854b48da6ebb59d48eeb76e3a30a5b
+persona_hint: Defense
+source_path: /usr/share/doona/doona.pl
+tags:
+- unknown
+tool_name: doona.pl

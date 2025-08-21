@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fake_server.py
+hash: sha256:e60308235bc44c8a5fa13eaca57d3c15d0a5d24709da0b7ef1c5bd952f378b13
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/fake_server.py
+tags:
+- unknown
+tool_name: fake_server.py

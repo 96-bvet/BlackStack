@@ -1,0 +1,7 @@
+description: Auto-generated manifest for winexe
+hash: sha256:4fe409782f67ab66378d8629ae50f125972bba371b1a8754b8ff21c81c6ea237
+persona_hint: Defense
+source_path: /usr/bin/winexe
+tags:
+- unknown
+tool_name: winexe

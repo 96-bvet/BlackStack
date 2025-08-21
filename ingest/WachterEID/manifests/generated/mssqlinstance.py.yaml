@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mssqlinstance.py
+hash: sha256:c017080b2caa758922f5baf48818f23f52c54140f642ce978bb2ac674ee07c25
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/mssqlinstance.py
+tags:
+- unknown
+tool_name: mssqlinstance.py

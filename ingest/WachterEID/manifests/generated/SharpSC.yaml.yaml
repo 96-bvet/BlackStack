@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SharpSC.yaml
+hash: sha256:7b819f885cf815746b867f81a83e3bedc7031d0946683f5b50493d5c56f083b8
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSC.yaml
+tags:
+- unknown
+tool_name: SharpSC.yaml

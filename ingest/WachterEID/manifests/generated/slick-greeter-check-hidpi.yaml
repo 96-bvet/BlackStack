@@ -1,0 +1,7 @@
+description: Auto-generated manifest for slick-greeter-check-hidpi
+hash: sha256:95aa3e6e223cdebdba5e4fdaab435ffa2143fa59f07c2fe5043f35db0c0f8ec6
+persona_hint: Defense
+source_path: /usr/bin/slick-greeter-check-hidpi
+tags:
+- unknown
+tool_name: slick-greeter-check-hidpi

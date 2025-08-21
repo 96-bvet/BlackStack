@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-popup-clipman-actions
+hash: sha256:9994bb6264f5f8fe6f669949f1cfc027fb294c6d068555abd90c5f08d30860ba
+persona_hint: Defense
+source_path: /usr/bin/xfce4-popup-clipman-actions
+tags:
+- unknown
+tool_name: xfce4-popup-clipman-actions

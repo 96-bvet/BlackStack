@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gsdj500
+hash: sha256:0cd91333efe62fe105c834145cb3e1d301d54022f6f3546e69e11c51f55bbbc3
+persona_hint: Defense
+source_path: /usr/bin/gsdj500
+tags:
+- unknown
+tool_name: gsdj500

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for metasploit
+hash: sha256:f65fb60087bb605e20c1365875faffbc23437604dd398326b4ba71bbb3b672aa
+persona_hint: Exploit
+source_path: /usr/share/beef-xss/tools/rest_api_examples/metasploit
+tags:
+- red_team
+tool_name: metasploit

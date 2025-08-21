@@ -1,0 +1,7 @@
+description: Auto-generated manifest for desktop-database.trigger
+hash: sha256:775bd494b40328658ae7069bfa32b07000aa482e4a77fbcf769ecaf64925dada
+persona_hint: Defense
+source_path: /usr/share/flatpak/triggers/desktop-database.trigger
+tags:
+- unknown
+tool_name: desktop-database.trigger

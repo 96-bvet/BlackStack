@@ -1,0 +1,7 @@
+description: Auto-generated manifest for canonical
+hash: sha256:f7e76d9014ec3c898f931ea2ece3c4081c770de6fe74cf309a7641852374469e
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-parser-perl/examples/canonical
+tags:
+- unknown
+tool_name: canonical

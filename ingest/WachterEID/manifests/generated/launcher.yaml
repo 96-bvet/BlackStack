@@ -1,0 +1,7 @@
+description: Auto-generated manifest for launcher
+hash: sha256:15f7fa197eb8d78261eb5ac3c168ba335d27c33b4da2e76f89147c38031638c7
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/apptemplateResources/x86/launcher.app/Contents/MacOS/launcher
+tags:
+- unknown
+tool_name: launcher

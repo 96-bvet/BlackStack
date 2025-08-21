@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dumpmscat
+hash: sha256:25cfcd40e499d2448a624e3ef329bbcabb928e0eab4d42213e18b689120a1361
+persona_hint: Defense
+source_path: /usr/bin/dumpmscat
+tags:
+- unknown
+tool_name: dumpmscat

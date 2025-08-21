@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Info.plist
+hash: sha256:78e8718df0f4b6af440f031c870532868b9989e5a2fcee11222da20917203614
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/apptapp/Installer.app/Info.plist
+tags:
+- unknown
+tool_name: Info.plist

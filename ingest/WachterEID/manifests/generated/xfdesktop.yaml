@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfdesktop
+hash: sha256:72c1d27fc3aa9bd28141e6fa0f6de844c6457a7908b6fc40a23ed297d4dffff0
+persona_hint: Defense
+source_path: /usr/bin/xfdesktop
+tags:
+- unknown
+tool_name: xfdesktop

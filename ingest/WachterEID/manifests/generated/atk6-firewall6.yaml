@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-firewall6
+hash: sha256:091485769e1a77668ec1c26c610196fecbfafc72577f7f6e683683e94030a867
+persona_hint: Defense
+source_path: /usr/bin/atk6-firewall6
+tags:
+- unknown
+tool_name: atk6-firewall6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pidof
+hash: sha256:b94dae526b166b173d7f5c33d9c12af9588f5d050361333e0f3abe267c7b18d7
+persona_hint: Defense
+source_path: /usr/bin/pidof
+tags:
+- unknown
+tool_name: pidof

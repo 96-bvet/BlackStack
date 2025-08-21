@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kwalletd5
+hash: sha256:bcaaf5425cf073020e11505499e23ff7b27926990575dd0680b9e8500b7c9158
+persona_hint: Defense
+source_path: /usr/bin/kwalletd5
+tags:
+- unknown
+tool_name: kwalletd5

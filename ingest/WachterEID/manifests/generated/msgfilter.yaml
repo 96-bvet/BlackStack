@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgfilter
+hash: sha256:c59baedfb6ba51ae826c0c24bebafe62703ba245c8a8e2b9407c0656cfe5427a
+persona_hint: Defense
+source_path: /usr/bin/msgfilter
+tags:
+- unknown
+tool_name: msgfilter

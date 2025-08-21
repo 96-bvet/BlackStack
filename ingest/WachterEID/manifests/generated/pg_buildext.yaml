@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_buildext
+hash: sha256:32ba41cd8ba7cfda47a21306f5931cc57480d74ca94a754313dbfa857be87f60
+persona_hint: Defense
+source_path: /usr/bin/pg_buildext
+tags:
+- unknown
+tool_name: pg_buildext

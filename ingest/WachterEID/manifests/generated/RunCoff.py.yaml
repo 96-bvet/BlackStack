@@ -1,0 +1,7 @@
+description: Auto-generated manifest for RunCoff.py
+hash: sha256:e8c83d3a4d21b902fc3a2fac408494338f76d80cd7e05ca3378f47621bdb411b
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/RunCoff.py
+tags:
+- unknown
+tool_name: RunCoff.py

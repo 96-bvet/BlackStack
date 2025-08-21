@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exportimport.py
+hash: sha256:913040a9fd4543be44ddfe85e6bc16895947d0bcc18fd16ee039459cb7a8526c
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/exportimport.py
+tags:
+- unknown
+tool_name: exportimport.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkcs15-init
+hash: sha256:7e57d4aae163ce0412ee5a5ca37992a96eb4cd8ae257f695698a77a53fdb9485
+persona_hint: Defense
+source_path: /usr/bin/pkcs15-init
+tags:
+- unknown
+tool_name: pkcs15-init

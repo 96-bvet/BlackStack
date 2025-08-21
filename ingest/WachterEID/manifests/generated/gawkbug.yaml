@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gawkbug
+hash: sha256:2e81cedde0fbf4aded31f4729ac28a0b1d5482ed1817a980ff5e981936fbbc44
+persona_hint: Defense
+source_path: /usr/bin/gawkbug
+tags:
+- unknown
+tool_name: gawkbug

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for changelog.Debian.gz
+hash: sha256:bec36ed0625e180286110ddaf2f7b90bcc52f4ffb85c1ab6d9c4aca5817b5fa6
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/debian/seed-debian/usr/share/doc/tinnyif/changelog.Debian.gz
+tags:
+- unknown
+tool_name: changelog.Debian.gz

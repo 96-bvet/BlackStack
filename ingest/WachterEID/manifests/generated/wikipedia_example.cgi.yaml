@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wikipedia_example.cgi
+hash: sha256:7ad67085bf8077dd3291b89471e75fcc60ce1e2abd9f415f2d19f8a65083f520
+persona_hint: Defense
+source_path: /usr/share/doc/libcgi-pm-perl/examples/wikipedia_example.cgi
+tags:
+- unknown
+tool_name: wikipedia_example.cgi

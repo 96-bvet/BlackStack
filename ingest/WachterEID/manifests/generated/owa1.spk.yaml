@@ -1,0 +1,7 @@
+description: Auto-generated manifest for owa1.spk
+hash: sha256:f713304a3ed75eb59ef84e115b04e69424ef4b77466fbe7bb72be3d2a700287e
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/owa1.spk
+tags:
+- unknown
+tool_name: owa1.spk

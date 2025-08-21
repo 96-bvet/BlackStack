@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-power-manager-settings
+hash: sha256:f35721aae33ef7ec2380d24ebeef02595562b61063da7130dbaed2e1d35275f3
+persona_hint: Defense
+source_path: /usr/bin/xfce4-power-manager-settings
+tags:
+- unknown
+tool_name: xfce4-power-manager-settings

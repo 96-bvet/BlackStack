@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-keygen
+hash: sha256:b8e394f836ee6bffe0e4dbb355b11597ba18359319fcab6a11d11cc341c59aa5
+persona_hint: Defense
+source_path: /usr/bin/ssh-keygen
+tags:
+- unknown
+tool_name: ssh-keygen

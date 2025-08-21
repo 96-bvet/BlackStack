@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-dumpslow
+hash: sha256:8f9f4397dd035bbf0d193c3ead1b597ee57c84f08425ca60126855043e5d1975
+persona_hint: Defense
+source_path: /usr/bin/mariadb-dumpslow
+tags:
+- unknown
+tool_name: mariadb-dumpslow

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lastlog
+hash: sha256:f7a0bece49a6f8d7441032bd477557a5867eecb75523ea33ce68a0d05bc9ec6c
+persona_hint: Defense
+source_path: /usr/bin/lastlog
+tags:
+- unknown
+tool_name: lastlog

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for googleanalytics.pm
+hash: sha256:4984e791d8e7517895602a8d7135dcbf8823b265cfb6d3c0c5ed79ad06172343
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/googleanalytics.pm
+tags:
+- unknown
+tool_name: googleanalytics.pm

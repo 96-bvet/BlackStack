@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-key
+hash: sha256:88c43d1b6084db154eb111b0992084aad9b2442aeb1b626c6eed5f4ec3d65d07
+persona_hint: Defense
+source_path: /usr/bin/apt-key
+tags:
+- unknown
+tool_name: apt-key

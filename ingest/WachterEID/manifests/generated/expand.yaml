@@ -1,0 +1,7 @@
+description: Auto-generated manifest for expand
+hash: sha256:18303d60bad5cdf52eaa0e6b3ff2d21db8c975a9011d62bdd493381c90a4062c
+persona_hint: Defense
+source_path: /usr/bin/expand
+tags:
+- unknown
+tool_name: expand

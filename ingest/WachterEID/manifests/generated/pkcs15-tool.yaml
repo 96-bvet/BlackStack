@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkcs15-tool
+hash: sha256:ded1f50220d7bdf472d2ddcc4f2515becc6a784a17d69ae8650c319616d3db3f
+persona_hint: Defense
+source_path: /usr/bin/pkcs15-tool
+tags:
+- unknown
+tool_name: pkcs15-tool

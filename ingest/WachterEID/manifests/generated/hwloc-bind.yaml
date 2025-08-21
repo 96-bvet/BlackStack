@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-bind
+hash: sha256:e22aad9a647beee3e81a0919a6a416bdcca13a22d0c00112a03bfe8885d201be
+persona_hint: Defense
+source_path: /usr/bin/hwloc-bind
+tags:
+- unknown
+tool_name: hwloc-bind

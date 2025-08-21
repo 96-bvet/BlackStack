@@ -1,0 +1,7 @@
+description: Auto-generated manifest for overview.nft
+hash: sha256:447652779693d7955442991ad6cfa644ebc7f57517f1510bfe9ad84445995a2c
+persona_hint: Defense
+source_path: /usr/share/doc/nftables/examples/overview.nft
+tags:
+- unknown
+tool_name: overview.nft

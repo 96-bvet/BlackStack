@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openssl
+hash: sha256:a4bbb2131b9919b3cb0b580c5467d3b08535e0571b763b55f9d7a7cdc358f5ec
+persona_hint: Defense
+source_path: /usr/bin/openssl
+tags:
+- unknown
+tool_name: openssl

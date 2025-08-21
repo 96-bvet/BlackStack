@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opensc-explorer
+hash: sha256:d9ba624da0653e9bb2b2bd34ed249462b573b177ae3aa91d317ffae65504a451
+persona_hint: Defense
+source_path: /usr/bin/opensc-explorer
+tags:
+- unknown
+tool_name: opensc-explorer

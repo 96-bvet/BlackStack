@@ -1,0 +1,7 @@
+description: Auto-generated manifest for md5sum
+hash: sha256:cedc25468f8df2346c58cd796c44a42560e08823890fc905b2454d0eea97426e
+persona_hint: Defense
+source_path: /usr/bin/md5sum
+tags:
+- unknown
+tool_name: md5sum

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sambaPipe.py
+hash: sha256:939a0707d741552a93924f8a7b14a3d3afa139a895ae5626aed9819948a963c4
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/sambaPipe.py
+tags:
+- unknown
+tool_name: sambaPipe.py

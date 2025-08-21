@@ -1,0 +1,8 @@
+name: basic_usage
+path: examples/cai/basic_usage.py
+type: py
+category: misc
+hash: fc9b0d62dc16a0971f15c869b7375b85682b8b74353cbe56ad0c94e0a44bac72
+approved: true
+import: true
+license_stub: true

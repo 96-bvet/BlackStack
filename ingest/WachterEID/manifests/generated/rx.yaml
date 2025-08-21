@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rx
+hash: sha256:1befa3f4e8fd3c59611fa35215f156a3eca40033e463d57364c3f383730d8a3a
+persona_hint: Defense
+source_path: /usr/bin/rx
+tags:
+- unknown
+tool_name: rx

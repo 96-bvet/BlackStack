@@ -1,0 +1,7 @@
+description: Auto-generated manifest for print-script
+hash: sha256:fa0b205cf570b3d0bc42070ca90f6d1c4a4877e499ee6115fceb3d6969e53cf4
+persona_hint: Defense
+source_path: /usr/share/nodejs/handlebars/print-script
+tags:
+- unknown
+tool_name: print-script

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rq
+hash: sha256:bf85101d6ca62a96b6817f9807ca051094ddf16fca3e247a5e4ccdc0593a6c63
+persona_hint: Defense
+source_path: /usr/bin/rq
+tags:
+- unknown
+tool_name: rq

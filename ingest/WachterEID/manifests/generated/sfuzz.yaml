@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sfuzz
+hash: sha256:94e2669fb4453e86b3e4b16aa7bde12d222ee639ae41b07522ba10b7c793a237
+persona_hint: Defense
+source_path: /usr/bin/sfuzz
+tags:
+- unknown
+tool_name: sfuzz

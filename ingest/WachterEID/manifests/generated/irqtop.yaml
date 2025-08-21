@@ -1,0 +1,7 @@
+description: Auto-generated manifest for irqtop
+hash: sha256:6277ae2a7b0c7e3d3bdc048934d973b9235122c59227a208629f25a5613ef54d
+persona_hint: Defense
+source_path: /usr/share/doc/sysstat/examples/irqtop
+tags:
+- unknown
+tool_name: irqtop

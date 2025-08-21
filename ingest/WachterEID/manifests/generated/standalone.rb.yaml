@@ -1,0 +1,7 @@
+description: Auto-generated manifest for standalone.rb
+hash: sha256:52d5299bbe8887cd674dce933373707e919d0f9d86b3b23073dbb67fe60bad79
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/bench/standalone.rb
+tags:
+- unknown
+tool_name: standalone.rb

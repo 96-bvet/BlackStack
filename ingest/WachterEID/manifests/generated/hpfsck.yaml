@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hpfsck
+hash: sha256:82b5373a3daad56f6fb3acaec444eb5698ca4f2d620a81f6037aa99812d27ec1
+persona_hint: Defense
+source_path: /usr/bin/hpfsck
+tags:
+- unknown
+tool_name: hpfsck

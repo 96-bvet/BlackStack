@@ -1,0 +1,7 @@
+description: Auto-generated manifest for git-upload-archive
+hash: sha256:00c84136d8294294580daa32f25b3e83ddb8341e9b5b70722e4c9a973ba5f749
+persona_hint: Defense
+source_path: /usr/bin/git-upload-archive
+tags:
+- unknown
+tool_name: git-upload-archive

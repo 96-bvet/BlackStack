@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bump-changelog
+hash: sha256:1d27f616ff2ba8870f8ba117598ea532d14aa542ad129b2cac6312de275cf2ca
+persona_hint: Defense
+source_path: /usr/share/nodejs/babel-plugin-transform-replace-object-assign/bump-changelog
+tags:
+- unknown
+tool_name: bump-changelog

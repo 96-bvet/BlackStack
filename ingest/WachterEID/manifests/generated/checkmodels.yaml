@@ -1,0 +1,7 @@
+description: Auto-generated manifest for checkmodels
+hash: sha256:ac5d79ed497361e55de139e26c8c5cf3aeabe1db7ee99d74f5873423c24f4ae7
+persona_hint: Defense
+source_path: /usr/share/onboard/tools/checkmodels
+tags:
+- unknown
+tool_name: checkmodels

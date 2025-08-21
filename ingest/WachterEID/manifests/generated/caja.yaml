@@ -1,0 +1,7 @@
+description: Auto-generated manifest for caja
+hash: sha256:323fed4f3c1bf58699d40e9d53a7a45b922809bfef6baef670fcf1d5dccc8ddc
+persona_hint: Defense
+source_path: /usr/bin/caja
+tags:
+- unknown
+tool_name: caja

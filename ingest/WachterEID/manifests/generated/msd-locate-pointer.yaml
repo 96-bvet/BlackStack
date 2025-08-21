@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msd-locate-pointer
+hash: sha256:37a5f8dd974d122da2af7511682b02a6e469733a530702795a8e656f3863f9ee
+persona_hint: Defense
+source_path: /usr/bin/msd-locate-pointer
+tags:
+- unknown
+tool_name: msd-locate-pointer

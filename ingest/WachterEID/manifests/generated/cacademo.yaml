@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cacademo
+hash: sha256:6ce89d01f6a7a3d08537da37660327233b440b4787efbe8f4217ecd6d504d74a
+persona_hint: Defense
+source_path: /usr/bin/cacademo
+tags:
+- unknown
+tool_name: cacademo

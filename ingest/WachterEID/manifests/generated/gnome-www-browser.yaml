@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gnome-www-browser
+hash: sha256:a75e953fc0fa6108e4fbe67fc9ab8ff8800b851f914b63504a4e26a431b7b22f
+persona_hint: Defense
+source_path: /usr/bin/gnome-www-browser
+tags:
+- unknown
+tool_name: gnome-www-browser

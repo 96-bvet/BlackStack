@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ul
+hash: sha256:d296f1e13fff24638ead63b3bec324ee520dc272842ac7112ec1eab1c6c66a8b
+persona_hint: Defense
+source_path: /usr/bin/ul
+tags:
+- unknown
+tool_name: ul

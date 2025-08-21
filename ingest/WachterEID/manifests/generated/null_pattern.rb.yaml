@@ -1,0 +1,7 @@
+description: Auto-generated manifest for null_pattern.rb
+hash: sha256:20d94f88c5a43a8ea6506eb582b80b91d3cdf50ef95d6c4d8a34b0b0301262ac
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/tins-1.37.1/examples/null_pattern.rb
+tags:
+- unknown
+tool_name: null_pattern.rb

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for req1.spk
+hash: sha256:6b494b1e72d3687edea3559576fc4eb58173e0bceffa2f6e166059e14e50517b
+persona_hint: Defense
+source_path: /usr/share/spike/audits/BIZTALK2000/req1.spk
+tags:
+- unknown
+tool_name: req1.spk

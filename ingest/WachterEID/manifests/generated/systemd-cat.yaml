@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-cat
+hash: sha256:f996ed35306ef5a760c2f32bd4adeb0a12d77f9a8749996416c4b16ef308d4e1
+persona_hint: Defense
+source_path: /usr/bin/systemd-cat
+tags:
+- unknown
+tool_name: systemd-cat

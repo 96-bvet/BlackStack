@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-wm
+hash: sha256:1032b3423b63d0fca928e217354701bcd38d4532921462b2fe075a7e1e1ab610
+persona_hint: Defense
+source_path: /usr/bin/mate-wm
+tags:
+- unknown
+tool_name: mate-wm

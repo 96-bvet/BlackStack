@@ -1,0 +1,7 @@
+description: Auto-generated manifest for efibootmgr
+hash: sha256:9068e9ca7fd450974837b9e63439b4eeba82c5495f7637e5ce996d67f5e4eccc
+persona_hint: Defense
+source_path: /usr/bin/efibootmgr
+tags:
+- unknown
+tool_name: efibootmgr

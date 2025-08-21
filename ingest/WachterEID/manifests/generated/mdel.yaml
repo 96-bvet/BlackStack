@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdel
+hash: sha256:f13f9455a6343218504592733c4f5e6373e4512fedf6d17c8e54d00aec8a2129
+persona_hint: Defense
+source_path: /usr/bin/mdel
+tags:
+- unknown
+tool_name: mdel

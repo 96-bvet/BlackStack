@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hpls
+hash: sha256:ec85b88c3ea728b8424aed615b58e1633ca7aeb157ed135ca707d50ce9bb9d8a
+persona_hint: Defense
+source_path: /usr/bin/hpls
+tags:
+- unknown
+tool_name: hpls

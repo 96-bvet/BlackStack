@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reverse
+hash: sha256:3a2e9cb1d2ae5be31bed021198ede1af08fa2965e01243c692e86d08a58599b6
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debtags/reverse
+tags:
+- unknown
+tool_name: reverse

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mkfont
+hash: sha256:8ddb4b21edc54e241cfe632d9ea60d2b1e0b3d0a1f09f90f136bf2cb5bb55226
+persona_hint: Defense
+source_path: /usr/bin/grub-mkfont
+tags:
+- unknown
+tool_name: grub-mkfont

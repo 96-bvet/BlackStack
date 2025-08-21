@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-mouse-properties
+hash: sha256:e3a042d178bb4c0c7fce46a10a524f5d8996b2aa91c800841ac9b22a22c969a2
+persona_hint: Defense
+source_path: /usr/bin/mate-mouse-properties
+tags:
+- unknown
+tool_name: mate-mouse-properties

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for services.py
+hash: sha256:e12eb26c9601a4c71ca844ad1bbb294a6b560b3d545cdb46eb8354f86931c447
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/services.py
+tags:
+- unknown
+tool_name: services.py

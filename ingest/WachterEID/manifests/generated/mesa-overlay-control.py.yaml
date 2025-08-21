@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mesa-overlay-control.py
+hash: sha256:2bc94a838efe43b359dbbd3451cfb15aa3f196af438bced90a1357cf729d321a
+persona_hint: Defense
+source_path: /usr/bin/mesa-overlay-control.py
+tags:
+- unknown
+tool_name: mesa-overlay-control.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for python3.11
+hash: sha256:a83c0370d91532c96d4060a0e7c107d1f2889dad8a98e03395e86ef0373fd467
+persona_hint: Defense
+source_path: /usr/bin/python3.11
+tags:
+- unknown
+tool_name: python3.11

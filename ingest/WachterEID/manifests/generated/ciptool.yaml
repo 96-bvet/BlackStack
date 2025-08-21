@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ciptool
+hash: sha256:2f4e1dc596a50036f421c83c94cf4d4d9a7e4b86c35fe87a57a6e762f157683d
+persona_hint: Defense
+source_path: /usr/bin/ciptool
+tags:
+- unknown
+tool_name: ciptool

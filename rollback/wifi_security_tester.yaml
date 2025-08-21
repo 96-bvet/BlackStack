@@ -1,0 +1,16 @@
+name: wifi_security_tester
+path: src/cai/agents/wifi_security_tester.py
+type: py
+category: cybersecurity
+hash: d5c0ded71fb0f1c99b379a7c8b3c1a076d4ea00750ff8d5328ce4af8ad8ac526
+approved: true
+import: true
+license_stub: true
+name: wifi_security_tester
+path: src/cai/agents/wifi_security_tester.py
+type: py
+category: cybersecurity
+hash: d5c0ded71fb0f1c99b379a7c8b3c1a076d4ea00750ff8d5328ce4af8ad8ac526
+approved: true
+import: true
+license_stub: true

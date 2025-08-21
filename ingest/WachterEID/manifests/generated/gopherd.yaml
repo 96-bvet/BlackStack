@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gopherd
+hash: sha256:e46160d09050ff8d53568bab401c5ae281112a026610a77decddde480a716a0b
+persona_hint: Defense
+source_path: /usr/bin/gopherd
+tags:
+- unknown
+tool_name: gopherd

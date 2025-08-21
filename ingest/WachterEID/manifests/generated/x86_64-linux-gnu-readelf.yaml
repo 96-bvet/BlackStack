@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-readelf
+hash: sha256:afa25ff2dc25a71b79e853b9e3a9abb7b4e8c83efac17c0a637cbbb687442a4f
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-readelf
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-readelf

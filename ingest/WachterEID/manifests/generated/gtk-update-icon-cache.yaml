@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk-update-icon-cache
+hash: sha256:21e264d5e9b422403b9132a5839df699f99f6d870852fcefc5c35c02b031b7a0
+persona_hint: Defense
+source_path: /usr/bin/gtk-update-icon-cache
+tags:
+- unknown
+tool_name: gtk-update-icon-cache

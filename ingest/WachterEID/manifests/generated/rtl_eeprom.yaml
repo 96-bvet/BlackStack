@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_eeprom
+hash: sha256:a089cb03051e2c4c3c7abbaa2310356729a8942d20590bcfd0cfde1d977f0a7d
+persona_hint: Defense
+source_path: /usr/bin/rtl_eeprom
+tags:
+- unknown
+tool_name: rtl_eeprom

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for runc
+hash: sha256:9a87d5bcdd630ec420ec56a6c21b70aa6960edcefe1cf4bb181cee290bdd6b98
+persona_hint: Defense
+source_path: /usr/bin/runc
+tags:
+- unknown
+tool_name: runc

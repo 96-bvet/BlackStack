@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt.postgresql.org.sh
+hash: sha256:69119d49246b48ca2fa285a3510a517f1ba58dfe31dbcd675de13e9730bb5ffd
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+tags:
+- unknown
+tool_name: apt.postgresql.org.sh

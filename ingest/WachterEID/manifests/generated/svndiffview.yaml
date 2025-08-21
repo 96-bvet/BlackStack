@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svndiffview
+hash: sha256:de8f2cae7b2b95489c0a24504222f3741223446d8bf6667d0a6cacf71fefb3e5
+persona_hint: Defense
+source_path: /usr/bin/svndiffview
+tags:
+- unknown
+tool_name: svndiffview

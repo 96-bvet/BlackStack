@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpack
+hash: sha256:1fb88594029b152402f8a881f7380a342fbb59071f38f1036be802ed10debbba
+persona_hint: Defense
+source_path: /usr/bin/cpack
+tags:
+- unknown
+tool_name: cpack

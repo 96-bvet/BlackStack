@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbspool
+hash: sha256:12b1a9a42219533bbb8676856b1baa773ae593c58f19d0951dfc28cc809fb88c
+persona_hint: Defense
+source_path: /usr/bin/smbspool
+tags:
+- unknown
+tool_name: smbspool

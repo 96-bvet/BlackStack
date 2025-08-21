@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shell.py
+hash: sha256:34d149b2ee012441955cbfd27429cfcacbde264ed531ce5b77e11760c97da091
+persona_hint: Defense
+source_path: /usr/share/laudanum/helpers/shell.py
+tags:
+- unknown
+tool_name: shell.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tzselect
+hash: sha256:778eb8ab88be0f1412f17880bdecbfbcd540d8d6e97d464d5c94c8137c53c5d3
+persona_hint: Defense
+source_path: /usr/bin/tzselect
+tags:
+- unknown
+tool_name: tzselect

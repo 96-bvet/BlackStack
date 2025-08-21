@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsfd
+hash: sha256:86d85b4cd89da4d1313cd3fb72e35e025614359fcee4336b8643d4743dd894fb
+persona_hint: Defense
+source_path: /usr/bin/lsfd
+tags:
+- unknown
+tool_name: lsfd

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lzip-compressor
+hash: sha256:d6449817ea6f10621e554aea285e97a932ed9395dd5b2eede8582fb56a59f367
+persona_hint: Defense
+source_path: /usr/bin/lzip-compressor
+tags:
+- unknown
+tool_name: lzip-compressor

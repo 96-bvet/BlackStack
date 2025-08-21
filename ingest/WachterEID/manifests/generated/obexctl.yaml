@@ -1,0 +1,7 @@
+description: Auto-generated manifest for obexctl
+hash: sha256:c7f78fde1c6c2aee53ebe761e8fdc9f6ded323e9f109640463cb383a06a2450b
+persona_hint: Defense
+source_path: /usr/bin/obexctl
+tags:
+- unknown
+tool_name: obexctl

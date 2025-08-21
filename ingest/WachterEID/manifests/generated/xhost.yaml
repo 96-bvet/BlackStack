@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xhost
+hash: sha256:dfda731d4559d8d1d4572515d4558a41cedc5b2032e00182d19b92dc204b6d91
+persona_hint: Defense
+source_path: /usr/bin/xhost
+tags:
+- unknown
+tool_name: xhost

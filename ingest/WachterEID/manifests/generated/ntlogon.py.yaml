@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntlogon.py
+hash: sha256:ac129ecd34b098664750a3c1b871c37606162d573b2a371c743dcb24086cfd61
+persona_hint: Defense
+source_path: /usr/share/doc/samba/examples/logon/ntlogon/ntlogon.py
+tags:
+- unknown
+tool_name: ntlogon.py

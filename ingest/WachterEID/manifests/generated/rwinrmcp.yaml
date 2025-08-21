@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rwinrmcp
+hash: sha256:9695f791e9ef8a91fd25f899348f3a5b92cd31a06a11ad9e7783e330ffaec304
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/winrm-fs-1.3.5/bin/rwinrmcp
+tags:
+- unknown
+tool_name: rwinrmcp

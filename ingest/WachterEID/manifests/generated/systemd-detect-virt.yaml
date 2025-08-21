@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-detect-virt
+hash: sha256:f7ec1ae3bf8407317b057d223f90a26829088205c991df11d229545ad227d354
+persona_hint: Defense
+source_path: /usr/bin/systemd-detect-virt
+tags:
+- unknown
+tool_name: systemd-detect-virt

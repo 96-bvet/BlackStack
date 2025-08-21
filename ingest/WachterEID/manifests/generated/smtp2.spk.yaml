@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smtp2.spk
+hash: sha256:bb8d26979c59a10d38b1b490f3aa62685244d3bd79c2e6c485e07ea42f0360ae
+persona_hint: Defense
+source_path: /usr/share/spike/audits/SMTP/smtp2.spk
+tags:
+- unknown
+tool_name: smtp2.spk

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bzmore
+hash: sha256:0e7ca63849eebc9ea476ea1fefab05e60b0ac8066f73c7d58e8ff607c941f212
+persona_hint: Defense
+source_path: /usr/bin/bzmore
+tags:
+- unknown
+tool_name: bzmore

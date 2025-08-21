@@ -1,0 +1,7 @@
+description: Auto-generated manifest for counter.pl
+hash: sha256:3c192652ef6ec23d501662bd18f6b75ef62226d1588e5ca6cec618b8a89cdbab
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-sax-expat-perl/examples/counter.pl
+tags:
+- unknown
+tool_name: counter.pl

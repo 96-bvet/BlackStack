@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbstatus
+hash: sha256:42818e2b994cd7c8f4f75bc5a4cc297f4af697c48bd5e8696fe285087cc6451d
+persona_hint: Defense
+source_path: /usr/bin/smbstatus
+tags:
+- unknown
+tool_name: smbstatus

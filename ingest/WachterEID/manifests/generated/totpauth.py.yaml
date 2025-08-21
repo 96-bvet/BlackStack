@@ -1,0 +1,7 @@
+description: Auto-generated manifest for totpauth.py
+hash: sha256:74ecce696ceaa7172b618b9b690852643f5130fae6b3b0ef94e605d02eda4af6
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-scripts/totpauth.py
+tags:
+- unknown
+tool_name: totpauth.py

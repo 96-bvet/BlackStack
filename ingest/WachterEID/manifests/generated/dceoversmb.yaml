@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dceoversmb
+hash: sha256:50f8c69236de6631fd94bf0f676a04126a79c6b357fa52f37970372ba0843fd3
+persona_hint: Defense
+source_path: /usr/bin/dceoversmb
+tags:
+- unknown
+tool_name: dceoversmb

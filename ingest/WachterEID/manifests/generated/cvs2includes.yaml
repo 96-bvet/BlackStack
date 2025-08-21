@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cvs2includes
+hash: sha256:6b49521110a0dbcc22d34061b2617675a28f03584ce5df78c4873174f922cef4
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/cvs2includes
+tags:
+- unknown
+tool_name: cvs2includes

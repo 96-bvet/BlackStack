@@ -1,0 +1,7 @@
+description: Auto-generated manifest for macof
+hash: sha256:ba5e43a782b1215c3c3d2180959474d428cd22793bc2f6655bd7d70a63d17138
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/macof
+tags:
+- unknown
+tool_name: macof

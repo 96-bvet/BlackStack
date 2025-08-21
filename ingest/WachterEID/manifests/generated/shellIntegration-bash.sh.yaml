@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shellIntegration-bash.sh
+hash: sha256:5f7bf8baacddff3d6badbdad405902739afb9b6d27c4e650393e878b01f7a983
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+tags:
+- unknown
+tool_name: shellIntegration-bash.sh

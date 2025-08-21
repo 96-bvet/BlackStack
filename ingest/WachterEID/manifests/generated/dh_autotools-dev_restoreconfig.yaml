@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_autotools-dev_restoreconfig
+hash: sha256:22e562809af4d931efb4dc333b45622df506de41ae233e297e754ff7907a98a5
+persona_hint: Defense
+source_path: /usr/bin/dh_autotools-dev_restoreconfig
+tags:
+- unknown
+tool_name: dh_autotools-dev_restoreconfig

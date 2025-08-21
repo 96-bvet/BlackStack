@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kglobalaccel5
+hash: sha256:fea0a8929b527f545836a68a0c71c42f3739f7a74478b97cb46c4bf03dcc7f2c
+persona_hint: Defense
+source_path: /usr/bin/kglobalaccel5
+tags:
+- unknown
+tool_name: kglobalaccel5

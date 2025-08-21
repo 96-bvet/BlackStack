@@ -1,0 +1,7 @@
+description: Auto-generated manifest for npm-arborist
+hash: sha256:c59004ce604292e57c6e005f9de73685726d83ce9b77c24578500deb5c87cbfb
+persona_hint: Defense
+source_path: /usr/bin/npm-arborist
+tags:
+- unknown
+tool_name: npm-arborist

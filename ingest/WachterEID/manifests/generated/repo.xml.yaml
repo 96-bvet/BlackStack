@@ -1,0 +1,7 @@
+description: Auto-generated manifest for repo.xml
+hash: sha256:6fcf4972512355a6f3494a42553d561690eee26326a2351ae282ecf72e3ac91f
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/apptapp/repo.xml
+tags:
+- unknown
+tool_name: repo.xml

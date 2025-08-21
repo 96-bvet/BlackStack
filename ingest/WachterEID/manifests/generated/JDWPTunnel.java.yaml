@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JDWPTunnel.java
+hash: sha256:33dc658c4370ac9c7584b134fba0c3c1d77ea6458422adef0a944f4e4bb8bc84
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stager/JDWPTunnel.java
+tags:
+- unknown
+tool_name: JDWPTunnel.java

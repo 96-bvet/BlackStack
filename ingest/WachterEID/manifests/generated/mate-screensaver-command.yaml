@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-screensaver-command
+hash: sha256:2a2328fa94c987ca421edacc331b744984ac2aabb6bba84ebc86bc567454f3a3
+persona_hint: Defense
+source_path: /usr/bin/mate-screensaver-command
+tags:
+- unknown
+tool_name: mate-screensaver-command

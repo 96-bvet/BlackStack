@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpbridge
+hash: sha256:d7bb976acb68295729a07e53d9a6ac417de70492a9524aceeea45bbfdd53a1b9
+persona_hint: Defense
+source_path: /usr/bin/tcpbridge
+tags:
+- unknown
+tool_name: tcpbridge

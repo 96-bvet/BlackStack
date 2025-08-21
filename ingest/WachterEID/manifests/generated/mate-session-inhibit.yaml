@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-session-inhibit
+hash: sha256:3ea94fb8018d03793b6dc9f5be446827b9fad136e0837a6217188247a542e42d
+persona_hint: Defense
+source_path: /usr/bin/mate-session-inhibit
+tags:
+- unknown
+tool_name: mate-session-inhibit

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post23.txt
+hash: sha256:1193bb64d6c342ab7d2769072743f854dd07f5203cac487a4e446b8cd82e96a7
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post23.txt
+tags:
+- unknown
+tool_name: post23.txt

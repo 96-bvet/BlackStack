@@ -1,0 +1,7 @@
+description: Auto-generated manifest for emailharvester
+hash: sha256:dab27a9650a08f5ea2e3f9ee6cd29b36c691f5b546d534c2978ae84bec6403ae
+persona_hint: Defense
+source_path: /usr/bin/emailharvester
+tags:
+- unknown
+tool_name: emailharvester

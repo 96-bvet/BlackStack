@@ -1,0 +1,7 @@
+description: Auto-generated manifest for notify-send
+hash: sha256:d88f28645ecc1234afef0d24d2c6d0fd5f0bb0ff15afc70227bac02734703f80
+persona_hint: Defense
+source_path: /usr/bin/notify-send
+tags:
+- unknown
+tool_name: notify-send

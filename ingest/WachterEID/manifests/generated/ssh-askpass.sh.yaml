@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-askpass.sh
+hash: sha256:18956ea4471dfb6238a27f9f333723b62f5b280fb19ee2fdd8b9169357d644b2
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/extensions/git/dist/ssh-askpass.sh
+tags:
+- unknown
+tool_name: ssh-askpass.sh

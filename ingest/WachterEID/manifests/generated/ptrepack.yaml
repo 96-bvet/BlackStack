@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ptrepack
+hash: sha256:85886a24b47dc6bbf51907c6c732a790613f7d963d0a22a6d35bcef183f43b72
+persona_hint: Defense
+source_path: /usr/bin/ptrepack
+tags:
+- unknown
+tool_name: ptrepack

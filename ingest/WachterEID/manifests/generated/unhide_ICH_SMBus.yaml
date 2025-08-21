@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unhide_ICH_SMBus
+hash: sha256:4dcd2aa0becc4476c76f88a81e8fb1b83614497d798db9d56ee5a0e15ff11ff1
+persona_hint: Defense
+source_path: /usr/share/doc/lm-sensors/examples/hotplug/unhide_ICH_SMBus
+tags:
+- unknown
+tool_name: unhide_ICH_SMBus

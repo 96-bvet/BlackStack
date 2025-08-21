@@ -1,0 +1,16 @@
+name: red_teamer
+path: src/cai/agents/red_teamer.py
+type: py
+category: cybersecurity
+hash: f3a6bce4e116266c471942292f31e120b25f105fd265f077a1939c443ed20933
+approved: true
+import: true
+license_stub: true
+name: red_teamer
+path: src/cai/agents/red_teamer.py
+type: py
+category: cybersecurity
+hash: f3a6bce4e116266c471942292f31e120b25f105fd265f077a1939c443ed20933
+approved: true
+import: true
+license_stub: true

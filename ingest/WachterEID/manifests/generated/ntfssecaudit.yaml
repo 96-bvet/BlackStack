@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfssecaudit
+hash: sha256:64e491c1420e5d3f0bc17cca614bb24a2c148864114e6811e383eb7ce3f6ef37
+persona_hint: Defense
+source_path: /usr/bin/ntfssecaudit
+tags:
+- unknown
+tool_name: ntfssecaudit

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-objcopy
+hash: sha256:3164c828c83d8bd1e362e5b9b4930998aca75d3b085293b9e292baa1c4262064
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-objcopy
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-objcopy

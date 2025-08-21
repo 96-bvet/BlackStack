@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-mergechangelogs
+hash: sha256:1bc11d11dfb306bf7659dae07d8c6bf0b8ea043a55dd8c0925732e7521e43540
+persona_hint: Defense
+source_path: /usr/bin/dpkg-mergechangelogs
+tags:
+- unknown
+tool_name: dpkg-mergechangelogs

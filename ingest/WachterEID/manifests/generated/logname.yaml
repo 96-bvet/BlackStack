@@ -1,0 +1,7 @@
+description: Auto-generated manifest for logname
+hash: sha256:924fa150fdb9389bbf51e5815b75225792894b69f575cb56f2fa91e119b96c21
+persona_hint: Defense
+source_path: /usr/bin/logname
+tags:
+- unknown
+tool_name: logname

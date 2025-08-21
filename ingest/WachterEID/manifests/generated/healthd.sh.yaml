@@ -1,0 +1,7 @@
+description: Auto-generated manifest for healthd.sh
+hash: sha256:d054086ccfe37f95af01d6f51dfae45396af2043f5fc3643c4becff66b082126
+persona_hint: Defense
+source_path: /usr/share/doc/lm-sensors/examples/daemon/healthd.sh
+tags:
+- unknown
+tool_name: healthd.sh

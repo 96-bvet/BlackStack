@@ -1,0 +1,16 @@
+name: offsec
+path: src/cai/agents/patterns/offsec.py
+type: py
+category: misc
+hash: bb6f6340d17374fd039cfdcb8826d27f4f12481b035c0f662168dd715de94db8
+approved: true
+import: true
+license_stub: true
+name: offsec
+path: src/cai/agents/patterns/offsec.py
+type: py
+category: misc
+hash: bb6f6340d17374fd039cfdcb8826d27f4f12481b035c0f662168dd715de94db8
+approved: true
+import: true
+license_stub: true

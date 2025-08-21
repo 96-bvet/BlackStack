@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perlivp
+hash: sha256:c4fe5bfad730b3cfdf699be4c6e7ad99d8d34b1e50ddd2f3b7ee40a57de02347
+persona_hint: Defense
+source_path: /usr/bin/perlivp
+tags:
+- unknown
+tool_name: perlivp

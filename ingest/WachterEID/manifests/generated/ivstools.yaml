@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ivstools
+hash: sha256:7c143151fd0961c13032a228cd240350223dd45961450a00937c5cd4c9888a95
+persona_hint: Defense
+source_path: /usr/bin/ivstools
+tags:
+- unknown
+tool_name: ivstools

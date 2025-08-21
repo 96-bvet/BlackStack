@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mimikatz
+hash: sha256:858c21efc184dfd8de9168d5ce22c4284ce9cedc82d131d4d1439cdd680f1e02
+persona_hint: Defense
+source_path: /usr/bin/mimikatz
+tags:
+- unknown
+tool_name: mimikatz

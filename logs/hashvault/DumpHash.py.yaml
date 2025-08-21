@@ -1,0 +1,7 @@
+description: Auto-generated manifest for DumpHash.py
+hash: sha256:112f25b261ab6440cd03b98bcdc9cf3f05f6c12d70cc2c2512807f5d92f406e7
+persona_hint: Defense
+source_path: /usr/share/responder/DumpHash.py
+tags:
+- unknown
+tool_name: DumpHash.py

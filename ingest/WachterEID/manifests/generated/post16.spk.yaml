@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post16.spk
+hash: sha256:e4ab7230c8cf32ad6666fb185c62f817f603cf646acc56b71c60c7e8b59d4f78
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post16.spk
+tags:
+- unknown
+tool_name: post16.spk

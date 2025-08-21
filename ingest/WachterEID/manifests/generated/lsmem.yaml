@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsmem
+hash: sha256:e4960401262f9ae0a596c54e5fb1a953fe2727ec368126c8d6f6beeb244919cc
+persona_hint: Defense
+source_path: /usr/bin/lsmem
+tags:
+- unknown
+tool_name: lsmem

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for out2.txt
+hash: sha256:3c01a6126b768da0530c227faeb9ab8e8b5fc198e069c33b07d523304f4c9a4a
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/out2.txt
+tags:
+- unknown
+tool_name: out2.txt

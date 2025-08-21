@@ -1,0 +1,7 @@
+description: Auto-generated manifest for files-to-excludes
+hash: sha256:c0ab8f1e696ff0d90db4a15ec9555f2ad6ec2a9ba61ee424f289383a55332d0a
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/files-to-excludes
+tags:
+- unknown
+tool_name: files-to-excludes

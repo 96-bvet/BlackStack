@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-addr2line
+hash: sha256:026dfea8585ee7e20eddecdc62bec4fb73d7930191df4c6d9bc122af7ca0bbb9
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-addr2line
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-addr2line

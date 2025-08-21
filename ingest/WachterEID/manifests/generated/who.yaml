@@ -1,0 +1,7 @@
+description: Auto-generated manifest for who
+hash: sha256:68f82786ee5cac14200766a4ad87d98d8a014a4614c412abb49f2d8c13df8da6
+persona_hint: Defense
+source_path: /usr/bin/who
+tags:
+- unknown
+tool_name: who

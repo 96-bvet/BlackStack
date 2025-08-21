@@ -1,0 +1,7 @@
+description: Auto-generated manifest for parser-xs.pl
+hash: sha256:bc01f21d41d46d51aff2264a1473d7a5b880a9401809f4c07b44f25e4165c66a
+persona_hint: Defense
+source_path: /usr/share/doc/libtext-csv-xs-perl/examples/parser-xs.pl
+tags:
+- unknown
+tool_name: parser-xs.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for amuFormat.sh
+hash: sha256:2b3c810c3b0e119c5c20652ebee7364907be6a89f77fed36e5102aab8cd6a317
+persona_hint: Defense
+source_path: /usr/bin/amuFormat.sh
+tags:
+- unknown
+tool_name: amuFormat.sh

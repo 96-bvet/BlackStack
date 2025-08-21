@@ -1,0 +1,7 @@
+description: Auto-generated manifest for menuexecg
+hash: sha256:914cc973cab1ede7f58f2d850105326f83d3284d4514bcbd9f73389e476d4877
+persona_hint: Defense
+source_path: /usr/bin/menuexecg
+tags:
+- unknown
+tool_name: menuexecg

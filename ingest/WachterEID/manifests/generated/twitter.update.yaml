@@ -1,0 +1,7 @@
+description: Auto-generated manifest for twitter.update
+hash: sha256:9c87b65c4a54ba96deef9e9d8742499d56eb61383fa45218e42b803cfff8ec85
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/blackberry/twitter.update
+tags:
+- unknown
+tool_name: twitter.update

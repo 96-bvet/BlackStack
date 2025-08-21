@@ -1,0 +1,7 @@
+description: Auto-generated manifest for automake
+hash: sha256:d408da48b279eff2996bb9a4c298b76645fdc61770af8da0e8fff3b5c60c804b
+persona_hint: Defense
+source_path: /usr/bin/automake
+tags:
+- unknown
+tool_name: automake

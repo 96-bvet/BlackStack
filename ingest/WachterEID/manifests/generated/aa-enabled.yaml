@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aa-enabled
+hash: sha256:b306f1886b4faa0f89c4513dea5e204b0b01009fcd20181becffc7fadd3201c8
+persona_hint: Defense
+source_path: /usr/bin/aa-enabled
+tags:
+- unknown
+tool_name: aa-enabled

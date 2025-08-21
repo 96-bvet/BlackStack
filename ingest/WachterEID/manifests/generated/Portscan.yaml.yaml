@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Portscan.yaml
+hash: sha256:ec08f500ad52fe6d7fb090eebc08aa2540178dce7e295c11d2506c8eb7057ea7
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/Portscan.yaml
+tags:
+- unknown
+tool_name: Portscan.yaml

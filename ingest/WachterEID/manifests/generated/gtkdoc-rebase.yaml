@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-rebase
+hash: sha256:1bc4266da53cdb6e8df7007d6beca8f02c6ed680e8c70f10028a50f2c9df07a3
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-rebase
+tags:
+- unknown
+tool_name: gtkdoc-rebase

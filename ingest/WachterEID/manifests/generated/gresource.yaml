@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gresource
+hash: sha256:3d3119d1210c9e8184def90124118614ee5350d82270abe77b52f08594cfc0e9
+persona_hint: Defense
+source_path: /usr/bin/gresource
+tags:
+- unknown
+tool_name: gresource

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generate_qr4r.rb
+hash: sha256:d397cb3268503e9d663a1bfbadf7bb54ab859cdcc2b7bf74bb26d934d0db31ed
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/qr4r-0.6.2/examples/generate_qr4r.rb
+tags:
+- unknown
+tool_name: generate_qr4r.rb

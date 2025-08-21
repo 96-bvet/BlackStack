@@ -1,0 +1,7 @@
+description: Auto-generated manifest for name.py
+hash: sha256:109b121328c110b3ac95ececba767c02f5601dd213b0fff79eb1c53000998aa5
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/name.py
+tags:
+- unknown
+tool_name: name.py

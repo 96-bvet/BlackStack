@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-analyze
+hash: sha256:ae9c4dff075d9c236dc340f99a9880861d225a0b0ec67b54af5a07f9cfe713d4
+persona_hint: Defense
+source_path: /usr/bin/systemd-analyze
+tags:
+- unknown
+tool_name: systemd-analyze

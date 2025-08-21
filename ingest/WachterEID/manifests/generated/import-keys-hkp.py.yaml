@@ -1,0 +1,7 @@
+description: Auto-generated manifest for import-keys-hkp.py
+hash: sha256:625dbf1a74eb08b8096cf74bf9485eaa8260f29d5d688258ebac009364d49377
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/import-keys-hkp.py
+tags:
+- unknown
+tool_name: import-keys-hkp.py

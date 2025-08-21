@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PrivExchange.yaml
+hash: sha256:6f9fd7403fc723a665b6ce66a69bf41752b33253580c120908815969515f7bda
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/privesc/SharpSploit/PrivExchange.yaml
+tags:
+- unknown
+tool_name: PrivExchange.yaml

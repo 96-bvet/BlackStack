@@ -1,0 +1,7 @@
+description: Auto-generated manifest for encryption.c
+hash: sha256:b9e6b60ea3677d7310f64383bdcd37271aa9b9732337485fa39acd2974f0e9de
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/encryption.c
+tags:
+- unknown
+tool_name: encryption.c

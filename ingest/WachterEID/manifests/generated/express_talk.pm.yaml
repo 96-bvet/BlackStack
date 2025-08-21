@@ -1,0 +1,7 @@
+description: Auto-generated manifest for express_talk.pm
+hash: sha256:df26edd82c1fe34044fdb8bf1ba086faaba62b28c9ab56edd5f2604d38ca75fb
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/express_talk.pm
+tags:
+- unknown
+tool_name: express_talk.pm

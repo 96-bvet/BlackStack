@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tempfile
+hash: sha256:3bed0e2f46c111dbe46f75d7f7c12a56233f234bb33a1ddc49ea47badcb3eaee
+persona_hint: Defense
+source_path: /usr/bin/tempfile
+tags:
+- unknown
+tool_name: tempfile

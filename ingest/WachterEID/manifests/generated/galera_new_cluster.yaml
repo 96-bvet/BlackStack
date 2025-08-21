@@ -1,0 +1,7 @@
+description: Auto-generated manifest for galera_new_cluster
+hash: sha256:198caf09c06f08fc70bf8fcc6d7cca421baa503309f5794c40bc4a4c92fc0fd6
+persona_hint: Defense
+source_path: /usr/bin/galera_new_cluster
+tags:
+- unknown
+tool_name: galera_new_cluster

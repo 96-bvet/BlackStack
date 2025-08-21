@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ss_spike
+hash: sha256:8f0a29abd8ca7e82ec18294b40e69272a37d3ee8f5ec5a52a0f087d4a8a54541
+persona_hint: Defense
+source_path: /usr/bin/ss_spike
+tags:
+- unknown
+tool_name: ss_spike

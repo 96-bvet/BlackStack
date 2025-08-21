@@ -1,0 +1,7 @@
+description: Auto-generated manifest for prezip-bin
+hash: sha256:40c06bf1cc003f546043974c4587e77ec0e7e6ef63db7d62add984d02d1d7897
+persona_hint: Defense
+source_path: /usr/bin/prezip-bin
+tags:
+- unknown
+tool_name: prezip-bin

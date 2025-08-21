@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aa-features-abi
+hash: sha256:7de2ff27dfe0dbe512d7196e3f9391ae48674d35a29558161fd8070c96daf3aa
+persona_hint: Defense
+source_path: /usr/bin/aa-features-abi
+tags:
+- unknown
+tool_name: aa-features-abi

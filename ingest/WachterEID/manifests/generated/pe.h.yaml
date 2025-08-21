@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pe.h
+hash: sha256:fc31a266d76501b6cfc535fc6d75a740946f03956cef6022fd495bd29a76a828
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/pe.h
+tags:
+- unknown
+tool_name: pe.h

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpgsm
+hash: sha256:407a10bc17ba2c6e94d0f631e99eb92cd0fd335a51ffedbd135fa58180f94f2f
+persona_hint: Defense
+source_path: /usr/bin/gpgsm
+tags:
+- unknown
+tool_name: gpgsm

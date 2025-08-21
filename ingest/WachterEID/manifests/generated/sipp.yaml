@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sipp
+hash: sha256:84c6e3b33ef57c24e39035c064fc55645dc502de4f78d30134d090134c170b93
+persona_hint: Defense
+source_path: /usr/bin/sipp
+tags:
+- unknown
+tool_name: sipp

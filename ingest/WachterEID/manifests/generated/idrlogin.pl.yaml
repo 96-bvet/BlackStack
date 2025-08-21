@@ -1,0 +1,7 @@
+description: Auto-generated manifest for idrlogin.pl
+hash: sha256:69f9bcee603a1538f40c402cda754e7ae83254a17c6ada9d7353af717bc3f836
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/idrlogin.pl
+tags:
+- unknown
+tool_name: idrlogin.pl

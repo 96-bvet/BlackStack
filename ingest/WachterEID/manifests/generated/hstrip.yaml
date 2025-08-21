@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hstrip
+hash: sha256:696f8e569d7986e5fb7fa46ac037e04fa8c627e9e456da4eea13bef77ccf2b54
+persona_hint: Defense
+source_path: /usr/share/doc/libhtml-parser-perl/examples/hstrip
+tags:
+- unknown
+tool_name: hstrip

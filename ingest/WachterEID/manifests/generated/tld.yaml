@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tld
+hash: sha256:b1a551d9ebcf70f4e9dec1e51afacdea74e710eb00dd7d962434abfb32d706d3
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/tld
+tags:
+- unknown
+tool_name: tld

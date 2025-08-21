@@ -1,0 +1,7 @@
+description: Auto-generated manifest for build-goboring.sh
+hash: sha256:e323cde684c411d0a0da1b122d882c1df9cd342c0b19a4c94e95117d2059d288
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/crypto/internal/boring/build-goboring.sh
+tags:
+- unknown
+tool_name: build-goboring.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_missing
+hash: sha256:176b08e8c349313b8ce267bd0af39dae9c9adbf16ea6cd3c60ac8df4ce5d2b40
+persona_hint: Defense
+source_path: /usr/bin/dh_missing
+tags:
+- unknown
+tool_name: dh_missing

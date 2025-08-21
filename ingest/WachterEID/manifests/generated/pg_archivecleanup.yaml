@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_archivecleanup
+hash: sha256:fc00112585bd75eb9eb6fcd11ca4cf7222acf10259a1f21eea4889536dee640a
+persona_hint: Defense
+source_path: /usr/bin/pg_archivecleanup
+tags:
+- unknown
+tool_name: pg_archivecleanup

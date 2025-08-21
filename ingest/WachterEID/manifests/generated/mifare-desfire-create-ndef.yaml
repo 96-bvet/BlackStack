@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-desfire-create-ndef
+hash: sha256:4f7a591c8c6e94c75f463c49c63e6741e9c0987f947e034002c78d22d75e50cd
+persona_hint: Defense
+source_path: /usr/bin/mifare-desfire-create-ndef
+tags:
+- unknown
+tool_name: mifare-desfire-create-ndef

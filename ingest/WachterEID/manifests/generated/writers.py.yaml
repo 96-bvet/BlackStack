@@ -1,0 +1,7 @@
+description: Auto-generated manifest for writers.py
+hash: sha256:d910e89c71f64dc41b386848d79b7eaf0fb90ae35d6cafb3334e644276409e7a
+persona_hint: Defense
+source_path: /usr/share/pompem/common/writers.py
+tags:
+- unknown
+tool_name: writers.py

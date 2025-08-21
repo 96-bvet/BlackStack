@@ -1,0 +1,7 @@
+description: Auto-generated manifest for test.pl
+hash: sha256:14604cbc13921cd4a010ba4d8ee22962a7b389051ed261e228d46391952e530e
+persona_hint: Defense
+source_path: /usr/share/doc/libdbi-perl/examples/test.pl
+tags:
+- unknown
+tool_name: test.pl

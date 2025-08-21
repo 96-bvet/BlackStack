@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ShellCmdRunas.yaml
+hash: sha256:8b9096b584aa63a68fa552d8493272c8711f922574a2700a7e5b42053d9b8ef5
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/SharpSploit/ShellCmdRunas.yaml
+tags:
+- unknown
+tool_name: ShellCmdRunas.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_debug
+hash: sha256:d6759d9440a397e6cc25a504b96815fb23efce168461e378ff0ca67a5e6ae8fe
+persona_hint: Defense
+source_path: /usr/bin/hackrf_debug
+tags:
+- unknown
+tool_name: hackrf_debug

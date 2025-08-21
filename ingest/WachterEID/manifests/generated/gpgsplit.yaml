@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpgsplit
+hash: sha256:9ac55aaa8e62a932169f9f49c19a022d095c1b95534a835084a2e4be5cd7e408
+persona_hint: Defense
+source_path: /usr/bin/gpgsplit
+tags:
+- unknown
+tool_name: gpgsplit

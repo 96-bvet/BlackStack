@@ -1,0 +1,7 @@
+description: Auto-generated manifest for equivs-build
+hash: sha256:0dd628b480d155f47de62b9745ede0452699bef60182d0392fd85c90bbe80539
+persona_hint: Defense
+source_path: /usr/bin/equivs-build
+tags:
+- unknown
+tool_name: equivs-build

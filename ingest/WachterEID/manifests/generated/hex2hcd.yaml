@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hex2hcd
+hash: sha256:cf51e7149b0b439200b560652ebb97831e36bd89e68ee2ffc2731cef41599534
+persona_hint: Defense
+source_path: /usr/bin/hex2hcd
+tags:
+- unknown
+tool_name: hex2hcd

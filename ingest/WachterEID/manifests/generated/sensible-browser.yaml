@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sensible-browser
+hash: sha256:c7ba0203b67b5a108d0f6cbe5d18750aee6c616db0339337697272a175f72466
+persona_hint: Defense
+source_path: /usr/bin/sensible-browser
+tags:
+- unknown
+tool_name: sensible-browser

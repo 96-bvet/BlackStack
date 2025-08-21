@@ -1,0 +1,7 @@
+description: Auto-generated manifest for client_auth.py
+hash: sha256:8391ea72ec5b7c38bb584b6febd33b85185be4b12139faf17f03f160bf392570
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/client_auth.py
+tags:
+- unknown
+tool_name: client_auth.py

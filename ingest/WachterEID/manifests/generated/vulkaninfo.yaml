@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vulkaninfo
+hash: sha256:8f93616d2d744710bd65760c5cdbfd244280b7be1426572344f6a4942814f7b7
+persona_hint: Defense
+source_path: /usr/bin/vulkaninfo
+tags:
+- unknown
+tool_name: vulkaninfo

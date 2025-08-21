@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openfortivpn
+hash: sha256:e7d13a26e54d1927c34adf003da94ccece0db1e512e455faaefa7b786a5a0f5a
+persona_hint: Defense
+source_path: /usr/bin/openfortivpn
+tags:
+- unknown
+tool_name: openfortivpn

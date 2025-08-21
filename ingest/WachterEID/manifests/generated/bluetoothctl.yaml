@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bluetoothctl
+hash: sha256:0b67780deba29b30ea476bf71a60def4e692bc508575ecab66f0d0373dfab8a9
+persona_hint: Defense
+source_path: /usr/bin/bluetoothctl
+tags:
+- unknown
+tool_name: bluetoothctl

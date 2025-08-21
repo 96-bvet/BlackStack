@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_conftool
+hash: sha256:b59fe4de50d8836cf422fa795eb602416bced1429a562447ac61c657b9df3737
+persona_hint: Defense
+source_path: /usr/bin/pg_conftool
+tags:
+- unknown
+tool_name: pg_conftool

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hash_gpu.py
+hash: sha256:f7cace7a01f2456808d4427e8c8fde25004abef3fbb299f60a18708f5ff55cb3
+persona_hint: Defense
+source_path: /opt/parrotraid/tools/hash_gpu.py
+tags:
+- unknown
+tool_name: hash_gpu.py

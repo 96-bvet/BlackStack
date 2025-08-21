@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pngfix
+hash: sha256:7c6c7134b41c29a835d2751ba1ab2e858e41aa6dc33030264913c4122a6f86f7
+persona_hint: Defense
+source_path: /usr/bin/pngfix
+tags:
+- unknown
+tool_name: pngfix

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-add-repository
+hash: sha256:62bde368dd6d9c8faab42cb12b1fcdce2d379422117d80ef73a92010601d368c
+persona_hint: Defense
+source_path: /usr/bin/apt-add-repository
+tags:
+- unknown
+tool_name: apt-add-repository

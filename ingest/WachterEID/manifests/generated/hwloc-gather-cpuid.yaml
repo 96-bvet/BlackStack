@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-gather-cpuid
+hash: sha256:05bf70bb04ddebd07255062f79c744f74ef35b9282f63c93648f73425795937a
+persona_hint: Defense
+source_path: /usr/bin/hwloc-gather-cpuid
+tags:
+- unknown
+tool_name: hwloc-gather-cpuid

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for udp.pl
+hash: sha256:f190ad68ae9f84044378c495ba4f0187a3973577c1ee2952c73bbfe3ad89150a
+persona_hint: Defense
+source_path: /usr/share/doc/libio-socket-socks-perl/examples/udp.pl
+tags:
+- unknown
+tool_name: udp.pl

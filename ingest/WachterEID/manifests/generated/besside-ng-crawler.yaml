@@ -1,0 +1,7 @@
+description: Auto-generated manifest for besside-ng-crawler
+hash: sha256:96b2ac8e1e2969ce587b39f6795ef88a5f478e6a967e1efa9dc786606345d825
+persona_hint: Defense
+source_path: /usr/bin/besside-ng-crawler
+tags:
+- unknown
+tool_name: besside-ng-crawler

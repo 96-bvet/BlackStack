@@ -1,0 +1,7 @@
+description: Auto-generated manifest for callback
+hash: sha256:01aed9dd8a1ceb2c8f9ceab57042d11698c3f2bc852cdd6bbfdbcc3d7c190456
+persona_hint: Defense
+source_path: /usr/share/doc/ppp/examples/scripts/callback
+tags:
+- unknown
+tool_name: callback

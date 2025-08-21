@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whatis
+hash: sha256:9b1beb7771d08bda92f98c7ef5f3b567ba9f3b4f6799cb7d94746101b0d79032
+persona_hint: Defense
+source_path: /usr/bin/whatis
+tags:
+- unknown
+tool_name: whatis

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pico
+hash: sha256:3e4aa314fffff0da1541d7e69ab5b1401e6fb8f662a3a76d22090597d84d46b7
+persona_hint: Defense
+source_path: /usr/bin/pico
+tags:
+- unknown
+tool_name: pico

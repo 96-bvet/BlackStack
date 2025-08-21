@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sniffjoke-autotest
+hash: sha256:71442e7168163e5379a1accbc85ea4485861869fc9c0566e238377158ce401de
+persona_hint: Defense
+source_path: /usr/bin/sniffjoke-autotest
+tags:
+- unknown
+tool_name: sniffjoke-autotest

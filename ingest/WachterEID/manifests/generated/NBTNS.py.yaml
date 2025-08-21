@@ -1,0 +1,7 @@
+description: Auto-generated manifest for NBTNS.py
+hash: sha256:06e09d5f6469b3bdc7e15b1f6d0f6981f21a3eb0ff6c5808a263502e41e147b6
+persona_hint: Defense
+source_path: /usr/share/responder/poisoners/NBTNS.py
+tags:
+- unknown
+tool_name: NBTNS.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for diff
+hash: sha256:4de429713337777f44e9ef340176c2f1818c2fcfe0204ab27277595ff97dab77
+persona_hint: Defense
+source_path: /usr/bin/diff
+tags:
+- unknown
+tool_name: diff

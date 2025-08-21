@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sudoreplay
+hash: sha256:f3d1594e38887518f987ed4cfc63fdacfdd81d706d9501fbd474b75e7390c012
+persona_hint: Defense
+source_path: /usr/bin/sudoreplay
+tags:
+- unknown
+tool_name: sudoreplay

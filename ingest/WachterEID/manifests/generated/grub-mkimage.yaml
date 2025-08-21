@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mkimage
+hash: sha256:f0a256549c38a2999b1881ea6bd977e0eacad6c7b4123ab8516be1545f720f4c
+persona_hint: Defense
+source_path: /usr/bin/grub-mkimage
+tags:
+- unknown
+tool_name: grub-mkimage

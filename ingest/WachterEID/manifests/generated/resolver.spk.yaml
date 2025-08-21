@@ -1,0 +1,7 @@
+description: Auto-generated manifest for resolver.spk
+hash: sha256:e8e401a824b5d455df0c840576f908e17000b13001f2880223fbaba08353e8fc
+persona_hint: Defense
+source_path: /usr/share/spike/audits/MSSQL/resolver.spk
+tags:
+- unknown
+tool_name: resolver.spk

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xssrays
+hash: sha256:361cd2c981c6c2d787ac8253c5fea96ad6d4b3913ac6be73f344cd65ae5540cc
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/xssrays
+tags:
+- unknown
+tool_name: xssrays

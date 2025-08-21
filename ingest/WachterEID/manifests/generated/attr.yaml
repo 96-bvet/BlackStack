@@ -1,0 +1,7 @@
+description: Auto-generated manifest for attr
+hash: sha256:8a890a47af2324d660d3c720822cdcb1b8aa36c4b3b0bf96253fc4512e7f026e
+persona_hint: Defense
+source_path: /usr/bin/attr
+tags:
+- unknown
+tool_name: attr

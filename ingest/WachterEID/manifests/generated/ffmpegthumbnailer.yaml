@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ffmpegthumbnailer
+hash: sha256:a2c79ed41aba336658f0014d2a62fb79464ae102e93597560b745b92ca1dc772
+persona_hint: Defense
+source_path: /usr/bin/ffmpegthumbnailer
+tags:
+- unknown
+tool_name: ffmpegthumbnailer

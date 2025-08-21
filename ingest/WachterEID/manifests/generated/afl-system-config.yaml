@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-system-config
+hash: sha256:5244adf5257783a8105f4c5f53783d8db7ceda354e0713cbb9e839e7f70c9766
+persona_hint: Defense
+source_path: /usr/bin/afl-system-config
+tags:
+- unknown
+tool_name: afl-system-config

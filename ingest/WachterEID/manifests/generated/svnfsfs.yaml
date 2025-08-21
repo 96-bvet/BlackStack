@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnfsfs
+hash: sha256:7af418a33590ca0314ecc0846b271e8a7440966b9426409c1ca5375c99166ed9
+persona_hint: Defense
+source_path: /usr/bin/svnfsfs
+tags:
+- unknown
+tool_name: svnfsfs

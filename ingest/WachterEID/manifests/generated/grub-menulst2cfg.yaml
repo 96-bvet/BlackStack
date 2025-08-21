@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-menulst2cfg
+hash: sha256:bd40c820a7a2822fd2ace1eaf9d680e8e5fbabd8772cf5c3721528840c0c1cab
+persona_hint: Defense
+source_path: /usr/bin/grub-menulst2cfg
+tags:
+- unknown
+tool_name: grub-menulst2cfg

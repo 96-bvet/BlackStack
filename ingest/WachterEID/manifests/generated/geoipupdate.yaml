@@ -1,0 +1,7 @@
+description: Auto-generated manifest for geoipupdate
+hash: sha256:d52e4223f35f24accf56ca5e42fbc26db87e5e7673f184974b81afbbae9a8059
+persona_hint: Defense
+source_path: /usr/bin/geoipupdate
+tags:
+- unknown
+tool_name: geoipupdate

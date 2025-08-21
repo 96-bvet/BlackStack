@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vidbox.pm
+hash: sha256:1a193f5e2d50d376ae571c3756a82ce2cf724b283aedc82663e091e1cc7f485e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/vidbox.pm
+tags:
+- unknown
+tool_name: vidbox.pm

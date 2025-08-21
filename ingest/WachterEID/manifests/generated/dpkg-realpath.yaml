@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-realpath
+hash: sha256:a544762655b9f1eced379090ebfa9c1a2a037082db7fe73d7e5350ff89c1fd86
+persona_hint: Defense
+source_path: /usr/bin/dpkg-realpath
+tags:
+- unknown
+tool_name: dpkg-realpath

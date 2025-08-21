@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkcgo.sh
+hash: sha256:984b6b61e7db9a34db6e29c0c30ca20d96f52cc2e99ebb6d4e6478d88f759374
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/runtime/race/mkcgo.sh
+tags:
+- unknown
+tool_name: mkcgo.sh

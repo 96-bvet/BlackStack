@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkcon
+hash: sha256:a241f225b6320fd629518f3b22180efa171e5cff2c8483f9f00fd52c7ba30518
+persona_hint: Defense
+source_path: /usr/bin/pkcon
+tags:
+- unknown
+tool_name: pkcon

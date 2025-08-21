@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-dict
+hash: sha256:163ca5bc92e0c4aed8283ea59ff61b3185cfcec18bc251c80df2b859f5338afb
+persona_hint: Defense
+source_path: /usr/bin/xfce4-dict
+tags:
+- unknown
+tool_name: xfce4-dict

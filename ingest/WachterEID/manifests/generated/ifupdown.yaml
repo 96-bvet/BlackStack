@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ifupdown
+hash: sha256:8994414d7bd7d05d60a09923be359fa724a94b26a1ee32739191af6b62ac4792
+persona_hint: Defense
+source_path: /usr/share/bug/ifupdown
+tags:
+- unknown
+tool_name: ifupdown

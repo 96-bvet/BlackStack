@@ -1,0 +1,7 @@
+description: Auto-generated manifest for postrm
+hash: sha256:3fd992838d14256ad143a077e9c6ade681d5bd42f00b97e4fc95ce0902140969
+persona_hint: Defense
+source_path: /usr/share/doc/sgml-base/examples/postrm
+tags:
+- unknown
+tool_name: postrm

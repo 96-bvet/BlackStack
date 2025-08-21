@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rediff
+hash: sha256:46edccf071ef2d4598946a90d21a70b4700aebf22036aeb584414ad5509b418c
+persona_hint: Defense
+source_path: /usr/bin/rediff
+tags:
+- unknown
+tool_name: rediff

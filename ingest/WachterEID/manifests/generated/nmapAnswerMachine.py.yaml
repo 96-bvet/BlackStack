@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nmapAnswerMachine.py
+hash: sha256:bf86a13ac8686c4c582aba620229a607e48deef9da140b559b25539b7a6b81e6
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/nmapAnswerMachine.py
+tags:
+- unknown
+tool_name: nmapAnswerMachine.py

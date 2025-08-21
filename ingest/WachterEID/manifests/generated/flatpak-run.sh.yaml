@@ -1,0 +1,7 @@
+description: Auto-generated manifest for flatpak-run.sh
+hash: sha256:571dbc8beb5a43236dd4142345ad74c6a536027820747ac9f6eea86925c23610
+persona_hint: Defense
+source_path: /usr/share/doc/bubblewrap/examples/flatpak-run.sh
+tags:
+- unknown
+tool_name: flatpak-run.sh

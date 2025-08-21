@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sniffer.py
+hash: sha256:37e637e93906a7e8bc1d83e98962813c830c96d2b915dfca050104974ab9d039
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/sniffer.py
+tags:
+- unknown
+tool_name: sniffer.py

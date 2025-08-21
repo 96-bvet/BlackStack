@@ -1,0 +1,7 @@
+description: Auto-generated manifest for halflife
+hash: sha256:cac62edbad59c2c79f1cff24124885aaf834a9457a154915cd961fcc92653391
+persona_hint: Defense
+source_path: /usr/bin/halflife
+tags:
+- unknown
+tool_name: halflife

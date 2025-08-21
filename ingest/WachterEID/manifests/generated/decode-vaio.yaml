@@ -1,0 +1,7 @@
+description: Auto-generated manifest for decode-vaio
+hash: sha256:44f4e3cd7fe22c630f3fd41b5580509bc6d9f087c62fe3be33c82795f737f84a
+persona_hint: Defense
+source_path: /usr/bin/decode-vaio
+tags:
+- unknown
+tool_name: decode-vaio

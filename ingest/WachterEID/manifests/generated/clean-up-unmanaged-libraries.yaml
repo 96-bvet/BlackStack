@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clean-up-unmanaged-libraries
+hash: sha256:99b0c51687292125bcc4486fc173b331d0ef4f07b7dc8a39575a075e8b8f0407
+persona_hint: Defense
+source_path: /usr/share/libgcrypt20/clean-up-unmanaged-libraries
+tags:
+- unknown
+tool_name: clean-up-unmanaged-libraries

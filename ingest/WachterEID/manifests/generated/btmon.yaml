@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btmon
+hash: sha256:48dd6fcee1c6d8557704d495ace717539611a6aab59608453c1785492798c1c6
+persona_hint: Defense
+source_path: /usr/bin/btmon
+tags:
+- unknown
+tool_name: btmon

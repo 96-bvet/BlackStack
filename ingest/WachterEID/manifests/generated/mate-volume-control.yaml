@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-volume-control
+hash: sha256:4e286d5df8946278d834e71c5d27c58ae82fb0ce6465f139683b88e63e784c1b
+persona_hint: Defense
+source_path: /usr/bin/mate-volume-control
+tags:
+- unknown
+tool_name: mate-volume-control

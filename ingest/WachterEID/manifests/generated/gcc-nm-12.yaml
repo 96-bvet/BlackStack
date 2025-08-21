@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gcc-nm-12
+hash: sha256:460024400b14e4de325116deca4a202e7406dc442a38d57531c81791930be463
+persona_hint: Defense
+source_path: /usr/bin/gcc-nm-12
+tags:
+- unknown
+tool_name: gcc-nm-12

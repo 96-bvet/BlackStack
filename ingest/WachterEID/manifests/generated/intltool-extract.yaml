@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intltool-extract
+hash: sha256:4fb3160fc1a0ebde93ba10418acb6d7e5820fe5f391c87610d12b06227823736
+persona_hint: Defense
+source_path: /usr/share/intltool-debian/intltool-extract
+tags:
+- unknown
+tool_name: intltool-extract

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsinitramfs
+hash: sha256:02edc77e42e2720a6c2ad990c31b2ef20c6b4fac5b453efc3baff129445edcd5
+persona_hint: Defense
+source_path: /usr/bin/lsinitramfs
+tags:
+- unknown
+tool_name: lsinitramfs

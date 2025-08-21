@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jsonschema
+hash: sha256:5aa025f548da16498d77d981eb27ae7b53a6e505cd7381a15f3e06867e8b9771
+persona_hint: Defense
+source_path: /usr/bin/jsonschema
+tags:
+- unknown
+tool_name: jsonschema

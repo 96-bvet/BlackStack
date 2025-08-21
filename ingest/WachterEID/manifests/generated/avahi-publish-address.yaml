@@ -1,0 +1,7 @@
+description: Auto-generated manifest for avahi-publish-address
+hash: sha256:c61e8d53cc184302037c0ccc517adfc85fb8b2513fd9b35e78a3f81ce25a81c7
+persona_hint: Defense
+source_path: /usr/bin/avahi-publish-address
+tags:
+- unknown
+tool_name: avahi-publish-address

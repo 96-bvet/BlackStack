@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mktemp
+hash: sha256:879a70d44241bc6704bb8baae38ebd8466ac95707c3b74ca598a9487a841bfb4
+persona_hint: Defense
+source_path: /usr/bin/mktemp
+tags:
+- unknown
+tool_name: mktemp

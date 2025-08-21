@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfr.py
+hash: sha256:6d95cf097dd3b2ac385371f8e24b9dc1b33fab1dcf68e84cd86bcbd1e37d6022
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/xfr.py
+tags:
+- unknown
+tool_name: xfr.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gids-tool
+hash: sha256:ea583c099c0cc49549e79b366928de2cdd5d98d18d1e914879da676bacb3ab4d
+persona_hint: Defense
+source_path: /usr/bin/gids-tool
+tags:
+- unknown
+tool_name: gids-tool

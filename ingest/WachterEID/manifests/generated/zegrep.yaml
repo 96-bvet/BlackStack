@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zegrep
+hash: sha256:67ee7fadec7ea53b4c1f8cfc3c81427b29c0b1381e80b55642617620c84d0bcc
+persona_hint: Defense
+source_path: /usr/bin/zegrep
+tags:
+- unknown
+tool_name: zegrep

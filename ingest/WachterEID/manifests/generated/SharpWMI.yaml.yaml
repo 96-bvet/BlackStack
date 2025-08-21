@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SharpWMI.yaml
+hash: sha256:630f7a4220ff01caaf17255324c917449c580fda640d4a52d510a5e0ed0d7a8f
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpWMI.yaml
+tags:
+- unknown
+tool_name: SharpWMI.yaml

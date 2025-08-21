@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ri
+hash: sha256:40c78a8e9c2cf9b268ce244b370ac9975a48b5007f18967c732b1d6fae8b89b5
+persona_hint: Defense
+source_path: /usr/bin/ri
+tags:
+- unknown
+tool_name: ri

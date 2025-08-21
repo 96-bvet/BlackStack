@@ -1,0 +1,7 @@
+description: Auto-generated manifest for efibootdump
+hash: sha256:bb2280ac0d8c94c1d510f68a4bb23f0ec608c25baec3fd6679a92ad434d5b61e
+persona_hint: Defense
+source_path: /usr/bin/efibootdump
+tags:
+- unknown
+tool_name: efibootdump

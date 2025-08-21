@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbtar
+hash: sha256:8a875756574997f884bd8dbf25db1b4e005af23371441ffc864dfcf830253f0b
+persona_hint: Defense
+source_path: /usr/bin/smbtar
+tags:
+- unknown
+tool_name: smbtar

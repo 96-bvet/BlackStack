@@ -1,0 +1,7 @@
+description: Auto-generated manifest for makehtml.awk
+hash: sha256:d46296a5084714055d043a8f99e186b9fc26908df82a29e4ddf5b359cfb2726e
+persona_hint: Defense
+source_path: /usr/share/nvim/runtime/doc/makehtml.awk
+tags:
+- unknown
+tool_name: makehtml.awk

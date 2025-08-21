@@ -1,0 +1,7 @@
+description: Auto-generated manifest for galois.asm
+hash: sha256:cc887607dce9dd10126a1c2b38a0f78a93aaa437c5c7b52c4d6c609a2316deef
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Payloads/Aes/32/galois.asm
+tags:
+- unknown
+tool_name: galois.asm

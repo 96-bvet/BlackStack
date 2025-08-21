@@ -1,0 +1,16 @@
+name: codeagent
+path: src/cai/agents/codeagent.py
+type: py
+category: misc
+hash: b3f2a3f9e0914d93ecdfb1bf176f5fc1a9b12d5f5408c47a55e6189d99626ae1
+approved: true
+import: true
+license_stub: true
+name: codeagent
+path: src/cai/agents/codeagent.py
+type: py
+category: misc
+hash: b3f2a3f9e0914d93ecdfb1bf176f5fc1a9b12d5f5408c47a55e6189d99626ae1
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for podman
+hash: sha256:fb0f500cdac18f51d22f2fa8891f91234c14385a2f6b4a35f38de7261a7d550d
+persona_hint: Defense
+source_path: /usr/bin/podman
+tags:
+- unknown
+tool_name: podman

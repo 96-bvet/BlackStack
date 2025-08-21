@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rm
+hash: sha256:58e8be37049deaaacaf56196d507584b94e87a35a524db0c0459eb5ee6ae4b8c
+persona_hint: Defense
+source_path: /usr/bin/rm
+tags:
+- unknown
+tool_name: rm

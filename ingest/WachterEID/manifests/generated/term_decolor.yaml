@@ -1,0 +1,7 @@
+description: Auto-generated manifest for term_decolor
+hash: sha256:4a9e4f9fe51002b2085397710cd5a341b1411636ea34a8f4899d827951968f25
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/term-ansicolor-1.11.2/bin/term_decolor
+tags:
+- unknown
+tool_name: term_decolor

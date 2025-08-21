@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-detect_sniffer6
+hash: sha256:f75bd9e161fecd3d7b9be43732d887ee2c1c0daf149e7fb1fc74ae7d367405a4
+persona_hint: Defense
+source_path: /usr/bin/atk6-detect_sniffer6
+tags:
+- unknown
+tool_name: atk6-detect_sniffer6

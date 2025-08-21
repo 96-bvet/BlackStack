@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xclip-pastefile
+hash: sha256:3e86f1e2df6a0d9a877db918d9c0313a57f7d07a17d2e3503f3fe2c60cae08e1
+persona_hint: Defense
+source_path: /usr/bin/xclip-pastefile
+tags:
+- unknown
+tool_name: xclip-pastefile

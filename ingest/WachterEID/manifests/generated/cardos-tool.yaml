@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cardos-tool
+hash: sha256:94ab231fbbeb9bfe2ca8f5377263b3c52da7bc4ba6bc801e2542a58e987fd27b
+persona_hint: Defense
+source_path: /usr/bin/cardos-tool
+tags:
+- unknown
+tool_name: cardos-tool

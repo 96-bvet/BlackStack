@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kbd_mode
+hash: sha256:ae6300e8255559e6f61ffefff8cec1a71103242150e5ea14f45dcabd49ba1e63
+persona_hint: Defense
+source_path: /usr/bin/kbd_mode
+tags:
+- unknown
+tool_name: kbd_mode

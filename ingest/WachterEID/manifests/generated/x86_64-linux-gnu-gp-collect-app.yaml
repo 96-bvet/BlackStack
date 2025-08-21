@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-gp-collect-app
+hash: sha256:1375e12cdf910d808f9f5d0638d2cff262234b74d59d891e57b74df70329175c
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-gp-collect-app
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-gp-collect-app

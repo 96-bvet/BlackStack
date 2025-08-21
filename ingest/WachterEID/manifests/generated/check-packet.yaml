@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check-packet
+hash: sha256:bf34bc8470129073699674b5699ad5a338ee33bf84b391699c2dd3785cfd2372
+persona_hint: Defense
+source_path: /usr/share/ike-scan/checks/check-packet
+tags:
+- unknown
+tool_name: check-packet

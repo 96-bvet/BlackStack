@@ -1,0 +1,7 @@
+description: Auto-generated manifest for csrf_to_beef
+hash: sha256:d86c47893c568ddc6fb03bbd79722fcbedfb48bf70ff1d661c709b77caf1693c
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/csrf_to_beef/csrf_to_beef
+tags:
+- unknown
+tool_name: csrf_to_beef

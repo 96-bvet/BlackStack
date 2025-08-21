@@ -1,0 +1,7 @@
+description: Auto-generated manifest for json_pp
+hash: sha256:b336e50dc789c31cbd7b0f467d05e0d91188d06c7c27aa4009b904af8c6a4091
+persona_hint: Defense
+source_path: /usr/bin/json_pp
+tags:
+- unknown
+tool_name: json_pp

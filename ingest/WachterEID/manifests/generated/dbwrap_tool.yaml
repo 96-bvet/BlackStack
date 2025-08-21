@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbwrap_tool
+hash: sha256:08b34f89be71fc65914353d008701a3dfdbe8a168116606d0dc646d5bd3404ae
+persona_hint: Defense
+source_path: /usr/bin/dbwrap_tool
+tags:
+- unknown
+tool_name: dbwrap_tool

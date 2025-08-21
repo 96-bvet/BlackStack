@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check_parse_and_dump.py
+hash: sha256:4fa0e2fec4f7b7e48b32b42702584e2f3183d6ad68ccdd5bb988ad4f4ba023c0
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/copyright/check_parse_and_dump.py
+tags:
+- unknown
+tool_name: check_parse_and_dump.py

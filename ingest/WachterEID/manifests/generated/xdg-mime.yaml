@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-mime
+hash: sha256:ad2d5802bb3604daa849ce5ac86a81acf7548c8ffd10ab4ecae1d56a5f10d63b
+persona_hint: Defense
+source_path: /usr/share/burpsuite/burpbrowser/130.0.6723.69/xdg-mime
+tags:
+- unknown
+tool_name: xdg-mime

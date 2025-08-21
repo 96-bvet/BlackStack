@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Fport.exe
+hash: sha256:143882bc3be0b43a52ea178489ad9eec46212e43887e79b32d8f71def4b65139
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/fport/Fport.exe
+tags:
+- unknown
+tool_name: Fport.exe

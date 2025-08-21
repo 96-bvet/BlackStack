@@ -1,0 +1,7 @@
+description: Auto-generated manifest for make_method
+hash: sha256:b6602eab05b1387e313b7b496892bdbba38f64e8e54ff161991b2c54418e075c
+persona_hint: Defense
+source_path: /usr/bin/make_method
+tags:
+- unknown
+tool_name: make_method

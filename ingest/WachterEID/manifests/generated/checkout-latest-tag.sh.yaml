@@ -1,0 +1,7 @@
+description: Auto-generated manifest for checkout-latest-tag.sh
+hash: sha256:6e89e195b000472c851a14da6715986c27b2824e8ed60981c068f94914fe3ec4
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/setup/checkout-latest-tag.sh
+tags:
+- unknown
+tool_name: checkout-latest-tag.sh

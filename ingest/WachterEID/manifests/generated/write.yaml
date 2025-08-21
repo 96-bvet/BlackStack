@@ -1,0 +1,7 @@
+description: Auto-generated manifest for write
+hash: sha256:516acc21baa2bc71c5fb10569892cb66675b9dabe4d0d44383ea59308313b051
+persona_hint: Defense
+source_path: /usr/bin/write
+tags:
+- unknown
+tool_name: write

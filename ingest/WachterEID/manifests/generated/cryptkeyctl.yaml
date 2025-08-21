@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptkeyctl
+hash: sha256:ca4a9fddfaabe4135abb8b4789b0ba6cbd49012e6e86c4613d9d95160acb7d4d
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/cryptkeyctl
+tags:
+- unknown
+tool_name: cryptkeyctl

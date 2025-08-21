@@ -1,0 +1,7 @@
+description: Auto-generated manifest for logargs.sh
+hash: sha256:98bba6a956a1c146982a9140d0178885cf198a556dd87faad1857975bd687431
+persona_hint: Defense
+source_path: /usr/share/doc/exim4-base/examples/logargs.sh
+tags:
+- unknown
+tool_name: logargs.sh

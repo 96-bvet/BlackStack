@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ike-scan
+hash: sha256:860a48e2b3f117b8784e16703b69f4d52a716cb1050a55b341f6b38c4a06d141
+persona_hint: Defense
+source_path: /usr/bin/ike-scan
+tags:
+- unknown
+tool_name: ike-scan

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sunbelt.pm
+hash: sha256:adc1c6af0bf9d940b59d37ae08cb43b0287e63e7431e09acbf3a242c777ed92b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/sunbelt.pm
+tags:
+- unknown
+tool_name: sunbelt.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for StandaloneLoader.java
+hash: sha256:e4db5eb7a9caefca8b6876a856252d122d163aa41c7951abc016e7b95f00d2c9
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/loader/StandaloneLoader.java
+tags:
+- unknown
+tool_name: StandaloneLoader.java

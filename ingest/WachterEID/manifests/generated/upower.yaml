@@ -1,0 +1,7 @@
+description: Auto-generated manifest for upower
+hash: sha256:479c6f039279a02b0033ec89c5242ed8cbc75d040816c085df7ae974423e7040
+persona_hint: Defense
+source_path: /usr/bin/upower
+tags:
+- unknown
+tool_name: upower

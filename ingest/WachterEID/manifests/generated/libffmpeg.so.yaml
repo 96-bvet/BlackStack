@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libffmpeg.so
+hash: sha256:6af07f092ed808886923baf6bb2dabe24e206b89ff4778395fad71c1d97c1dcb
+persona_hint: Defense
+source_path: /usr/share/codium/libffmpeg.so
+tags:
+- unknown
+tool_name: libffmpeg.so

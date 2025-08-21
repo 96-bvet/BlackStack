@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-ps
+hash: sha256:8d0c5ad5e4305f94ea3e763135cc20a06f3d27fc1b6d6982d83e2bb4763ae5d5
+persona_hint: Defense
+source_path: /usr/bin/hwloc-ps
+tags:
+- unknown
+tool_name: hwloc-ps

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-popup-windowmenu
+hash: sha256:6a8c3a3903cd0a94c205c5f70f35bf8536c9a7c2d429eb53ef9e10ac1d11ee89
+persona_hint: Defense
+source_path: /usr/bin/xfce4-popup-windowmenu
+tags:
+- unknown
+tool_name: xfce4-popup-windowmenu

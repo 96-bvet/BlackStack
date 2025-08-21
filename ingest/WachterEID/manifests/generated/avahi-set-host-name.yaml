@@ -1,0 +1,7 @@
+description: Auto-generated manifest for avahi-set-host-name
+hash: sha256:c343bd22a8082d90df6b07a40c8d96ae974867d5823cc5f07c566c551eb84531
+persona_hint: Defense
+source_path: /usr/bin/avahi-set-host-name
+tags:
+- unknown
+tool_name: avahi-set-host-name

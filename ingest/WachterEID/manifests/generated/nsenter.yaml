@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nsenter
+hash: sha256:13a8e099cc1bb3d16336c044fc217f3b3fbd56279ebddcfbde8d12cff0c5aea0
+persona_hint: Defense
+source_path: /usr/bin/nsenter
+tags:
+- unknown
+tool_name: nsenter

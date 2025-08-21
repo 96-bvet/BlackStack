@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nv-control-dpy
+hash: sha256:cec9afee7447d11141b1b53937ef0e5b6c8115badd0db33d598cf82723815a78
+persona_hint: Defense
+source_path: /usr/bin/nv-control-dpy
+tags:
+- unknown
+tool_name: nv-control-dpy

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-analyze
+hash: sha256:24e8148118d8ad44b186dc7029f4bb2569b01a006536b82f76add52ca629a65e
+persona_hint: Defense
+source_path: /usr/bin/afl-analyze
+tags:
+- unknown
+tool_name: afl-analyze

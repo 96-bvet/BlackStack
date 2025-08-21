@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mksysnum_freebsd.pl
+hash: sha256:cac7b3ee381201a9f6a34b087aff43db39a556e4244d0003cdceee60d583a645
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mksysnum_freebsd.pl
+tags:
+- unknown
+tool_name: mksysnum_freebsd.pl

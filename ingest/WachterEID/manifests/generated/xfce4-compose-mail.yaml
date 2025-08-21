@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-compose-mail
+hash: sha256:b3179ebe52b3b3535b24921588f40006536feb9b35d9b48ad95ba8802ea34e4d
+persona_hint: Defense
+source_path: /usr/share/xfce4/xfce4-compose-mail
+tags:
+- unknown
+tool_name: xfce4-compose-mail

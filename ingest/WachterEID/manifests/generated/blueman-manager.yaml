@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blueman-manager
+hash: sha256:721957a73726e394c349c815e895a1ff8816f33c84ca277969f33d810f497c2f
+persona_hint: Defense
+source_path: /usr/bin/blueman-manager
+tags:
+- unknown
+tool_name: blueman-manager

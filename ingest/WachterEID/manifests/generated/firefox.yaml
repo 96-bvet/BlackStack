@@ -1,0 +1,7 @@
+description: Auto-generated manifest for firefox
+hash: sha256:54ec7b74f9fbbe15698eae5f76f93244818be2b2f08876049f4604a023d3b8c1
+persona_hint: Defense
+source_path: /usr/bin/firefox
+tags:
+- unknown
+tool_name: firefox

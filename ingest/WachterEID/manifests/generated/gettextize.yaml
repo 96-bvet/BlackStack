@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gettextize
+hash: sha256:9c9408bc2437ec8a12397a866d8573b8ccc63746c66e05bab48d02a358b44e61
+persona_hint: Defense
+source_path: /usr/bin/gettextize
+tags:
+- unknown
+tool_name: gettextize

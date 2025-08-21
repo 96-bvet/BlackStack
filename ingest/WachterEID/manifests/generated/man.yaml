@@ -1,0 +1,7 @@
+description: Auto-generated manifest for man
+hash: sha256:28a07a8e5f196b9a217cbe8bdb05fd53e31a6762c931ced93e9e48d5b4221918
+persona_hint: Defense
+source_path: /usr/bin/man
+tags:
+- unknown
+tool_name: man

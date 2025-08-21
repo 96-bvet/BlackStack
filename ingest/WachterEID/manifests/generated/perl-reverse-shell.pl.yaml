@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perl-reverse-shell.pl
+hash: sha256:e5ecb5cf2957f2449bea8a20ed4e748f97945bdc26969c27d0cb0cec8cc7dea0
+persona_hint: Defense
+source_path: /usr/share/webshells/perl/perl-reverse-shell.pl
+tags:
+- unknown
+tool_name: perl-reverse-shell.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for t1mac
+hash: sha256:6ae1b93d87106bf15377fa841e7e09f1950a52dd5c9bba9fc46cde2bf5f531ff
+persona_hint: Defense
+source_path: /usr/bin/t1mac
+tags:
+- unknown
+tool_name: t1mac

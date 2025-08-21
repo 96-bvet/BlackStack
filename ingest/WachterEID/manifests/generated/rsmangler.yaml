@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rsmangler
+hash: sha256:1ac45f7aebf511526779605d6aacb1a5702a53e9bf41cd0df483626002dcdd56
+persona_hint: Defense
+source_path: /usr/bin/rsmangler
+tags:
+- unknown
+tool_name: rsmangler

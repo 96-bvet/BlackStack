@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lwp-ssl-test
+hash: sha256:3fb55227e6006a0e2a0a182b23733fe8d5b4b55c8a2d75e1f1bccb97bf2d9e2e
+persona_hint: Defense
+source_path: /usr/share/doc/libcrypt-ssleay-perl/examples/lwp-ssl-test
+tags:
+- unknown
+tool_name: lwp-ssl-test

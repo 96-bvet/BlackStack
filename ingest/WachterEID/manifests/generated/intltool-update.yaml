@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intltool-update
+hash: sha256:31a40ac65be9576322dd8430aab6d1b53ad51e70c08a2759e7d42faab9873751
+persona_hint: Defense
+source_path: /usr/share/intltool-debian/intltool-update
+tags:
+- unknown
+tool_name: intltool-update

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nm-connection-editor
+hash: sha256:f995e7973ca683b47f6157fe1972d595b16580668f9a44f950cd024d372cff9b
+persona_hint: Defense
+source_path: /usr/bin/nm-connection-editor
+tags:
+- unknown
+tool_name: nm-connection-editor

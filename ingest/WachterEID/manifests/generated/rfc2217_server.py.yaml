@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rfc2217_server.py
+hash: sha256:bc0a49c6c1b4c3c680e1fad214d91d4198887daa950a39ea36e3d30dcdb01813
+persona_hint: Defense
+source_path: /usr/share/doc/python3-serial/examples/rfc2217_server.py
+tags:
+- unknown
+tool_name: rfc2217_server.py

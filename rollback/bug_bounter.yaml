@@ -1,0 +1,16 @@
+name: bug_bounter
+path: src/cai/agents/bug_bounter.py
+type: py
+category: misc
+hash: df97dd8e43fd5293e7cd6d2dcb2b4a22e00aa504906a06cd3da6565112bf53af
+approved: true
+import: true
+license_stub: true
+name: bug_bounter
+path: src/cai/agents/bug_bounter.py
+type: py
+category: misc
+hash: df97dd8e43fd5293e7cd6d2dcb2b4a22e00aa504906a06cd3da6565112bf53af
+approved: true
+import: true
+license_stub: true

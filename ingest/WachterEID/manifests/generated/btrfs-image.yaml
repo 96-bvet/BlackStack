@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btrfs-image
+hash: sha256:2a4a0b534973729c5e0acdc7d70b68342f2e1cd0ad2af1f1cbfa2e3a99178a5f
+persona_hint: Defense
+source_path: /usr/bin/btrfs-image
+tags:
+- unknown
+tool_name: btrfs-image

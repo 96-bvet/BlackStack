@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sslsniff
+hash: sha256:361d062a73c72c16f739db46eadb54344d9d59d5d56b54493744487c97f17645
+persona_hint: Defense
+source_path: /usr/bin/sslsniff
+tags:
+- unknown
+tool_name: sslsniff

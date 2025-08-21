@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rfcomm
+hash: sha256:8ccc2a22435f3121600f4ceec4089d1979d2d293f5fbd261d1a8d500666e3622
+persona_hint: Defense
+source_path: /usr/bin/rfcomm
+tags:
+- unknown
+tool_name: rfcomm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kbdinfo
+hash: sha256:82c272b830d15ff907a6bff06f55ba1c2f9b729ea5fb0dabba6d34f67cd49900
+persona_hint: Defense
+source_path: /usr/bin/kbdinfo
+tags:
+- unknown
+tool_name: kbdinfo

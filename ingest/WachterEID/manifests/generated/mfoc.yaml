@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mfoc
+hash: sha256:3ada5adc23f570bacd8cedeb5f4d11abe9c7d0898da4dd1af27d1b9c90fe6962
+persona_hint: Defense
+source_path: /usr/bin/mfoc
+tags:
+- unknown
+tool_name: mfoc

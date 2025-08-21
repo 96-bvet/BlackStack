@@ -1,0 +1,7 @@
+description: Auto-generated manifest for javadoc
+hash: sha256:b4f7f08ca21c0583632a5ec4c11be235de73275fe578fb92852b73e678c0f0ba
+persona_hint: Defense
+source_path: /usr/bin/javadoc
+tags:
+- unknown
+tool_name: javadoc

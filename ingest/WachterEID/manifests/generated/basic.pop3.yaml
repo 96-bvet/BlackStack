@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.pop3
+hash: sha256:511538162963b390d455c03958f6a8c48d4fea1041be80bb07fcc4e251fe6bf2
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.pop3
+tags:
+- unknown
+tool_name: basic.pop3

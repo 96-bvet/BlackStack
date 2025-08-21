@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-dnsdict6
+hash: sha256:7920f0628f1788a236b34e6e05fc48890632ee52af78164a2ecf73068ab066f1
+persona_hint: Defense
+source_path: /usr/bin/atk6-dnsdict6
+tags:
+- unknown
+tool_name: atk6-dnsdict6

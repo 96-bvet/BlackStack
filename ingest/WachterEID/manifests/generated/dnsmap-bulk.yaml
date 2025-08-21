@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dnsmap-bulk
+hash: sha256:a04d37d35e7e72c031af6c5d66354ee1e0845138475419951f99b18fe77a1e4f
+persona_hint: Defense
+source_path: /usr/bin/dnsmap-bulk
+tags:
+- unknown
+tool_name: dnsmap-bulk

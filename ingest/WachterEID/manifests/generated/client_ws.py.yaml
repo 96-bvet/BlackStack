@@ -1,0 +1,7 @@
+description: Auto-generated manifest for client_ws.py
+hash: sha256:f3afb41d6c54c86d9394bd4c2e19b0e2563f6b6cdb522cdada5ded4f08bb9b46
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/client_ws.py
+tags:
+- unknown
+tool_name: client_ws.py

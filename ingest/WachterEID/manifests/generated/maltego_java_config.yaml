@@ -1,0 +1,7 @@
+description: Auto-generated manifest for maltego_java_config
+hash: sha256:5a40e70033e79f0e08f32419436716236a343ef26a79980871237c92c1262fa8
+persona_hint: Defense
+source_path: /usr/bin/maltego_java_config
+tags:
+- unknown
+tool_name: maltego_java_config

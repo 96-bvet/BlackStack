@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update.txt
+hash: sha256:4a303feb1769a1df2756184e85c0d6e72ec27a3f697010829c6a650184a46095
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/fcleaner/update.txt
+tags:
+- unknown
+tool_name: update.txt

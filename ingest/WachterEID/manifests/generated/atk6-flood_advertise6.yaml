@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-flood_advertise6
+hash: sha256:f2aa542a596ebc66f2de8e4e6ea0b36e01830a16caac74f7e666d3cd2a35196d
+persona_hint: Defense
+source_path: /usr/bin/atk6-flood_advertise6
+tags:
+- unknown
+tool_name: atk6-flood_advertise6

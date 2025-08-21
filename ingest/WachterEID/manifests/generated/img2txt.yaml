@@ -1,0 +1,7 @@
+description: Auto-generated manifest for img2txt
+hash: sha256:3b810134580161a985bd6c1ef8e88cec12807fe3228d926f2f00d193d2c1438f
+persona_hint: Defense
+source_path: /usr/bin/img2txt
+tags:
+- unknown
+tool_name: img2txt

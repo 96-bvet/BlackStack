@@ -1,0 +1,7 @@
+description: Auto-generated manifest for crunch
+hash: sha256:8163a06be406312b058bceb92939bdce819ff20a50aab6696adaa70ee16caa1c
+persona_hint: Defense
+source_path: /usr/bin/crunch
+tags:
+- unknown
+tool_name: crunch

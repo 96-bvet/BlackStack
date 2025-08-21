@@ -1,0 +1,7 @@
+description: Auto-generated manifest for install
+hash: sha256:9848c092188028f520c3742c609f7fdf2b16cbf5b4ac128fbf69c13b9620f124
+persona_hint: Defense
+source_path: /usr/bin/install
+tags:
+- unknown
+tool_name: install

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cvt
+hash: sha256:f7a077db6612a63049877a0e62b1e5a6e3bb6e1cecb4b2ef17ceecc5e79c6810
+persona_hint: Defense
+source_path: /usr/bin/cvt
+tags:
+- unknown
+tool_name: cvt

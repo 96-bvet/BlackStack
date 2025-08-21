@@ -1,0 +1,7 @@
+description: Auto-generated manifest for soelim
+hash: sha256:43f5766a1ed4d5ca889c5aa22a33be1ced05167ea228aea99e4760c851cb72e8
+persona_hint: Defense
+source_path: /usr/bin/soelim
+tags:
+- unknown
+tool_name: soelim

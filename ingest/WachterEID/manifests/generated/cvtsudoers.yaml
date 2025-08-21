@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cvtsudoers
+hash: sha256:3c022387d95c54373adacf381952b721f388722e3ec20bed47788028332ac948
+persona_hint: Defense
+source_path: /usr/bin/cvtsudoers
+tags:
+- unknown
+tool_name: cvtsudoers

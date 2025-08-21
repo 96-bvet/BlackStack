@@ -1,0 +1,7 @@
+description: Auto-generated manifest for diffstat
+hash: sha256:026b5151f3eb714ed1e2ff70854740897310c5dc02fc03c8e0bb4ca6f4c6837b
+persona_hint: Defense
+source_path: /usr/bin/diffstat
+tags:
+- unknown
+tool_name: diffstat

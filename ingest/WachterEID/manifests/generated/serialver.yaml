@@ -1,0 +1,7 @@
+description: Auto-generated manifest for serialver
+hash: sha256:3c3c99135dfa356640318eccd475e84d2fc7ec884f06a1c8f6ef67d7ddddc913
+persona_hint: Defense
+source_path: /usr/bin/serialver
+tags:
+- unknown
+tool_name: serialver

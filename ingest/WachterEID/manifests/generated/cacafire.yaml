@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cacafire
+hash: sha256:8df682822b8f4590ee682596d8f8dd46d410e3b2ae6e61e59bde1e938504980f
+persona_hint: Defense
+source_path: /usr/bin/cacafire
+tags:
+- unknown
+tool_name: cacafire

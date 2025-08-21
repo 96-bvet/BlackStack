@@ -1,0 +1,7 @@
+description: Auto-generated manifest for simple.py
+hash: sha256:382150202567e3be8375c1b56a27046516524d1d400a08f156b9b1c196bff880
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/simple.py
+tags:
+- unknown
+tool_name: simple.py

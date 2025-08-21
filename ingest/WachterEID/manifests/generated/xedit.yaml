@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xedit
+hash: sha256:7d289f259adc0a3748a4293c32e980822cdd1ca114d89a519bd49e81dd2cb520
+persona_hint: Defense
+source_path: /usr/bin/xedit
+tags:
+- unknown
+tool_name: xedit

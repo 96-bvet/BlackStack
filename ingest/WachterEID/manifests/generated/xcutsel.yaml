@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xcutsel
+hash: sha256:5faaa3d41a3394e44df5604498650d0ce4e604c87bc9d4bc8c8bcb56d573812f
+persona_hint: Defense
+source_path: /usr/bin/xcutsel
+tags:
+- unknown
+tool_name: xcutsel

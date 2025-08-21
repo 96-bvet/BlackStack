@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-address6
+hash: sha256:51607945b3e29df453ef7106addb189970e8134afd0c8f5ed1a5c588c7a907f5
+persona_hint: Defense
+source_path: /usr/bin/atk6-address6
+tags:
+- unknown
+tool_name: atk6-address6

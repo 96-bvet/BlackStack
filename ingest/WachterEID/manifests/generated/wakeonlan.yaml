@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wakeonlan
+hash: sha256:a0d361b4b644d1904f017ed847706d65bbdb953506c9be3734dd5eb943f8827e
+persona_hint: Defense
+source_path: /usr/bin/wakeonlan
+tags:
+- unknown
+tool_name: wakeonlan

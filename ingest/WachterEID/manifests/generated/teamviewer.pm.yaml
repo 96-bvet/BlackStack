@@ -1,0 +1,7 @@
+description: Auto-generated manifest for teamviewer.pm
+hash: sha256:88410c6deaed30cfc39ee67b240c3f013c3eb04fba9b9d793c72491288c8a8f9
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/teamviewer.pm
+tags:
+- unknown
+tool_name: teamviewer.pm

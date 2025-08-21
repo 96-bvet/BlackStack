@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ar
+hash: sha256:a869d0987146ac628fe0a11def3f90871662aa753f49ad2b0a102017bc9d36c2
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debfile/ar
+tags:
+- unknown
+tool_name: ar

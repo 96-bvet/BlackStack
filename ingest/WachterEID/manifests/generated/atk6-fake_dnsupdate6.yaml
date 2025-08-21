@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_dnsupdate6
+hash: sha256:77d6808e983899234e28a15ec32b3b3a521d3d62d83a547460b4a1106ab65646
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_dnsupdate6
+tags:
+- unknown
+tool_name: atk6-fake_dnsupdate6

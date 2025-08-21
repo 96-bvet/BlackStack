@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rg
+hash: sha256:be2476c976342b9216611b4a84c1bc2ec6488ec5c791ea019a132727644ef19c
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@vscode/ripgrep/bin/rg
+tags:
+- unknown
+tool_name: rg

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tstool.py
+hash: sha256:60823b62d16149b12cfd31fc5db99277b9fb5f2fb02e0ca2b8a6acd73f0ed8b9
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/tstool.py
+tags:
+- unknown
+tool_name: tstool.py

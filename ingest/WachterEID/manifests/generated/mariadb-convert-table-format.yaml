@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-convert-table-format
+hash: sha256:975cb022076bdbd00092f379b620eb5af3127b63233074ffce20b5074c55d4c8
+persona_hint: Defense
+source_path: /usr/bin/mariadb-convert-table-format
+tags:
+- unknown
+tool_name: mariadb-convert-table-format

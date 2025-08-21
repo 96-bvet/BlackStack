@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-dnsrevenum6
+hash: sha256:5d9874287c88bdcf2b0efa15741629a4361557900fba4deb1b91ed78fdcaacc7
+persona_hint: Defense
+source_path: /usr/bin/atk6-dnsrevenum6
+tags:
+- unknown
+tool_name: atk6-dnsrevenum6

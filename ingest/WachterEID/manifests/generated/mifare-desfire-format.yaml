@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-desfire-format
+hash: sha256:be07aa18a1b7f39e34ced3133081294326b171b0d936692dd6f1836c69f537c8
+persona_hint: Defense
+source_path: /usr/bin/mifare-desfire-format
+tags:
+- unknown
+tool_name: mifare-desfire-format

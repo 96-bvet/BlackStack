@@ -1,0 +1,7 @@
+description: Auto-generated manifest for expiry
+hash: sha256:2e4d778ceb582e1979e3cc0fe5e609ec2fba6a320ac6e259e5de4ae823e7c422
+persona_hint: Defense
+source_path: /usr/bin/expiry
+tags:
+- unknown
+tool_name: expiry

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installifupdown
+hash: sha256:b51c61042517b5b7261bad567eb0436f210272e74980e97139d7d68480804b30
+persona_hint: Defense
+source_path: /usr/bin/dh_installifupdown
+tags:
+- unknown
+tool_name: dh_installifupdown

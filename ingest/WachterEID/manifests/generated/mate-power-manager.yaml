@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-power-manager
+hash: sha256:2fa5fe443c7e11ac233cff098a7e41ae1daca06498c2b5392c3e429191fe27a8
+persona_hint: Defense
+source_path: /usr/bin/mate-power-manager
+tags:
+- unknown
+tool_name: mate-power-manager

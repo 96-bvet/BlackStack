@@ -1,0 +1,7 @@
+description: Auto-generated manifest for torbrowser-launcher
+hash: sha256:e39aeab7bfa72f21f7b65cd605a3fba54b2a742ce577f348226558c97976afa2
+persona_hint: Defense
+source_path: /usr/bin/torbrowser-launcher
+tags:
+- unknown
+tool_name: torbrowser-launcher

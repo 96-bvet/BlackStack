@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tbb-in-xephyr
+hash: sha256:641f76de406affda7f0bc18ba95ad037b78b09aa2922635ee2d57f48bc3102f2
+persona_hint: Defense
+source_path: /usr/share/doc/torbrowser-launcher/examples/tbb-in-xephyr
+tags:
+- unknown
+tool_name: tbb-in-xephyr

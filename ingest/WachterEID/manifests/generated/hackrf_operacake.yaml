@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_operacake
+hash: sha256:53fcbccf00a38ca0163d0e2fd1126f2cae44d3bb85d4b9cf5271a820fcde09d3
+persona_hint: Defense
+source_path: /usr/bin/hackrf_operacake
+tags:
+- unknown
+tool_name: hackrf_operacake

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_movefiles
+hash: sha256:f29673cb4b73d14fcb3efa4571f7bf63263d21aedab977847f77da9997309cad
+persona_hint: Defense
+source_path: /usr/bin/dh_movefiles
+tags:
+- unknown
+tool_name: dh_movefiles

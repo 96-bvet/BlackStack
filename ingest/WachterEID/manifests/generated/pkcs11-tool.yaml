@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkcs11-tool
+hash: sha256:c7285123b96a6e877f62cf6de066af86e77b80e48c29793d75892be1c914c2b8
+persona_hint: Defense
+source_path: /usr/bin/pkcs11-tool
+tags:
+- unknown
+tool_name: pkcs11-tool

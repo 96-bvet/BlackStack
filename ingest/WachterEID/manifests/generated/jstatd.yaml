@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jstatd
+hash: sha256:182c9fc69950608dd94a568a541677b634631f465282e0ceb777f689ac037004
+persona_hint: Defense
+source_path: /usr/bin/jstatd
+tags:
+- unknown
+tool_name: jstatd

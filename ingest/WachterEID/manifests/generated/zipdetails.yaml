@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zipdetails
+hash: sha256:58439587867aabee0504e493722c74e0725f649f4050848c91c59d48e90cd34f
+persona_hint: Defense
+source_path: /usr/bin/zipdetails
+tags:
+- unknown
+tool_name: zipdetails

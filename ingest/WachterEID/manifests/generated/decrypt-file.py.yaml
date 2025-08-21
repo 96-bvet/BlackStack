@@ -1,0 +1,7 @@
+description: Auto-generated manifest for decrypt-file.py
+hash: sha256:2f8d125005a44f8d0814aa135af996fe0b9a037de2c2ac56685c37cd69a115fb
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/decrypt-file.py
+tags:
+- unknown
+tool_name: decrypt-file.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-tmin
+hash: sha256:4698004decdcd49c96718b0807e8bd71994873ecdddd2b7c8e82821e52279f3c
+persona_hint: Defense
+source_path: /usr/bin/afl-tmin
+tags:
+- unknown
+tool_name: afl-tmin

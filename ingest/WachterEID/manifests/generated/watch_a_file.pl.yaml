@@ -1,0 +1,7 @@
+description: Auto-generated manifest for watch_a_file.pl
+hash: sha256:f041bceffe6e5e1949629a57ef4c5f1d53727e7b497e0a371943be86bcf83ead
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/watch_a_file.pl
+tags:
+- unknown
+tool_name: watch_a_file.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rdoc
+hash: sha256:858f3e749af85a2335908cd2f46e46fb0ad99528ada907e350061304b8bcb1ee
+persona_hint: Defense
+source_path: /usr/bin/rdoc
+tags:
+- unknown
+tool_name: rdoc

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openpgp-tool
+hash: sha256:3fad7092ed1c5fca94ade7cb80235b0ad60317096fa3d7f9170289075806a892
+persona_hint: Defense
+source_path: /usr/bin/openpgp-tool
+tags:
+- unknown
+tool_name: openpgp-tool

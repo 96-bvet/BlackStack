@@ -1,0 +1,7 @@
+description: Auto-generated manifest for javaws16_0_21_xp.exe
+hash: sha256:49b957fe7d2429a4877123948aeb9249c990f7155fa96dedd47ae43012703461
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/java/javaws16_0_21_xp.exe
+tags:
+- unknown
+tool_name: javaws16_0_21_xp.exe

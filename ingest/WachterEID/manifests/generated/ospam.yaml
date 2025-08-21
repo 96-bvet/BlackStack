@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ospam
+hash: sha256:05dccda608b6f2a7e1ed2af1d13c5fd7f0b891dedc7d282ee6a1fe2e9fd39980
+persona_hint: Defense
+source_path: /usr/bin/ospam
+tags:
+- unknown
+tool_name: ospam

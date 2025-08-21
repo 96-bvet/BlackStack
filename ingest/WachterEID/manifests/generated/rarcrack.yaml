@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rarcrack
+hash: sha256:86dea58eca39997ce821f4768b7e6265b42e1e357bc7468298dadc02ae0c6e0d
+persona_hint: Defense
+source_path: /usr/bin/rarcrack
+tags:
+- unknown
+tool_name: rarcrack

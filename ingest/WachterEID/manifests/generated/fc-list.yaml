@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-list
+hash: sha256:ac2758a5c5e5543647e3ba2d0989d35e4f2b1f8e9db4e082b023df841105fa36
+persona_hint: Defense
+source_path: /usr/bin/fc-list
+tags:
+- unknown
+tool_name: fc-list

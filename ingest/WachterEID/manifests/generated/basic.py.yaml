@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.py
+hash: sha256:ff7d42cdd2fe0549b6b95305a0818f29887ae732e0f975e716a17dd9ef3b9601
+persona_hint: Defense
+source_path: /usr/share/doc/python3-notify2/examples/basic.py
+tags:
+- unknown
+tool_name: basic.py

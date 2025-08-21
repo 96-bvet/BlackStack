@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mkstandalone
+hash: sha256:1f882aaffede84a324e8f571c13f0d9e84ab7dfbac505714b5b1d6a9a66810d4
+persona_hint: Defense
+source_path: /usr/bin/grub-mkstandalone
+tags:
+- unknown
+tool_name: grub-mkstandalone

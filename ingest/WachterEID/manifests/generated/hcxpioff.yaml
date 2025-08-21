@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxpioff
+hash: sha256:7c19c0640bd968cfff7ed34e94d5b19404077a08660ac3af26c77b044d8d02d8
+persona_hint: Defense
+source_path: /usr/bin/hcxpioff
+tags:
+- unknown
+tool_name: hcxpioff

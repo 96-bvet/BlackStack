@@ -1,0 +1,7 @@
+description: Auto-generated manifest for server4.pl
+hash: sha256:ebdea77310b09d3cd11df9c8d9927be86a2101ce46c36783f627129862bc4a5b
+persona_hint: Defense
+source_path: /usr/share/doc/libio-socket-socks-perl/examples/server4.pl
+tags:
+- unknown
+tool_name: server4.pl

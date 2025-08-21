@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chrome-wrapper
+hash: sha256:17b0432a26e628287789f1efa53056384a46b6265939e8bf819b1b6cf8472ada
+persona_hint: Defense
+source_path: /usr/share/burpsuite/burpbrowser/130.0.6723.69/chrome-wrapper
+tags:
+- unknown
+tool_name: chrome-wrapper

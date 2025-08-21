@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wget.exe
+hash: sha256:3d28e43da1d24dc517b4d570f7a8851fa2766caaad330001795b51191f2cc2f8
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/wget.exe
+tags:
+- unknown
+tool_name: wget.exe

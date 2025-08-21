@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_ucf
+hash: sha256:3c2a6fe34591beecd55c1c1cbf5bb8d20124d20196758897187fbaf186c571a1
+persona_hint: Defense
+source_path: /usr/bin/dh_ucf
+tags:
+- unknown
+tool_name: dh_ucf

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dns-rebind
+hash: sha256:0370ba884aa8a0a88b33f9d850877e7ce2a89ae57752112d83bd68827fa634e3
+persona_hint: Defense
+source_path: /usr/bin/dns-rebind
+tags:
+- unknown
+tool_name: dns-rebind

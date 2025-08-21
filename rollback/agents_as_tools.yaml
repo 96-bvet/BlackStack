@@ -1,0 +1,8 @@
+name: agents_as_tools
+path: examples/agent_patterns/agents_as_tools.py
+type: py
+category: misc
+hash: 860b66a20453c9af960052e546e02b36bbe3fbcd7f62693c84b715582d0e6b22
+approved: true
+import: true
+license_stub: true

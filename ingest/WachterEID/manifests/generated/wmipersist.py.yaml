@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wmipersist.py
+hash: sha256:c1130f1d66b7ed93ab56dcf35858d40babde1f1a8706c0f6517d2cbad2878666
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/wmipersist.py
+tags:
+- unknown
+tool_name: wmipersist.py

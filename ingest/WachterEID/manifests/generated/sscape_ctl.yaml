@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sscape_ctl
+hash: sha256:4b23809cf5ace3dfb472e45202f74825db94d17b76b38712b26c156f023ff595
+persona_hint: Defense
+source_path: /usr/bin/sscape_ctl
+tags:
+- unknown
+tool_name: sscape_ctl

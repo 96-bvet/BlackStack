@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xmag
+hash: sha256:c81c5f35ee01877a9d8229061a02e2490f467bab8a3e3f04a8c80584eddc3fd4
+persona_hint: Defense
+source_path: /usr/bin/xmag
+tags:
+- unknown
+tool_name: xmag

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for netstat
+hash: sha256:157462d48e62ecdd1c5502c229274b5d604c0145ebabc942a636b24bc2a9c13a
+persona_hint: Defense
+source_path: /usr/bin/netstat
+tags:
+- unknown
+tool_name: netstat

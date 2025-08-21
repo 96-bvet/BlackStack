@@ -1,0 +1,7 @@
+description: Auto-generated manifest for StagerHandler.java
+hash: sha256:f30cb8576ad00f69701ac17d8499e96a0ca3d348e6402b942a14d60de3b625d7
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/handler/stager/StagerHandler.java
+tags:
+- unknown
+tool_name: StagerHandler.java

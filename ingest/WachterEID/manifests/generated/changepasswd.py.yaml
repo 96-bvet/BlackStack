@@ -1,0 +1,7 @@
+description: Auto-generated manifest for changepasswd.py
+hash: sha256:8fa4eb286492e8cea52f16b9a238360d313bcd2e5de6ab4f546b89995f11ce40
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/changepasswd.py
+tags:
+- unknown
+tool_name: changepasswd.py

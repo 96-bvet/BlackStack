@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SystemInfo.java
+hash: sha256:98acd34aa80b299357cb09d9707312c2a8f26396abb9c7dd192dc03dfcb56c75
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stage/SystemInfo.java
+tags:
+- unknown
+tool_name: SystemInfo.java

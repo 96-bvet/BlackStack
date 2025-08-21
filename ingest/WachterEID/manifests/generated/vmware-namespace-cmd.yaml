@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-namespace-cmd
+hash: sha256:4dfe2327d6421dbe9e7acfee10d94bb154705c9eef90343dc71a679c349efe78
+persona_hint: Defense
+source_path: /usr/bin/vmware-namespace-cmd
+tags:
+- unknown
+tool_name: vmware-namespace-cmd

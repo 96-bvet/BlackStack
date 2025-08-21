@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-check
+hash: sha256:609f74fea2fdfeb658a115589d40667388ba4fe49cf17143dfbfc49dc96d30be
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-check
+tags:
+- unknown
+tool_name: gtkdoc-check

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bin.js
+hash: sha256:c44f66fcb954c037673b8984a60f7953fcc75df041978f93307edce52ad8653c
+persona_hint: Defense
+source_path: /usr/share/nodejs/rimraf/bin.js
+tags:
+- unknown
+tool_name: bin.js

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ar-lib
+hash: sha256:84416b321e061e716c917c0f733079c050781588d0381d7dfb6cc9aefd7b0f37
+persona_hint: Defense
+source_path: /usr/share/automake-1.16/ar-lib
+tags:
+- unknown
+tool_name: ar-lib

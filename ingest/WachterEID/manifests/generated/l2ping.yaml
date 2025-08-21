@@ -1,0 +1,7 @@
+description: Auto-generated manifest for l2ping
+hash: sha256:ab6486e07e5615e720bc1ac8176e78dbcb7aae623ce65cdd083d6450886bf5c7
+persona_hint: Defense
+source_path: /usr/bin/l2ping
+tags:
+- unknown
+tool_name: l2ping

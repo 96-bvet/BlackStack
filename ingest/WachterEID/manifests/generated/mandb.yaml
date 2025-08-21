@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mandb
+hash: sha256:44a25f88a9cc4bd1671dd587fdc0e9a8518cca7da8faa8941023657a72b6dd33
+persona_hint: Defense
+source_path: /usr/bin/mandb
+tags:
+- unknown
+tool_name: mandb

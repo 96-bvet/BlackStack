@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ncurses5-config
+hash: sha256:f8087bf3a9d77a3b40128aaa4ef83963661f60bb9eec34d593517e49aa2e9ad3
+persona_hint: Defense
+source_path: /usr/bin/ncurses5-config
+tags:
+- unknown
+tool_name: ncurses5-config

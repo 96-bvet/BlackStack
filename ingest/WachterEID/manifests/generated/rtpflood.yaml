@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtpflood
+hash: sha256:ab72151b25719d425ab4c36d4899e2d27716ec10eafa265dea306ef848a18f80
+persona_hint: Defense
+source_path: /usr/bin/rtpflood
+tags:
+- unknown
+tool_name: rtpflood

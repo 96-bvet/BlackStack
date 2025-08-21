@@ -1,0 +1,7 @@
+description: Auto-generated manifest for users
+hash: sha256:f54bbf8c6f73a185a69f64b3d7b6aef9bbc6e5a1e5d82efa14db4312207aeb77
+persona_hint: Defense
+source_path: /usr/bin/users
+tags:
+- unknown
+tool_name: users

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chmod
+hash: sha256:623fdf73612f898ec829e529ffd143520fb617a75bca84e242030f48d2144645
+persona_hint: Defense
+source_path: /usr/bin/chmod
+tags:
+- unknown
+tool_name: chmod

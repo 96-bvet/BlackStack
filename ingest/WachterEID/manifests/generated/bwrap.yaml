@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bwrap
+hash: sha256:85580dd52ed366ece8844e90fa75ac7c4de8802963071344e123221fb9f6f11e
+persona_hint: Defense
+source_path: /usr/bin/bwrap
+tags:
+- unknown
+tool_name: bwrap

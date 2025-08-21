@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pizza
+hash: sha256:b5d978e11ca8f203d45407d4d6e29b5b115b1ffd289ad8b06299de175fff318f
+persona_hint: Defense
+source_path: /usr/share/doc/node-commander/examples/pizza
+tags:
+- unknown
+tool_name: pizza

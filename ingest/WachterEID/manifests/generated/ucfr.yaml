@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ucfr
+hash: sha256:f547df79dc954eb9ce4fa5fd59bc9c10292f954e0bd3222754eb15dfdada11b1
+persona_hint: Defense
+source_path: /usr/bin/ucfr
+tags:
+- unknown
+tool_name: ucfr

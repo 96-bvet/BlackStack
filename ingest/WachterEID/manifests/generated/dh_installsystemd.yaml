@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installsystemd
+hash: sha256:56920a88ff25cd3dd75fcd4754efb2b50bdb88f50feac2418942c31a079e9e67
+persona_hint: Defense
+source_path: /usr/bin/dh_installsystemd
+tags:
+- unknown
+tool_name: dh_installsystemd

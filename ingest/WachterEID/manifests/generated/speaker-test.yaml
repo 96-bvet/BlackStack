@@ -1,0 +1,7 @@
+description: Auto-generated manifest for speaker-test
+hash: sha256:3864d3361b4ab62e038aaf8157319880cd8b2a7de5d5d6764eb111c85fa2bec3
+persona_hint: Defense
+source_path: /usr/bin/speaker-test
+tags:
+- unknown
+tool_name: speaker-test

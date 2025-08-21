@@ -1,0 +1,7 @@
+description: Auto-generated manifest for py3compile
+hash: sha256:87beb3c2767a0df477deb7f5736bed2f2b60083729fc8509be531216805a754e
+persona_hint: Defense
+source_path: /usr/bin/py3compile
+tags:
+- unknown
+tool_name: py3compile

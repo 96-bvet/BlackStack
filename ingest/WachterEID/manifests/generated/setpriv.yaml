@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setpriv
+hash: sha256:d5839b20edb0d77222b1e11be7d155c7122d381dbfad40876b0def7dd710f5bd
+persona_hint: Defense
+source_path: /usr/bin/setpriv
+tags:
+- unknown
+tool_name: setpriv

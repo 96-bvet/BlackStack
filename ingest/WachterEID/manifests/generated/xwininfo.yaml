@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xwininfo
+hash: sha256:fcd45fa8cf04e0c62086dbbb3e9d4762b0080cc41622cf53a5bddea92b7be84c
+persona_hint: Defense
+source_path: /usr/bin/xwininfo
+tags:
+- unknown
+tool_name: xwininfo

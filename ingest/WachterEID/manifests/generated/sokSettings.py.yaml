@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sokSettings.py
+hash: sha256:2e73d5374aedacdb87102bb5b2e33ece6e62216aff31f5ceb0dacfad100abf06
+persona_hint: Defense
+source_path: /usr/share/onboard/scripts/sokSettings.py
+tags:
+- unknown
+tool_name: sokSettings.py

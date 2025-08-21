@@ -1,0 +1,7 @@
+description: Auto-generated manifest for usx2yloader
+hash: sha256:d1067c5f6d5709e8b3e8c913f77ad871a4cd6b977c000e8a0c13d0e35edeaf15
+persona_hint: Defense
+source_path: /usr/bin/usx2yloader
+tags:
+- unknown
+tool_name: usx2yloader

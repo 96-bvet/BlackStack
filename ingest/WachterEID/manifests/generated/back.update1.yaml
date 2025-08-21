@@ -1,0 +1,7 @@
+description: Auto-generated manifest for back.update1
+hash: sha256:5078134d602979d3da058230d08dd12f9388713908dc9f6be72e26f44f25cab8
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/ubertwitter/back.update1
+tags:
+- unknown
+tool_name: back.update1

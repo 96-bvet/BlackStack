@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mimescore
+hash: sha256:a296d45c8c3f4e10ea36b510c2c060f260edd60f2b86da675f9a855c967442b9
+persona_hint: Defense
+source_path: /usr/share/nodejs/mime-score/bin/mimescore
+tags:
+- unknown
+tool_name: mimescore

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mawk
+hash: sha256:301315e7e2e964b4e403824b3f6c7ad8db1023e4ce87e6f6c92bf367e047f311
+persona_hint: Defense
+source_path: /usr/bin/mawk
+tags:
+- unknown
+tool_name: mawk

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bombardment
+hash: sha256:ccb397bf8e6ed409ce24d5485184bb9fcfdc1a183b015f14d2ebc23dd684749b
+persona_hint: Defense
+source_path: /usr/bin/bombardment
+tags:
+- unknown
+tool_name: bombardment

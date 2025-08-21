@@ -1,0 +1,7 @@
+description: Auto-generated manifest for amapcrap
+hash: sha256:f85e85f2182dd396b594d3c0979429e868d7825474aac45dc8c1e2a59bbc8892
+persona_hint: Defense
+source_path: /usr/bin/amapcrap
+tags:
+- unknown
+tool_name: amapcrap

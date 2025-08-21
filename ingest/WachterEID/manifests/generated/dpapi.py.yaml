@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpapi.py
+hash: sha256:7e245c36028d1fe0a7fa6ad4957448baa402965001fbf529fd568b5547e7775f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/dpapi.py
+tags:
+- unknown
+tool_name: dpapi.py

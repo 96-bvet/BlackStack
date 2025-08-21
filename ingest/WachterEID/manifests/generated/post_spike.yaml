@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post_spike
+hash: sha256:b9134d3e5e27268ad234362faa2f4106d40405e67496d42a854437c8d24fbbab
+persona_hint: Defense
+source_path: /usr/bin/post_spike
+tags:
+- unknown
+tool_name: post_spike

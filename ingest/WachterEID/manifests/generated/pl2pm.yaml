@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pl2pm
+hash: sha256:a974fb9e86c76778a249d47d521e6fa1847c331ba3eea6e240a37b1c44dd6a1d
+persona_hint: Defense
+source_path: /usr/bin/pl2pm
+tags:
+- unknown
+tool_name: pl2pm

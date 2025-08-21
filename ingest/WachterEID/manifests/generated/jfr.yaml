@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jfr
+hash: sha256:cdfc80a48d051e0b87dd0b16164ad84a20473f624985986fb3e5b3659588ec16
+persona_hint: Defense
+source_path: /usr/bin/jfr
+tags:
+- unknown
+tool_name: jfr

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for onboard
+hash: sha256:a239f582899be123b0655c516dfa94da1f426818296afcdf2bdfa38d4301f7ac
+persona_hint: Defense
+source_path: /usr/bin/onboard
+tags:
+- unknown
+tool_name: onboard

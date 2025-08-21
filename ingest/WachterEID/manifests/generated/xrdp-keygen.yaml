@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrdp-keygen
+hash: sha256:afc58a666042d53c100ed221a75802aacc924a483164733fd85a43d728895a15
+persona_hint: Defense
+source_path: /usr/bin/xrdp-keygen
+tags:
+- unknown
+tool_name: xrdp-keygen

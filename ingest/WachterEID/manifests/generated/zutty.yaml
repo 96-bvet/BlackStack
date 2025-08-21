@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zutty
+hash: sha256:7e813e27a5042d7f8656c9597b6f9d61e62258a57361a399e312bc29c336a571
+persona_hint: Defense
+source_path: /usr/bin/zutty
+tags:
+- unknown
+tool_name: zutty

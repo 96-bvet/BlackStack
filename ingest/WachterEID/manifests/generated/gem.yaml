@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gem
+hash: sha256:7456475b40671e008a32502e61e7dd6a4513dfd4b585739255f4d270d15e67ed
+persona_hint: Defense
+source_path: /usr/bin/gem
+tags:
+- unknown
+tool_name: gem

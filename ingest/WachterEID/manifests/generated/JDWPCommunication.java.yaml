@@ -1,0 +1,7 @@
+description: Auto-generated manifest for JDWPCommunication.java
+hash: sha256:e7e6377fdca447f14e47aaa6c52cbc3c739365e2221f262f37055d0edfc6d37e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/loader/JDWPCommunication.java
+tags:
+- unknown
+tool_name: JDWPCommunication.java

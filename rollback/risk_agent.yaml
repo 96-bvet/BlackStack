@@ -1,0 +1,8 @@
+name: risk_agent
+path: examples/financial_research_agent/agents/risk_agent.py
+type: py
+category: misc
+hash: 04abb9eab871a70fd30a93caf666e09a06572a8d3d4080554b176f3b109d2503
+approved: true
+import: true
+license_stub: true

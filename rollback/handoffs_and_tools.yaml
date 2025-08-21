@@ -1,0 +1,8 @@
+name: handoffs_and_tools
+path: examples/cai/agent_patterns/handoffs_and_tools.py
+type: py
+category: misc
+hash: cd2b45267215a0a304ef311472babcde92bad14b7e25cf191deaa8959d6c56e2
+approved: true
+import: true
+license_stub: true

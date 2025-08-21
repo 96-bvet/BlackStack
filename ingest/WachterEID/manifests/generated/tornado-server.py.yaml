@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tornado-server.py
+hash: sha256:f73c03c32057101edf8bb27ded9353991f7107ea0b8fb74e648ea5b7d6031ece
+persona_hint: Defense
+source_path: /usr/share/doc/python3-h2/examples/tornado/tornado-server.py
+tags:
+- unknown
+tool_name: tornado-server.py

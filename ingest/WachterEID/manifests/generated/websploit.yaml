@@ -1,0 +1,7 @@
+description: Auto-generated manifest for websploit
+hash: sha256:fd4aad095ab7ae5f8582b60fc0750dd5938c87dcd09d9d87f0eae9b1b26d7630
+persona_hint: Defense
+source_path: /usr/bin/websploit
+tags:
+- unknown
+tool_name: websploit

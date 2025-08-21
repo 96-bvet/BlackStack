@@ -1,0 +1,7 @@
+description: Auto-generated manifest for thc-ssl-dos
+hash: sha256:f4e6e37ed55ce3560978d37d8785f1235a296651b6576ebb067893c0215bdbfd
+persona_hint: Defense
+source_path: /usr/bin/thc-ssl-dos
+tags:
+- unknown
+tool_name: thc-ssl-dos

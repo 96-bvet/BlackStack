@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-file-2-update.sh
+hash: sha256:e7a0bae306731920955a2899beb1b0c98e3ee3598cbe2e2dbce5437b97b52e67
+persona_hint: Defense
+source_path: /usr/share/doc/apt-file/examples/apt-file-2-update.sh
+tags:
+- unknown
+tool_name: apt-file-2-update.sh

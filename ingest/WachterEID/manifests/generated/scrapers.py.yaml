@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scrapers.py
+hash: sha256:50aa1984b0295d1e0a62a74f75d72fdc2d09a59b5de57b1b23603b0f97b8bcfe
+persona_hint: Defense
+source_path: /usr/share/pompem/core/scrapers.py
+tags:
+- unknown
+tool_name: scrapers.py

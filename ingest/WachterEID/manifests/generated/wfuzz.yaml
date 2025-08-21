@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wfuzz
+hash: sha256:c7f6be0a4f927774d0cc2a1746f6511622da1752a1d9daa7816e4c7ca3d8a0cb
+persona_hint: Defense
+source_path: /usr/bin/wfuzz
+tags:
+- unknown
+tool_name: wfuzz

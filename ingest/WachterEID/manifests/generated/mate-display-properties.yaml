@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-display-properties
+hash: sha256:deb31fd9c75471d3f331759dcb30e059464be465573e69431e603aecb3b828a8
+persona_hint: Defense
+source_path: /usr/bin/mate-display-properties
+tags:
+- unknown
+tool_name: mate-display-properties

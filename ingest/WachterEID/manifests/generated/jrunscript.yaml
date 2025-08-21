@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jrunscript
+hash: sha256:12a71d577edd32369ea0969d2613c40c4e226f0e4e1fc574f8d9b50effa862f7
+persona_hint: Defense
+source_path: /usr/share/burpsuite/jre/bin/jrunscript
+tags:
+- unknown
+tool_name: jrunscript

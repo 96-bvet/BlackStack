@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rt2rtc
+hash: sha256:a893ca2fc2c1389aebdbef4d0f687af5767d5f1260465d8fe08b51478b19470f
+persona_hint: Defense
+source_path: /usr/share/rainbowcrack/rt2rtc
+tags:
+- unknown
+tool_name: rt2rtc

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN1254.INC
+hash: sha256:56103bfba81e2fdfdc4dc540dcc19de0027e8ca3342ac02827b9901b215aa8d4
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/ENCODING/WIN1254.INC
+tags:
+- unknown
+tool_name: WIN1254.INC

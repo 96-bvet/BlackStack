@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post-update.sample
+hash: sha256:81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/post-update.sample
+tags:
+- unknown
+tool_name: post-update.sample

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Mail
+hash: sha256:b3505d98b4c2032553cfd94783f825ee2aff082b58c7f64e7313e27cf306f1df
+persona_hint: Defense
+source_path: /usr/bin/Mail
+tags:
+- unknown
+tool_name: Mail

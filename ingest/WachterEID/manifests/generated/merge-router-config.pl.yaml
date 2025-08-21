@@ -1,0 +1,7 @@
+description: Auto-generated manifest for merge-router-config.pl
+hash: sha256:b25e2416aa4614666083b33d032720b240ef1c187f7f7b356e1d821904f48e99
+persona_hint: Defense
+source_path: /usr/bin/merge-router-config.pl
+tags:
+- unknown
+tool_name: merge-router-config.pl

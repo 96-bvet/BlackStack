@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pstgdump.exe
+hash: sha256:368c10795de10e988381b5de5c7cd8b2d4b9718dcd4e5590adc2556cbe9d13c1
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/fgdump/pstgdump.exe
+tags:
+- unknown
+tool_name: pstgdump.exe

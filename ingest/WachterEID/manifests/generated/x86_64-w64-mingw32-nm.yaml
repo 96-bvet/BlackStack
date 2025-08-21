@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-nm
+hash: sha256:be7c4113efc4c49c53b5753b0c61b9520b46d0c2e100ffb485a99fe0daf4b2a0
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-nm
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-nm

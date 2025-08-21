@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sort_res.pl
+hash: sha256:05d9d3f918494ae744dde52edf4f003befc12afe6f9ef29ccba958154741d4e2
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/sort_res.pl
+tags:
+- unknown
+tool_name: sort_res.pl

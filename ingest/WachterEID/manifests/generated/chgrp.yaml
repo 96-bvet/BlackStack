@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chgrp
+hash: sha256:bbee32e3ce054742f944124cd9859b4bf872e8d602f66e0f17c2838214e78aa0
+persona_hint: Defense
+source_path: /usr/bin/chgrp
+tags:
+- unknown
+tool_name: chgrp

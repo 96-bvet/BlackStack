@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-network-properties
+hash: sha256:c0f62ee6081a29617994e318227df30c45ec860485080ec8df9a1ebef91d0b6c
+persona_hint: Defense
+source_path: /usr/bin/mate-network-properties
+tags:
+- unknown
+tool_name: mate-network-properties

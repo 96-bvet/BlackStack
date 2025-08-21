@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vimdiff
+hash: sha256:1d3123b9d97a4889696ab72db558041b5cca8e26ff51ae557f7842242a7d4ed1
+persona_hint: Defense
+source_path: /usr/bin/vimdiff
+tags:
+- unknown
+tool_name: vimdiff

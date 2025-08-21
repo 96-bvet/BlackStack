@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vulnerable-echo-server.c
+hash: sha256:7d7685272949caa53a2ee3dcf49208104030fb87856e387f4a2adaeb7bf0169b
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/vulnerable-echo-server.c
+tags:
+- unknown
+tool_name: vulnerable-echo-server.c

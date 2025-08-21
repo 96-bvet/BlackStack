@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_info
+hash: sha256:db518acc40f237e753dbbbe9d270e87c64d6bf4819f64c5f2edfb6a024868070
+persona_hint: Defense
+source_path: /usr/bin/hackrf_info
+tags:
+- unknown
+tool_name: hackrf_info

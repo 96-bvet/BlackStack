@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post33.txt
+hash: sha256:480d8cb635c24d2a274a96f04ef999e2c0d1dd9a209681772750bf000486eecb
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post33.txt
+tags:
+- unknown
+tool_name: post33.txt

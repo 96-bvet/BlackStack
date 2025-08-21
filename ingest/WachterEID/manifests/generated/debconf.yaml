@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf
+hash: sha256:d365d13eb1dff880be7361e4043d25875075776445d4edd1eb4fb1e451a2e41a
+persona_hint: Defense
+source_path: /usr/bin/debconf
+tags:
+- unknown
+tool_name: debconf

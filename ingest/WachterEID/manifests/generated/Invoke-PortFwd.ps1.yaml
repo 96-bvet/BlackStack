@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Invoke-PortFwd.ps1
+hash: sha256:9c8422302f9acdc692924feba41dec6aa14c8ae55580dd09994888cbb019e538
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/module_source/lateral_movement/Invoke-PortFwd.ps1
+tags:
+- unknown
+tool_name: Invoke-PortFwd.ps1

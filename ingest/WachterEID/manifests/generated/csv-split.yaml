@@ -1,0 +1,7 @@
+description: Auto-generated manifest for csv-split
+hash: sha256:5e1fcddbcf9931d8d7bb25b33cce18875dd3b24670c3ebc96469f205738a10eb
+persona_hint: Defense
+source_path: /usr/share/doc/libtext-csv-xs-perl/examples/csv-split
+tags:
+- unknown
+tool_name: csv-split

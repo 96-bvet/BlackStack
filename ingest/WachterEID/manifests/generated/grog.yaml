@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grog
+hash: sha256:af0b1bf32d723ebc9d81677adb608da8c589324b57b8955bf00bbef1cfd8aca1
+persona_hint: Defense
+source_path: /usr/bin/grog
+tags:
+- unknown
+tool_name: grog

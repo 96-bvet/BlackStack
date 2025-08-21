@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpuUsage.sh
+hash: sha256:2bfe7e6f1939a446c2a4d21998202a247ce58edb1890e10d97b633a91e5a71b5
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/out/vs/base/node/cpuUsage.sh
+tags:
+- unknown
+tool_name: cpuUsage.sh

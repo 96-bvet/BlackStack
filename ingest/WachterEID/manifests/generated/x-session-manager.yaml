@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x-session-manager
+hash: sha256:8eb5f9e8e56d0a0b29392cbd4dc85910f3073a2714c6da7bd2e09f627a500a96
+persona_hint: Defense
+source_path: /usr/bin/x-session-manager
+tags:
+- unknown
+tool_name: x-session-manager

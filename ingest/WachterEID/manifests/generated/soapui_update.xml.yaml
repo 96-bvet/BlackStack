@@ -1,0 +1,7 @@
+description: Auto-generated manifest for soapui_update.xml
+hash: sha256:87ed93bb6e6531e8babfeb7398772aaad19bbba6e1edbb9542642f48cbd59a96
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/soapui/soapui_update.xml
+tags:
+- unknown
+tool_name: soapui_update.xml

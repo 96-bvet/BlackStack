@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.nuke
+hash: sha256:b1ee6847579ab0caa748435abd3994c3c6463cd78e8459223a6493e1ba3858a9
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.nuke
+tags:
+- unknown
+tool_name: basic.nuke

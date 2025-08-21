@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dltest
+hash: sha256:64f4f2338752aabe30743990d63b73d955e4de9ea0f3c7311dd413d3d4076b4b
+persona_hint: Defense
+source_path: /usr/bin/dltest
+tags:
+- unknown
+tool_name: dltest

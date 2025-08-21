@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autosetup-find-tclsh
+hash: sha256:5ed52fc5d4cc4658d07fd1c77ced0a63d065d29b44d95aafbdea929619dbd530
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/sqlite3-2.6.0/ext/sqlite3/tmp/x86_64-linux-gnu/ports/sqlite3/3.49.1/sqlite-autoconf-3490100/autosetup/autosetup-find-tclsh
+tags:
+- unknown
+tool_name: autosetup-find-tclsh

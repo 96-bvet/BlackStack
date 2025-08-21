@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hashcat
+hash: sha256:c671ed742af11f494b5a2bf762943b70f2bd96b22bddcb85376dc958a9cd17fd
+persona_hint: Defense
+source_path: /usr/bin/hashcat
+tags:
+- unknown
+tool_name: hashcat

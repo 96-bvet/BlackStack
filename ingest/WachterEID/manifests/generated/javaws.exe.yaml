@@ -1,0 +1,7 @@
+description: Auto-generated manifest for javaws.exe
+hash: sha256:512e87fdd9d3a31650ae2c43a2df1cba0da20bed068d90ee15c0e119e9d65be4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/java/javaws.exe
+tags:
+- unknown
+tool_name: javaws.exe

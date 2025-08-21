@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxwltool
+hash: sha256:dc71718351a14bb4c6327a8638275d822ec210890a84f82f65ce39caa52a66bb
+persona_hint: Defense
+source_path: /usr/bin/hcxwltool
+tags:
+- unknown
+tool_name: hcxwltool

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for HTTP.py
+hash: sha256:73a3d77b93200400336df7f85de24a90d10050de860bbfc30a324c65d7aaa664
+persona_hint: Defense
+source_path: /usr/share/responder/servers/HTTP.py
+tags:
+- unknown
+tool_name: HTTP.py

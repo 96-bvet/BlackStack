@@ -1,0 +1,7 @@
+description: Auto-generated manifest for index.html
+hash: sha256:330ad8d8a98d9ed7ae2b9c803b9c59b8b8d6ba8c6a618955c122eac3057b9a72
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/social_engineering/fake_lastpass/index.html
+tags:
+- unknown
+tool_name: index.html

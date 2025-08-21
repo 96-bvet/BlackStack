@@ -1,0 +1,7 @@
+description: Auto-generated manifest for python-argcomplete-tcsh
+hash: sha256:a66b7bb116615d3fc2d6c5b8fa36c884491ac9a531a827f8a6d7a2b814e04c41
+persona_hint: Defense
+source_path: /usr/bin/python-argcomplete-tcsh
+tags:
+- unknown
+tool_name: python-argcomplete-tcsh

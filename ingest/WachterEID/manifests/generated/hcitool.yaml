@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcitool
+hash: sha256:3d6757c03c1187418b6db953e137b9925a9a3b252b50df9804c9bb8202d36fbc
+persona_hint: Defense
+source_path: /usr/bin/hcitool
+tags:
+- unknown
+tool_name: hcitool

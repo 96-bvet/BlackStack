@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-calc
+hash: sha256:481b69b703edcd6615d77e2fcfa7289484455d4f01916265307a7f7921d2a1ad
+persona_hint: Defense
+source_path: /usr/bin/hwloc-calc
+tags:
+- unknown
+tool_name: hwloc-calc

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tree
+hash: sha256:d2842697b499df657205c6d7f25a93827678e1395ae73494d55c381dc1f86d28
+persona_hint: Defense
+source_path: /usr/bin/tree
+tags:
+- unknown
+tool_name: tree

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-firstboot
+hash: sha256:e83ae0ca201662f64ba37b16401bab10195390cd4328c23350770465f6b59ae6
+persona_hint: Defense
+source_path: /usr/bin/systemd-firstboot
+tags:
+- unknown
+tool_name: systemd-firstboot

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unicode_start
+hash: sha256:6db508e2d79b81914ae83b76f33e5f5449ff0c2de278fc882342e907de8a3cf0
+persona_hint: Defense
+source_path: /usr/bin/unicode_start
+tags:
+- unknown
+tool_name: unicode_start

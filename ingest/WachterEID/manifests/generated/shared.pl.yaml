@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shared.pl
+hash: sha256:9efcd4b9d319e33953e4a6368d98f9e523ddea438ebd71cf40464f6da15175db
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/shared.pl
+tags:
+- unknown
+tool_name: shared.pl

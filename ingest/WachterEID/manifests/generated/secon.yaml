@@ -1,0 +1,7 @@
+description: Auto-generated manifest for secon
+hash: sha256:818b5e736d3cdefe2652a3770ab93eb8c83904c68c2c2a8e2172383268a57686
+persona_hint: Defense
+source_path: /usr/bin/secon
+tags:
+- unknown
+tool_name: secon

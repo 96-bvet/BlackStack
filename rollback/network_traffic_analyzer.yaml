@@ -1,0 +1,16 @@
+name: network_traffic_analyzer
+path: src/cai/agents/network_traffic_analyzer.py
+type: py
+category: misc
+hash: f6b1d012711b131301383b55e4acc3ab7d300e4f347f27e50fccb47172483b96
+approved: true
+import: true
+license_stub: true
+name: network_traffic_analyzer
+path: src/cai/agents/network_traffic_analyzer.py
+type: py
+category: misc
+hash: f6b1d012711b131301383b55e4acc3ab7d300e4f347f27e50fccb47172483b96
+approved: true
+import: true
+license_stub: true

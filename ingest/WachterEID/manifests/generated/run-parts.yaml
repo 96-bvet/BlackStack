@@ -1,0 +1,7 @@
+description: Auto-generated manifest for run-parts
+hash: sha256:78b6e84e2a38fc763e71506c25cea342c7d83ff7d655577b798552f523b67f03
+persona_hint: Defense
+source_path: /usr/bin/run-parts
+tags:
+- unknown
+tool_name: run-parts

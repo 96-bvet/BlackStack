@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfs-read.py
+hash: sha256:447b955215ed355d150ffcf895ed916de998a8ceab966d322c0c04265da18030
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/ntfs-read.py
+tags:
+- unknown
+tool_name: ntfs-read.py

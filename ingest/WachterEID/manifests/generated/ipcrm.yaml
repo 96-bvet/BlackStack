@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ipcrm
+hash: sha256:43fe3b7b9f8466f57f2b639a1dea1c8e381a86a2f720ab70507e120ece1a990b
+persona_hint: Defense
+source_path: /usr/bin/ipcrm
+tags:
+- unknown
+tool_name: ipcrm

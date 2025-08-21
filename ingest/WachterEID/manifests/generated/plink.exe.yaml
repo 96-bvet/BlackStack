@@ -1,0 +1,7 @@
+description: Auto-generated manifest for plink.exe
+hash: sha256:428788e7aef232f7e35de61cc1e5d87aae6f7928f6664e7e278c5b8338416f52
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/plink.exe
+tags:
+- unknown
+tool_name: plink.exe

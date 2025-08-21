@@ -1,0 +1,7 @@
+description: Auto-generated manifest for buf.h
+hash: sha256:14380a0e493c01a7586718cf53d0cbeeab4d768a036e1cc116af0ba461a5fd84
+persona_hint: Defense
+source_path: /usr/share/spike/include/buf.h
+tags:
+- unknown
+tool_name: buf.h

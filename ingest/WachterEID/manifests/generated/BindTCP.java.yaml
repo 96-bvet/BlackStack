@@ -1,0 +1,7 @@
+description: Auto-generated manifest for BindTCP.java
+hash: sha256:30bdb75ef0292f4187c86c399b0ff03299b2c69ce4fe9eb6178e3dc98516ecfa
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stager/BindTCP.java
+tags:
+- unknown
+tool_name: BindTCP.java

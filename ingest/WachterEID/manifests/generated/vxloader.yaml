@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vxloader
+hash: sha256:bb9e93166feea278b16e154145f6cb3e983324f71b4c2e348905e60f8f848a6f
+persona_hint: Defense
+source_path: /usr/bin/vxloader
+tags:
+- unknown
+tool_name: vxloader

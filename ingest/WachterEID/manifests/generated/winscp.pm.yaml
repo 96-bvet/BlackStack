@@ -1,0 +1,7 @@
+description: Auto-generated manifest for winscp.pm
+hash: sha256:85069dc37e4d0cb8bad08f87df8b3c253108fbb5414edc913e224b3353493311
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/winscp.pm
+tags:
+- unknown
+tool_name: winscp.pm

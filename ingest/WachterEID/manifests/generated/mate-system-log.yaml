@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-system-log
+hash: sha256:886004c4863fdf6fd8d2b2a198f3aaec9993469ce69dba8444a2f7e9ddd9344c
+persona_hint: Defense
+source_path: /usr/bin/mate-system-log
+tags:
+- unknown
+tool_name: mate-system-log

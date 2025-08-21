@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ticketer.py
+hash: sha256:857d628da13a6c84e4d461c1317caa2fd0aedcc4de6c9ca3737965dca27461ac
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/ticketer.py
+tags:
+- unknown
+tool_name: ticketer.py

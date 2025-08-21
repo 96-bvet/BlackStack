@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msql2mysql
+hash: sha256:2cd4688b2fc28203f643907ce279b998244661ba48c7bb5c729e2a727bd15f17
+persona_hint: Defense
+source_path: /usr/bin/msql2mysql
+tags:
+- unknown
+tool_name: msql2mysql

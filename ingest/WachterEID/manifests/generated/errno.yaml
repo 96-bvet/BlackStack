@@ -1,0 +1,7 @@
+description: Auto-generated manifest for errno
+hash: sha256:1be415fa3ae0d93864dbaff196c9675b4dc8a7dddc910f5be6b76d6aa0fce198
+persona_hint: Defense
+source_path: /usr/bin/errno
+tags:
+- unknown
+tool_name: errno

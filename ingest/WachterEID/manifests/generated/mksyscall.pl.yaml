@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mksyscall.pl
+hash: sha256:59242ccbd8403bcf45cbbc0f6eee608bb153d2c81d157dfc2ddc66728a397bd7
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mksyscall.pl
+tags:
+- unknown
+tool_name: mksyscall.pl

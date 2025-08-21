@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fileaccess.c
+hash: sha256:49353c9a0b80095e8a4dfa506ec73d9ff948443c28df30928614be7d03db779c
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/fileaccess.c
+tags:
+- unknown
+tool_name: fileaccess.c

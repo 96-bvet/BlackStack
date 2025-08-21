@@ -1,0 +1,7 @@
+description: Auto-generated manifest for instaloader
+hash: sha256:fdb57754e0a91d51bcb3747370ef514c4fb1b6c6f6b04b37e2f453e655284657
+persona_hint: Defense
+source_path: /usr/bin/instaloader
+tags:
+- unknown
+tool_name: instaloader

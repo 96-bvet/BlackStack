@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sbd
+hash: sha256:f5e649a912ac6f613c9998bb97cf63d58d5416a412ab16f33f24391a7b79f06e
+persona_hint: Defense
+source_path: /usr/bin/sbd
+tags:
+- unknown
+tool_name: sbd

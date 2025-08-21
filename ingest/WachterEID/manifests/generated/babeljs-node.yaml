@@ -1,0 +1,7 @@
+description: Auto-generated manifest for babeljs-node
+hash: sha256:ffcba745a81ba81fab9d1cedb4ec9375762b438a187dec48ac749e15aec666f7
+persona_hint: Defense
+source_path: /usr/bin/babeljs-node
+tags:
+- unknown
+tool_name: babeljs-node

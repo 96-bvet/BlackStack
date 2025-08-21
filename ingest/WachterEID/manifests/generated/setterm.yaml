@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setterm
+hash: sha256:2d2287dc136bba29d527de1cb5abcbe60e3d7468656e443c48cdeb4f5bd4e93c
+persona_hint: Defense
+source_path: /usr/bin/setterm
+tags:
+- unknown
+tool_name: setterm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-btbr
+hash: sha256:a03ef8fa333e3091f63b46f98c40ec6c63229ab3eca1bb9b6c3c61b0b8c617c3
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-btbr
+tags:
+- unknown
+tool_name: ubertooth-btbr

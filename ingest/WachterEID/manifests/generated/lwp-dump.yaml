@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lwp-dump
+hash: sha256:004efec73f4759f18eef83db112a3215abe95fdb1b17f48a1e3e118de70ff4e0
+persona_hint: Defense
+source_path: /usr/bin/lwp-dump
+tags:
+- unknown
+tool_name: lwp-dump

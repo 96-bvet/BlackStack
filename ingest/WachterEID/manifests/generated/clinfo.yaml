@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clinfo
+hash: sha256:4d7ac18d04026b4070661455484f66c2cee5fd31cefb8995e5359c2aa2644a65
+persona_hint: Defense
+source_path: /usr/bin/clinfo
+tags:
+- unknown
+tool_name: clinfo

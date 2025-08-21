@@ -1,0 +1,7 @@
+description: Auto-generated manifest for javap
+hash: sha256:4976bfd8f8ec1cab76984b0c61375420da6481e556162e26aaa6cf3eceb5df12
+persona_hint: Defense
+source_path: /usr/bin/javap
+tags:
+- unknown
+tool_name: javap

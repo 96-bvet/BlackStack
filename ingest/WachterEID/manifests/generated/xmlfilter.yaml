@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xmlfilter
+hash: sha256:3616e33cfff905797efd7bb10d9e6ecd8323965d3da4dbf8679d39ab443d0bed
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-parser-perl/examples/xmlfilter
+tags:
+- unknown
+tool_name: xmlfilter

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for livereload
+hash: sha256:f450f3835b56892a53a8ac745c8985f4d8ae8fdde921848af424c8ca223384e3
+persona_hint: Defense
+source_path: /usr/bin/livereload
+tags:
+- unknown
+tool_name: livereload

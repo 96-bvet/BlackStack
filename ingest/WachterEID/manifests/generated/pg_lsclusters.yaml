@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_lsclusters
+hash: sha256:f9b9807bbca1f4d1369005a86c75360c03ad36622dfe0697f4a4d1347eff0cb5
+persona_hint: Defense
+source_path: /usr/bin/pg_lsclusters
+tags:
+- unknown
+tool_name: pg_lsclusters

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-depscan
+hash: sha256:1355e5fcc0b3ca787247235948e505c26fcd142d19ef352a206bc676260876a3
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-depscan
+tags:
+- unknown
+tool_name: gtkdoc-depscan

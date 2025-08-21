@@ -1,0 +1,7 @@
+description: Auto-generated manifest for restclient
+hash: sha256:a8ce7e565d1e82ac326e8a7fb9e421fc2547d721ffee671998de9c912bf8d449
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/rest-client-2.1.0/bin/restclient
+tags:
+- unknown
+tool_name: restclient

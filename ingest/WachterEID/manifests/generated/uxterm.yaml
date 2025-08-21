@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uxterm
+hash: sha256:33eb153344d3b7cadf90dd670efb599206a99a5cd90235e7438b2b5c0956ea69
+persona_hint: Defense
+source_path: /usr/bin/uxterm
+tags:
+- unknown
+tool_name: uxterm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mk_oui_list.pl
+hash: sha256:94fa3cff83e5d1c6f8c14f46d389a3d78d1db427ea493ac873987af2a92543a5
+persona_hint: Defense
+source_path: /usr/share/btscanner/mk_oui_list.pl
+tags:
+- unknown
+tool_name: mk_oui_list.pl

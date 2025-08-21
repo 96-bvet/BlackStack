@@ -1,0 +1,7 @@
+description: Auto-generated manifest for host
+hash: sha256:59e33ed68925cc0d6a99f2d6fedbd8c1fe0e2442607d660c12bc9458edaae745
+persona_hint: Defense
+source_path: /usr/bin/host
+tags:
+- unknown
+tool_name: host

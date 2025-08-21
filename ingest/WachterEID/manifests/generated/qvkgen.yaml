@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qvkgen
+hash: sha256:28802a3a5866405770edaf3518a6434af051a0cd3ebb83cb66711c9c9b075455
+persona_hint: Defense
+source_path: /usr/bin/qvkgen
+tags:
+- unknown
+tool_name: qvkgen

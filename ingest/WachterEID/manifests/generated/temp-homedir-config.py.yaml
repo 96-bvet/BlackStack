@@ -1,0 +1,7 @@
+description: Auto-generated manifest for temp-homedir-config.py
+hash: sha256:a701a63070ca39bf3f1e17382bc9972c0cdafab3d700eed308a1b5ddf96aaa83
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/temp-homedir-config.py
+tags:
+- unknown
+tool_name: temp-homedir-config.py

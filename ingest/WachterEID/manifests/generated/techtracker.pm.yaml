@@ -1,0 +1,7 @@
+description: Auto-generated manifest for techtracker.pm
+hash: sha256:96f1be9d29cf94b9f4a7439d3190a90477dd5a118418de08faff7c8730594785
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/techtracker.pm
+tags:
+- unknown
+tool_name: techtracker.pm

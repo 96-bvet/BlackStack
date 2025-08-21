@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lightdm-settings.rtupdate
+hash: sha256:0a956e890c470b8b1bb3e7fcb8ef852015479622b6732161d19076f96c8c34be
+persona_hint: Defense
+source_path: /usr/share/python3/runtime.d/lightdm-settings.rtupdate
+tags:
+- unknown
+tool_name: lightdm-settings.rtupdate

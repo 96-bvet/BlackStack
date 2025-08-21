@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Rakefile
+hash: sha256:bf98ed06ae7cc0852d04e6e3cfa5aed4ffab5e83f1b08cb12153cc0d74fd185e
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/ruby-progressbar-1.13.0/Rakefile
+tags:
+- unknown
+tool_name: Rakefile

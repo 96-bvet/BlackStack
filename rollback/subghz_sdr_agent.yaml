@@ -1,0 +1,16 @@
+name: subghz_sdr_agent
+path: src/cai/agents/subghz_sdr_agent.py
+type: py
+category: misc
+hash: 76099861481a4faf24fbb94a420c0c2e7c38f2ca6d0ec9473c17e3c6016890d3
+approved: true
+import: true
+license_stub: true
+name: subghz_sdr_agent
+path: src/cai/agents/subghz_sdr_agent.py
+type: py
+category: misc
+hash: 76099861481a4faf24fbb94a420c0c2e7c38f2ca6d0ec9473c17e3c6016890d3
+approved: true
+import: true
+license_stub: true

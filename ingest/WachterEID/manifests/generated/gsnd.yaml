@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gsnd
+hash: sha256:577bec95c32036730167a13d6a5cd9d1c97ff46709de39ed08d6e46c03a6afdd
+persona_hint: Defense
+source_path: /usr/bin/gsnd
+tags:
+- unknown
+tool_name: gsnd

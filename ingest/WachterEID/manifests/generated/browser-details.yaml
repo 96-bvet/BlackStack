@@ -1,0 +1,7 @@
+description: Auto-generated manifest for browser-details
+hash: sha256:cb67543c4d2bd1d9abcf4c90e89e00f831c5577a867fe174eb09f39055f97828
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/browser-details
+tags:
+- unknown
+tool_name: browser-details

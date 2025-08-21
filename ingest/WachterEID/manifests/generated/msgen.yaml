@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgen
+hash: sha256:33c28e42eacc75e98ccb554825fe73d037dc6481bdea0b3e1b357ac4a6c507f5
+persona_hint: Defense
+source_path: /usr/bin/msgen
+tags:
+- unknown
+tool_name: msgen

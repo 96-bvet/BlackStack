@@ -1,0 +1,7 @@
+description: Auto-generated manifest for assemble
+hash: sha256:4104904261c044da2a40ac1ba28c0ead194cb11978bc55ef9ef0c14dcd27ef05
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/assemble
+tags:
+- unknown
+tool_name: assemble

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkttyagent
+hash: sha256:820110471dd023bf8272a05dd0910d876c0d2c54f3c91ed49d6cc93598f7f814
+persona_hint: Defense
+source_path: /usr/bin/pkttyagent
+tags:
+- unknown
+tool_name: pkttyagent

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stress
+hash: sha256:f512d32f0ed9bb41fc40c28cadd7bb4af90b90ff14ec7150bf11c4a498a0be73
+persona_hint: Defense
+source_path: /usr/bin/stress
+tags:
+- unknown
+tool_name: stress

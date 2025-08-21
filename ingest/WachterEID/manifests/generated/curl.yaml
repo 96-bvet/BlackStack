@@ -1,0 +1,7 @@
+description: Auto-generated manifest for curl
+hash: sha256:58824afa640f512e07e895c0f2d1e1fe2c3fd1456acab689b6e4c1c75cef2593
+persona_hint: Defense
+source_path: /usr/bin/curl
+tags:
+- unknown
+tool_name: curl

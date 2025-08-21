@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pe_general.c
+hash: sha256:9dced3107e04a4d3f2c52315e0ce10157e5edc7064a19694215d48e03d227ea1
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/pe_general.c
+tags:
+- unknown
+tool_name: pe_general.c

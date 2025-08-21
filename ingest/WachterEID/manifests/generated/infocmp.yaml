@@ -1,0 +1,7 @@
+description: Auto-generated manifest for infocmp
+hash: sha256:3702860ecdedc04dde86463e51ccf5a36e7c5b8aa7021685dd189147e23d9747
+persona_hint: Defense
+source_path: /usr/bin/infocmp
+tags:
+- unknown
+tool_name: infocmp

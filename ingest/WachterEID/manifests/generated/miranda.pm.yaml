@@ -1,0 +1,7 @@
+description: Auto-generated manifest for miranda.pm
+hash: sha256:f7817bf3cbccad56f349a3d870708e27016a8ad96ced84a63edb19810bb48eba
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/miranda.pm
+tags:
+- unknown
+tool_name: miranda.pm

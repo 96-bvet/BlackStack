@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mfterm
+hash: sha256:b115c489fb57c0e6101a1ff1428cb6194ffaf26f5ebc293445a0215e106ee5f4
+persona_hint: Defense
+source_path: /usr/bin/mfterm
+tags:
+- unknown
+tool_name: mfterm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware.pm
+hash: sha256:448200c79b20574b03232b413ea43da45264e65ebb2967e34adc6ad18a8a55b6
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/vmware.pm
+tags:
+- unknown
+tool_name: vmware.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for 01mailrc.txt.gz
+hash: sha256:5eab3d89e4b9bd3d7a220803c4756bd65fe04da44a17ba59080788e8124b3a92
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/cpan/01mailrc.txt.gz
+tags:
+- unknown
+tool_name: 01mailrc.txt.gz

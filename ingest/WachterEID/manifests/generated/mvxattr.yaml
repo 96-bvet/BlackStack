@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mvxattr
+hash: sha256:d02d0b0eea2a9bdb766c02663864ad13a3c1d2f2bbd53cb0a25df28bd7b4fe21
+persona_hint: Defense
+source_path: /usr/bin/mvxattr
+tags:
+- unknown
+tool_name: mvxattr

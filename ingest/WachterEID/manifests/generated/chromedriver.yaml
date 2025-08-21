@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chromedriver
+hash: sha256:5181e5ffbacbed36e5ef955d5618cf8d46c643793851f7283876228be7fbf257
+persona_hint: Defense
+source_path: /usr/bin/chromedriver
+tags:
+- unknown
+tool_name: chromedriver

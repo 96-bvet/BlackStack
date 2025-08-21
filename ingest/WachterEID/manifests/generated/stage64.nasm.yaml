@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stage64.nasm
+hash: sha256:a5e0520f8f8bf466ef2fcc546fddfdc99595c5c004056fcc209c13f01663e247
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/exploits/beefbind/shellcode_sources/linux/x64/stage64.nasm
+tags:
+- unknown
+tool_name: stage64.nasm

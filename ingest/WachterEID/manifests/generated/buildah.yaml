@@ -1,0 +1,7 @@
+description: Auto-generated manifest for buildah
+hash: sha256:cda3397799d813a25e0ef6e1d6195dc676c8a6eb779ae641cf33cb952fecc672
+persona_hint: Defense
+source_path: /usr/bin/buildah
+tags:
+- unknown
+tool_name: buildah

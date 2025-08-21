@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fcgistarter
+hash: sha256:d02a6b99e2f4e6e3607a186308c595a69a25e9148d053cf165691dee679a6b05
+persona_hint: Defense
+source_path: /usr/bin/fcgistarter
+tags:
+- unknown
+tool_name: fcgistarter

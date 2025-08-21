@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cacaplay
+hash: sha256:1ba0cde13e81fb2601ee7b534968b54bd14bd3a184ba4487c5321408318168aa
+persona_hint: Defense
+source_path: /usr/bin/cacaplay
+tags:
+- unknown
+tool_name: cacaplay

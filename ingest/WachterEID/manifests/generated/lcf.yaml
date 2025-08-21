@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lcf
+hash: sha256:0fe7cd00e0d1b4d854682742817a5e8bad08de61fd3140b8b612287b88773b2b
+persona_hint: Defense
+source_path: /usr/bin/lcf
+tags:
+- unknown
+tool_name: lcf

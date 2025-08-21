@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-sql
+hash: sha256:aa451a4fbb91c67535bbd6290698c58f29285704cd4227428f04a3064fe67c72
+persona_hint: Defense
+source_path: /usr/bin/mdb-sql
+tags:
+- unknown
+tool_name: mdb-sql

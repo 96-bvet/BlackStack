@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libEGL.so
+hash: sha256:765ac1c44cd1a519d690e2a017d55ad9585842d212e99a82bb5b6f94e1efd6b3
+persona_hint: Defense
+source_path: /usr/share/codium/libEGL.so
+tags:
+- unknown
+tool_name: libEGL.so

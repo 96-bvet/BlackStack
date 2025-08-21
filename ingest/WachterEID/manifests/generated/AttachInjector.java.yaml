@@ -1,0 +1,7 @@
+description: Auto-generated manifest for AttachInjector.java
+hash: sha256:79da2c1eeed36fea15a33ea6f5c12639ab9cf27407f0e4850f7a87532892cf30
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/AttachInjector.java
+tags:
+- unknown
+tool_name: AttachInjector.java

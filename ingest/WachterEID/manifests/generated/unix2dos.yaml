@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unix2dos
+hash: sha256:cdec7684d3303821a350c57fbfcbfdf6e814315dbf3f10b40bd8f0f3aa0f9cbd
+persona_hint: Defense
+source_path: /usr/bin/unix2dos
+tags:
+- unknown
+tool_name: unix2dos

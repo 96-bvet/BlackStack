@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nmcli
+hash: sha256:5e887e91dc969081c9106c654bc762a599b8e1ee9ff5a6217ca956a09088ffa7
+persona_hint: Defense
+source_path: /usr/bin/nmcli
+tags:
+- unknown
+tool_name: nmcli

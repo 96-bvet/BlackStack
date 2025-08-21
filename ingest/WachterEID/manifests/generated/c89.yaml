@@ -1,0 +1,7 @@
+description: Auto-generated manifest for c89
+hash: sha256:999b40b67f690638f601d76b756d529dd40a4325f42dfd9fd2e629ad0a91947c
+persona_hint: Defense
+source_path: /usr/bin/c89
+tags:
+- unknown
+tool_name: c89

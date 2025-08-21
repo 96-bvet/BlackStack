@@ -1,0 +1,7 @@
+description: Auto-generated manifest for webshells
+hash: sha256:8e1c55403edb884c5c30ff5e0dcb0177a4b7dca79329c077e95e8c1c42df6db5
+persona_hint: Defense
+source_path: /usr/bin/webshells
+tags:
+- unknown
+tool_name: webshells

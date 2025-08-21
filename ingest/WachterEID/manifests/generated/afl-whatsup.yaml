@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-whatsup
+hash: sha256:a897dc3a6cc29a026531247a04a63c0303bc193c8fdb8c048a7b77526f379966
+persona_hint: Defense
+source_path: /usr/bin/afl-whatsup
+tags:
+- unknown
+tool_name: afl-whatsup

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for build.xml
+hash: sha256:5cf641238ad45229fdad6c588aad84af0c16ffc8693d1daa88740a7ae5228b9c
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/build.xml
+tags:
+- unknown
+tool_name: build.xml

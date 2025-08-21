@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-cgtop
+hash: sha256:587f4622cae609e557580965647e086e6b6d3da54cc31ec51bea0e5b4fdc9e4d
+persona_hint: Defense
+source_path: /usr/bin/systemd-cgtop
+tags:
+- unknown
+tool_name: systemd-cgtop

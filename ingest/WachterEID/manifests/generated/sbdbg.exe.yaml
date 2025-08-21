@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sbdbg.exe
+hash: sha256:5a600534617ccfa18fb03cf813ed93e3933275a5d0b09c7180a6e6c0ad49b000
+persona_hint: Defense
+source_path: /usr/share/windows-resources/sbd/sbdbg.exe
+tags:
+- unknown
+tool_name: sbdbg.exe

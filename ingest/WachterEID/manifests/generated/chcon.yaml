@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chcon
+hash: sha256:fc72162c58c5633b64ed326766997ab5d573833f2f610ed87ad0a72f9375271b
+persona_hint: Defense
+source_path: /usr/bin/chcon
+tags:
+- unknown
+tool_name: chcon

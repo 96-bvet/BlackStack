@@ -1,0 +1,7 @@
+description: Auto-generated manifest for codiff
+hash: sha256:681b93445e4e830e74067b82498d926189311cd34abbbe4beced1d5395794f50
+persona_hint: Defense
+source_path: /usr/bin/codiff
+tags:
+- unknown
+tool_name: codiff

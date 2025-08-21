@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setxkbmap
+hash: sha256:272e1fae5ce8eb29548ea7e430270bb247cec513c06ac7d1a178562da83e829c
+persona_hint: Defense
+source_path: /usr/bin/setxkbmap
+tags:
+- unknown
+tool_name: setxkbmap

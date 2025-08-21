@@ -1,0 +1,7 @@
+description: Auto-generated manifest for write_simple.rb
+hash: sha256:55a65b87e40cdab80f10edba1ce710a29f6a702188921e05deb5195ed694b308
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/rubyzip-2.3.2/samples/write_simple.rb
+tags:
+- unknown
+tool_name: write_simple.rb

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fgdump.exe
+hash: sha256:a6cad2d0f8dc05246846d2a9618fc93b7d97681331d5826f8353e7c3a3206e86
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/fgdump/fgdump.exe
+tags:
+- unknown
+tool_name: fgdump.exe

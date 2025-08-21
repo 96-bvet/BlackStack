@@ -1,0 +1,7 @@
+description: Auto-generated manifest for missing
+hash: sha256:a9865db4f39574ff128c0312c367f070d20f81847817021ecce95fd70a610c9d
+persona_hint: Defense
+source_path: /usr/share/libtool/build-aux/missing
+tags:
+- unknown
+tool_name: missing

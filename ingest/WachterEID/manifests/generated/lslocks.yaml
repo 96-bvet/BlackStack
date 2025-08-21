@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lslocks
+hash: sha256:e4e055e2335dfb2a26e69f254284dfefda31e89af5760edfdf235664a1fd7572
+persona_hint: Defense
+source_path: /usr/bin/lslocks
+tags:
+- unknown
+tool_name: lslocks

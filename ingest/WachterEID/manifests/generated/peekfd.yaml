@@ -1,0 +1,7 @@
+description: Auto-generated manifest for peekfd
+hash: sha256:9468ceff7861e31e29333b01890c87487ec8863ee16d6cdb79c26edc7f15a75d
+persona_hint: Defense
+source_path: /usr/bin/peekfd
+tags:
+- unknown
+tool_name: peekfd

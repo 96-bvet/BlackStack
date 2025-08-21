@@ -1,0 +1,7 @@
+description: Auto-generated manifest for git-editor-empty.sh
+hash: sha256:a8076d3d28d21e02012b20eaf7dbf75409a6277134439025f282e368e3305abf
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/extensions/git/dist/git-editor-empty.sh
+tags:
+- unknown
+tool_name: git-editor-empty.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for encrypt-to-group-gullible.py
+hash: sha256:94bd9505da589132bd650a16d8e4abe5a7920f70c3ce8b8c7db680d88e9caf27
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/encrypt-to-group-gullible.py
+tags:
+- unknown
+tool_name: encrypt-to-group-gullible.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for itunes.pm
+hash: sha256:423a390b173cf16e6d1ea1b015c16015a7d3bff94af07b560d0a38d065acd433
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/itunes.pm
+tags:
+- unknown
+tool_name: itunes.pm

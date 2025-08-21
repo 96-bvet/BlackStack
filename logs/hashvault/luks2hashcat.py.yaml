@@ -1,0 +1,7 @@
+description: Auto-generated manifest for luks2hashcat.py
+hash: sha256:d1981eab39e3a06a726dcc080366a5899431e607f4543b4d28e99b89d11870b3
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/luks2hashcat.py
+tags:
+- unknown
+tool_name: luks2hashcat.py

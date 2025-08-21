@@ -1,0 +1,7 @@
+description: Auto-generated manifest for land
+hash: sha256:d9000214cefb597d99143db15933a8a111fe9d3bc3f86034bd9e4f0cf9d1db96
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/land
+tags:
+- unknown
+tool_name: land

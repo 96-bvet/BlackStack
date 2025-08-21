@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mbimcli
+hash: sha256:eabce3c2667c9f339c312afa5e56276e55a4d73bfca355241a7c89cda8718cc2
+persona_hint: Defense
+source_path: /usr/bin/mbimcli
+tags:
+- unknown
+tool_name: mbimcli

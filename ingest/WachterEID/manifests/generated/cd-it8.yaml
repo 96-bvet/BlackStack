@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cd-it8
+hash: sha256:204a7c29c01b762cb15b75d5fd4217587d8d697fc4242c6e48c92f484db13837
+persona_hint: Defense
+source_path: /usr/bin/cd-it8
+tags:
+- unknown
+tool_name: cd-it8

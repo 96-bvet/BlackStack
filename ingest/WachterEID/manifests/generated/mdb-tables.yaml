@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-tables
+hash: sha256:3e7d778f1e2c7efe145b168c868b4c6d3bda434ca988a37e3c9d8e9a7ec7c022
+persona_hint: Defense
+source_path: /usr/bin/mdb-tables
+tags:
+- unknown
+tool_name: mdb-tables

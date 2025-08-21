@@ -1,0 +1,7 @@
+description: Auto-generated manifest for b43-fwcutter
+hash: sha256:ba001da8ad4beb87829a6db87b22dd518af5763844ecc08898b85ffa00707b75
+persona_hint: Defense
+source_path: /usr/bin/b43-fwcutter
+tags:
+- unknown
+tool_name: b43-fwcutter

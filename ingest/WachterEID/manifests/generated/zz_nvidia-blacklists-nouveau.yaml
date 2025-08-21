@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zz_nvidia-blacklists-nouveau
+hash: sha256:38dee349220c3be8460120090cb4698fde3a676475f5eabddab0fe5d8c58276b
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/zz_nvidia-blacklists-nouveau
+tags:
+- unknown
+tool_name: zz_nvidia-blacklists-nouveau

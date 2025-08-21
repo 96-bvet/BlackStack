@@ -1,0 +1,7 @@
+description: Auto-generated manifest for term_mandel
+hash: sha256:191f198d247833c8b82b3b7fc60db1eabee91ff400aadca4cb716fc161cf88b5
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/term-ansicolor-1.11.2/bin/term_mandel
+tags:
+- unknown
+tool_name: term_mandel

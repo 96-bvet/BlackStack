@@ -1,0 +1,7 @@
+description: Auto-generated manifest for viewres
+hash: sha256:cebde47d47ec35702113a5d5c177fa25fd7cf019e1c1ee7529a6e0ccc438f6ae
+persona_hint: Defense
+source_path: /usr/bin/viewres
+tags:
+- unknown
+tool_name: viewres

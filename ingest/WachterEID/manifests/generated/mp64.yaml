@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mp64
+hash: sha256:e565a0b5b4e5c2e0184970e4edacb9f703982bff7c876373f00a10dc508efa47
+persona_hint: Defense
+source_path: /usr/bin/mp64
+tags:
+- unknown
+tool_name: mp64

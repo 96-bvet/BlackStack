@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ospcat
+hash: sha256:64eb747e5c2a7239468c70e88396ad24c7aa63232ac94af372fd338c440653a9
+persona_hint: Defense
+source_path: /usr/bin/ospcat
+tags:
+- unknown
+tool_name: ospcat

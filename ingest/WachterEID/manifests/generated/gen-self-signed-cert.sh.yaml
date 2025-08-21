@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gen-self-signed-cert.sh
+hash: sha256:73c0e7c37aec4202ece1e74cdce215fc49cd9cb693aa523ca1e50155fe54ad66
+persona_hint: Defense
+source_path: /usr/share/responder/certs/gen-self-signed-cert.sh
+tags:
+- unknown
+tool_name: gen-self-signed-cert.sh

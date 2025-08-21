@@ -1,0 +1,7 @@
+description: Auto-generated manifest for os-prober
+hash: sha256:338efc0351d47efd2d28b1f9b11af144fe7f9b837ec0fedc5c0e12b3654758e6
+persona_hint: Defense
+source_path: /usr/bin/os-prober
+tags:
+- unknown
+tool_name: os-prober

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setupcon
+hash: sha256:fd4d1276e701dd1e5093a282359044f06577c9202d2cec2ab95a44a38ae4006f
+persona_hint: Defense
+source_path: /usr/bin/setupcon
+tags:
+- unknown
+tool_name: setupcon

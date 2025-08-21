@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_mipv6
+hash: sha256:776af117bdb092d5638cae08ff4b907e3d20179922987599cc62349812219c64
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_mipv6
+tags:
+- unknown
+tool_name: atk6-fake_mipv6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-c++filt
+hash: sha256:b60d054b1bf46be0b872c44d851a6c1c4d701e7c6ff15b126efbe668582876e4
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-c++filt
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-c++filt

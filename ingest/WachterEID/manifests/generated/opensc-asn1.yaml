@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opensc-asn1
+hash: sha256:1bce2f625adb5e35b456c58146d77eeb15bd49ce0cf3f80a3a165a447fa9658d
+persona_hint: Defense
+source_path: /usr/bin/opensc-asn1
+tags:
+- unknown
+tool_name: opensc-asn1

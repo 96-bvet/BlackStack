@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfontsel
+hash: sha256:b25ff5b490075d114f3a234fc9cec5b5ce44c288456c7e4a09ac644d364c984d
+persona_hint: Defense
+source_path: /usr/bin/xfontsel
+tags:
+- unknown
+tool_name: xfontsel

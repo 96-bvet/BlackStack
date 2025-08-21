@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sherlock
+hash: sha256:87728c81cc2d7c912e4118740bf52cbdf653ba30bbe3498976698768ea4785ec
+persona_hint: Defense
+source_path: /usr/bin/sherlock
+tags:
+- unknown
+tool_name: sherlock

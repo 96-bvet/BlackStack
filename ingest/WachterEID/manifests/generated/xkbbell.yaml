@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkbbell
+hash: sha256:20030fd0cc1731ef03affdbf2f7c27a25b32599a7bf92d95b0abe71f866d34cd
+persona_hint: Defense
+source_path: /usr/bin/xkbbell
+tags:
+- unknown
+tool_name: xkbbell

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lodash
+hash: sha256:dc44097dfcca382faea8b90c04baae638baa621b9a482f5cb48532ed762e09ce
+persona_hint: Defense
+source_path: /usr/share/nodejs/lodash-cli/bin/lodash
+tags:
+- unknown
+tool_name: lodash

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htmltree
+hash: sha256:8dd949936f4ffbd0ef7003ce0bac811f79923380ef04fe98446d91f59cbb3903
+persona_hint: Defense
+source_path: /usr/share/doc/libhtml-tree-perl/examples/htmltree
+tags:
+- unknown
+tool_name: htmltree

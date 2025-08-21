@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perl5.36-x86_64-linux-gnu
+hash: sha256:5bc60db225520b3b79e26621295a49ad75aa6165f74eeecad9f0729407307a1f
+persona_hint: Defense
+source_path: /usr/bin/perl5.36-x86_64-linux-gnu
+tags:
+- unknown
+tool_name: perl5.36-x86_64-linux-gnu

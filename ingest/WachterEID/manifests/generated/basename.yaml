@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basename
+hash: sha256:bc0828b09781a8b19a6d31f23f3f6e0d4e2f216490dc1d1e98321f684cbfe0a2
+persona_hint: Defense
+source_path: /usr/bin/basename
+tags:
+- unknown
+tool_name: basename

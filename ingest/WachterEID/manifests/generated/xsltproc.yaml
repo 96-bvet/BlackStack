@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsltproc
+hash: sha256:e8c95039f023cd5620c1a559110f62520aa234da4395a02a1aae4bf1c4584e48
+persona_hint: Defense
+source_path: /usr/bin/xsltproc
+tags:
+- unknown
+tool_name: xsltproc

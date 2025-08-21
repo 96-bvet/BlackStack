@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mime-database.trigger
+hash: sha256:9fd603ed570019e44044905b723f5e2348bc8e62f4491096dbcb2d5e4c0191a1
+persona_hint: Defense
+source_path: /usr/share/flatpak/triggers/mime-database.trigger
+tags:
+- unknown
+tool_name: mime-database.trigger

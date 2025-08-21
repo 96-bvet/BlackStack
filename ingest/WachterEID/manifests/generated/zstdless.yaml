@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zstdless
+hash: sha256:60e767b7d41a7eee6204fe34285b47e2b706797cd6ca35ca25989639f1c13159
+persona_hint: Defense
+source_path: /usr/bin/zstdless
+tags:
+- unknown
+tool_name: zstdless

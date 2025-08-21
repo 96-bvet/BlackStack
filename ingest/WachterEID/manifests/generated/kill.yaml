@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kill
+hash: sha256:a8a91d026a8b8e49685ab9e83bdbb37d3b20f3949ed8e6c97e34e66c0dc54b83
+persona_hint: Defense
+source_path: /usr/bin/kill
+tags:
+- unknown
+tool_name: kill

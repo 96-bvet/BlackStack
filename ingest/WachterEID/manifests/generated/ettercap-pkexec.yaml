@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ettercap-pkexec
+hash: sha256:53c4265cb74c9cab172a3ce1eccb91e31f0ded1343320707f3b539d7e5e8ecc8
+persona_hint: Defense
+source_path: /usr/bin/ettercap-pkexec
+tags:
+- unknown
+tool_name: ettercap-pkexec

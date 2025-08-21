@@ -1,0 +1,7 @@
+description: Auto-generated manifest for facebook.update
+hash: sha256:0c700f9e07863dbc6cf589fdbd1559a9f9e070d730f60374277f266c035cd0bc
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/blackberry/facebook.update
+tags:
+- unknown
+tool_name: facebook.update

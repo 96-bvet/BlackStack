@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kernel-install
+hash: sha256:f7904b8987cd92ce48a4258dd232c39aa008b16e17ff99d1d19aee2f0e5d9e14
+persona_hint: Defense
+source_path: /usr/bin/kernel-install
+tags:
+- unknown
+tool_name: kernel-install

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for listener.h
+hash: sha256:54b64097c93e2f53c7835087765849652e53d2e1e4c9c9c9942fdc55a5d3ec7b
+persona_hint: Defense
+source_path: /usr/share/spike/include/listener.h
+tags:
+- unknown
+tool_name: listener.h

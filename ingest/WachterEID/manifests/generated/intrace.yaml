@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intrace
+hash: sha256:ec08170a6d3e767e4a054332998586e7cf92a3b20e9fcbdf24251b57a6a340cc
+persona_hint: Defense
+source_path: /usr/bin/intrace
+tags:
+- unknown
+tool_name: intrace

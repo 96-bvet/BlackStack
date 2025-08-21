@@ -1,0 +1,7 @@
+description: Auto-generated manifest for su-to-root
+hash: sha256:6150e401c221e43c2a12e2ed37302ca5df247446be842aec797a697023adbe2f
+persona_hint: Defense
+source_path: /usr/bin/su-to-root
+tags:
+- unknown
+tool_name: su-to-root

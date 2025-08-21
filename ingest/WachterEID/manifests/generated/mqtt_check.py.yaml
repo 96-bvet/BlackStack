@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mqtt_check.py
+hash: sha256:3f438a148031ac9e4c080b5466eb5b4219fcb31e49d48c40cf11baff0324deb5
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/mqtt_check.py
+tags:
+- unknown
+tool_name: mqtt_check.py

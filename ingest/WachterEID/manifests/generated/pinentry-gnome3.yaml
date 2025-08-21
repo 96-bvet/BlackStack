@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pinentry-gnome3
+hash: sha256:60e7051234bf4658f5d6aac2db67ffc9b465deae9b3db8d500696cd89ba91bb8
+persona_hint: Defense
+source_path: /usr/bin/pinentry-gnome3
+tags:
+- unknown
+tool_name: pinentry-gnome3

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for less
+hash: sha256:411d7dabb7fb71fc65a0ad4bc0349d543c36b4df8d2f875e192dbee934b2b13f
+persona_hint: Defense
+source_path: /usr/bin/less
+tags:
+- unknown
+tool_name: less

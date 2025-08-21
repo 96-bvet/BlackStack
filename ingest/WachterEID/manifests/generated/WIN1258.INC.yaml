@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN1258.INC
+hash: sha256:2070215a4669d26ada03ba9af216b5049ceab03613cc183cabc3f38d0d738d67
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/ENCODING/WIN1258.INC
+tags:
+- unknown
+tool_name: WIN1258.INC

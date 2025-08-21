@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linux-version
+hash: sha256:01ec2f02d1b6c1c12963162c02482bfb457ec0da9978ac94bf5966d08cad0c31
+persona_hint: Defense
+source_path: /usr/bin/linux-version
+tags:
+- unknown
+tool_name: linux-version

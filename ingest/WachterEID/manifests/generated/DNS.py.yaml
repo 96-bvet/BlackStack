@@ -1,0 +1,7 @@
+description: Auto-generated manifest for DNS.py
+hash: sha256:706349d4bf986b049d20e75f6a8626684411642da286b994a6961d26d57af04e
+persona_hint: Defense
+source_path: /usr/share/responder/servers/DNS.py
+tags:
+- unknown
+tool_name: DNS.py

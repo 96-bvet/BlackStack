@@ -1,0 +1,7 @@
+description: Auto-generated manifest for makelist.pl
+hash: sha256:94ff6101a77bfcf18f1b5ec22b9d0faa8c09ffa72021d10088e2147ba5036f13
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/extra/makelist.pl
+tags:
+- unknown
+tool_name: makelist.pl

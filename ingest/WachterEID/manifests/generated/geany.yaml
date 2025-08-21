@@ -1,0 +1,7 @@
+description: Auto-generated manifest for geany
+hash: sha256:37e4896dfb30ff45d446f103a20a83501eeaa9abf64cea29baf519cff2841ac6
+persona_hint: Defense
+source_path: /usr/bin/geany
+tags:
+- unknown
+tool_name: geany

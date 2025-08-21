@@ -1,0 +1,7 @@
+description: Auto-generated manifest for resolveip
+hash: sha256:9286fd10afb33e2f4c5973bb023059606f4169efd0823f351bd9410cb88a2d67
+persona_hint: Defense
+source_path: /usr/bin/resolveip
+tags:
+- unknown
+tool_name: resolveip

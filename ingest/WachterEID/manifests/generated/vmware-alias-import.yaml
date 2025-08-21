@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-alias-import
+hash: sha256:58d31ca19703e7f6f69e07dfb7cd6ed1572f7e52e4f033f1f74732fbf460814f
+persona_hint: Defense
+source_path: /usr/bin/vmware-alias-import
+tags:
+- unknown
+tool_name: vmware-alias-import

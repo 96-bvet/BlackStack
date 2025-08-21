@@ -1,0 +1,7 @@
+description: Auto-generated manifest for crackle
+hash: sha256:1a439170d192f7252cb082c3aa674c00ca4326e860f2a539c076bcba82d2bc51
+persona_hint: Defense
+source_path: /usr/bin/crackle
+tags:
+- unknown
+tool_name: crackle

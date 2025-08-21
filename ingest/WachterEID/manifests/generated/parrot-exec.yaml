@@ -1,0 +1,7 @@
+description: Auto-generated manifest for parrot-exec
+hash: sha256:39fb07fb3b3ea557673314ae6ba5d4227abe4aa54cf2297302f22bb812144325
+persona_hint: Defense
+source_path: /usr/bin/parrot-exec
+tags:
+- unknown
+tool_name: parrot-exec

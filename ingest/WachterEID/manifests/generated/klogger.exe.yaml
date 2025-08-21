@@ -1,0 +1,7 @@
+description: Auto-generated manifest for klogger.exe
+hash: sha256:cf2340b2c9fb36f84e008567854a20fbeb6cadc3da2ab7d5b26bacd4315c54eb
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/klogger.exe
+tags:
+- unknown
+tool_name: klogger.exe

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ccze
+hash: sha256:26536e529fd26938749eb5facf9eec2c10a05710526eb9d54bd430715c601448
+persona_hint: Defense
+source_path: /usr/bin/ccze
+tags:
+- unknown
+tool_name: ccze

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for curl-config
+hash: sha256:68f64c8dcf77b03951fa695d98b94c1aaca550952a1f0cdb16e5111d24c6424c
+persona_hint: Defense
+source_path: /usr/bin/curl-config
+tags:
+- unknown
+tool_name: curl-config

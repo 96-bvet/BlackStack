@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-schema
+hash: sha256:e947f02f76bb76df1257c6989cd372d757d188bb70cbf3460e096a299171843a
+persona_hint: Defense
+source_path: /usr/bin/mdb-schema
+tags:
+- unknown
+tool_name: mdb-schema

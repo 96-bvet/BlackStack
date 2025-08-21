@@ -1,0 +1,7 @@
+description: Auto-generated manifest for time-admin
+hash: sha256:9b5e11ad79f77639c3a49b49f05042872b4eb93d9b08f5162062b770cda0a0fe
+persona_hint: Defense
+source_path: /usr/bin/time-admin
+tags:
+- unknown
+tool_name: time-admin

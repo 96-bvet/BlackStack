@@ -1,0 +1,7 @@
+description: Auto-generated manifest for send-key-to-keyserver.py
+hash: sha256:19240b87b9d61a64256c8b348c11570c6f9e06b4509970ba5ec09cfdb9834a7c
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/send-key-to-keyserver.py
+tags:
+- unknown
+tool_name: send-key-to-keyserver.py

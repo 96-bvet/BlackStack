@@ -1,0 +1,7 @@
+description: Auto-generated manifest for simple-xml.pl
+hash: sha256:abb0aede1afdf8e0ec53eb554098a3b3718ed6fbdc2efc88b57b8b50c6391250
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-writer-perl/examples/simple-xml.pl
+tags:
+- unknown
+tool_name: simple-xml.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-gcc-ranlib
+hash: sha256:82cef5fd1640fe1fb7f7ce1064bab3dd160bb0dd126d5f6248b9df3736f704a2
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-gcc-ranlib
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-gcc-ranlib

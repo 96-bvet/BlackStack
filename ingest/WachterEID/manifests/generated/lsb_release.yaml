@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsb_release
+hash: sha256:484188f4b37b4021998dafd1966cda1c6f8207af9aee3ad51746a5d22acf3e65
+persona_hint: Defense
+source_path: /usr/bin/lsb_release
+tags:
+- unknown
+tool_name: lsb_release

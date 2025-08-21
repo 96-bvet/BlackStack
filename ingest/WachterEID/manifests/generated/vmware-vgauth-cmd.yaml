@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-vgauth-cmd
+hash: sha256:d3991bd9e49676fdb728c7830754b7dd291c9f5a8508f9ba1e6fd4913a0a8391
+persona_hint: Defense
+source_path: /usr/bin/vmware-vgauth-cmd
+tags:
+- unknown
+tool_name: vmware-vgauth-cmd

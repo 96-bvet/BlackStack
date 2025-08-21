@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hashid
+hash: sha256:7b652825239f31d069bfb92160763215848d13e70cebc0dd0e836c2316c0de8b
+persona_hint: Defense
+source_path: /usr/bin/hashid
+tags:
+- unknown
+tool_name: hashid

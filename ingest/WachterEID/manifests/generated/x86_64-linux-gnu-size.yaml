@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-size
+hash: sha256:d2dc6eb962bfc841403cc8b72191bfd829b50d8796b611689e92cfb051cf10ee
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-size
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-size

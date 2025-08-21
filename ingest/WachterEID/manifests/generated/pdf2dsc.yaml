@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdf2dsc
+hash: sha256:fae867267482717a6ae8e5a429dabd6ae8496dc8e83bcdf52d6040df4c31b6f2
+persona_hint: Defense
+source_path: /usr/bin/pdf2dsc
+tags:
+- unknown
+tool_name: pdf2dsc

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xerox
+hash: sha256:d22ce7fa23aa2a87b0ac38e694424c1271d27b4d81588ddf50dd1d9587d1ec38
+persona_hint: Defense
+source_path: /usr/share/doc/libsane-common/examples/xerox
+tags:
+- unknown
+tool_name: xerox

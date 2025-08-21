@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rdma
+hash: sha256:677e6e706a11e34cce5c0bf9f1cd6a1a0a7a5f853a6ff992316b5b140ecae07a
+persona_hint: Defense
+source_path: /usr/bin/rdma
+tags:
+- unknown
+tool_name: rdma

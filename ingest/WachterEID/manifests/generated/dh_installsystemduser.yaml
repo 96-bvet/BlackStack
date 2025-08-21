@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installsystemduser
+hash: sha256:beb28b9f7f28b5a41c5a19e3aba3f2e08f8bb1c1bf671705cc3c48208265627b
+persona_hint: Defense
+source_path: /usr/bin/dh_installsystemduser
+tags:
+- unknown
+tool_name: dh_installsystemduser

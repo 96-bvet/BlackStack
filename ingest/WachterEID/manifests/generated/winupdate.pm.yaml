@@ -1,0 +1,7 @@
+description: Auto-generated manifest for winupdate.pm
+hash: sha256:ede6f04a7d655c30ca3dfb0f7ee92914c03d3665419d296bced024e85b1840f3
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/winupdate.pm
+tags:
+- unknown
+tool_name: winupdate.pm

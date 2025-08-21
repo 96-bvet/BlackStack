@@ -1,0 +1,7 @@
+description: Auto-generated manifest for arch
+hash: sha256:cc7ca3ebd8f5f398b275ad7be6fda7b49f8a7b1c7dfa3d32d9f3aa26ffda6f03
+persona_hint: Defense
+source_path: /usr/bin/arch
+tags:
+- unknown
+tool_name: arch

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for print_messages.py
+hash: sha256:eac592fb7d4a48748bdb2ab3f26cc893246d152c1ae68018d3f473f47252f696
+persona_hint: Defense
+source_path: /usr/share/pompem/common/print_messages.py
+tags:
+- unknown
+tool_name: print_messages.py

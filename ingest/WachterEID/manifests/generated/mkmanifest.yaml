@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkmanifest
+hash: sha256:bded1ce33a65ddcdd5941293319c56ced61cd28138bc8f348bb2bb968b0c7abc
+persona_hint: Defense
+source_path: /usr/bin/mkmanifest
+tags:
+- unknown
+tool_name: mkmanifest

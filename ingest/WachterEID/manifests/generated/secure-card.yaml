@@ -1,0 +1,7 @@
+description: Auto-generated manifest for secure-card
+hash: sha256:6d404aa4083d9eb3682fe2a79789f2dd933773c6f7d750951606be85d64cf2a5
+persona_hint: Defense
+source_path: /usr/share/doc/ppp/examples/scripts/secure-card
+tags:
+- unknown
+tool_name: secure-card

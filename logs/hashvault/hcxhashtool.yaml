@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxhashtool
+hash: sha256:1bb195cc468139ddaae22ee72f0b6b7638d018f2219a8f4962aea0b21cbd5219
+persona_hint: Defense
+source_path: /usr/bin/hcxhashtool
+tags:
+- unknown
+tool_name: hcxhashtool

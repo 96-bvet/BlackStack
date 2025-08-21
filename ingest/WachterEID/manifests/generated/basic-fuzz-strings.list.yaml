@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic-fuzz-strings.list
+hash: sha256:baec3c8b0d2e52e60b7175ab11b6b64aafde1fcaae581f99e9548d5b4e8a284d
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic-fuzz-strings.list
+tags:
+- unknown
+tool_name: basic-fuzz-strings.list

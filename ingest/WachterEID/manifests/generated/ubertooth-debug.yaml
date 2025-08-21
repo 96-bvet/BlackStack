@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-debug
+hash: sha256:74c49159d9729d409c8a2ede7bfda3f0b996a9c670f4116dea9f13234797083f
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-debug
+tags:
+- unknown
+tool_name: ubertooth-debug

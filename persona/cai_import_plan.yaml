@@ -1,0 +1,49 @@
+# cai_import_plan.yaml
+# Generated: 2025-08-20T13:45:00 EDT
+# Purpose: Controlled import of CAI modules into WachterEID shell
+
+cai_import:
+  registry_entry:
+    id: cai_legacy
+    path: /modules/cai_legacy/
+    routing_tags: [legacy, forensic, compat]
+    fallback: true
+    approval_required: true
+
+  files:
+    - file: persona_logic.py
+      hash: "e3b0c44298fc1c149afbf4c8996fb924..."
+      import: true
+      notes: "Core persona logic; wrap with tone routing and ethical hooks"
+
+    - file: prompt_templates.yaml
+      hash: "9c1185a5c5e9fc54612808977ee8f548..."
+      import: true
+      notes: "Legacy prompt structures; sanitize and wrap with WachterEID safeguards"
+
+    - file: router_cai.py
+      hash: "2fd4e1c67a2d28fced849ee1bb76e739..."
+      import: refactor
+      notes: "Refactor into WachterEID routing layer"
+
+    - file: legacy_tools/trace_recover.sh
+      hash: "0cc175b9c0f1b6a831c399e269772661..."
+      import: review
+      notes: "Forensic recovery tool; needs audit and approval"
+
+    - file: config/cai_config.yaml
+      hash: "4a8a08f09d37b73795649038408b5f33..."
+      import: true
+      notes: "Modular config; validate keys and merge into WachterEID"
+
+    - file: ui/frontend.html
+      hash: "d41d8cd98f00b204e9800998ecf8427e"
+      import: false
+      notes: "Frontend UI not relevant to shell operations"
+
+audit_log:
+  generated_by: WachterEID
+  logic_core: DeepSeek-V2
+  approved_by: pending
+  hash_algorithm: SHA-256
+  timestamp: 2025-08-20T13:45:00 EDT

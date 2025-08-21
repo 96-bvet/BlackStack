@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Responder.py
+hash: sha256:cfb555bb68a8967b158ff8c810456c8249db3ef4edba51c0290787b3114101d8
+persona_hint: Defense
+source_path: /usr/share/responder/Responder.py
+tags:
+- unknown
+tool_name: Responder.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kcookiejar5
+hash: sha256:413c2ec4e66ecce053588d63f3ead13ae6c851770682a3c67a3449990e1c5d9c
+persona_hint: Defense
+source_path: /usr/bin/kcookiejar5
+tags:
+- unknown
+tool_name: kcookiejar5

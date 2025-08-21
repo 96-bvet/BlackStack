@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-vendor
+hash: sha256:603e32f2d611f57b240005c3faca99eaf8c91c63e191bb76f3d9567acb82bebc
+persona_hint: Defense
+source_path: /usr/bin/dpkg-vendor
+tags:
+- unknown
+tool_name: dpkg-vendor

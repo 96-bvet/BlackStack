@@ -1,0 +1,7 @@
+description: Auto-generated manifest for backup.xml
+hash: sha256:a36493059d2267525a870aaabb81d13d562c9363a25ddc173da87a1b88ddf0cd
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/apptapp/backup.xml
+tags:
+- unknown
+tool_name: backup.xml

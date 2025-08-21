@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btrfsck
+hash: sha256:15a615914c021da8344b96dc79fae2fe951fceb25b5ae83e1ef5156df928a0f6
+persona_hint: Defense
+source_path: /usr/bin/btrfsck
+tags:
+- unknown
+tool_name: btrfsck

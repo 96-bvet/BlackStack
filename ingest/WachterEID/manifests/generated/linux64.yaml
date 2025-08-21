@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linux64
+hash: sha256:310781cb5287725c168866adcc8f324fde09834147589b682de6fd3d6fc6215d
+persona_hint: Defense
+source_path: /usr/bin/linux64
+tags:
+- unknown
+tool_name: linux64

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtstat
+hash: sha256:00953a6aa2184541f31387de7e829de85bac0fe8b0949b49f8f923308d081577
+persona_hint: Defense
+source_path: /usr/bin/rtstat
+tags:
+- unknown
+tool_name: rtstat

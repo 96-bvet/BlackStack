@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tns.spk
+hash: sha256:ed274e9ca890d60b369b2a94708faf63e0901f34e7891411af62498536ef876d
+persona_hint: Defense
+source_path: /usr/share/spike/audits/ORACLE/tns.spk
+tags:
+- unknown
+tool_name: tns.spk

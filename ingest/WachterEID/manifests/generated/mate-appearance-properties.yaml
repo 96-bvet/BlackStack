@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-appearance-properties
+hash: sha256:b7989fa1986fa1ae2b45537c5d5910f7d0908e7b61a4ab5230c0fcd5ac20bea4
+persona_hint: Defense
+source_path: /usr/bin/mate-appearance-properties
+tags:
+- unknown
+tool_name: mate-appearance-properties

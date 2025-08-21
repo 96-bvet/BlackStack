@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setfont
+hash: sha256:5368bc17c43cd268ade25e8a4b0e1d05f408a988cd84183bbe2aa4271104523b
+persona_hint: Defense
+source_path: /usr/bin/setfont
+tags:
+- unknown
+tool_name: setfont

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for race.bash
+hash: sha256:314fc9b262a1f0a31d57d5bc1e2069df159a7e81994e8f9140ec1494563c3ef2
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/race.bash
+tags:
+- unknown
+tool_name: race.bash

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for web_rewrite_headers_middleware.py
+hash: sha256:62cd7832d90a2844feaa6a21c3c31f95558dd2209b35f9b916e5a254ce5383e5
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/web_rewrite_headers_middleware.py
+tags:
+- unknown
+tool_name: web_rewrite_headers_middleware.py

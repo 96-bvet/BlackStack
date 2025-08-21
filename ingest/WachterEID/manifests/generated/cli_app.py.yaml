@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cli_app.py
+hash: sha256:dce633f2b55358717c1220511cefcb3c8a1c78101d7fe8bd87fab3d9a95ae53f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/cli_app.py
+tags:
+- unknown
+tool_name: cli_app.py

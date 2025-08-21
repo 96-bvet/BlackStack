@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgattrib
+hash: sha256:54580d74c3c60e35baa565a68069ac5b4ac9cdf267d5c9b138e9565c7bcc0534
+persona_hint: Defense
+source_path: /usr/bin/msgattrib
+tags:
+- unknown
+tool_name: msgattrib

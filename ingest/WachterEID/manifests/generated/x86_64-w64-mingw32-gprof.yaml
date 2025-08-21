@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-gprof
+hash: sha256:210a6b9995d7c709f35e54b6dec2008115f5c9356a6360b87e596775c095fc40
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-gprof
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-gprof

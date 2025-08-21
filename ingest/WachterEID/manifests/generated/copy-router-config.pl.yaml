@@ -1,0 +1,7 @@
+description: Auto-generated manifest for copy-router-config.pl
+hash: sha256:4f93b6769e602f40dd1f0f85e903a5a91dde56c7cf3913a96b7e204ba606c8cf
+persona_hint: Defense
+source_path: /usr/bin/copy-router-config.pl
+tags:
+- unknown
+tool_name: copy-router-config.pl

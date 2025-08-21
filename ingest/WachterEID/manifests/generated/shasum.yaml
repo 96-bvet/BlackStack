@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shasum
+hash: sha256:0812595f981a26f813d98dc380af14d4af427626c9339eda29eb849ae13de1e3
+persona_hint: Defense
+source_path: /usr/bin/shasum
+tags:
+- unknown
+tool_name: shasum

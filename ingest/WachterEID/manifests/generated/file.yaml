@@ -1,0 +1,7 @@
+description: Auto-generated manifest for file
+hash: sha256:6f9e3293d55b5b36def69668e0ee9fc7be526ad26f915f7f58823dffcb3babd2
+persona_hint: Defense
+source_path: /usr/bin/file
+tags:
+- unknown
+tool_name: file

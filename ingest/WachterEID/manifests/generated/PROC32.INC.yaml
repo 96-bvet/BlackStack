@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PROC32.INC
+hash: sha256:b2640d821d2f3e2d14c894802fbafafeee1134ccb5d018c30159de0e76c942d9
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/MACRO/PROC32.INC
+tags:
+- unknown
+tool_name: PROC32.INC

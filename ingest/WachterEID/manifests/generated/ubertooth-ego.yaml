@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-ego
+hash: sha256:32e23913ec24e37230abba2be79c51a53e58fcd110db03fe08e18a8644532421
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-ego
+tags:
+- unknown
+tool_name: ubertooth-ego

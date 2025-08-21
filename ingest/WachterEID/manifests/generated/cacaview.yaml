@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cacaview
+hash: sha256:6406ea465aeaf775f0374869da1c44a1a8d46c928c5cf2a50d86738594cee98d
+persona_hint: Defense
+source_path: /usr/bin/cacaview
+tags:
+- unknown
+tool_name: cacaview

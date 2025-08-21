@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpan
+hash: sha256:d4fba91c6370b8ef2c77850205d6e7eab6d8aeebd57993793fad9eff7720ea5e
+persona_hint: Defense
+source_path: /usr/bin/cpan
+tags:
+- unknown
+tool_name: cpan

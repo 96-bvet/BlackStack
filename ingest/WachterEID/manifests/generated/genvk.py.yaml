@@ -1,0 +1,7 @@
+description: Auto-generated manifest for genvk.py
+hash: sha256:5f44b980f369dcee3d94d64e07beac3b3a1189038487ce976cf477780533d105
+persona_hint: Defense
+source_path: /usr/share/vulkan/registry/genvk.py
+tags:
+- unknown
+tool_name: genvk.py

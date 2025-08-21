@@ -1,0 +1,7 @@
+description: Auto-generated manifest for file_upload.cgi
+hash: sha256:6bc8bae577ed4a1ed41bf7585cd3520690e7c91bd7578ead4477ffe3cbdac7e5
+persona_hint: Defense
+source_path: /usr/share/doc/libcgi-pm-perl/examples/file_upload.cgi
+tags:
+- unknown
+tool_name: file_upload.cgi

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for socat-mux.sh
+hash: sha256:93444c39953f044b8461ed46aa37dc1c7755c7460a0d29210871e360acba5e88
+persona_hint: Defense
+source_path: /usr/bin/socat-mux.sh
+tags:
+- unknown
+tool_name: socat-mux.sh

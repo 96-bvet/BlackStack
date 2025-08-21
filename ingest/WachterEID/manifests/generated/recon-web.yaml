@@ -1,0 +1,7 @@
+description: Auto-generated manifest for recon-web
+hash: sha256:735e4b5f4ecedfa7929cef850dc4252965712948ec9c5833ecd8bc6fad4daa9b
+persona_hint: Defense
+source_path: /usr/share/recon-ng/recon-web
+tags:
+- unknown
+tool_name: recon-web

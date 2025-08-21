@@ -1,0 +1,7 @@
+description: Auto-generated manifest for split
+hash: sha256:465258f620db346b6b0f85acba59f48130b7a1f87985f018da218b4ee6f5bdcd
+persona_hint: Defense
+source_path: /usr/bin/split
+tags:
+- unknown
+tool_name: split

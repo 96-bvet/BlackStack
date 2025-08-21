@@ -1,0 +1,7 @@
+description: Auto-generated manifest for quakeserver
+hash: sha256:338a991ca001d3a1be3d3f27972aba839a1dffcef9eb8ce1840a2cd386913d73
+persona_hint: Defense
+source_path: /usr/bin/quakeserver
+tags:
+- unknown
+tool_name: quakeserver

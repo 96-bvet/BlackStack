@@ -1,0 +1,7 @@
+description: Auto-generated manifest for readline-test.sh
+hash: sha256:c4a646444e9ab026660452a1a1181474052d7e635b8d8729fcb73a171f700d3a
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/readline-test.sh
+tags:
+- unknown
+tool_name: readline-test.sh

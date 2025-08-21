@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmhgfs-fuse
+hash: sha256:c882499b7a03d75dd55749726f00a8e6e8a3cc6ee6b27875a20e2a762bcee911
+persona_hint: Defense
+source_path: /usr/bin/vmhgfs-fuse
+tags:
+- unknown
+tool_name: vmhgfs-fuse

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for MSSQL.py
+hash: sha256:bc42914ea080bfc686fb948a23f3124934c34974caa90cc1808e199041a7bd58
+persona_hint: Defense
+source_path: /usr/share/responder/servers/MSSQL.py
+tags:
+- unknown
+tool_name: MSSQL.py

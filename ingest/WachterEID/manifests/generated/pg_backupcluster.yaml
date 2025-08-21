@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_backupcluster
+hash: sha256:268f3ce35eb07fc3aafbdfab348f5586322e9e3ce8db8e29e2fb083aeb5756f2
+persona_hint: Defense
+source_path: /usr/bin/pg_backupcluster
+tags:
+- unknown
+tool_name: pg_backupcluster

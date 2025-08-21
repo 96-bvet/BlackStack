@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ls
+hash: sha256:cb30d69b24245bf2ecdc9e7f53bbad19159999970b6d82c0c00c7d32d9e37aa4
+persona_hint: Defense
+source_path: /usr/bin/ls
+tags:
+- unknown
+tool_name: ls

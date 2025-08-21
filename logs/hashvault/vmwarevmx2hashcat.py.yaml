@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmwarevmx2hashcat.py
+hash: sha256:fec0f653b084e2869a43f4991dc883c07f7116c7ede35f2267d42c35460273b0
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/vmwarevmx2hashcat.py
+tags:
+- unknown
+tool_name: vmwarevmx2hashcat.py

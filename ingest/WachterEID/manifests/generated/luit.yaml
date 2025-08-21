@@ -1,0 +1,7 @@
+description: Auto-generated manifest for luit
+hash: sha256:44324724061fa356226ad468c728d3d71cc7f72e21f8718634ff45d9240b87d1
+persona_hint: Defense
+source_path: /usr/bin/luit
+tags:
+- unknown
+tool_name: luit

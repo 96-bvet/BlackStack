@@ -1,0 +1,7 @@
+description: Auto-generated manifest for perl5.36.0
+hash: sha256:287a73cdb5070aca6241c070473ba72aebcb8727e5bba20db9769162afba73da
+persona_hint: Defense
+source_path: /usr/bin/perl5.36.0
+tags:
+- unknown
+tool_name: perl5.36.0

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dmsetup
+hash: sha256:8c9a691182d41332370761de382d26e8f71944c2e6cf17b929b699fc264341e7
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/dmsetup
+tags:
+- unknown
+tool_name: dmsetup

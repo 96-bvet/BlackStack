@@ -1,0 +1,7 @@
+description: Auto-generated manifest for more
+hash: sha256:e82de2d88db7887020be2b30be7c59f0c4ebac45e8beda73acaf1bf3cb5febfc
+persona_hint: Defense
+source_path: /usr/bin/more
+tags:
+- unknown
+tool_name: more

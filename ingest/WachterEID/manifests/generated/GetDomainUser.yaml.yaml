@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetDomainUser.yaml
+hash: sha256:75b2663e7e1ed2b59915b4b76c0b89d8f9b3681d026f73aa34ee497db0aa50a8
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/GetDomainUser.yaml
+tags:
+- unknown
+tool_name: GetDomainUser.yaml

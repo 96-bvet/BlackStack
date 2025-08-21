@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cloud_enum.py
+hash: sha256:d1d334ef94df687f3d3ce2c30062932748b9c13b29b3bdd1f61b21ad110cb170
+persona_hint: Defense
+source_path: /usr/share/cloud-enum/cloud_enum.py
+tags:
+- unknown
+tool_name: cloud_enum.py

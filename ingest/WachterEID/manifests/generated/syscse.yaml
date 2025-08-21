@@ -1,0 +1,7 @@
+description: Auto-generated manifest for syscse
+hash: sha256:87ebdaf66ccd08836c745bfd5a763064ee3a8e3f5ad38b7f387973e43d3100e7
+persona_hint: Defense
+source_path: /usr/bin/syscse
+tags:
+- unknown
+tool_name: syscse

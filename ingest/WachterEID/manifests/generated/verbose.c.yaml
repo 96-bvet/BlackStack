@@ -1,0 +1,7 @@
+description: Auto-generated manifest for verbose.c
+hash: sha256:add96250bf88cb4edb4d5e73dc506eeadf00ecbc13705ed60d8f6e38b3f43b4b
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/verbose.c
+tags:
+- unknown
+tool_name: verbose.c

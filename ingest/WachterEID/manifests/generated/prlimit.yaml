@@ -1,0 +1,7 @@
+description: Auto-generated manifest for prlimit
+hash: sha256:663634070079386b7401ccc9fb92522ec3ece10f07f84a83fe96ec3ecb0bc74b
+persona_hint: Defense
+source_path: /usr/bin/prlimit
+tags:
+- unknown
+tool_name: prlimit

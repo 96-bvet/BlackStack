@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sp64
+hash: sha256:4b7bc422ea530aae94fb6bdb4efcd6cd8506cd3ea6951217bf8e8fa89259c84b
+persona_hint: Defense
+source_path: /usr/bin/sp64
+tags:
+- unknown
+tool_name: sp64

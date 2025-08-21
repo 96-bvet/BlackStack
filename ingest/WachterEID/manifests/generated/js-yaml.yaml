@@ -1,0 +1,7 @@
+description: Auto-generated manifest for js-yaml
+hash: sha256:0a5db155f2e7becc295fede91529e354e946ee8c4d151383b39abc14af7866fe
+persona_hint: Defense
+source_path: /usr/bin/js-yaml
+tags:
+- unknown
+tool_name: js-yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-keybinding-properties
+hash: sha256:1c55e114ebd2c6d14ba8bfac1ae927e8d23f617956970b4d30c43b36f83d2330
+persona_hint: Defense
+source_path: /usr/bin/mate-keybinding-properties
+tags:
+- unknown
+tool_name: mate-keybinding-properties

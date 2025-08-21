@@ -1,0 +1,7 @@
+description: Auto-generated manifest for airolib-ng
+hash: sha256:4ea97139ceb6c392659f0826d9de4792f4b7012eedb3e79badc6b8fa45d61914
+persona_hint: Defense
+source_path: /usr/bin/airolib-ng
+tags:
+- unknown
+tool_name: airolib-ng

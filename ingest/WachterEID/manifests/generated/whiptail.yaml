@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whiptail
+hash: sha256:4638406caaabcde9f6fbc2a2dbdfaca670cfb49ea6a0cba7d5e348f27796ef04
+persona_hint: Defense
+source_path: /usr/bin/whiptail
+tags:
+- unknown
+tool_name: whiptail

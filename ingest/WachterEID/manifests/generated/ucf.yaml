@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ucf
+hash: sha256:e64b3181b6b941b8d0e450d774b3c8ea014297feec3118c9ebc02630c289f8b5
+persona_hint: Defense
+source_path: /usr/bin/ucf
+tags:
+- unknown
+tool_name: ucf

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpecho.pl
+hash: sha256:c2c3c18004c827811cb7e5246133c4e64a33fadc0cb75b5319aefeeb43b879b9
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/tcpecho.pl
+tags:
+- unknown
+tool_name: tcpecho.pl

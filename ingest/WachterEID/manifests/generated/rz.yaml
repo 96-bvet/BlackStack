@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rz
+hash: sha256:1befa3f4e8fd3c59611fa35215f156a3eca40033e463d57364c3f383730d8a3a
+persona_hint: Defense
+source_path: /usr/bin/rz
+tags:
+- unknown
+tool_name: rz

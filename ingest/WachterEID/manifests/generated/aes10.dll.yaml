@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aes10.dll
+hash: sha256:fa93b0b7044f87bbc6ee1661c09897b4449d75c732bb0f8c41e2ae43d766b003
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Payloads/Aes/bin/aes10.dll
+tags:
+- unknown
+tool_name: aes10.dll

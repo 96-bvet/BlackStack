@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WSOCK32.INC
+hash: sha256:2b8cc4a8ac6689cb871279e5f235937825d7d354bd8dc1b7e4d285464dbe90d6
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/PCOUNT/WSOCK32.INC
+tags:
+- unknown
+tool_name: WSOCK32.INC

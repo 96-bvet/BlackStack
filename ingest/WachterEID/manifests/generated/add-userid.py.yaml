@@ -1,0 +1,7 @@
+description: Auto-generated manifest for add-userid.py
+hash: sha256:308f9868a4d98a57f3adee1e7ee4717e6bf8823885323994c4750c49635f07bf
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/add-userid.py
+tags:
+- unknown
+tool_name: add-userid.py

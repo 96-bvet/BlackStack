@@ -1,0 +1,7 @@
+description: Auto-generated manifest for alsaucm
+hash: sha256:af0cadb1fb9aad8b5d7ee2cda9a4e96750bc4183bca306e0aa27f5131826afdb
+persona_hint: Defense
+source_path: /usr/bin/alsaucm
+tags:
+- unknown
+tool_name: alsaucm

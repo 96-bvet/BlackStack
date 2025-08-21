@@ -1,0 +1,7 @@
+description: Auto-generated manifest for divxsuite-update.xml
+hash: sha256:ffd3999b157302e3523cd8b4aa7e63385aab2eca552695e04f8556357b6724ea
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/divxsuite/divxsuite-update.xml
+tags:
+- unknown
+tool_name: divxsuite-update.xml

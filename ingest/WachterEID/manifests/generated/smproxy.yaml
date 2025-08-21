@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smproxy
+hash: sha256:74483dcf530181a6faddb985dd3e40dfb1ac95e9f758610f52bf66ff37d016f3
+persona_hint: Defense
+source_path: /usr/bin/smproxy
+tags:
+- unknown
+tool_name: smproxy

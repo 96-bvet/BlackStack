@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rfcat_bootloader
+hash: sha256:86fe73722e6b2e236b3f34b603b0e762cd0ea0bb61faf38df67c29c6d282ec24
+persona_hint: Defense
+source_path: /usr/bin/rfcat_bootloader
+tags:
+- unknown
+tool_name: rfcat_bootloader

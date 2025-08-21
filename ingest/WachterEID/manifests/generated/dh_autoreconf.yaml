@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_autoreconf
+hash: sha256:ed2e228eed6c872459b53bdd22c47660d421dbe69234eb808ec61abb79fff869
+persona_hint: Defense
+source_path: /usr/bin/dh_autoreconf
+tags:
+- unknown
+tool_name: dh_autoreconf

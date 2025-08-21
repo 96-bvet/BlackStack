@@ -1,0 +1,7 @@
+description: Auto-generated manifest for VERSION
+hash: sha256:e81d61cddae58f074527619dd6dd381ba8f67a9ac935a72f772a960caa3ffe50
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/VERSION
+tags:
+- unknown
+tool_name: VERSION

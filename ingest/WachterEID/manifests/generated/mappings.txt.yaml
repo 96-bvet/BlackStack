@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mappings.txt
+hash: sha256:f4c79537cce78dbcf05a25a3f66dbdb10cdb8078293fe7a8678952c51e55e658
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/mappings.txt
+tags:
+- unknown
+tool_name: mappings.txt

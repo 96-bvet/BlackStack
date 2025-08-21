@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uname
+hash: sha256:ed210303cc81299ad2bf8804d4a2f1e2853ad34f6307a3114b48444ceb6c60da
+persona_hint: Defense
+source_path: /usr/bin/uname
+tags:
+- unknown
+tool_name: uname

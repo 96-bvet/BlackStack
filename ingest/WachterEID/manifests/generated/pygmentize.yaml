@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pygmentize
+hash: sha256:79cc26ee57128678e23cb780aafa2fe774440560093f5d075511c62255d80a7c
+persona_hint: Defense
+source_path: /usr/bin/pygmentize
+tags:
+- unknown
+tool_name: pygmentize

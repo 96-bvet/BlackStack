@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xcalc
+hash: sha256:a6fd2890b36fc6fb2a0994582f04ddade7abc21b0aff42b3537d8800667e6640
+persona_hint: Defense
+source_path: /usr/bin/xcalc
+tags:
+- unknown
+tool_name: xcalc

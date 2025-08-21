@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remmina_nslookup.sh
+hash: sha256:d5f75c74207fe5ef77ccf68952917d993e0287ac3a9193c17f096af5d92d6be5
+persona_hint: Defense
+source_path: /usr/share/remmina/external_tools/remmina_nslookup.sh
+tags:
+- unknown
+tool_name: remmina_nslookup.sh

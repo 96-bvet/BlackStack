@@ -1,0 +1,7 @@
+description: Auto-generated manifest for irqstat
+hash: sha256:794756ae922898a5e47455d0fc488f181ad62fef98f86e214bd5a4f332e790c9
+persona_hint: Defense
+source_path: /usr/share/doc/sysstat/examples/irqstat
+tags:
+- unknown
+tool_name: irqstat

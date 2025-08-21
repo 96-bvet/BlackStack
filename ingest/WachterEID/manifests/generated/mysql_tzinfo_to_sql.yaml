@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_tzinfo_to_sql
+hash: sha256:95d6f09537e8e98300d0bc9e3c0194f9df5003794cae6aabb25ffb60f3ec6c02
+persona_hint: Defense
+source_path: /usr/bin/mysql_tzinfo_to_sql
+tags:
+- unknown
+tool_name: mysql_tzinfo_to_sql

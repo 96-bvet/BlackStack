@@ -1,0 +1,7 @@
+description: Auto-generated manifest for import-mailvelope-keys.py
+hash: sha256:075085844b96e34920ae2229aca55fa9cc1ea0933c95f3459c408c24831f349f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/import-mailvelope-keys.py
+tags:
+- unknown
+tool_name: import-mailvelope-keys.py

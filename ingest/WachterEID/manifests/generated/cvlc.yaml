@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cvlc
+hash: sha256:1f5dbf51811e0b26ed34ad28611620f44232bdc9a506f93d25bbc20d5e36c0d6
+persona_hint: Defense
+source_path: /usr/bin/cvlc
+tags:
+- unknown
+tool_name: cvlc

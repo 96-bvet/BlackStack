@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wsrep_sst_common
+hash: sha256:648b90afbb3dd50748d8a554071144817d522ed35c4f4974817cfa67d64f2169
+persona_hint: Defense
+source_path: /usr/bin/wsrep_sst_common
+tags:
+- unknown
+tool_name: wsrep_sst_common

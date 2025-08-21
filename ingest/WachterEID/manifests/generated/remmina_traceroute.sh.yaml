@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remmina_traceroute.sh
+hash: sha256:95b80a2bc7b73a5b7fbccfac0191e7f10940b357246db5352fe80435e3f7bbc7
+persona_hint: Defense
+source_path: /usr/share/remmina/external_tools/remmina_traceroute.sh
+tags:
+- unknown
+tool_name: remmina_traceroute.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for netexec
+hash: sha256:fd1d15837cd877685ee66604fb53ac23a14806cb316fb9fb16c96f99c9caccce
+persona_hint: Defense
+source_path: /usr/bin/netexec
+tags:
+- unknown
+tool_name: netexec

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for RDP.py
+hash: sha256:5295a2b169d44739418c37755a27518aa6843f0306cecdcf015cafc5d9c5a1a9
+persona_hint: Defense
+source_path: /usr/share/responder/servers/RDP.py
+tags:
+- unknown
+tool_name: RDP.py

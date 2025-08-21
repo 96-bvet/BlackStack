@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vkcube-wayland
+hash: sha256:260d7e02c1655212a34bbbaa67546b562a16058aaed086b9c4692d9aac2e0ee5
+persona_hint: Defense
+source_path: /usr/bin/vkcube-wayland
+tags:
+- unknown
+tool_name: vkcube-wayland

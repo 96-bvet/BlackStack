@@ -1,0 +1,7 @@
+description: Auto-generated manifest for t1ascii
+hash: sha256:e2203f598ee7018360d6913d250025f0edc7749cfc516bab4c85d81b4a98f139
+persona_hint: Defense
+source_path: /usr/bin/t1ascii
+tags:
+- unknown
+tool_name: t1ascii

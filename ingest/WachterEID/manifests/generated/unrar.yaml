@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unrar
+hash: sha256:36eae607bee7e5fc491fe978a030f67c73988b88a53b076c7313a9088fc6badc
+persona_hint: Defense
+source_path: /usr/bin/unrar
+tags:
+- unknown
+tool_name: unrar

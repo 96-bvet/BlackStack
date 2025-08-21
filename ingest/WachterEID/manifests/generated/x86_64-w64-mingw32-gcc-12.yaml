@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-gcc-12
+hash: sha256:04cb3d8c32d4e3ee91de1dce24e9cb8360775589b6b94a81a7d6581ac651c1d3
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-gcc-12
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-gcc-12

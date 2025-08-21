@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cksum
+hash: sha256:d9b1aa09d173192d3324cf4be0e27b2119d035785d4c83e58f06538694f24470
+persona_hint: Defense
+source_path: /usr/bin/cksum
+tags:
+- unknown
+tool_name: cksum

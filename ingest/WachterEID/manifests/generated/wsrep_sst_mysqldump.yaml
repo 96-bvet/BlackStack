@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wsrep_sst_mysqldump
+hash: sha256:cdd90423583e5065ba6b51b9b132d0c759d51864c761441cb4cb79196758cccf
+persona_hint: Defense
+source_path: /usr/bin/wsrep_sst_mysqldump
+tags:
+- unknown
+tool_name: wsrep_sst_mysqldump

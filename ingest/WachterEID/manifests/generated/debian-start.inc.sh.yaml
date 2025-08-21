@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debian-start.inc.sh
+hash: sha256:3b2ed2db0d8bc2503e8e12a5598c90e45d6b2aaba33d074cf53ac6fec7321dd3
+persona_hint: Defense
+source_path: /usr/share/mysql/debian-start.inc.sh
+tags:
+- unknown
+tool_name: debian-start.inc.sh

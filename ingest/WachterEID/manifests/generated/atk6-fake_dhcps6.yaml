@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_dhcps6
+hash: sha256:5d7a0e5aaf5b5a6b4bf1c8321fc2bef0e9ca258dcb4753485e8979185fd91c99
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_dhcps6
+tags:
+- unknown
+tool_name: atk6-fake_dhcps6

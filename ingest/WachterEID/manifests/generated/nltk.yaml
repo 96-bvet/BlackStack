@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nltk
+hash: sha256:2d3db683dd1e5a2d933c452ebe15b5c88658930453e3a07804caac7289e674b3
+persona_hint: Defense
+source_path: /usr/bin/nltk
+tags:
+- unknown
+tool_name: nltk

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mech-dump
+hash: sha256:3813293e21623ee1cb5d528c9258aae9f2cbdba84eeb042a06af3eaf875df572
+persona_hint: Defense
+source_path: /usr/bin/mech-dump
+tags:
+- unknown
+tool_name: mech-dump

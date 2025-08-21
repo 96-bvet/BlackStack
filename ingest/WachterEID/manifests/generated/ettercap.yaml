@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ettercap
+hash: sha256:b369ce0a7107728c26c5ede6203fb1bb617afbfd82d327ba482f8a1bfc04a509
+persona_hint: Defense
+source_path: /usr/bin/ettercap
+tags:
+- unknown
+tool_name: ettercap

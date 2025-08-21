@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ts
+hash: sha256:01b67f3d81e6205f01cc0ada87039293ebc56596955225300dd69ec1257124f5
+persona_hint: Defense
+source_path: /usr/bin/ts
+tags:
+- unknown
+tool_name: ts

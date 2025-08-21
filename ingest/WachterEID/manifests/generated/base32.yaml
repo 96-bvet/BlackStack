@@ -1,0 +1,7 @@
+description: Auto-generated manifest for base32
+hash: sha256:3500cde59df225b1f7988ad6331b875265d739fba3be0444e131bb362eb0d87e
+persona_hint: Defense
+source_path: /usr/bin/base32
+tags:
+- unknown
+tool_name: base32

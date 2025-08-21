@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lex
+hash: sha256:c4635f64b06ab06a01c67eee32f612dc4e28dc743ecb5cd88797e29693b88426
+persona_hint: Defense
+source_path: /usr/bin/lex
+tags:
+- unknown
+tool_name: lex

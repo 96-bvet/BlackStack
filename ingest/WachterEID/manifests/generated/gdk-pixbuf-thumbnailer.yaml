@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdk-pixbuf-thumbnailer
+hash: sha256:e1c9f534751d1a6a3077cbfe93c73e1e55a03334da7d9737df3b179fdce27216
+persona_hint: Defense
+source_path: /usr/bin/gdk-pixbuf-thumbnailer
+tags:
+- unknown
+tool_name: gdk-pixbuf-thumbnailer

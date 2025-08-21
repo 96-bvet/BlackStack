@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zipinfo
+hash: sha256:e2f7d58ad17fb5ad25d4e3cfb72870089dec4a54805d83650b8fd1b648a0c29b
+persona_hint: Defense
+source_path: /usr/bin/zipinfo
+tags:
+- unknown
+tool_name: zipinfo

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wc
+hash: sha256:7480f7cb7110af0f45b6e04b50f8d1fb2c6392cf911cb3a28c516ef1b725823e
+persona_hint: Defense
+source_path: /usr/bin/wc
+tags:
+- unknown
+tool_name: wc

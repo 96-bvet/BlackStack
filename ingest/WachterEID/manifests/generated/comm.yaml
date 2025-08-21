@@ -1,0 +1,7 @@
+description: Auto-generated manifest for comm
+hash: sha256:5ba2fd25a7ec1ef5a4fb82eabf6be796d1afba42c795fbf59727582d4d77d6a2
+persona_hint: Defense
+source_path: /usr/bin/comm
+tags:
+- unknown
+tool_name: comm

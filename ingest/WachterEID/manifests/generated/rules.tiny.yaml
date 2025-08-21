@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rules.tiny
+hash: sha256:4a137aac0bc1ad2e455aa688026a08ac1dcff6b581838abecd75a5c808811016
+persona_hint: Defense
+source_path: /usr/share/doc/debhelper/examples/rules.tiny
+tags:
+- unknown
+tool_name: rules.tiny

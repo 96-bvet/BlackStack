@@ -1,0 +1,7 @@
+description: Auto-generated manifest for yelp
+hash: sha256:8d874e26c50d6f5536f1e7d1b5748e7e01ce53f39496a06ee4e2783e82dc8e22
+persona_hint: Defense
+source_path: /usr/bin/yelp
+tags:
+- unknown
+tool_name: yelp

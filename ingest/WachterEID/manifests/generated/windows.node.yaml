@@ -1,0 +1,7 @@
+description: Auto-generated manifest for windows.node
+hash: sha256:05289c893dd03014628315ad0eccddf003f19396680861d7d58b8fcc7a23d906
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@vscode/deviceid/build/Release/windows.node
+tags:
+- unknown
+tool_name: windows.node

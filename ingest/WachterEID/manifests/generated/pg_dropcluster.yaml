@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_dropcluster
+hash: sha256:61676ab575f1ef611ba22479e94e72a38704433fe9dba76603c74859008788d5
+persona_hint: Defense
+source_path: /usr/bin/pg_dropcluster
+tags:
+- unknown
+tool_name: pg_dropcluster

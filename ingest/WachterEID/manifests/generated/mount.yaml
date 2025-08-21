@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mount
+hash: sha256:18ca60a1e1c93f58fca00607ad32bf192fea00157eac73a5341f8bd1c2201403
+persona_hint: Defense
+source_path: /usr/bin/mount
+tags:
+- unknown
+tool_name: mount

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sendmsrpc
+hash: sha256:4a7c22e24e3c2015c173a4acbe4301a846891bb911c1de2975f20a01fe35de46
+persona_hint: Defense
+source_path: /usr/bin/sendmsrpc
+tags:
+- unknown
+tool_name: sendmsrpc

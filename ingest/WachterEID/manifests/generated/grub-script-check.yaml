@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-script-check
+hash: sha256:5acde9e3027d45969ca33d7b5b13b71bf38dd871fcd8ac9300d718012aeb6f20
+persona_hint: Defense
+source_path: /usr/bin/grub-script-check
+tags:
+- unknown
+tool_name: grub-script-check

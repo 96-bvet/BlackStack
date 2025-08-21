@@ -1,0 +1,7 @@
+description: Auto-generated manifest for curl.py
+hash: sha256:cf9da76cc8326d4af1e84cf1baf180fa7864c9a76ec14b6d26d1bf296269ba4b
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/curl.py
+tags:
+- unknown
+tool_name: curl.py

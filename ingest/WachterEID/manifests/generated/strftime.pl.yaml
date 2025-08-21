@@ -1,0 +1,7 @@
+description: Auto-generated manifest for strftime.pl
+hash: sha256:c04de8e45121295d81879f8611527bd47ed67f98061221408f6e2d70fbf0c416
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/strftime.pl
+tags:
+- unknown
+tool_name: strftime.pl

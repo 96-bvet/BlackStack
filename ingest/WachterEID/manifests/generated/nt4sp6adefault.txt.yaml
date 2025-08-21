@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nt4sp6adefault.txt
+hash: sha256:19e5066715a974fcec835c09b07c0a29091da1e2db1f4321706f84c3af2da92d
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/nt4sp6adefault.txt
+tags:
+- unknown
+tool_name: nt4sp6adefault.txt

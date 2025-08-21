@@ -1,0 +1,7 @@
+description: Auto-generated manifest for X
+hash: sha256:bca1ceb412614f4e0cb13a68b5d78e86b32ac25f7f2f66b40de73517c8f239eb
+persona_hint: Defense
+source_path: /usr/bin/X
+tags:
+- unknown
+tool_name: X

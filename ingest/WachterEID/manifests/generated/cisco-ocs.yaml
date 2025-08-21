@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cisco-ocs
+hash: sha256:d0c6d433fc9e5f5bdd2fd61ed45237a908044a512ad5f3239dc13d696e73d565
+persona_hint: Defense
+source_path: /usr/bin/cisco-ocs
+tags:
+- unknown
+tool_name: cisco-ocs

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for search-recursive
+hash: sha256:9ba1923fedd6988ef9a48bf63ef7ff23fc84b847c11f1d71ec5859edabe9ba4c
+persona_hint: Defense
+source_path: /usr/share/pluma/plugins/externaltools/tools/search-recursive
+tags:
+- unknown
+tool_name: search-recursive

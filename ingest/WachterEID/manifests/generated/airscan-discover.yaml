@@ -1,0 +1,7 @@
+description: Auto-generated manifest for airscan-discover
+hash: sha256:99d08268c3395a0e18cd3b1d113d609bb3e8a4267d2cda36bff061554a6a45c5
+persona_hint: Defense
+source_path: /usr/bin/airscan-discover
+tags:
+- unknown
+tool_name: airscan-discover

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chage
+hash: sha256:884cb7d8ecf37791651322d043e13d1cb4fdf7d01511a5e68bfce660977f7898
+persona_hint: Defense
+source_path: /usr/bin/chage
+tags:
+- unknown
+tool_name: chage

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-copy-id
+hash: sha256:d6666d3a3e50681936374efa7a3ae1000fffaffc57d597c6dfa7a75378927437
+persona_hint: Defense
+source_path: /usr/bin/ssh-copy-id
+tags:
+- unknown
+tool_name: ssh-copy-id

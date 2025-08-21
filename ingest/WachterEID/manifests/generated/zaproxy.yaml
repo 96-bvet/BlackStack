@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zaproxy
+hash: sha256:b2d7cd09362c2a2ceecbfaa9937ad743fba24e791abf3e01e31e8355a7ba7af1
+persona_hint: Defense
+source_path: /usr/bin/zaproxy
+tags:
+- unknown
+tool_name: zaproxy

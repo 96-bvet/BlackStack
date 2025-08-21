@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkknownfolderids.bash
+hash: sha256:3b7f6ac42ae1e73aa8d06d4f89f18b91916f153b030e9c01e15d41959b6b5fc6
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/cmd/vendor/golang.org/x/sys/windows/mkknownfolderids.bash
+tags:
+- unknown
+tool_name: mkknownfolderids.bash

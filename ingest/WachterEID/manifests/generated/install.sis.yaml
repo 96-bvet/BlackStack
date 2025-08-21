@@ -1,0 +1,7 @@
+description: Auto-generated manifest for install.sis
+hash: sha256:442c6136dfc1a41407e22a918af44961c7bbbb7898a66778aa81808c8b097b4e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/nokia/install.sis
+tags:
+- unknown
+tool_name: install.sis

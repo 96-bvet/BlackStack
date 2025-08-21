@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gen-self-cert-signed-with-ca.sh
+hash: sha256:6311b07d41b02fd33ab244460556672079bfafa1fea47db0b12f97853c1e7f89
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/extra/gen-self-cert-signed-with-ca.sh
+tags:
+- unknown
+tool_name: gen-self-cert-signed-with-ca.sh

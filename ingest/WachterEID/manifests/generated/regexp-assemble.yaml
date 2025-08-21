@@ -1,0 +1,7 @@
+description: Auto-generated manifest for regexp-assemble
+hash: sha256:65dee7e78b31d02201231e8d6d664861aedf6613db9968427dc102bc22ff5021
+persona_hint: Defense
+source_path: /usr/bin/regexp-assemble
+tags:
+- unknown
+tool_name: regexp-assemble

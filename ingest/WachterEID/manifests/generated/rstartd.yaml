@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rstartd
+hash: sha256:5cea5a131bcf06f53c3c5e0bd73836c29accba1a95e97376d38b6ca624176a71
+persona_hint: Defense
+source_path: /usr/bin/rstartd
+tags:
+- unknown
+tool_name: rstartd

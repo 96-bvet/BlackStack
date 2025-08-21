@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nbtscan
+hash: sha256:6cf2e9fd23b05cd9e7879d01a010ece7e4e3de8ce372b885e5d374cfa2e2779a
+persona_hint: Defense
+source_path: /usr/bin/nbtscan
+tags:
+- unknown
+tool_name: nbtscan

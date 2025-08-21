@@ -1,0 +1,7 @@
+description: Auto-generated manifest for changelog_head
+hash: sha256:1fc093b106e05bd7f12bfa2188af87056564a267c86df7fdf04a4fe3b8c25f51
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debfile/changelog_head
+tags:
+- unknown
+tool_name: changelog_head

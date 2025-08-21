@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iflist
+hash: sha256:c912502bef3f2f420691f624c582b1e829bad7663bdfddec6a72fa98159c2d09
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/iflist
+tags:
+- unknown
+tool_name: iflist

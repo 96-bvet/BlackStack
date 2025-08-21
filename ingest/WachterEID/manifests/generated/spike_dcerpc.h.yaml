@@ -1,0 +1,7 @@
+description: Auto-generated manifest for spike_dcerpc.h
+hash: sha256:f815920ebd010e661168210016fd75f10c8a7e317e8b10a756b9ea087ad084ac
+persona_hint: Defense
+source_path: /usr/share/spike/include/spike_dcerpc.h
+tags:
+- unknown
+tool_name: spike_dcerpc.h

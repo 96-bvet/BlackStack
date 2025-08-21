@@ -1,0 +1,7 @@
+description: Auto-generated manifest for proxytunnel
+hash: sha256:c1797b5436d77ed5c938c37092ae542649e14fc484cb9099ee76eed16f137729
+persona_hint: Defense
+source_path: /usr/bin/proxytunnel
+tags:
+- unknown
+tool_name: proxytunnel

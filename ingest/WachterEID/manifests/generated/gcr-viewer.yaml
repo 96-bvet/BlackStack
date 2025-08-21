@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gcr-viewer
+hash: sha256:b6267532e9f5e6019162b9931d3f351826545ac032068f94b9eff2aabff55e7e
+persona_hint: Defense
+source_path: /usr/bin/gcr-viewer
+tags:
+- unknown
+tool_name: gcr-viewer

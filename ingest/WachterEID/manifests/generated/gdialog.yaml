@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdialog
+hash: sha256:139f411763286637be9ac73411b980d355d349c5336f469a428a40ba2535eddf
+persona_hint: Defense
+source_path: /usr/bin/gdialog
+tags:
+- unknown
+tool_name: gdialog

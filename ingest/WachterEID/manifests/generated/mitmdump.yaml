@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mitmdump
+hash: sha256:98107d2543deef7274e09fd693ebf573acb3ff04adc59fc3163ae7d1ee45e1fd
+persona_hint: Defense
+source_path: /usr/bin/mitmdump
+tags:
+- unknown
+tool_name: mitmdump

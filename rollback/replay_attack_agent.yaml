@@ -1,0 +1,16 @@
+name: replay_attack_agent
+path: src/cai/agents/replay_attack_agent.py
+type: py
+category: misc
+hash: ef8661683e5faa0cec79d36ed0ba4d1dac2288c450bab4875cff1e4cbf1a87dc
+approved: true
+import: true
+license_stub: true
+name: replay_attack_agent
+path: src/cai/agents/replay_attack_agent.py
+type: py
+category: misc
+hash: ef8661683e5faa0cec79d36ed0ba4d1dac2288c450bab4875cff1e4cbf1a87dc
+approved: true
+import: true
+license_stub: true

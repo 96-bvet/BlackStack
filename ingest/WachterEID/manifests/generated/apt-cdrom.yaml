@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-cdrom
+hash: sha256:038988aec1aec295d41fcc01a7e0a372a85d0ff6a8cfd310318111b97c56f5d3
+persona_hint: Defense
+source_path: /usr/bin/apt-cdrom
+tags:
+- unknown
+tool_name: apt-cdrom

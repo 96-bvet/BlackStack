@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sha224sum
+hash: sha256:9b14f60b102b81f213eecf07586bb46b872c7ce9801e8c618942401688e086e5
+persona_hint: Defense
+source_path: /usr/bin/sha224sum
+tags:
+- unknown
+tool_name: sha224sum

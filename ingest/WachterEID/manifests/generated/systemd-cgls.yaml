@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-cgls
+hash: sha256:5cbfa337a49d38e4fb3b0c94e133da089583547f142f9afd06b5cb0cbaec86d8
+persona_hint: Defense
+source_path: /usr/bin/systemd-cgls
+tags:
+- unknown
+tool_name: systemd-cgls

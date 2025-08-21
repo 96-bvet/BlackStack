@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfd
+hash: sha256:61ff4beaab9d96832fe90365818552459c6e33660d9bd48251f449639082b7ca
+persona_hint: Defense
+source_path: /usr/bin/xfd
+tags:
+- unknown
+tool_name: xfd

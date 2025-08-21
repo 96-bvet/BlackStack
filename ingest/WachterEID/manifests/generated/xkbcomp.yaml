@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkbcomp
+hash: sha256:eca6986af7d15277394b8476b8ad85229ee1a1a879d43d2a526f106af3761550
+persona_hint: Defense
+source_path: /usr/bin/xkbcomp
+tags:
+- unknown
+tool_name: xkbcomp

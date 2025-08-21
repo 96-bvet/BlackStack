@@ -1,0 +1,7 @@
+description: Auto-generated manifest for strip
+hash: sha256:6e44c8c1a99c9fe1eabee43c488ecd8bbc8147b2543ba91668990327ba4d24f8
+persona_hint: Defense
+source_path: /usr/bin/strip
+tags:
+- unknown
+tool_name: strip

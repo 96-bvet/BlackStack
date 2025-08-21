@@ -1,0 +1,7 @@
+description: Auto-generated manifest for imap1.spk
+hash: sha256:3a26d36d41012ba15e57a028c55ecb4393473aa3ecb155124fd386f64101a853
+persona_hint: Defense
+source_path: /usr/share/spike/audits/IMAP/imap1.spk
+tags:
+- unknown
+tool_name: imap1.spk

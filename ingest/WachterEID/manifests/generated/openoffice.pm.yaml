@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openoffice.pm
+hash: sha256:a21e5f2215871ce1db5459bc81fc21eaf59ad03a7a3e1165416a309df2b562b8
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/openoffice.pm
+tags:
+- unknown
+tool_name: openoffice.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for busybox
+hash: sha256:c4e5e2406e44a43d447dcf4419917a6dd00c2e96331c422df0eb01155f8ed4a4
+persona_hint: Defense
+source_path: /usr/bin/busybox
+tags:
+- unknown
+tool_name: busybox

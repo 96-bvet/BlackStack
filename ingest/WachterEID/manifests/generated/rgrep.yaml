@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rgrep
+hash: sha256:0a8dd42a068115f058ae57f9f6347e1ef0ae2ffea89bf658b132974246577748
+persona_hint: Defense
+source_path: /usr/bin/rgrep
+tags:
+- unknown
+tool_name: rgrep

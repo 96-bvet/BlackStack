@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nm-online
+hash: sha256:5e0cf5514504f096426ba59ff01c8c5d36cd2fc6ab39b868553629a2aa55ee65
+persona_hint: Defense
+source_path: /usr/bin/nm-online
+tags:
+- unknown
+tool_name: nm-online

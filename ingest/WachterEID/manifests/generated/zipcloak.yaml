@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zipcloak
+hash: sha256:9e31b23fa40cb126cb88b1b7fae273c42b6c539996a35c86925b0d0bd23f75b1
+persona_hint: Defense
+source_path: /usr/bin/zipcloak
+tags:
+- unknown
+tool_name: zipcloak

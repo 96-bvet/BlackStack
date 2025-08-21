@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wireshark
+hash: sha256:25eb66d5d567b95bba1caf4f7216c524c96ccb3ce18f421a268c6fde2eeee9ab
+persona_hint: Defense
+source_path: /usr/bin/wireshark
+tags:
+- blue_team
+tool_name: wireshark

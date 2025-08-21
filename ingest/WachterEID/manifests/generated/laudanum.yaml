@@ -1,0 +1,7 @@
+description: Auto-generated manifest for laudanum
+hash: sha256:96a74a7cf0a0da1a6cc834a5ef8ee498cacd7af3c0a34d32f1a51598c3f3fb62
+persona_hint: Defense
+source_path: /usr/bin/laudanum
+tags:
+- unknown
+tool_name: laudanum

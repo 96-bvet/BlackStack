@@ -1,0 +1,7 @@
+description: Auto-generated manifest for citrix
+hash: sha256:b09de515fef885e41959346eb1953ea78125b678fccef91435feebb1c96026fc
+persona_hint: Defense
+source_path: /usr/bin/citrix
+tags:
+- unknown
+tool_name: citrix

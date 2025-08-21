@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-window-properties
+hash: sha256:70f7f2f1f0f5ce0e3487518aa419e4edb095244808978e2dbe7b12107824a0f0
+persona_hint: Defense
+source_path: /usr/bin/mate-window-properties
+tags:
+- unknown
+tool_name: mate-window-properties

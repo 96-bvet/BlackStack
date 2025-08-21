@@ -1,0 +1,7 @@
+description: Auto-generated manifest for restfulHarvest
+hash: sha256:4d1f943191b740983ca8283331084f9150b1010b0860ac002b616bd1d2d8b3df
+persona_hint: Defense
+source_path: /usr/bin/restfulHarvest
+tags:
+- unknown
+tool_name: restfulHarvest

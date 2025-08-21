@@ -1,0 +1,7 @@
+description: Auto-generated manifest for watchmedo
+hash: sha256:7f8480f2160ef147795fb42359a48b6715e2304576e521248a8be6048f2f828d
+persona_hint: Defense
+source_path: /usr/bin/watchmedo
+tags:
+- unknown
+tool_name: watchmedo

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bump-version.sh
+hash: sha256:c21539115d64959d370fd65ee3be98c72e8d6708919e398cbd6d2258b73a9965
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/bump-version.sh
+tags:
+- unknown
+tool_name: bump-version.sh

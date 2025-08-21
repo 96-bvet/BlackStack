@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ot
+hash: sha256:a06825dfe3eef4c8e357ee615f400b90214ffc320b026a349f05e6f5206e1dc9
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/opentype.js/bin/ot
+tags:
+- unknown
+tool_name: ot

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsblk
+hash: sha256:37c411674a512a38473f625b93a43914a540834fa5671916b0baa0475d2df3d0
+persona_hint: Defense
+source_path: /usr/bin/lsblk
+tags:
+- unknown
+tool_name: lsblk

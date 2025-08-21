@@ -1,0 +1,7 @@
+description: Auto-generated manifest for osx_agent.xml
+hash: sha256:f0e413c2e7163971a1be122b436df926a97de7cc1b1db4333a85539aadac8c23
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/osx/osx_agent.xml
+tags:
+- unknown
+tool_name: osx_agent.xml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for patch
+hash: sha256:d3368d14b82016093f96e9d23addc988dfbeb7e695053c5a4090503f25f11310
+persona_hint: Defense
+source_path: /usr/bin/patch
+tags:
+- unknown
+tool_name: patch

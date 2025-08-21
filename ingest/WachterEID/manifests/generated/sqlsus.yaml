@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sqlsus
+hash: sha256:49bf7a4373e2f0437c44e81b53d9667be5ced41cdc70696471c072dcbbe6c646
+persona_hint: Defense
+source_path: /usr/bin/sqlsus
+tags:
+- unknown
+tool_name: sqlsus

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for www-browser
+hash: sha256:13eea7ddb16419838e11f331498c20c0da8b3a48acb5b54703c6bf077bb09f41
+persona_hint: Defense
+source_path: /usr/bin/www-browser
+tags:
+- unknown
+tool_name: www-browser

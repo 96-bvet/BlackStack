@@ -1,0 +1,7 @@
+description: Auto-generated manifest for memusagestat
+hash: sha256:d2d9a9dac0aff69393296ad577f33efe9cae312e2c1b6d392d7ca396c32abb2d
+persona_hint: Defense
+source_path: /usr/bin/memusagestat
+tags:
+- unknown
+tool_name: memusagestat

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for local-sign-group.py
+hash: sha256:08faf82c97071aa24a82f40aef8bd1c5ce7ad2df3cf87498d2992d0fb5850ec1
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/local-sign-group.py
+tags:
+- unknown
+tool_name: local-sign-group.py

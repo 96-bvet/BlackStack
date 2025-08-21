@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bdftruncate
+hash: sha256:66a3146aceacaf3d25e9e3913467ba70907002093a54343e8b16cda7ea010943
+persona_hint: Defense
+source_path: /usr/bin/bdftruncate
+tags:
+- unknown
+tool_name: bdftruncate

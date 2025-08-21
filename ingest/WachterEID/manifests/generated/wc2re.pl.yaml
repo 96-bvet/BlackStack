@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wc2re.pl
+hash: sha256:d6fb95e0d144aa1fbb8a89d77af6b50ca11d001c7591ac89d8858f1b2cb58ab8
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-wildcards-perl/examples/wc2re.pl
+tags:
+- unknown
+tool_name: wc2re.pl

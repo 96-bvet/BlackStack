@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-elfedit
+hash: sha256:d4f5a8e1c22bfbbf6a9b62868bf64b47548131e9870dc46d8c74a0b0011d0798
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-elfedit
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-elfedit

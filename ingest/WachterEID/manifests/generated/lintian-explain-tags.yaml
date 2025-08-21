@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lintian-explain-tags
+hash: sha256:aad89a20c7fc23d7e889817e3c98ed39e1aaf9826884945f9daf004d6af3dc57
+persona_hint: Defense
+source_path: /usr/share/lintian/bin/lintian-explain-tags
+tags:
+- unknown
+tool_name: lintian-explain-tags

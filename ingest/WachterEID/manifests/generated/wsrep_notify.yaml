@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wsrep_notify
+hash: sha256:5feeade12b90443b900b964db8004c0d8273da8a933372320a354adc60b4586c
+persona_hint: Defense
+source_path: /usr/share/mysql/wsrep_notify
+tags:
+- unknown
+tool_name: wsrep_notify

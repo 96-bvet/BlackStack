@@ -1,0 +1,14 @@
+[Unit]
+Description=WachterEID Registry Ingest Daemon
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/blackhawk63/WachterEID/daemons/registry_ingest.py
+WorkingDirectory=/home/blackhawk63/WachterEID
+Restart=on-failure
+StandardOutput=append:/home/blackhawk63/WachterEID/logs/registry_ingest/daemon.log
+StandardError=append:/home/blackhawk63/WachterEID/logs/registry_ingest/error.log
+
+[Install]
+WantedBy=multi-user.target

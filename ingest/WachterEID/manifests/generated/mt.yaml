@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mt
+hash: sha256:653fa6eafe4634f8e5b3ab0bfd91271b4b9ac505bc1693d19941c34760bb2fe5
+persona_hint: Defense
+source_path: /usr/bin/mt
+tags:
+- unknown
+tool_name: mt

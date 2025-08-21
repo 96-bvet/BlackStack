@@ -1,0 +1,7 @@
+description: Auto-generated manifest for combine
+hash: sha256:2be46c564209acfbf863f27bee32572cd7852b15b54da7f77163a1ad3ac0b278
+persona_hint: Defense
+source_path: /usr/bin/combine
+tags:
+- unknown
+tool_name: combine

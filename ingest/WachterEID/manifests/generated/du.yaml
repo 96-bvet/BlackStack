@@ -1,0 +1,7 @@
+description: Auto-generated manifest for du
+hash: sha256:8e9219020a27edb2e0d3f161e8ebba673a19aa05a88b6274dd5962a02f2eec2e
+persona_hint: Defense
+source_path: /usr/bin/du
+tags:
+- unknown
+tool_name: du

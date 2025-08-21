@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfs_3g
+hash: sha256:1d5253aa05e2fc6ca4cb887296a1b1324b403b27fda74e368995c701336f1c25
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/local-premount/ntfs_3g
+tags:
+- unknown
+tool_name: ntfs_3g

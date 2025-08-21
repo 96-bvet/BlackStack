@@ -1,0 +1,7 @@
+description: Auto-generated manifest for skype.pm
+hash: sha256:90560bcc75223b19f4cab03659bfb25a6ba18aa0e2926780ceba1217cd573188
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/skype.pm
+tags:
+- unknown
+tool_name: skype.pm

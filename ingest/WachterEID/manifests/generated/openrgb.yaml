@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openrgb
+hash: sha256:0426609243e1c84be6acdfe16a0f0764bc011bd560bc1e1253b37772ac416482
+persona_hint: Defense
+source_path: /usr/bin/openrgb
+tags:
+- unknown
+tool_name: openrgb

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for back.images
+hash: sha256:29c51675b7254743dfa9097857c1a17616faa57ac31b986d03f4d24bbd78fb2a
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/bbappworld/back.images
+tags:
+- unknown
+tool_name: back.images

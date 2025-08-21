@@ -1,0 +1,7 @@
+description: Auto-generated manifest for command-modules
+hash: sha256:6f67f22fd36c29303fea11818a4abeabde699dd2171d190f61c0f8d34fc5bdf8
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/command-modules
+tags:
+- unknown
+tool_name: command-modules

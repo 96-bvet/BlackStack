@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertwitter.pm
+hash: sha256:183e74dc937697994872aefae0d3fda90e31c037da7792cb09ec4da470c23ff5
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/ubertwitter.pm
+tags:
+- unknown
+tool_name: ubertwitter.pm

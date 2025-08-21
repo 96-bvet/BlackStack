@@ -1,0 +1,7 @@
+description: Auto-generated manifest for manifiest.xml
+hash: sha256:c492a97951f0679bd87ce9fc457e0e383433da368192bb34238aeef9c52b86de
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/flip4mac/manifiest.xml
+tags:
+- unknown
+tool_name: manifiest.xml

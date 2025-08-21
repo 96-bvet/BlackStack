@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dlrpc.h
+hash: sha256:c41b7accd727dcb3dfb02e6b9eb39d440f5acccac990670f8b92479c454a3945
+persona_hint: Defense
+source_path: /usr/share/spike/include/dlrpc.h
+tags:
+- unknown
+tool_name: dlrpc.h

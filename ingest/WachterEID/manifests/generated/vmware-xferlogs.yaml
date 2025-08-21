@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-xferlogs
+hash: sha256:f606908d9714d052330879fba64c83217ed9b64808e76677f2ccbdac4125ad44
+persona_hint: Defense
+source_path: /usr/bin/vmware-xferlogs
+tags:
+- unknown
+tool_name: vmware-xferlogs

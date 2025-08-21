@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xeyes
+hash: sha256:5fdc0b4ddfd49a0f47bb006d1a99afc75dc481fccfd07a1ed20493df51490fde
+persona_hint: Defense
+source_path: /usr/bin/xeyes
+tags:
+- unknown
+tool_name: xeyes

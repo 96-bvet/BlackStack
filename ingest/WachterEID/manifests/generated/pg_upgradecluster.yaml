@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_upgradecluster
+hash: sha256:56672197226918072990ced8aa6945bec642076eb0470c3122045e89dd57d45b
+persona_hint: Defense
+source_path: /usr/bin/pg_upgradecluster
+tags:
+- unknown
+tool_name: pg_upgradecluster

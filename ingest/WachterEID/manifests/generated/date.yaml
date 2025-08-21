@@ -1,0 +1,7 @@
+description: Auto-generated manifest for date
+hash: sha256:b047bec6f8fed78ad9c59c8eda24d6772d51baa766fc0f71f5936d45267e4036
+persona_hint: Defense
+source_path: /usr/bin/date
+tags:
+- unknown
+tool_name: date

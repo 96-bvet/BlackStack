@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ppt_profile.pl
+hash: sha256:00218127ce13396f533375800e6da0ab7ce589181a4143c5ec2738e1f0f503a6
+persona_hint: Defense
+source_path: /usr/share/doc/libproc-processtable-perl/examples/ppt_profile.pl
+tags:
+- unknown
+tool_name: ppt_profile.pl

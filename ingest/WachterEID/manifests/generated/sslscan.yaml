@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sslscan
+hash: sha256:075237091a6d0f9ff549ab5aaa12b231ceb4f0d4cb27229f3a47a753a92cf1b3
+persona_hint: Defense
+source_path: /usr/bin/sslscan
+tags:
+- unknown
+tool_name: sslscan

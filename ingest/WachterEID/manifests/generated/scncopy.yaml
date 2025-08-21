@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scncopy
+hash: sha256:2723b8a9fb3ccae251de4c12b60ea4648683a3d62d18694f8a426e276e46b4e1
+persona_hint: Defense
+source_path: /usr/bin/scncopy
+tags:
+- unknown
+tool_name: scncopy

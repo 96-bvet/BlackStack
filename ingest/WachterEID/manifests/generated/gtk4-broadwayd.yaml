@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk4-broadwayd
+hash: sha256:a08d019aeea411354159c5403e65fb0cc501b10a1aa88bb7ba6e3919b3e1a346
+persona_hint: Defense
+source_path: /usr/bin/gtk4-broadwayd
+tags:
+- unknown
+tool_name: gtk4-broadwayd

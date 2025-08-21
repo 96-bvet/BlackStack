@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-keyboard-settings
+hash: sha256:776d749890fea420dbb25e24c83e96fd1b46da4bfdd8fcc1b104f886e91d7e25
+persona_hint: Defense
+source_path: /usr/bin/xfce4-keyboard-settings
+tags:
+- unknown
+tool_name: xfce4-keyboard-settings

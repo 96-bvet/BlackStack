@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdbedit
+hash: sha256:33783712b48403f0997a24ab4a0cca39fe05176c62a0e457fd4c41ca11da0766
+persona_hint: Defense
+source_path: /usr/bin/pdbedit
+tags:
+- unknown
+tool_name: pdbedit

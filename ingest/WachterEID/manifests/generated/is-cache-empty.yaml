@@ -1,0 +1,7 @@
+description: Auto-generated manifest for is-cache-empty
+hash: sha256:cc6087360e74bf80d4a8fc663c8ad010fca23b7656c92e48ee38c6dce7a5e94a
+persona_hint: Defense
+source_path: /usr/share/apt-file/is-cache-empty
+tags:
+- unknown
+tool_name: is-cache-empty

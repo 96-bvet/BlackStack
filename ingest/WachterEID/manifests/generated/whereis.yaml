@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whereis
+hash: sha256:1eb6c7f584b5efe5b0bb1683e2ae5e1b6e20e6216d0127b7ef7a6603f2cdd46e
+persona_hint: Defense
+source_path: /usr/bin/whereis
+tags:
+- unknown
+tool_name: whereis

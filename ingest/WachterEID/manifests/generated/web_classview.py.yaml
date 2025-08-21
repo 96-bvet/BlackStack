@@ -1,0 +1,7 @@
+description: Auto-generated manifest for web_classview.py
+hash: sha256:43cb9b451e39df1a0f978ef6024ea3c9d8cb735b62e84af0ab8f377a0ad2db9d
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/web_classview.py
+tags:
+- unknown
+tool_name: web_classview.py

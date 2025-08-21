@@ -1,0 +1,7 @@
+description: Auto-generated manifest for javaws_seven.exe
+hash: sha256:9656f967778f92d67f07a9171d10e02227af390292ed7b8f260b0673a8780ec4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/java/javaws_seven.exe
+tags:
+- unknown
+tool_name: javaws_seven.exe

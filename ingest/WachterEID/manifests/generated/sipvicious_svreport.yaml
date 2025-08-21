@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sipvicious_svreport
+hash: sha256:6fbffe4c9edaa4781520e6e93da72870b84d25c61af397f61cd337e42e21128f
+persona_hint: Defense
+source_path: /usr/share/sipvicious/sipvicious_svreport
+tags:
+- unknown
+tool_name: sipvicious_svreport

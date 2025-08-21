@@ -1,0 +1,7 @@
+description: Auto-generated manifest for codium
+hash: sha256:39add6e5fa0e0f1e8a0ac67f3d22fa3b5cae90ed9c1ba33e6fe5f784c844f7f7
+persona_hint: Defense
+source_path: /usr/share/codium/bin/codium
+tags:
+- unknown
+tool_name: codium

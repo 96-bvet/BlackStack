@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rawshark
+hash: sha256:1c523fd32ebb899e4adb7a64efdb253d923b1d1d60661c112c724e6122b42d76
+persona_hint: Defense
+source_path: /usr/bin/rawshark
+tags:
+- unknown
+tool_name: rawshark

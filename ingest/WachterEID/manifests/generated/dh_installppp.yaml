@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installppp
+hash: sha256:67294ff38ec07a148664ef4f8d0ae044c35daa6bbfbf86975d8d638d26d4154d
+persona_hint: Defense
+source_path: /usr/bin/dh_installppp
+tags:
+- unknown
+tool_name: dh_installppp

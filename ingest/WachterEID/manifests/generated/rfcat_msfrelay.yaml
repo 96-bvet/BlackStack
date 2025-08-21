@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rfcat_msfrelay
+hash: sha256:27d5a2b4b8364c04de52e8314ee9aea6fd4a93ae355dc580ec06a6176f865c20
+persona_hint: Defense
+source_path: /usr/bin/rfcat_msfrelay
+tags:
+- unknown
+tool_name: rfcat_msfrelay

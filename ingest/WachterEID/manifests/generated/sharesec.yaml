@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sharesec
+hash: sha256:59a1c8d7c91c551b2eafaa36303b2ac44e2ac9d8e0d8db9a566dd4181863b2bb
+persona_hint: Defense
+source_path: /usr/bin/sharesec
+tags:
+- unknown
+tool_name: sharesec

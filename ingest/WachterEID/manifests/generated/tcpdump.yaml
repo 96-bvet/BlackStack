@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpdump
+hash: sha256:c97881e39b54571829ec22b98cfa9c2348c7449a92fd761ebee7826b47ef4616
+persona_hint: Defense
+source_path: /usr/bin/tcpdump
+tags:
+- blue_team
+tool_name: tcpdump

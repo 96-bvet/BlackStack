@@ -1,0 +1,7 @@
+description: Auto-generated manifest for win2k3epdump.txt
+hash: sha256:950ab6cfbd87c735674e75b6a848a3b07e17e29d99f06528f39b9aa435248f11
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/win2k3epdump.txt
+tags:
+- unknown
+tool_name: win2k3epdump.txt

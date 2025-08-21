@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xmore
+hash: sha256:6ad77ba5038820e7f5986c83549df6a076356edd9e9c329b55aba5281ce76dc3
+persona_hint: Defense
+source_path: /usr/bin/xmore
+tags:
+- unknown
+tool_name: xmore

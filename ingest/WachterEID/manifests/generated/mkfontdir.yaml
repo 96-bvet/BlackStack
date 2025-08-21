@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkfontdir
+hash: sha256:3e42ff36b592706e5846d6133c38422d33881d3eaef87e59e9fda381c591ef78
+persona_hint: Defense
+source_path: /usr/bin/mkfontdir
+tags:
+- unknown
+tool_name: mkfontdir

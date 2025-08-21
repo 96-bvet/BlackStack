@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jq
+hash: sha256:69f059a1758c49bdb0c40aca6ba639451c5932b729be43821a18b0a438d7306b
+persona_hint: Defense
+source_path: /usr/bin/jq
+tags:
+- unknown
+tool_name: jq

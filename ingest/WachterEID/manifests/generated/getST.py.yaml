@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getST.py
+hash: sha256:18c4a46734d1f1fa105598a538d49ed221be81d0aaab0bb774603282fc118006
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/getST.py
+tags:
+- unknown
+tool_name: getST.py

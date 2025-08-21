@@ -1,0 +1,7 @@
+description: Auto-generated manifest for trigger
+hash: sha256:7bc1843c769dff885a8680298d3125fa3a15cd6340ba812de770120dc2319349
+persona_hint: Defense
+source_path: /usr/share/gettext/projects/TP/trigger
+tags:
+- unknown
+tool_name: trigger

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for data-mode-sample.pl
+hash: sha256:b964ef3b330226c685930e98fcc4af78d14beeec995ac9dc04e643270d68bd76
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-writer-perl/examples/data-mode-sample.pl
+tags:
+- unknown
+tool_name: data-mode-sample.pl

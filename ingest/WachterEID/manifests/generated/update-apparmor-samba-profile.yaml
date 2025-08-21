@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-apparmor-samba-profile
+hash: sha256:505af45e834bdd5a1a816772effb4071828ef2c2318216e082a1b548c5002d9d
+persona_hint: Defense
+source_path: /usr/share/samba/update-apparmor-samba-profile
+tags:
+- unknown
+tool_name: update-apparmor-samba-profile

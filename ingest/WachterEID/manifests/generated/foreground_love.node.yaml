@@ -1,0 +1,7 @@
+description: Auto-generated manifest for foreground_love.node
+hash: sha256:9f9664879d6e65903a98a7bc21bfbf858447ede4e3ead6ea8a898da40195097b
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/windows-foreground-love/build/Release/obj.target/foreground_love.node
+tags:
+- unknown
+tool_name: foreground_love.node

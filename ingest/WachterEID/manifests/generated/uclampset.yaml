@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uclampset
+hash: sha256:de5e1d5df15d3eb6d909ed711fc12293d9e12290f7d0757dfaa1f7039b5d9b38
+persona_hint: Defense
+source_path: /usr/bin/uclampset
+tags:
+- unknown
+tool_name: uclampset

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mini-benchmark
+hash: sha256:a33410f9096f38d9b7dd9148be34c70bd5a5ba43f71355e3efff6cf70fc50068
+persona_hint: Defense
+source_path: /usr/share/mysql/mini-benchmark
+tags:
+- unknown
+tool_name: mini-benchmark

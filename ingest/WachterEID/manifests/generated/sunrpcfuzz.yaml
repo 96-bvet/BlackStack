@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sunrpcfuzz
+hash: sha256:0e3e80a32398a51bc18bc4666702a5ae3dd32a029c9466170fbd98cc2250466e
+persona_hint: Defense
+source_path: /usr/bin/sunrpcfuzz
+tags:
+- unknown
+tool_name: sunrpcfuzz

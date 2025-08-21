@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nmblookup
+hash: sha256:e40cb4da51f6163559458a1c01bee78bd1aca8963afa157d6418ef2bf9d9d5b8
+persona_hint: Defense
+source_path: /usr/bin/nmblookup
+tags:
+- unknown
+tool_name: nmblookup

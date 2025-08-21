@@ -1,0 +1,7 @@
+description: Auto-generated manifest for inviteflood
+hash: sha256:6aadb78989101d0dcbf18e2caee3c58bd1876ab27dac1250eb25739449d7ae0d
+persona_hint: Defense
+source_path: /usr/bin/inviteflood
+tags:
+- unknown
+tool_name: inviteflood

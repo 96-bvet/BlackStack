@@ -1,0 +1,7 @@
+description: Auto-generated manifest for file-attr-restore
+hash: sha256:1851128898820b83219248eb37b85bac7bf8b04954f19fbcb0d0d234b2244888
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/file-attr-restore
+tags:
+- unknown
+tool_name: file-attr-restore

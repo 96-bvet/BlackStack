@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post30.txt
+hash: sha256:8518e4ab8142432f1dd1b3a3329f87809c06356031074cbd1a7abcd2e2c58353
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post30.txt
+tags:
+- unknown
+tool_name: post30.txt

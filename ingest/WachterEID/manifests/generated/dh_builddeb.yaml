@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_builddeb
+hash: sha256:9092e606d1e24e3f5f118de8acde1bae496ea5bc915a189b3315a4e5b23a216c
+persona_hint: Defense
+source_path: /usr/bin/dh_builddeb
+tags:
+- unknown
+tool_name: dh_builddeb

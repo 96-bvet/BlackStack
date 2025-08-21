@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpgparsemail
+hash: sha256:10f489e849d0c8cdf5ef20be60c4f07cf8d78f0ab92061eb75da4b811f1e29ed
+persona_hint: Defense
+source_path: /usr/bin/gpgparsemail
+tags:
+- unknown
+tool_name: gpgparsemail

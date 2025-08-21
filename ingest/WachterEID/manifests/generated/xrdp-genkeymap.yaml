@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrdp-genkeymap
+hash: sha256:4ec8224ad3cb815c1e2f64e5adf12c8ff018d4018d0a772c47a6e6c1dcc04976
+persona_hint: Defense
+source_path: /usr/bin/xrdp-genkeymap
+tags:
+- unknown
+tool_name: xrdp-genkeymap

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pcapinfo
+hash: sha256:91fcc9c13ecfb7a20055ec53d7a60f527908ea0526ef62a310d1e6f78a07e435
+persona_hint: Defense
+source_path: /usr/bin/pcapinfo
+tags:
+- unknown
+tool_name: pcapinfo

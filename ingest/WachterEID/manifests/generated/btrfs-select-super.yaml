@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btrfs-select-super
+hash: sha256:8985733f4569030dea644c6d48311f584a9b5697591acb51965dffd4614b3ceb
+persona_hint: Defense
+source_path: /usr/bin/btrfs-select-super
+tags:
+- unknown
+tool_name: btrfs-select-super

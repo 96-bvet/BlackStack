@@ -1,0 +1,16 @@
+name: mail
+path: src/cai/agents/mail.py
+type: py
+category: misc
+hash: d50cf7bc7ccfefbcdbebdbf339c78a552235e761ce504130836e49fb3fc20df2
+approved: true
+import: true
+license_stub: true
+name: mail
+path: src/cai/agents/mail.py
+type: py
+category: misc
+hash: d50cf7bc7ccfefbcdbebdbf339c78a552235e761ce504130836e49fb3fc20df2
+approved: true
+import: true
+license_stub: true

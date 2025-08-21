@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ping.py
+hash: sha256:e1937e89f5028a43606598035d42772438c45ce89e8c0a8bcaff0e7e85a88a3f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/ping.py
+tags:
+- unknown
+tool_name: ping.py

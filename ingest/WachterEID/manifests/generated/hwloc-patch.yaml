@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-patch
+hash: sha256:195d365d4709eb4463887f3e1afa6043f326344405c807cf72887fa31a828963
+persona_hint: Defense
+source_path: /usr/bin/hwloc-patch
+tags:
+- unknown
+tool_name: hwloc-patch

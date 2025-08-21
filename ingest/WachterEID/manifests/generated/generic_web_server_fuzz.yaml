@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generic_web_server_fuzz
+hash: sha256:9faa01f428864b7562b0f6298fe0c3c2721a516c09ef0803614d4cd3d4c51d1a
+persona_hint: Defense
+source_path: /usr/bin/generic_web_server_fuzz
+tags:
+- unknown
+tool_name: generic_web_server_fuzz

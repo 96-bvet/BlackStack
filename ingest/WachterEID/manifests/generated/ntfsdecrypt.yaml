@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsdecrypt
+hash: sha256:2665a4fe3808b0b1078d29471fc4200b50aef6098ba5dc2aebb2dd2b4b5eb0a0
+persona_hint: Defense
+source_path: /usr/bin/ntfsdecrypt
+tags:
+- unknown
+tool_name: ntfsdecrypt

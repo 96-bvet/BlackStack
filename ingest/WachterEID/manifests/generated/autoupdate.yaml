@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autoupdate
+hash: sha256:ba9fe21e52f5d192312245fb72a3e9bd216bdf3db49c902b7a3bd5b58a179ecb
+persona_hint: Defense
+source_path: /usr/bin/autoupdate
+tags:
+- unknown
+tool_name: autoupdate

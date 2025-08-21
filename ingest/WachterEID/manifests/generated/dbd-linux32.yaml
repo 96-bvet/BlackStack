@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbd-linux32
+hash: sha256:fb053863c3164c134a595397f6755034b63f25aa9df5e14d88bfb58a5b8308b2
+persona_hint: Defense
+source_path: /usr/share/dbd/binaries/dbd-linux32
+tags:
+- unknown
+tool_name: dbd-linux32

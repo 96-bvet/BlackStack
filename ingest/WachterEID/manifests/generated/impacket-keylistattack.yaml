@@ -1,0 +1,7 @@
+description: Auto-generated manifest for impacket-keylistattack
+hash: sha256:5385227093ca3c01e47713aed4b570689688ca65e76ec676709f155bdea5ce89
+persona_hint: Defense
+source_path: /usr/bin/impacket-keylistattack
+tags:
+- unknown
+tool_name: impacket-keylistattack

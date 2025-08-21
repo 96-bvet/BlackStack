@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvlc
+hash: sha256:f0eac506e536a79e2608990ca3d59fc8a731c040a3427562c3e164c0eff95ccb
+persona_hint: Defense
+source_path: /usr/bin/nvlc
+tags:
+- unknown
+tool_name: nvlc

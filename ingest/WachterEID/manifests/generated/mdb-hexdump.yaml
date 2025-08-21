@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-hexdump
+hash: sha256:df302166d72bc8b0e459750dc53aa2ea5de65b3813f28f681c9054faef50b593
+persona_hint: Defense
+source_path: /usr/bin/mdb-hexdump
+tags:
+- unknown
+tool_name: mdb-hexdump

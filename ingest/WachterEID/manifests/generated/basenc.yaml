@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basenc
+hash: sha256:7d442ffc72c528a707d7e8bb43816e65de23a88cc8c896c9b88e1dafe4787ab8
+persona_hint: Defense
+source_path: /usr/bin/basenc
+tags:
+- unknown
+tool_name: basenc

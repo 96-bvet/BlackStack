@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pasuspender
+hash: sha256:5568f8fbb4645d52f5471025dd0dca64a121aefee86bea8c3b281faae1755843
+persona_hint: Defense
+source_path: /usr/bin/pasuspender
+tags:
+- unknown
+tool_name: pasuspender

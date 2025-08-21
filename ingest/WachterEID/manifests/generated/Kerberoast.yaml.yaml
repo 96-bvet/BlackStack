@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Kerberoast.yaml
+hash: sha256:0ce5208815c32d502aca1e6b100d986ee0057f97e7eeee47ba26dd6d8a38e15b
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/credentials/SharpSploit/Kerberoast.yaml
+tags:
+- unknown
+tool_name: Kerberoast.yaml

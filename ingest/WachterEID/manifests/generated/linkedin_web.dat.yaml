@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linkedin_web.dat
+hash: sha256:05362cffe0d35aa1b83fa12a09f8f635a3ae6d18fa9f801b704de5323ef3a863
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/linkedin/linkedin_web.dat
+tags:
+- unknown
+tool_name: linkedin_web.dat

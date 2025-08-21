@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PersistWMI.yaml
+hash: sha256:a71acc86f7c73248c13d690d193e723d71a8e26a3b6a0aacafdc272351ace57c
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/persistence/SharpSploit/PersistWMI.yaml
+tags:
+- unknown
+tool_name: PersistWMI.yaml

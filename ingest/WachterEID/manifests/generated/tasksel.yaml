@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tasksel
+hash: sha256:30d7517fe87dc3ca7e89a78e0db67dc959b19e57a565ce11206ae7d35da6f306
+persona_hint: Defense
+source_path: /usr/bin/tasksel
+tags:
+- unknown
+tool_name: tasksel

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-terminal.wrapper
+hash: sha256:01fef6c352e0fdb8cbdcaa47b2b007de8cbefb8b26cf9e7e33a71785d0f52e63
+persona_hint: Defense
+source_path: /usr/bin/xfce4-terminal.wrapper
+tags:
+- unknown
+tool_name: xfce4-terminal.wrapper

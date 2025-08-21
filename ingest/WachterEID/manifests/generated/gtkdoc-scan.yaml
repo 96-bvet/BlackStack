@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-scan
+hash: sha256:c02c71ee69339430db7ca0b2c0a5fca631b3b366f9a70862df3c5688b3e3d626
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-scan
+tags:
+- unknown
+tool_name: gtkdoc-scan

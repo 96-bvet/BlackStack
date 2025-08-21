@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unsquashfs
+hash: sha256:2fde9bcb7356658fafe64f60dc91225f5f42bc48bfbc132bd4a3f958c6a49243
+persona_hint: Defense
+source_path: /usr/bin/unsquashfs
+tags:
+- unknown
+tool_name: unsquashfs

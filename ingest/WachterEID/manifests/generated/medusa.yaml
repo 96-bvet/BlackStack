@@ -1,0 +1,7 @@
+description: Auto-generated manifest for medusa
+hash: sha256:2eaf4f183cb45e947b3f41bd4e0be15d6a478d43afc272e3c3f989c6b07cd8d0
+persona_hint: Defense
+source_path: /usr/bin/medusa
+tags:
+- unknown
+tool_name: medusa

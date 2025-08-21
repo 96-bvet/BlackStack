@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-inverse_lookup6
+hash: sha256:3fae732ad32bea0d8a2ed36a1f8483649ed00cb97ab3bbd314b9a97bdfec914c
+persona_hint: Defense
+source_path: /usr/bin/atk6-inverse_lookup6
+tags:
+- unknown
+tool_name: atk6-inverse_lookup6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ruby-parse
+hash: sha256:f2b1ee9660322d29e4c60308c9403e51e712320a29b8cb18dbb11e12ce9c1718
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/parser-3.3.8.0/bin/ruby-parse
+tags:
+- unknown
+tool_name: ruby-parse

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysqlhotcopy
+hash: sha256:c68b97e5c0837dcbe66aa5f2f2d8cb36a467ba0bc9fe58f6edf82f6379a80f7e
+persona_hint: Defense
+source_path: /usr/bin/mysqlhotcopy
+tags:
+- unknown
+tool_name: mysqlhotcopy

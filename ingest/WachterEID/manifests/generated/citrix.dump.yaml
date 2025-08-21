@@ -1,0 +1,7 @@
+description: Auto-generated manifest for citrix.dump
+hash: sha256:ff051f5e6ad9b2c8be61cf89b1160fd16840d2135bacfb362523b12f86f940a8
+persona_hint: Defense
+source_path: /usr/share/spike/data/citrix.dump
+tags:
+- unknown
+tool_name: citrix.dump

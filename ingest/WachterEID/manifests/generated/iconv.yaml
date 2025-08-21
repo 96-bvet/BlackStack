@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iconv
+hash: sha256:51b756ca93baa4460b781189565e06e8c7b9071ca1ec2466f2cd06f728d04aa7
+persona_hint: Defense
+source_path: /usr/bin/iconv
+tags:
+- unknown
+tool_name: iconv

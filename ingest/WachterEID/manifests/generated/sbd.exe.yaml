@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sbd.exe
+hash: sha256:3d10a895e55cd0d5ff6df19f06526ae6ebd6925af6ea9657dad06df818892c27
+persona_hint: Defense
+source_path: /usr/share/windows-resources/sbd/sbd.exe
+tags:
+- unknown
+tool_name: sbd.exe

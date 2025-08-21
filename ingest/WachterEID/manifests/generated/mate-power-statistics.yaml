@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-power-statistics
+hash: sha256:e6a6fc748bd879f1f47df49a102743a4c70ccae9ac03411105d1b571bdcb1e46
+persona_hint: Defense
+source_path: /usr/bin/mate-power-statistics
+tags:
+- unknown
+tool_name: mate-power-statistics

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for default-action.py
+hash: sha256:e10e7abdf5772ed12c954681f096e3f8322063ab7089afec30d147824994fb0a
+persona_hint: Defense
+source_path: /usr/share/doc/python3-notify2/examples/default-action.py
+tags:
+- unknown
+tool_name: default-action.py

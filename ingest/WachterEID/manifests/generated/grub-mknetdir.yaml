@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mknetdir
+hash: sha256:a990a6eaf755bdf08f3e5bddf2162fc653d514fc90fd4e4d7a984ea127d11da4
+persona_hint: Defense
+source_path: /usr/bin/grub-mknetdir
+tags:
+- unknown
+tool_name: grub-mknetdir

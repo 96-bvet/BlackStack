@@ -1,0 +1,8 @@
+name: parallelization
+path: examples/agent_patterns/parallelization.py
+type: py
+category: misc
+hash: 28ec43b9381d307d6881e882cf182e37f55fdd60b37eddb29a54d3a885bb3af2
+approved: true
+import: true
+license_stub: true

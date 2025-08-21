@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aptitude-changelog-parser
+hash: sha256:7e8699681e4ad4e363ec7b96063856267cf0e412aac1eb21a310904d1b4105c1
+persona_hint: Defense
+source_path: /usr/bin/aptitude-changelog-parser
+tags:
+- unknown
+tool_name: aptitude-changelog-parser

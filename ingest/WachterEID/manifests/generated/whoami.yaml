@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whoami
+hash: sha256:6ca7710f382d2d9e4026c2b2b4299775880e290915599ddd5d0c7d60076186a8
+persona_hint: Defense
+source_path: /usr/bin/whoami
+tags:
+- unknown
+tool_name: whoami

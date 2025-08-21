@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-ld
+hash: sha256:f6d71a1bcd45764550a42dfaa179bc43b63ee879ec6f875bfd39fca013515da7
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-ld
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-ld

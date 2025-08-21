@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkill
+hash: sha256:30f31da8ba0660d6875fcfe48924bdf908c28c944e543728379623ad4691fe44
+persona_hint: Defense
+source_path: /usr/bin/pkill
+tags:
+- unknown
+tool_name: pkill

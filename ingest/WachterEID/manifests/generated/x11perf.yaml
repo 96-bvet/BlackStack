@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x11perf
+hash: sha256:bf90a5f7152b66f758c88873db54623528f7c9227c10bf4cb2780addedc9762d
+persona_hint: Defense
+source_path: /usr/bin/x11perf
+tags:
+- unknown
+tool_name: x11perf

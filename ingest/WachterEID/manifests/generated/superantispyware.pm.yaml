@@ -1,0 +1,7 @@
+description: Auto-generated manifest for superantispyware.pm
+hash: sha256:6c0314f0d54d84dd97e1f80b63eb8bdf4f4e94fa23ffd5c1f8f2ba25b6149f91
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/superantispyware.pm
+tags:
+- unknown
+tool_name: superantispyware.pm

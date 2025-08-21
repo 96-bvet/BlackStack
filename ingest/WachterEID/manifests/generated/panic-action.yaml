@@ -1,0 +1,7 @@
+description: Auto-generated manifest for panic-action
+hash: sha256:05646d58b6cd1b2427233d8bdeff762418d78bf0ebe7b621a1278b85f80870a2
+persona_hint: Defense
+source_path: /usr/share/samba/panic-action
+tags:
+- unknown
+tool_name: panic-action

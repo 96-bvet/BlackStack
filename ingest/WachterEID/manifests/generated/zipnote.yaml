@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zipnote
+hash: sha256:dd5ff893dc79773c19108f9d66701c6eb792c023abd9799b8c4e60921d8f59e2
+persona_hint: Defense
+source_path: /usr/bin/zipnote
+tags:
+- unknown
+tool_name: zipnote

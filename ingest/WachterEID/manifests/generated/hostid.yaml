@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hostid
+hash: sha256:ce77fc236724c35505e73e97dc21e45e7d3ff6876a18eede29daa37d16e17eb9
+persona_hint: Defense
+source_path: /usr/bin/hostid
+tags:
+- unknown
+tool_name: hostid

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pe32.c
+hash: sha256:76a3d848ec4061e09ec621f405d8d9439163e5fa17acda476d5b06bc529cfba6
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Crypter/pe32.c
+tags:
+- unknown
+tool_name: pe32.c

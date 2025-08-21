@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blackberry.pm
+hash: sha256:c670267d6870dc5376c24c359cd851d5be185e925ca0f0b65cd0ecb8de64b15c
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/blackberry.pm
+tags:
+- unknown
+tool_name: blackberry.pm

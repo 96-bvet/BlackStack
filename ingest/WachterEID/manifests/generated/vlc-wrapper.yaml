@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vlc-wrapper
+hash: sha256:2b4a7bde82e3890b5388708fa32a8b0e2a538f20ce1965c0cfc3999d0feebcf3
+persona_hint: Defense
+source_path: /usr/bin/vlc-wrapper
+tags:
+- unknown
+tool_name: vlc-wrapper

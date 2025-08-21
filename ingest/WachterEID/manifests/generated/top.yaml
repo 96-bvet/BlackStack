@@ -1,0 +1,7 @@
+description: Auto-generated manifest for top
+hash: sha256:d91eff903b36c15aee189efb6f4bb806cda308a1738b5f6bca1961ab09a9eec1
+persona_hint: Defense
+source_path: /usr/bin/top
+tags:
+- unknown
+tool_name: top

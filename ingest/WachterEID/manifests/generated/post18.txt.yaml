@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post18.txt
+hash: sha256:b1f23c2f40f0306b8c3c06ad1b5f0bffbe0061e606e9b050374cb4ca67e463f1
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post18.txt
+tags:
+- unknown
+tool_name: post18.txt

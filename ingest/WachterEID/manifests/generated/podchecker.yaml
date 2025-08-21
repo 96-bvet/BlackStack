@@ -1,0 +1,7 @@
+description: Auto-generated manifest for podchecker
+hash: sha256:b41c90733b7f4051dbe82d289177add630133f0679660fbfa3f3051ecd309dbb
+persona_hint: Defense
+source_path: /usr/bin/podchecker
+tags:
+- unknown
+tool_name: podchecker

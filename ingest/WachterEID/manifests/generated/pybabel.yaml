@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pybabel
+hash: sha256:6f24cc7d9dd966610c78c8542f53090ad6711e2357de48165bbfde6222f24d25
+persona_hint: Defense
+source_path: /usr/bin/pybabel
+tags:
+- unknown
+tool_name: pybabel

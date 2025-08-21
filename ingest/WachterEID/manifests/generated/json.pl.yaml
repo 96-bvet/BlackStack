@@ -1,0 +1,7 @@
+description: Auto-generated manifest for json.pl
+hash: sha256:a1264c3bd5ad9bad4174317624b0bbbd9fdcdd67990f2f2ba230ebe07eddf15d
+persona_hint: Defense
+source_path: /usr/share/doc/libtime-moment-perl/examples/json.pl
+tags:
+- unknown
+tool_name: json.pl

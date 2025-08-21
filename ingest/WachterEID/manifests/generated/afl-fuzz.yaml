@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-fuzz
+hash: sha256:9f3c4f7eb59064d55a208e6457020ec76784a229cbd42958d2f6b70f24da7977
+persona_hint: Defense
+source_path: /usr/bin/afl-fuzz
+tags:
+- unknown
+tool_name: afl-fuzz

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ca.pl
+hash: sha256:ef0fe5bc0fd310d5148810afd7ab0add54f038eb7da8c94244550b966a375095
+persona_hint: Defense
+source_path: /usr/share/doc/stunnel4/examples/ca.pl
+tags:
+- unknown
+tool_name: ca.pl

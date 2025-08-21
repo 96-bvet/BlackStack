@@ -1,0 +1,16 @@
+name: thought
+path: src/cai/agents/thought.py
+type: py
+category: misc
+hash: 5e4e8f1ecf582d2c439a438a313ee310105d3a8838ff8dd0d0ad44de3b181bc2
+approved: true
+import: true
+license_stub: true
+name: thought
+path: src/cai/agents/thought.py
+type: py
+category: misc
+hash: 5e4e8f1ecf582d2c439a438a313ee310105d3a8838ff8dd0d0ad44de3b181bc2
+approved: true
+import: true
+license_stub: true

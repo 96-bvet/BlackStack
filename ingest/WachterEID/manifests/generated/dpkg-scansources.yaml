@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-scansources
+hash: sha256:db7b82d230f25904a4423891e49fc128978eb341dfdd019f54f2807a08bb2a1b
+persona_hint: Defense
+source_path: /usr/bin/dpkg-scansources
+tags:
+- unknown
+tool_name: dpkg-scansources

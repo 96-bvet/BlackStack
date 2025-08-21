@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unlink
+hash: sha256:87c7a53f4293b6eb7ba8e983cb231e1562d38ad7068ca59bc63e4e42f9ce7586
+persona_hint: Defense
+source_path: /usr/bin/unlink
+tags:
+- unknown
+tool_name: unlink

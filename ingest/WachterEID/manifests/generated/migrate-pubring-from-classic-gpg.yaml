@@ -1,0 +1,7 @@
+description: Auto-generated manifest for migrate-pubring-from-classic-gpg
+hash: sha256:8308091d807cdd1af400e408e6b6629d1e5fac38bf92d8843c37f211a879c796
+persona_hint: Defense
+source_path: /usr/bin/migrate-pubring-from-classic-gpg
+tags:
+- unknown
+tool_name: migrate-pubring-from-classic-gpg

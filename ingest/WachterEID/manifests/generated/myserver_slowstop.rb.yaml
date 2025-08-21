@@ -1,0 +1,7 @@
+description: Auto-generated manifest for myserver_slowstop.rb
+hash: sha256:61ea0e381aed9a8618743658311f9725103f109d8f12b50b11455b98535a39bb
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/daemons-1.4.1/examples/run/myserver_slowstop.rb
+tags:
+- unknown
+tool_name: myserver_slowstop.rb

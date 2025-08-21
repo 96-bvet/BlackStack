@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_install_db
+hash: sha256:c58bf932a0655c122aea3e26261f80d0e3a39d84c7c3d16f37fce918794ff199
+persona_hint: Defense
+source_path: /usr/bin/mysql_install_db
+tags:
+- unknown
+tool_name: mysql_install_db

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pcap-config
+hash: sha256:41dc0466ce1936aee3cd81897abd761ce7003913a67b8a989bf4d011e8229a1a
+persona_hint: Defense
+source_path: /usr/bin/pcap-config
+tags:
+- unknown
+tool_name: pcap-config

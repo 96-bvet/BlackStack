@@ -1,0 +1,7 @@
+description: Auto-generated manifest for windows-binaries
+hash: sha256:243afec7cd26fc55f79d5409701690e1241efb35fd32a519a63ba84a87bb5481
+persona_hint: Defense
+source_path: /usr/bin/windows-binaries
+tags:
+- unknown
+tool_name: windows-binaries

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sqfstar
+hash: sha256:efdc694f51b4ce40754e06b9b2d0cbfa061420b7a368bf23fbf010e2a9d52a7a
+persona_hint: Defense
+source_path: /usr/bin/sqfstar
+tags:
+- unknown
+tool_name: sqfstar

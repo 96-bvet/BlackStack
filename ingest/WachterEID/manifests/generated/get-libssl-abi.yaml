@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get-libssl-abi
+hash: sha256:e096af6e62bfe36abae7f40173bfe19ea303e8166a5f9de48c165a32b2a7cab9
+persona_hint: Defense
+source_path: /usr/share/perl-openssl-defaults/get-libssl-abi
+tags:
+- unknown
+tool_name: get-libssl-abi

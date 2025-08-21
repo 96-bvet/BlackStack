@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pcf2vpnc
+hash: sha256:87eb68f8126c660f973265d1824dcda38dd1fadbc0ef46d334f47924e81cea00
+persona_hint: Defense
+source_path: /usr/bin/pcf2vpnc
+tags:
+- unknown
+tool_name: pcf2vpnc

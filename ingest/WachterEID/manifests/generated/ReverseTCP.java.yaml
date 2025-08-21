@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ReverseTCP.java
+hash: sha256:135d579df264883d2cabb6deea93fa79cb9ee31b4b3d1f42b13b7805b2544022
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stager/ReverseTCP.java
+tags:
+- unknown
+tool_name: ReverseTCP.java

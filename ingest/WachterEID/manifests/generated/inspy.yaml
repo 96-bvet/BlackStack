@@ -1,0 +1,7 @@
+description: Auto-generated manifest for inspy
+hash: sha256:ba4f47f426226450dbf3e325eabd38a9bec59bac11b51cdd1781a0ba71e088d8
+persona_hint: Defense
+source_path: /usr/share/inspy/inspy
+tags:
+- unknown
+tool_name: inspy

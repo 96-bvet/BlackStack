@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-count
+hash: sha256:773dd1e2c545185fdacd5d77437c70879202d897d8ed6674ea48ce1f501bebb9
+persona_hint: Defense
+source_path: /usr/bin/mdb-count
+tags:
+- unknown
+tool_name: mdb-count

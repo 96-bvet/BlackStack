@@ -1,0 +1,7 @@
+description: Auto-generated manifest for addpart
+hash: sha256:fef11e4f1f03d69b7147e71233a451ce2bd578ca03e696b6baa4dbeeb13e0803
+persona_hint: Defense
+source_path: /usr/bin/addpart
+tags:
+- unknown
+tool_name: addpart

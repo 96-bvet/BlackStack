@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xmessage
+hash: sha256:0ac9fd38af903ba7df04f7ee1e815a0754437ad2f6c5451c5c93f7a4b04304ce
+persona_hint: Defense
+source_path: /usr/bin/xmessage
+tags:
+- unknown
+tool_name: xmessage

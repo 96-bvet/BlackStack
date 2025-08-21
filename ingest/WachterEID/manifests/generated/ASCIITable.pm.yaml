@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ASCIITable.pm
+hash: sha256:b84d7673e574622ecf7aaa4559a21012236a5c12d5bd5d7e6620d929209e70a9
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/ASCIITable.pm
+tags:
+- unknown
+tool_name: ASCIITable.pm

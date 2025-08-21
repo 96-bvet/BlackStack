@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxhash2cap
+hash: sha256:7684aafbd4e853568076125a064423befceaff81cd3f75bddfa34ab0f8b68bb4
+persona_hint: Defense
+source_path: /usr/bin/hcxhash2cap
+tags:
+- unknown
+tool_name: hcxhash2cap

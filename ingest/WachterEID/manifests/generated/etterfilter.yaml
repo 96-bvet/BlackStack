@@ -1,0 +1,7 @@
+description: Auto-generated manifest for etterfilter
+hash: sha256:0b3ccb21085f884a591c8ded0ec0daf255c3e3657bcf31f01dfe69d2ce22fefd
+persona_hint: Defense
+source_path: /usr/bin/etterfilter
+tags:
+- unknown
+tool_name: etterfilter

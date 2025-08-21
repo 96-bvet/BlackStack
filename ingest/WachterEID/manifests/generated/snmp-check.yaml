@@ -1,0 +1,7 @@
+description: Auto-generated manifest for snmp-check
+hash: sha256:fc327f3064eba16ef09e0d2554072ed284e08737ecfcd7d55223bff9c495699c
+persona_hint: Defense
+source_path: /usr/bin/snmp-check
+tags:
+- unknown
+tool_name: snmp-check

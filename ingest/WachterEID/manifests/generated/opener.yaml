@@ -1,0 +1,7 @@
+description: Auto-generated manifest for opener
+hash: sha256:6b44811e1a836431fbf70ada8e3a1999bb4203f2469f061195c57173544698a9
+persona_hint: Defense
+source_path: /usr/bin/opener
+tags:
+- unknown
+tool_name: opener

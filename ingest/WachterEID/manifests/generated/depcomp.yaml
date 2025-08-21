@@ -1,0 +1,7 @@
+description: Auto-generated manifest for depcomp
+hash: sha256:e44b49f71b265788187993090027193a6cd2b4718f9aa7be34412f537bce6873
+persona_hint: Defense
+source_path: /usr/share/libtool/build-aux/depcomp
+tags:
+- unknown
+tool_name: depcomp

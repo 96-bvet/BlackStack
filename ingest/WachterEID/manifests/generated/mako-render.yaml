@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mako-render
+hash: sha256:d200f42e9e1c6eea9b0dd676678551a0c3b9f07c400b0ce0768ab6e414ca9fdd
+persona_hint: Defense
+source_path: /usr/bin/mako-render
+tags:
+- unknown
+tool_name: mako-render

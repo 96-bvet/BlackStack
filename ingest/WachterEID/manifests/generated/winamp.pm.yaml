@@ -1,0 +1,7 @@
+description: Auto-generated manifest for winamp.pm
+hash: sha256:c4a655679fbb3f368fb08d1db8f6d8f8186be1b12a88c8056d9b33e6832db3dd
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/winamp.pm
+tags:
+- unknown
+tool_name: winamp.pm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkbprint
+hash: sha256:0ed0302cfece7483f7d43ec1e6e99aaacd0e98e2da36e033d83f280ba994247d
+persona_hint: Defense
+source_path: /usr/bin/xkbprint
+tags:
+- unknown
+tool_name: xkbprint

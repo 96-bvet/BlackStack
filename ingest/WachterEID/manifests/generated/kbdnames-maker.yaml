@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kbdnames-maker
+hash: sha256:36190dff2daf957d4639274a7c4f71b34c9d786dddff79b2d3273ec22800676a
+persona_hint: Defense
+source_path: /usr/share/console-setup/kbdnames-maker
+tags:
+- unknown
+tool_name: kbdnames-maker

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exchanger.py
+hash: sha256:b5e742ee8af44dc3f2a794ad3375e49b5cf8280fbaa01a6c3dc678e549156887
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/exchanger.py
+tags:
+- unknown
+tool_name: exchanger.py

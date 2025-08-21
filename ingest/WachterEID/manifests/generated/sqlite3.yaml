@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sqlite3
+hash: sha256:ac4ed0a6d7045142156c8a3ba25dccb24ac669ed47d870abc606fdadad50bfde
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/sqlite3-2.6.0/ports/x86_64-linux-gnu/sqlite3/3.49.1/bin/sqlite3
+tags:
+- unknown
+tool_name: sqlite3

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dev
+hash: sha256:63faa1aa1e31c0d653e30045bf1e8484e9938e8bcbc48ec7202a169cfa920033
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/freerip/dev
+tags:
+- unknown
+tool_name: dev

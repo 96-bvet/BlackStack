@@ -1,0 +1,7 @@
+description: Auto-generated manifest for img2sixel
+hash: sha256:2e4dcc39908baee7111e270939c6622173721b1f10ad2c38a110d005da49813b
+persona_hint: Defense
+source_path: /usr/bin/img2sixel
+tags:
+- unknown
+tool_name: img2sixel

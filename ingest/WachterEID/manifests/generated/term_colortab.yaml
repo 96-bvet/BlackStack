@@ -1,0 +1,7 @@
+description: Auto-generated manifest for term_colortab
+hash: sha256:0f80ecb03c54d5660a3183a102ab982b2d7864e6f78ac31047c21814bc6b8069
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/term-ansicolor-1.11.2/bin/term_colortab
+tags:
+- unknown
+tool_name: term_colortab

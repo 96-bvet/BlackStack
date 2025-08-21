@@ -1,0 +1,7 @@
+description: Auto-generated manifest for images
+hash: sha256:a6af766d7929deebf53213e2948936196140f5d411f20672f09bc38d58215f38
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/bbappworld/images
+tags:
+- unknown
+tool_name: images

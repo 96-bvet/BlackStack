@@ -1,0 +1,7 @@
+description: Auto-generated manifest for c_rehash
+hash: sha256:e8ac8f23e49736924ef645491c4442079781cc122fd398f6bc1d7f9b1a26ec97
+persona_hint: Defense
+source_path: /usr/bin/c_rehash
+tags:
+- unknown
+tool_name: c_rehash

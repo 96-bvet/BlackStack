@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_transfer
+hash: sha256:b89720173951f94c6537b5f79add277512922bce0f5d4a02cdd1647e89d930ee
+persona_hint: Defense
+source_path: /usr/bin/hackrf_transfer
+tags:
+- unknown
+tool_name: hackrf_transfer

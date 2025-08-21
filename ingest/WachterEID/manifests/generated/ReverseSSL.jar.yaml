@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ReverseSSL.jar
+hash: sha256:1a8d13bd497e2c5bb52681f1c49a8556ccaff6702fe72f5c7f0394ba9fd86d56
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/ReverseSSL.jar
+tags:
+- unknown
+tool_name: ReverseSSL.jar

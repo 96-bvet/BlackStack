@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dirbuster
+hash: sha256:3d874c0a627322e1bc48d4ff1fb7f040c1ee4785c3fe79e1d3547a93f4fb53dc
+persona_hint: Defense
+source_path: /usr/bin/dirbuster
+tags:
+- unknown
+tool_name: dirbuster

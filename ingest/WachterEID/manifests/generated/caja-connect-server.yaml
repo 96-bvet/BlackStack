@@ -1,0 +1,7 @@
+description: Auto-generated manifest for caja-connect-server
+hash: sha256:09e168ffca890637147fb3eac40a0e369f7eb4c899fe0e605fc54ed376dbff95
+persona_hint: Defense
+source_path: /usr/bin/caja-connect-server
+tags:
+- unknown
+tool_name: caja-connect-server

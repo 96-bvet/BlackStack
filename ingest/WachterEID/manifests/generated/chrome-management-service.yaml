@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chrome-management-service
+hash: sha256:2acc26e5552b59dba0a861ef68c2f80e8e2d99d75884597faf6687ceb921ccd8
+persona_hint: Defense
+source_path: /opt/google/chrome/chrome-management-service
+tags:
+- unknown
+tool_name: chrome-management-service

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for outlookpackets.out
+hash: sha256:aa4e90ef8524c54ba734fc8e924a560d3432a1d375337d4faad17ef43590003c
+persona_hint: Defense
+source_path: /usr/share/spike/data/outlookpackets.out
+tags:
+- unknown
+tool_name: outlookpackets.out

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptroot-unlock
+hash: sha256:83db78067337c58499ace67499a1fccb13aaf2be217c89df547f951f83c74674
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/cryptroot-unlock
+tags:
+- unknown
+tool_name: cryptroot-unlock

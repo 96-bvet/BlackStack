@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcopy
+hash: sha256:17886c773756df9c13a56ccf36330561f5c0f367da838d43e6d02aaa8aa88575
+persona_hint: Defense
+source_path: /usr/bin/hcopy
+tags:
+- unknown
+tool_name: hcopy

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for inspectrum
+hash: sha256:61c02aad879e6f427063b328a876f1e16baec43117388d61cbdd553f3da48132
+persona_hint: Defense
+source_path: /usr/bin/inspectrum
+tags:
+- unknown
+tool_name: inspectrum

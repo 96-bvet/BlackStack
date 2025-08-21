@@ -1,0 +1,7 @@
+description: Auto-generated manifest for l2test
+hash: sha256:7d315364f0b5ccd7d1fd6d2b23985193319e8230d68f3fd27a74c85c3e019724
+persona_hint: Defense
+source_path: /usr/bin/l2test
+tags:
+- unknown
+tool_name: l2test

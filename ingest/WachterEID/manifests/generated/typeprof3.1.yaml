@@ -1,0 +1,7 @@
+description: Auto-generated manifest for typeprof3.1
+hash: sha256:843f6fcf5504cfe09b72f2cbf9ef0538d6ff86ac93ce403be1fcc440c45f3649
+persona_hint: Defense
+source_path: /usr/bin/typeprof3.1
+tags:
+- unknown
+tool_name: typeprof3.1

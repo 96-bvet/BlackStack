@@ -1,0 +1,7 @@
+description: Auto-generated manifest for printf
+hash: sha256:bf7cc8faa85842bb662243c5f945b03e284a823742d123ed7421a7f5c9c773e2
+persona_hint: Defense
+source_path: /usr/bin/printf
+tags:
+- unknown
+tool_name: printf

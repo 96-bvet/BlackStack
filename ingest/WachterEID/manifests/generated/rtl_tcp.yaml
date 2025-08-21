@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_tcp
+hash: sha256:6fe1cfd4e41b8e80a00d9e8ddb929262d4f4652121313638260ea793ff4f9006
+persona_hint: Defense
+source_path: /usr/bin/rtl_tcp
+tags:
+- unknown
+tool_name: rtl_tcp

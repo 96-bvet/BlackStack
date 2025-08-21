@@ -1,0 +1,7 @@
+description: Auto-generated manifest for logfile_enable.asm
+hash: sha256:180fe3769d39bca5cafdb86fb94048ba85e13581cef2b7a52a5c34a6dbfb9b04
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Container/32/logfile_enable.asm
+tags:
+- unknown
+tool_name: logfile_enable.asm

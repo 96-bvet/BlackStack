@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pysmb.py
+hash: sha256:577082b0a0ae139920d4a1ed53e4537b8943cd6a6ef34b9b847e6eb441fb3f0f
+persona_hint: Defense
+source_path: /usr/share/system-config-printer/pysmb.py
+tags:
+- unknown
+tool_name: pysmb.py

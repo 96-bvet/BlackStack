@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gzip
+hash: sha256:953d326212574b5ad3cbe5f87034b0c142b6e6d71bb619c51eaa3d2ce47f7e24
+persona_hint: Defense
+source_path: /usr/bin/gzip
+tags:
+- unknown
+tool_name: gzip

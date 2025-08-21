@@ -1,0 +1,7 @@
+description: Auto-generated manifest for quicktime.pm
+hash: sha256:8b3c4f1b7cdeeb2c6de8fce2d395481e7714ff017ef24ab3a1f04eeec4e9a920
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/quicktime.pm
+tags:
+- unknown
+tool_name: quicktime.pm

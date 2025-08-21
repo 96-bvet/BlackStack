@@ -1,0 +1,7 @@
+description: Auto-generated manifest for launcher.sh
+hash: sha256:d0acb957b104c44f48a775c2679226762f6dbf7f3696ce7bdc98e31c3e11b5f2
+persona_hint: Defense
+source_path: /usr/share/remmina/external_tools/launcher.sh
+tags:
+- unknown
+tool_name: launcher.sh

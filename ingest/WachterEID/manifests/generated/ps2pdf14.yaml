@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ps2pdf14
+hash: sha256:f41ae340a9faad07c77fd89ce3abda0beeb498f253398edf4d315f9277828f62
+persona_hint: Defense
+source_path: /usr/bin/ps2pdf14
+tags:
+- unknown
+tool_name: ps2pdf14

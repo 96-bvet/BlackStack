@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sidguess
+hash: sha256:8d91679472b1f23db135bc59831e9a66a5624bab9d30240be48271672b8ad896
+persona_hint: Defense
+source_path: /usr/bin/sidguess
+tags:
+- unknown
+tool_name: sidguess

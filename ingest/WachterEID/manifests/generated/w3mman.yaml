@@ -1,0 +1,7 @@
+description: Auto-generated manifest for w3mman
+hash: sha256:5ca1785d6c58c2064d367078d292772cb947e2c85b801d5956842e3cb1ecdc8f
+persona_hint: Defense
+source_path: /usr/bin/w3mman
+tags:
+- unknown
+tool_name: w3mman

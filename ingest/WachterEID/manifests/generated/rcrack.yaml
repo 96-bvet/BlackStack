@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rcrack
+hash: sha256:819ec898542ff832b531764e36d76786bab7311d7e7f71d3120d4a57b2561a5e
+persona_hint: Defense
+source_path: /usr/share/rainbowcrack/rcrack
+tags:
+- unknown
+tool_name: rcrack

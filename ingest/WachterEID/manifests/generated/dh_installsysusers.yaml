@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installsysusers
+hash: sha256:9cba3d9e228ae189924d6e9c879220ff7eac51d9fca0d5f33703d2156fda7d30
+persona_hint: Defense
+source_path: /usr/bin/dh_installsysusers
+tags:
+- unknown
+tool_name: dh_installsysusers

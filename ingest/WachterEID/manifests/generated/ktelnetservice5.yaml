@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ktelnetservice5
+hash: sha256:1db6ce7976e1c5f2c366ac0975e514ba55f644522c2a6a7d504f19a492df1c39
+persona_hint: Defense
+source_path: /usr/bin/ktelnetservice5
+tags:
+- unknown
+tool_name: ktelnetservice5

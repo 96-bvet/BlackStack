@@ -1,0 +1,7 @@
+description: Auto-generated manifest for trust-extract-compat
+hash: sha256:ff7524d0900fd799f4e2f91c2cc8c889dca16ad28f5fc7f0dd0bad9b856157b2
+persona_hint: Defense
+source_path: /usr/share/doc/p11-kit/examples/trust-extract-compat
+tags:
+- unknown
+tool_name: trust-extract-compat

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mimikatz.py
+hash: sha256:82ca91996c017c7d9b34b6ae79affd2dc6e4b729b71d35a6096d897af23be0d4
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/mimikatz.py
+tags:
+- unknown
+tool_name: mimikatz.py

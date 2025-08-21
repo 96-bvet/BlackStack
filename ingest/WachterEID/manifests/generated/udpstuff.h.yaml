@@ -1,0 +1,7 @@
+description: Auto-generated manifest for udpstuff.h
+hash: sha256:0ddd8e36e73b51f4366c57ab8ed27fea202e4baebc2f9c9bc3358ce4bdea70d5
+persona_hint: Defense
+source_path: /usr/share/spike/include/udpstuff.h
+tags:
+- unknown
+tool_name: udpstuff.h

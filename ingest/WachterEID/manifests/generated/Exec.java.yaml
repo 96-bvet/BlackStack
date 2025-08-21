@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Exec.java
+hash: sha256:dafe168ee07695a8bb87eb62c5b8d93b779bb2ea93d70200c3ef4f584199fda4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stage/Exec.java
+tags:
+- unknown
+tool_name: Exec.java

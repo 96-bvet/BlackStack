@@ -1,0 +1,16 @@
+name: blue_teamer
+path: src/cai/agents/blue_teamer.py
+type: py
+category: misc
+hash: 8cea0806f5ed5615ecef51f2552924cdfe36a54408f347e6f9825c2134ac66d1
+approved: true
+import: true
+license_stub: true
+name: blue_teamer
+path: src/cai/agents/blue_teamer.py
+type: py
+category: misc
+hash: 8cea0806f5ed5615ecef51f2552924cdfe36a54408f347e6f9825c2134ac66d1
+approved: true
+import: true
+license_stub: true

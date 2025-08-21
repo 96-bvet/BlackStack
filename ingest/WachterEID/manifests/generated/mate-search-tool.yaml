@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-search-tool
+hash: sha256:c140e83e3e1bb1d6349376ff71d13820b1725b359a06c5fa511ef037c9f83473
+persona_hint: Defense
+source_path: /usr/bin/mate-search-tool
+tags:
+- unknown
+tool_name: mate-search-tool

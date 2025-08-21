@@ -1,0 +1,7 @@
+description: Auto-generated manifest for isdv4-serial-debugger
+hash: sha256:8efb633688069fc5f440867e0c9a02b9d89265eaabc9918cc264b1d38b1ab894
+persona_hint: Defense
+source_path: /usr/bin/isdv4-serial-debugger
+tags:
+- unknown
+tool_name: isdv4-serial-debugger

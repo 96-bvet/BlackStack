@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kbuildsycoca5
+hash: sha256:944edf5f287a30e61b2c7380b41c7d3577948450f16ecc9f5c97bf6cf5b3bcde
+persona_hint: Defense
+source_path: /usr/bin/kbuildsycoca5
+tags:
+- unknown
+tool_name: kbuildsycoca5

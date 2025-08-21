@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_restorecluster
+hash: sha256:0dc820ddcfcdbb31d908194a8cbbbfe7898ddda8deaf4d0b25d7a74190d792dc
+persona_hint: Defense
+source_path: /usr/bin/pg_restorecluster
+tags:
+- unknown
+tool_name: pg_restorecluster

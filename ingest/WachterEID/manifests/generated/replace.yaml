@@ -1,0 +1,7 @@
+description: Auto-generated manifest for replace
+hash: sha256:02dda56b452a9d1e5d20c18c1cddf474f58d95dc47f5531fba09a906cb02a085
+persona_hint: Defense
+source_path: /usr/bin/replace
+tags:
+- unknown
+tool_name: replace

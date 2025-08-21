@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkall.sh
+hash: sha256:c93ddf344f916a00dc438581809259e84073fc4b5c505ce44d5ad236482ccbd7
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mkall.sh
+tags:
+- unknown
+tool_name: mkall.sh

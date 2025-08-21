@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dotlockfile
+hash: sha256:13dbf97e4fd9d96a6c7d7c1226d9bc5cbfed791b9839d7e63e22890e01ca81bf
+persona_hint: Defense
+source_path: /usr/bin/dotlockfile
+tags:
+- unknown
+tool_name: dotlockfile

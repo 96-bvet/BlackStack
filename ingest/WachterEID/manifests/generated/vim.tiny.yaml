@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vim.tiny
+hash: sha256:43e0338f8d3b62e6f613cb3044c8993b727b8061215de6fa6c785e3346b2b121
+persona_hint: Defense
+source_path: /usr/bin/vim.tiny
+tags:
+- unknown
+tool_name: vim.tiny

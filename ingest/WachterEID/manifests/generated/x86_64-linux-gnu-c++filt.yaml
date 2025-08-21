@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-c++filt
+hash: sha256:e65547e3739dc15486e8df7b0a35623fb3c9bf94c4922cc5c0b34cf257bc17fa
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-c++filt
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-c++filt

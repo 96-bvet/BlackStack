@@ -1,0 +1,7 @@
+description: Auto-generated manifest for request_worker.py
+hash: sha256:e37647ffe489cdc5e8ddde6314dbf3d13e2a949063e9a496d4391060e40bafdd
+persona_hint: Defense
+source_path: /usr/share/pompem/core/request_worker.py
+tags:
+- unknown
+tool_name: request_worker.py

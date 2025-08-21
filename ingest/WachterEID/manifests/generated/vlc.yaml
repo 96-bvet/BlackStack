@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vlc
+hash: sha256:9df1a7c88abb4e39b2b34c6aceeef905742b2270b8acdc9a7a0605b95c4d89f5
+persona_hint: Defense
+source_path: /usr/bin/vlc
+tags:
+- unknown
+tool_name: vlc

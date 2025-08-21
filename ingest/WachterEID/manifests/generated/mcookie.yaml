@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mcookie
+hash: sha256:05ba95dea1e2eb4b12531e0c8b5a0c81edb585964fc5cec0365570fa54c0bb20
+persona_hint: Defense
+source_path: /usr/bin/mcookie
+tags:
+- unknown
+tool_name: mcookie

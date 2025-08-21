@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ldd
+hash: sha256:ccda9baaeca4dba00575e51a107c731d8dd89d28b962c51c1bb541add9753662
+persona_hint: Defense
+source_path: /usr/bin/ldd
+tags:
+- unknown
+tool_name: ldd

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dhcpig
+hash: sha256:c8554ad4f31f856b71b77fdb424eb511fa0b84df830168038ed6bfb65c7a7085
+persona_hint: Defense
+source_path: /usr/bin/dhcpig
+tags:
+- unknown
+tool_name: dhcpig

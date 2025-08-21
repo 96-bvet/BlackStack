@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jdb
+hash: sha256:a02277ef7d75bed1c7d4b9f676488f1578fee34912b8393663756b71f8561055
+persona_hint: Defense
+source_path: /usr/share/burpsuite/jre/bin/jdb
+tags:
+- unknown
+tool_name: jdb

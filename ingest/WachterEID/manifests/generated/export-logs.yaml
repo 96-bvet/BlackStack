@@ -1,0 +1,7 @@
+description: Auto-generated manifest for export-logs
+hash: sha256:cb3847896a0b1f9c72ed0ed0c540642d968a1b202b040edd4cd8e32f6b6091cb
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/export-logs
+tags:
+- unknown
+tool_name: export-logs

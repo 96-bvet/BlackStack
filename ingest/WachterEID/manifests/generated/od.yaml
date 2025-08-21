@@ -1,0 +1,7 @@
+description: Auto-generated manifest for od
+hash: sha256:e87e764bd447d6f10d0f3bd519fb62c111f9bf9242c5f7b2764267b8c26b1488
+persona_hint: Defense
+source_path: /usr/bin/od
+tags:
+- unknown
+tool_name: od

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpan5.36-x86_64-linux-gnu
+hash: sha256:2b52a41a04314ba8397a8f0f55315992526a2a44b3f5a2930c4a4a8ea002e5fa
+persona_hint: Defense
+source_path: /usr/bin/cpan5.36-x86_64-linux-gnu
+tags:
+- unknown
+tool_name: cpan5.36-x86_64-linux-gnu

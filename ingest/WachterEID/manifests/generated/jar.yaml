@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jar
+hash: sha256:b18de14d9a3e56bcff49ad41ee3503fbf87f98140fa08ca591508796e2cf7e31
+persona_hint: Defense
+source_path: /usr/bin/jar
+tags:
+- unknown
+tool_name: jar

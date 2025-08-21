@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_power
+hash: sha256:619c3a8874ea33e0a9ee5ba0438d63a448d22a204ecd980eb5aa9af5b8d21f06
+persona_hint: Defense
+source_path: /usr/bin/rtl_power
+tags:
+- unknown
+tool_name: rtl_power

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cp
+hash: sha256:e296487a3a8f10a1c55e56056ba4bbb2d3ca22ae625af9f0d5cebaed28e55fa4
+persona_hint: Defense
+source_path: /usr/bin/cp
+tags:
+- unknown
+tool_name: cp

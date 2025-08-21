@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-follow
+hash: sha256:2f8a45c6d8f6301e8d1adda5af2c5cd63e0b47fdef1bd928cf335366eef9bb20
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-follow
+tags:
+- unknown
+tool_name: ubertooth-follow

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xzgrep
+hash: sha256:701f8ee3e20d93b89adcb352d9b083724cfeea88d353a0ca68bde7530a848d67
+persona_hint: Defense
+source_path: /usr/bin/xzgrep
+tags:
+- unknown
+tool_name: xzgrep

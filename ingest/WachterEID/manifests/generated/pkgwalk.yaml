@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkgwalk
+hash: sha256:abef9df8e15a60dbef15cb46069227b9f1975c040fd63e9e308394b085dbc247
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debtags/pkgwalk
+tags:
+- unknown
+tool_name: pkgwalk

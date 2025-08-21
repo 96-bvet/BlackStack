@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apptapp.zip
+hash: sha256:a543ccd471fbc1917f6b5feeca04ba65451038e2160a8ec479a7e14ac87f0cdd
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/apptapp.zip
+tags:
+- unknown
+tool_name: apptapp.zip

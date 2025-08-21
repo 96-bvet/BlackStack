@@ -1,0 +1,7 @@
+description: Auto-generated manifest for evilgrade
+hash: sha256:29e2912aec989468ab4e70560ac702e951758ae6adf215236aa446d9b6ae17d4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/evilgrade
+tags:
+- unknown
+tool_name: evilgrade

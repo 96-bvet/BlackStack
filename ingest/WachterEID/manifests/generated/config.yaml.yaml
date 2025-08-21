@@ -1,0 +1,7 @@
+description: Auto-generated manifest for config.yaml
+hash: sha256:513454a508a808e4f388ed56a503cb2381d72597900a304784d3d14b462e5ccd
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/social_engineering/hta_powershell/config.yaml
+tags:
+- unknown
+tool_name: config.yaml

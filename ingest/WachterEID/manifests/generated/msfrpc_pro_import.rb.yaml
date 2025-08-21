@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msfrpc_pro_import.rb
+hash: sha256:7414ae939251a37517424bf023e554070101d29ef3dd1bb86f47b96a4e02c36d
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/msfrpc-client-1.1.2/examples/msfrpc_pro_import.rb
+tags:
+- unknown
+tool_name: msfrpc_pro_import.rb

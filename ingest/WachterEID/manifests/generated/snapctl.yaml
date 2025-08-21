@@ -1,0 +1,7 @@
+description: Auto-generated manifest for snapctl
+hash: sha256:c9e57a0d239eaee2b4fbbea98787fec122bb3b79b6066fe4b56475e2c63c0502
+persona_hint: Defense
+source_path: /usr/bin/snapctl
+tags:
+- unknown
+tool_name: snapctl

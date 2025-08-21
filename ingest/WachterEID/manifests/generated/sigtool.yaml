@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sigtool
+hash: sha256:9b81d393051e15b2bf5ba078dc4056a31c4c0d3f578479440fac04dfd510df86
+persona_hint: Defense
+source_path: /usr/bin/sigtool
+tags:
+- unknown
+tool_name: sigtool

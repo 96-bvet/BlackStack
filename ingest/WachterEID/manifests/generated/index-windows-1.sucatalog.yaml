@@ -1,0 +1,7 @@
+description: Auto-generated manifest for index-windows-1.sucatalog
+hash: sha256:e0b14204be00430bce10dcd7f8f82f50898c3cf74dbbf25461b303f5e0be98f8
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/appleupdate/check/index-windows-1.sucatalog
+tags:
+- unknown
+tool_name: index-windows-1.sucatalog

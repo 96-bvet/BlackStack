@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uniq
+hash: sha256:9960fd57f62c1ed283474722fde81d07aff25a6410256c8b5fefcedec1fe735b
+persona_hint: Defense
+source_path: /usr/bin/uniq
+tags:
+- unknown
+tool_name: uniq

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ytc.php
+hash: sha256:3216aed7a60598d86da7c833ef6b32d2ab83b4c89b736618f02aa68e8db88c92
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/atube/ytc.php
+tags:
+- unknown
+tool_name: ytc.php

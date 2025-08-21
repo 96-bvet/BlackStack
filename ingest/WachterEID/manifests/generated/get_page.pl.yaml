@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get_page.pl
+hash: sha256:4deb7eae9346225ec7572e892894eb650b19a2260d0c7f2ecf09ae9b37394d2c
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/get_page.pl
+tags:
+- unknown
+tool_name: get_page.pl

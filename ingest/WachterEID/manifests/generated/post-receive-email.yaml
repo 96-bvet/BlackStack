@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post-receive-email
+hash: sha256:2a8091438f32611d5e7925f5d0cded27b21e6e9c14a207563ad92775cfcc4bec
+persona_hint: Defense
+source_path: /usr/share/git-core/contrib/hooks/post-receive-email
+tags:
+- unknown
+tool_name: post-receive-email

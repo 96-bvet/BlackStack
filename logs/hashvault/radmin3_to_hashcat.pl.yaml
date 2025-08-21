@@ -1,0 +1,7 @@
+description: Auto-generated manifest for radmin3_to_hashcat.pl
+hash: sha256:6e1bf23adfe1dfb15e6188f34a96afa4d36ba91add786251d13cbc16fa64aae3
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/radmin3_to_hashcat.pl
+tags:
+- unknown
+tool_name: radmin3_to_hashcat.pl

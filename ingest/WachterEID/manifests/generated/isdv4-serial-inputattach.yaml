@@ -1,0 +1,7 @@
+description: Auto-generated manifest for isdv4-serial-inputattach
+hash: sha256:b011219b08798cbbc080bce4eddf485b81a247ad5687e160e6ef7ca745b16169
+persona_hint: Defense
+source_path: /usr/bin/isdv4-serial-inputattach
+tags:
+- unknown
+tool_name: isdv4-serial-inputattach

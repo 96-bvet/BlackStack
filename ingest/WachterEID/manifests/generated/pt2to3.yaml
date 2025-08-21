@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pt2to3
+hash: sha256:10cfd4979723f5fe6467fa55ac9eb0ae595748518308a66bcfaa3dfa697593fb
+persona_hint: Defense
+source_path: /usr/bin/pt2to3
+tags:
+- unknown
+tool_name: pt2to3

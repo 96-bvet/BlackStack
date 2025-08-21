@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exim-gencert
+hash: sha256:52d4aeaecf27537bc7896c13e12b3020ee4d2b28502bb40d15658b67aefb91ff
+persona_hint: Defense
+source_path: /usr/share/doc/exim4-base/examples/exim-gencert
+tags:
+- unknown
+tool_name: exim-gencert

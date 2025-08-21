@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnauthz-validate
+hash: sha256:7c547ee8d7e4a585e5f4692e54c26eafddca3d811a91574ca589b1433db12843
+persona_hint: Defense
+source_path: /usr/bin/svnauthz-validate
+tags:
+- unknown
+tool_name: svnauthz-validate

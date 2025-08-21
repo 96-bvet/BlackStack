@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hpumount
+hash: sha256:7cbac2133acf10edcc09cbc8bace43ce4821c0744a35a797af0d639846f7464e
+persona_hint: Defense
+source_path: /usr/bin/hpumount
+tags:
+- unknown
+tool_name: hpumount

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-desktop-icon
+hash: sha256:a3f4603f89c55c3b661b497eac809bf76fa08252d40b0c6bb82a1715d9f4a55d
+persona_hint: Defense
+source_path: /usr/bin/xdg-desktop-icon
+tags:
+- unknown
+tool_name: xdg-desktop-icon

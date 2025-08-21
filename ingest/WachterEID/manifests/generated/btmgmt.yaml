@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btmgmt
+hash: sha256:63473bf08e9f2f31702fca87eeb74e2616907f3c05b157a119370ab01257430d
+persona_hint: Defense
+source_path: /usr/bin/btmgmt
+tags:
+- unknown
+tool_name: btmgmt

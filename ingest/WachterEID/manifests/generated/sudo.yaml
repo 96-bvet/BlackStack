@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sudo
+hash: sha256:71ff2fd4202b14546b9200e68930143e2bbcd10c2b93212dfb5a47b3dc2fe556
+persona_hint: Defense
+source_path: /usr/bin/sudo
+tags:
+- unknown
+tool_name: sudo

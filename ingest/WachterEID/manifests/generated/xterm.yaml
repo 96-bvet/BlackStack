@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xterm
+hash: sha256:e4fbb66180991daa5a0c6f82137951895ff0f1dda70f4cf1568c24e1814d254c
+persona_hint: Defense
+source_path: /usr/bin/xterm
+tags:
+- unknown
+tool_name: xterm

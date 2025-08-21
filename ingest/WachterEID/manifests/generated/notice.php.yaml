@@ -1,0 +1,7 @@
+description: Auto-generated manifest for notice.php
+hash: sha256:5d7c124a88e5994921ef1b639b1975b544449d01da81b401c6ef27df491c7819
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/winamp/notice.php
+tags:
+- unknown
+tool_name: notice.php

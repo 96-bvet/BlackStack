@@ -1,0 +1,8 @@
+name: routing
+path: examples/agent_patterns/routing.py
+type: py
+category: misc
+hash: eb5d1f518177aa1893081f5be55b893374e63eb339d5a12a713343e8af1fdaad
+approved: true
+import: true
+license_stub: true

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wpaclean
+hash: sha256:c01b279a84841877eb8a3646c762604c9892b437a7da0150688cbb6cb8f6fd0c
+persona_hint: Defense
+source_path: /usr/bin/wpaclean
+tags:
+- unknown
+tool_name: wpaclean

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for double-escaping-example.pl
+hash: sha256:7c4a22cc63a694c86bda29986598a89037b71f025a0bd1f170878e9d5cde9e25
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-writer-perl/examples/double-escaping-example.pl
+tags:
+- unknown
+tool_name: double-escaping-example.pl

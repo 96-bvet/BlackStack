@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_createcluster
+hash: sha256:da7475abddfa729e61a67551d50867849ee6cbffd23d9c27cfb0105eaef30f6c
+persona_hint: Defense
+source_path: /usr/bin/pg_createcluster
+tags:
+- unknown
+tool_name: pg_createcluster

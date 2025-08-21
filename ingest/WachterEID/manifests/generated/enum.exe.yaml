@@ -1,0 +1,7 @@
+description: Auto-generated manifest for enum.exe
+hash: sha256:170c6d7f0b0cdeb405704bdf2a4434972400883844243621a7d47c08c29c88d5
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/enumplus/enum.exe
+tags:
+- unknown
+tool_name: enum.exe

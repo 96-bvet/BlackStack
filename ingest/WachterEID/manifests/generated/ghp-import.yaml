@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ghp-import
+hash: sha256:e7ac71f53cc595a428c73eb72a79ae07ebbb04ce32ff60c01a74380e66bbdcf2
+persona_hint: Defense
+source_path: /usr/bin/ghp-import
+tags:
+- unknown
+tool_name: ghp-import

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for init
+hash: sha256:060ff11d8b8a2bbceddcc4a8034b11d1b55ae163e6255cc7e98e8e71c5dbabad
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/init
+tags:
+- unknown
+tool_name: init

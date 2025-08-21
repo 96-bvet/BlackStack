@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_cpldjtag
+hash: sha256:7f3259ca8e4e695ec40bd1e17b95f22a8a87cd150935d14a1b678a39b7e7f843
+persona_hint: Defense
+source_path: /usr/bin/hackrf_cpldjtag
+tags:
+- unknown
+tool_name: hackrf_cpldjtag

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for killall
+hash: sha256:df97b9efab692f05867c0749649af61c90299263a4ce3cb240e4f0ec33457990
+persona_hint: Defense
+source_path: /usr/bin/killall
+tags:
+- unknown
+tool_name: killall

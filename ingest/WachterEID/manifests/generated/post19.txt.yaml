@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post19.txt
+hash: sha256:c2f90386811e88ede991c2fd86299897ecd8d6a0a69231bbcaf3db6912c6939a
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post19.txt
+tags:
+- unknown
+tool_name: post19.txt

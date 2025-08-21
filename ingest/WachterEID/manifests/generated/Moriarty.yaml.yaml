@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Moriarty.yaml
+hash: sha256:45d8c3b4869d3019881bc187dc703e58c7ab2a3ca4fb7e36395882be413af9ee
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/privesc/Moriarty.yaml
+tags:
+- unknown
+tool_name: Moriarty.yaml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chat.rb
+hash: sha256:5249bbd26bca7863d8b0b4c170e9f18e79b8fdbdb0dd05031354e9ad433da3af
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/sinatra-3.2.0/examples/chat.rb
+tags:
+- unknown
+tool_name: chat.rb

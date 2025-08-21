@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgconv
+hash: sha256:2ae8884d125986c3a3eee8db2bb277f8625c604bf95904629943842e3c271d21
+persona_hint: Defense
+source_path: /usr/bin/msgconv
+tags:
+- unknown
+tool_name: msgconv

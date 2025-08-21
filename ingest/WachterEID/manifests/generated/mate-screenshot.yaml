@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-screenshot
+hash: sha256:f0b6df852f43deb9e46ffc553cdff627300b63f69f3a806cfa5f8c80590555a7
+persona_hint: Defense
+source_path: /usr/bin/mate-screenshot
+tags:
+- unknown
+tool_name: mate-screenshot

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for osx_catalog.xml
+hash: sha256:3b3135785be810a00e11a0f16bfc15c92f8e9aa117e77d96a2f30b6e655e1364
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/osx/osx_catalog.xml
+tags:
+- unknown
+tool_name: osx_catalog.xml

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for readme.txt
+hash: sha256:ac267f1d7a21da7cc10e6f42bbebffe011200c27db0ab74d0c6a5111845ee7fc
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/cpan/readme.txt
+tags:
+- unknown
+tool_name: readme.txt

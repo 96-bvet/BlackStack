@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x64_slim.dll
+hash: sha256:db6073e2ba81efc94465b344c379f6ab1c7b8391ec33fd8f7113aa9a92afc599
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/x64_slim.dll
+tags:
+- unknown
+tool_name: x64_slim.dll

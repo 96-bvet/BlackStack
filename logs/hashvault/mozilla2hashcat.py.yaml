@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mozilla2hashcat.py
+hash: sha256:25b2c97de3bf4e01d71606c707f34091cb6559b88fc09ec46021f4acead13f91
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/mozilla2hashcat.py
+tags:
+- unknown
+tool_name: mozilla2hashcat.py

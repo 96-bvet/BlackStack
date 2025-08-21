@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chromium
+hash: sha256:c008d3aaab72eaee5685af17f4356df61160d7e4f2fc51472f99882dc8b0ed29
+persona_hint: Defense
+source_path: /usr/bin/chromium
+tags:
+- unknown
+tool_name: chromium

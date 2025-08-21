@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stager_generation_service.py
+hash: sha256:e186e87dae1f5bd564851909e88966fee0ad279762a3013b4e8558f602ba9702
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/core/stager_generation_service.py
+tags:
+- unknown
+tool_name: stager_generation_service.py

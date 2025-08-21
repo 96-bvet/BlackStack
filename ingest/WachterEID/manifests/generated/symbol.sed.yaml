@@ -1,0 +1,7 @@
+description: Auto-generated manifest for symbol.sed
+hash: sha256:b5fca1a84ad5c2fffa649735910c421627a83cd1bb4d0ed83f4cb69eb6a3e0a4
+persona_hint: Defense
+source_path: /usr/share/groff/1.22.4/font/devps/generate/symbol.sed
+tags:
+- unknown
+tool_name: symbol.sed

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uuid
+hash: sha256:30b5422b6c95ccdc402effd7d3354ca6a6bce621cf21d0379749ddf1f96c1ad7
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/uuid/dist/bin/uuid
+tags:
+- unknown
+tool_name: uuid

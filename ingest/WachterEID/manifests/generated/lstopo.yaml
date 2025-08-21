@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lstopo
+hash: sha256:dd6a41e49bb784a6faede6ba33f2bea62ef1181db754fd805c1f221a14e7a25e
+persona_hint: Defense
+source_path: /usr/bin/lstopo
+tags:
+- unknown
+tool_name: lstopo

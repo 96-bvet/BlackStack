@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sfo
+hash: sha256:bb3b4bbd46c3942e0b5d9aa0a504ca3d84a3382ed45e8786ecc27e4d06f0a00d
+persona_hint: Defense
+source_path: /usr/bin/sfo
+tags:
+- unknown
+tool_name: sfo

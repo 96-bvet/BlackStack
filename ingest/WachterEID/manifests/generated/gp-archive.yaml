@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gp-archive
+hash: sha256:567fb4d1cc6c76d6fcc088c25dbec24c36a9943bad24e1242991dbcf10338ab5
+persona_hint: Defense
+source_path: /usr/bin/gp-archive
+tags:
+- unknown
+tool_name: gp-archive

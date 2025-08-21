@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Wrap.pm
+hash: sha256:e253aa92e27599bb0af3798f68b57b0b488465fc1a720dcfc02cc87b7f7ea810
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/ASCIITable/Wrap.pm
+tags:
+- unknown
+tool_name: Wrap.pm

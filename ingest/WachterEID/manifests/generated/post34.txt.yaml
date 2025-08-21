@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post34.txt
+hash: sha256:1938940456aa6a91524967eb0943d8f92c6c7cea81082d51013e07a5b0516495
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post34.txt
+tags:
+- unknown
+tool_name: post34.txt

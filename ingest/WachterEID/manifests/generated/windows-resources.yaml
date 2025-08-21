@@ -1,0 +1,7 @@
+description: Auto-generated manifest for windows-resources
+hash: sha256:e8fcb6c401594385e1535da99e08a76d6fae288fce5e06ee8ff2057d5958ebc1
+persona_hint: Defense
+source_path: /usr/bin/windows-resources
+tags:
+- unknown
+tool_name: windows-resources

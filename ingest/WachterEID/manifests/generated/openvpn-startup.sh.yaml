@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openvpn-startup.sh
+hash: sha256:50f70711d06ff00e4c747c007618652e058f25e11a3e42513a5278cc13065b84
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-config-files/openvpn-startup.sh
+tags:
+- unknown
+tool_name: openvpn-startup.sh

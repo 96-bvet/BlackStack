@@ -1,0 +1,7 @@
+description: Auto-generated manifest for assuan.py
+hash: sha256:a9a624c329eec9fb544c98bd178f7a9c1358ced4c5522f13c7d3f77c90f05926
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/assuan.py
+tags:
+- unknown
+tool_name: assuan.py

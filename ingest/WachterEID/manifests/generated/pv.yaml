@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pv
+hash: sha256:8a9a13eb1f1bc7978711c60b0b3ccfdbd38c418e014502c6e5108006e471a608
+persona_hint: Defense
+source_path: /usr/bin/pv
+tags:
+- unknown
+tool_name: pv

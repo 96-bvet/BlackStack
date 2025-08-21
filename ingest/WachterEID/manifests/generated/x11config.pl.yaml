@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x11config.pl
+hash: sha256:ec6a22e670aed3bde800b29434a0cf895928538d717fc0334517152d96a4e141
+persona_hint: Defense
+source_path: /usr/share/virtualbox/x11config.pl
+tags:
+- unknown
+tool_name: x11config.pl

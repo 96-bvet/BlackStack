@@ -1,0 +1,7 @@
+description: Auto-generated manifest for editres
+hash: sha256:48dabca95d96fb2ab686afb6c52d73700c4f10dcd5e1b6c95ccb8d0209a7db59
+persona_hint: Defense
+source_path: /usr/bin/editres
+tags:
+- unknown
+tool_name: editres

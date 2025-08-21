@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-clipman-history
+hash: sha256:9acd13d6923e311ef7a1a1816a14e707806c9f6ded4ac8b7919cf9ce6385ffbc
+persona_hint: Defense
+source_path: /usr/bin/xfce4-clipman-history
+tags:
+- unknown
+tool_name: xfce4-clipman-history

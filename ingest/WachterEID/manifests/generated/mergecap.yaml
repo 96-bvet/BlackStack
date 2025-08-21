@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mergecap
+hash: sha256:d7cca0da4f67470157a92d7eba43db9373bc376a46890511b1b7aef6bc814e2a
+persona_hint: Defense
+source_path: /usr/bin/mergecap
+tags:
+- unknown
+tool_name: mergecap

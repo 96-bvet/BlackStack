@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsetmode
+hash: sha256:d9106d354b004ff760992cf85132dfcb3ec23e4f64952d5d4a043ce8c311b1bc
+persona_hint: Defense
+source_path: /usr/bin/xsetmode
+tags:
+- unknown
+tool_name: xsetmode

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xargs
+hash: sha256:d6348606af361a755aabde53f6c367b87850ad44600e2b1f895f3515366b894a
+persona_hint: Defense
+source_path: /usr/bin/xargs
+tags:
+- unknown
+tool_name: xargs

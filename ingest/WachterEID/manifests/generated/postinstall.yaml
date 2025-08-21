@@ -1,0 +1,7 @@
+description: Auto-generated manifest for postinstall
+hash: sha256:92bdb4112c874409eafc4d566897ace3477951f4b800035b86412de3ae978e5c
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/pkgbuild/scripts/postinstall
+tags:
+- unknown
+tool_name: postinstall

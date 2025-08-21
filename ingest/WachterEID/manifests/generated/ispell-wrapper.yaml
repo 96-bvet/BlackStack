@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ispell-wrapper
+hash: sha256:11ff62f305a09f52885315cb5dd295e5a47861accc596ebe818751022eb95c7f
+persona_hint: Defense
+source_path: /usr/bin/ispell-wrapper
+tags:
+- unknown
+tool_name: ispell-wrapper

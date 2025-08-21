@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-gcc
+hash: sha256:75e997ec62297a6484f491bae28ab0ccb489daba23e398fd10fe68e9e6f0def8
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-gcc
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-gcc

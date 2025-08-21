@@ -1,0 +1,7 @@
+description: Auto-generated manifest for whoami.exe
+hash: sha256:bbca0cc59934fcce83ba7bb8be334784f27e626786546f276dbe934777df32af
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/whoami.exe
+tags:
+- unknown
+tool_name: whoami.exe

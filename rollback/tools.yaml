@@ -1,0 +1,8 @@
+name: tools
+path: examples/basic/tools.py
+type: py
+category: misc
+hash: 680ac432fa09343447f5c6c0015e9a74d27774d08700e0e6e77b7eee6da2f4af
+approved: true
+import: true
+license_stub: true

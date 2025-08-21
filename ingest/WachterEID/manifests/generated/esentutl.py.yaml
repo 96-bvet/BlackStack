@@ -1,0 +1,7 @@
+description: Auto-generated manifest for esentutl.py
+hash: sha256:2fc183f533ff69c8b1276bce95044076f7ba5daae5a76192108698edd9bf0a5e
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/esentutl.py
+tags:
+- unknown
+tool_name: esentutl.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for libvk_swiftshader.so
+hash: sha256:62aa2c1e7fa23b57c9c4cd3c0211925475a9c62d6537f33cfb5c5179fc721b14
+persona_hint: Defense
+source_path: /usr/share/codium/libvk_swiftshader.so
+tags:
+- unknown
+tool_name: libvk_swiftshader.so

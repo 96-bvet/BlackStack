@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fuzz_ip6
+hash: sha256:be7d4932d82a8adedae6ee05b250af2ab2ad8fc58ced24026692947e96a4cbaa
+persona_hint: Defense
+source_path: /usr/bin/atk6-fuzz_ip6
+tags:
+- unknown
+tool_name: atk6-fuzz_ip6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for file.txt
+hash: sha256:00458f004f150de5f19a991b84b050210416d288b7f7fa92f3e2e8ef162a093a
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/wupdate/file.txt
+tags:
+- unknown
+tool_name: file.txt

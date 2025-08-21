@@ -1,0 +1,7 @@
+description: Auto-generated manifest for node-coveralls
+hash: sha256:f8bc54b76f9e177860d29da8f2708c7355f6dcc49f21f60b2d41e2a9ce48a388
+persona_hint: Defense
+source_path: /usr/bin/node-coveralls
+tags:
+- unknown
+tool_name: node-coveralls

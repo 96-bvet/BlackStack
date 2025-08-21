@@ -1,0 +1,7 @@
+description: Auto-generated manifest for web_srv.py
+hash: sha256:28c6ca3b07cc2aa0fc7e722b1ba69cee5f2b4fde12ec2daadf2a648c0dd4abe6
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/web_srv.py
+tags:
+- unknown
+tool_name: web_srv.py

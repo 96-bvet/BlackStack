@@ -1,0 +1,7 @@
+description: Auto-generated manifest for test.py
+hash: sha256:0b84efc1f8648bd44b91b83b81c5da506981cb93dd1e970047a1f7e8e05cae3e
+persona_hint: Defense
+source_path: /usr/share/shellnoob/test.py
+tags:
+- unknown
+tool_name: test.py

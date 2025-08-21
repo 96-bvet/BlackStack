@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dnstap-read
+hash: sha256:db25c578c41b0af636c55a7dc451d91b0e8e0e8938fdb3228cd461c73b5bcd13
+persona_hint: Defense
+source_path: /usr/bin/dnstap-read
+tags:
+- unknown
+tool_name: dnstap-read

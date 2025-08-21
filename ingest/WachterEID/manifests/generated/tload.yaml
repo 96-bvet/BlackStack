@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tload
+hash: sha256:8de267ed859701cdd45ca34133e27aa309239da00844abf3a67ef224f9ec39f3
+persona_hint: Defense
+source_path: /usr/bin/tload
+tags:
+- unknown
+tool_name: tload

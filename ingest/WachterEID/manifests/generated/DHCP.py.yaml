@@ -1,0 +1,7 @@
+description: Auto-generated manifest for DHCP.py
+hash: sha256:bb769d43a9e3ed135ea939f1b10d1164d39350e98dd71ff0f8c2dc3d01f9dfb3
+persona_hint: Defense
+source_path: /usr/share/responder/poisoners/DHCP.py
+tags:
+- unknown
+tool_name: DHCP.py

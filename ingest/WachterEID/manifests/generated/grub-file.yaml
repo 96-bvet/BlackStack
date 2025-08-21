@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-file
+hash: sha256:8141e3901468df6fd046cd05e2d111200806073a13bdd0912136e50d5059812a
+persona_hint: Defense
+source_path: /usr/bin/grub-file
+tags:
+- unknown
+tool_name: grub-file

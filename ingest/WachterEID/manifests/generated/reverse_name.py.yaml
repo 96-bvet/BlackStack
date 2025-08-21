@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reverse_name.py
+hash: sha256:6a93258ce6d57f04ba3340c88bfe89934bc6b364b0bf981c8c1855f86afeb434
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/reverse_name.py
+tags:
+- unknown
+tool_name: reverse_name.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtlsdr-scanner
+hash: sha256:64ebf368b77fc7e35cbcab91aefb3d268b8a038385d61918c25d3441732daed0
+persona_hint: Defense
+source_path: /usr/bin/rtlsdr-scanner
+tags:
+- unknown
+tool_name: rtlsdr-scanner

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mbim-network
+hash: sha256:39c2648a8fa0c0a924ce036d445c0dac79a806096d42ebf58cfb50fadae8ae5b
+persona_hint: Defense
+source_path: /usr/bin/mbim-network
+tags:
+- unknown
+tool_name: mbim-network

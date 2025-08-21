@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tdbrestore
+hash: sha256:291105ac3ace0ea3d4c392b9e0d2ca34324b8ae5678f689f621aed7b80aa89d9
+persona_hint: Defense
+source_path: /usr/bin/tdbrestore
+tags:
+- unknown
+tool_name: tdbrestore

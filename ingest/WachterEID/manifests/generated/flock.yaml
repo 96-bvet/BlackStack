@@ -1,0 +1,7 @@
+description: Auto-generated manifest for flock
+hash: sha256:09f189297bce1f713e2ba9a8607a89f17902edadc54d3c3162d43f76e8d3b6f9
+persona_hint: Defense
+source_path: /usr/bin/flock
+tags:
+- unknown
+tool_name: flock

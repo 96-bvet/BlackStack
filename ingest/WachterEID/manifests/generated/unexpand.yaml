@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unexpand
+hash: sha256:dc3fbc72adb7efc0605511a1cc3d0b058e05ad38d675226c9dd5407b7845626e
+persona_hint: Defense
+source_path: /usr/bin/unexpand
+tags:
+- unknown
+tool_name: unexpand

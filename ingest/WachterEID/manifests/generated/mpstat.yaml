@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mpstat
+hash: sha256:eef1f85d2ddd02bb2a5e02dfc89a244db63877b7446f00f17937f641cdc0c426
+persona_hint: Defense
+source_path: /usr/bin/mpstat
+tags:
+- unknown
+tool_name: mpstat

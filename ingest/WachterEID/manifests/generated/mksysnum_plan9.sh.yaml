@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mksysnum_plan9.sh
+hash: sha256:cede0810bfb770606f7b660f84df3193e8b549956e226ab6b57fa8c1ecf46937
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mksysnum_plan9.sh
+tags:
+- unknown
+tool_name: mksysnum_plan9.sh

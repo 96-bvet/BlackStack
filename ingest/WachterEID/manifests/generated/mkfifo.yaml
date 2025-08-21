@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkfifo
+hash: sha256:8c5a9ba6fd9a07c26bb5e0930054a48e3ec1081c3a280432f9d8ea9fb09a3333
+persona_hint: Defense
+source_path: /usr/bin/mkfifo
+tags:
+- unknown
+tool_name: mkfifo

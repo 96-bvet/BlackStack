@@ -1,0 +1,7 @@
+description: Auto-generated manifest for handlebars
+hash: sha256:b23f27e9aeae2daffd28696df638c1817290491450396679c04f5d7f9baefa8f
+persona_hint: Defense
+source_path: /usr/share/nodejs/handlebars/bin/handlebars
+tags:
+- unknown
+tool_name: handlebars

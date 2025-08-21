@@ -1,0 +1,7 @@
+description: Auto-generated manifest for slowhttptest
+hash: sha256:a21c50f20134e3129d5d2d6cbdd784f2a8140a9d640e22732d38a3fb84b87e36
+persona_hint: Defense
+source_path: /usr/bin/slowhttptest
+tags:
+- unknown
+tool_name: slowhttptest

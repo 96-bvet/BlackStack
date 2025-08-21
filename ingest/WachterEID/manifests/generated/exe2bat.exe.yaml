@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exe2bat.exe
+hash: sha256:c130e37d2c0f06c25b6cdbbbf60e1cd557f74538ad97532b20b66409036feb86
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/exe2bat.exe
+tags:
+- unknown
+tool_name: exe2bat.exe

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-desfire-ev1-configure-ats
+hash: sha256:338c8331db572e43e6f2b0a8e26e3b75542c3095968a74a31c0b6f10bc02c7af
+persona_hint: Defense
+source_path: /usr/bin/mifare-desfire-ev1-configure-ats
+tags:
+- unknown
+tool_name: mifare-desfire-ev1-configure-ats

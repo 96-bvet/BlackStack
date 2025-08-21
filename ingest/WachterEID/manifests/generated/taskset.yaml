@@ -1,0 +1,7 @@
+description: Auto-generated manifest for taskset
+hash: sha256:42e38b38d3926bb1ad156ed0ec0c485d33c8819cf1c3088cd6ec79ae13b8fbc6
+persona_hint: Defense
+source_path: /usr/bin/taskset
+tags:
+- unknown
+tool_name: taskset

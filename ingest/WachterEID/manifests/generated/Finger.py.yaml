@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Finger.py
+hash: sha256:ee79b7ece01cb10c366d0614086bd2617332c90fa3fd548f259cb88d684d8671
+persona_hint: Defense
+source_path: /usr/share/responder/tools/SMBFinger/Finger.py
+tags:
+- unknown
+tool_name: Finger.py

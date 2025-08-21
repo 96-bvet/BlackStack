@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ptdump
+hash: sha256:624b37945dd556ae215b3418b22d860c3a79b603768d53604431d06e34b53a19
+persona_hint: Defense
+source_path: /usr/bin/ptdump
+tags:
+- unknown
+tool_name: ptdump

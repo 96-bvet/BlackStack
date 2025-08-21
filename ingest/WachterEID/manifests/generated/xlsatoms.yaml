@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xlsatoms
+hash: sha256:187d10f0976fb8adf65a6c51b2035106f5dc1613db1d4370748286fe38263237
+persona_hint: Defense
+source_path: /usr/bin/xlsatoms
+tags:
+- unknown
+tool_name: xlsatoms

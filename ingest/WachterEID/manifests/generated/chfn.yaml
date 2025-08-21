@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chfn
+hash: sha256:0a958aa7f90a731b8794e0c2d5d1ad42706676a567607b63caa97b94f4eab8f8
+persona_hint: Defense
+source_path: /usr/bin/chfn
+tags:
+- unknown
+tool_name: chfn

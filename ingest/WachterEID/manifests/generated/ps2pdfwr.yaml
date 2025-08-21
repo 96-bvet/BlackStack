@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ps2pdfwr
+hash: sha256:bf5bc07dea0984b18293d32f4545448e3b6da8059b11066660b17453d4249892
+persona_hint: Defense
+source_path: /usr/bin/ps2pdfwr
+tags:
+- unknown
+tool_name: ps2pdfwr

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-settings-manager
+hash: sha256:1bdab1cac77209ffc3bb276a9b6d927e1eecb3b2d91f638e44e6a913e053ab9f
+persona_hint: Defense
+source_path: /usr/bin/xfce4-settings-manager
+tags:
+- unknown
+tool_name: xfce4-settings-manager

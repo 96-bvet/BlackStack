@@ -1,0 +1,16 @@
+name: android_sast_agent
+path: src/cai/agents/android_sast_agent.py
+type: py
+category: cybersecurity
+hash: 61c8db06be8d040fe981f1e4b32765415b85ae5b5e367d46f5004b3d4a121b69
+approved: true
+import: true
+license_stub: true
+name: android_sast_agent
+path: src/cai/agents/android_sast_agent.py
+type: py
+category: cybersecurity
+hash: 61c8db06be8d040fe981f1e4b32765415b85ae5b5e367d46f5004b3d4a121b69
+approved: true
+import: true
+license_stub: true

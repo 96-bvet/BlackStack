@@ -1,0 +1,7 @@
+description: Auto-generated manifest for language_strings.sh
+hash: sha256:156d269a37b1394e693eddcb3b2ddb7b7f25db4c36d2f6ab2e465a31326d2253
+persona_hint: Defense
+source_path: /usr/share/airgeddon/language_strings.sh
+tags:
+- unknown
+tool_name: language_strings.sh

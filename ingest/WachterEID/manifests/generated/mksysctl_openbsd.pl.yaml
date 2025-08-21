@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mksysctl_openbsd.pl
+hash: sha256:4de6ec903db77db7717a4c59fcebcb6cca0f15520bbbf90bb0ccc6cf820bf32b
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/syscall/mksysctl_openbsd.pl
+tags:
+- unknown
+tool_name: mksysctl_openbsd.pl

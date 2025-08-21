@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pingmib.pl
+hash: sha256:990d14e25ea1b86686be2719b5e22f694c7ed6f35f0763b04230860ed5baabe3
+persona_hint: Defense
+source_path: /usr/share/doc/libsnmp-perl/examples/pingmib.pl
+tags:
+- unknown
+tool_name: pingmib.pl

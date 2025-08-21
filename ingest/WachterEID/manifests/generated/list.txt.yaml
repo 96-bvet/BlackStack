@@ -1,0 +1,7 @@
+description: Auto-generated manifest for list.txt
+hash: sha256:548c21e8dee13562ce41e0b6f0f5e18a0ff073040e7c0cb5b1545af69ec7c312
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/extra/list.txt
+tags:
+- unknown
+tool_name: list.txt

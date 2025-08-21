@@ -1,0 +1,7 @@
+description: Auto-generated manifest for veracrypt2hashcat.py
+hash: sha256:f97bc82e61ef605e2df4f5507d03d9c91f9218a35cb90960bae012a498aa6326
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/veracrypt2hashcat.py
+tags:
+- unknown
+tool_name: veracrypt2hashcat.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for simple_changelog
+hash: sha256:e804aca5b5844353cd54bceb7d8041a668ddf426fe9c30421657f4ba4979478f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/changelog/simple_changelog
+tags:
+- unknown
+tool_name: simple_changelog

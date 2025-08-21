@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zmore
+hash: sha256:bb9ee270bee119238c74779fb5fa5cddc7939ec4923a22c5649bcb9aa7d70b76
+persona_hint: Defense
+source_path: /usr/bin/zmore
+tags:
+- unknown
+tool_name: zmore

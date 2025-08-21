@@ -1,0 +1,7 @@
+description: Auto-generated manifest for amap6
+hash: sha256:0a9fef968ada0e0252a9af65ef403ffb1d3f9cf5c06276b8f2d3504c04bec254
+persona_hint: Defense
+source_path: /usr/bin/amap6
+tags:
+- unknown
+tool_name: amap6

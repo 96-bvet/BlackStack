@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wifi-honey
+hash: sha256:5f6f425ab198ef2de0902dad66ab2c6686968b4c9de7fed84242d6c828c70074
+persona_hint: Defense
+source_path: /usr/bin/wifi-honey
+tags:
+- unknown
+tool_name: wifi-honey

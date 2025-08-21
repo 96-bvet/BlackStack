@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unibrow
+hash: sha256:99aca1f7ac74250fe502274f05b3ce69d8dc7586b6806b0495a20f548004690b
+persona_hint: Defense
+source_path: /usr/bin/unibrow
+tags:
+- unknown
+tool_name: unibrow

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for custom-help-description
+hash: sha256:713120c54dc574020f3b2f7b1f66c28517408ab59f50c6be64744d4f092606a1
+persona_hint: Defense
+source_path: /usr/share/doc/node-commander/examples/custom-help-description
+tags:
+- unknown
+tool_name: custom-help-description

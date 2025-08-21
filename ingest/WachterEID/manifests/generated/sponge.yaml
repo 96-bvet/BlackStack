@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sponge
+hash: sha256:b830ec29dfdd997e99b24a693c7a0974c1bfd07f1e4b2d733d4edcb24723a657
+persona_hint: Defense
+source_path: /usr/bin/sponge
+tags:
+- unknown
+tool_name: sponge

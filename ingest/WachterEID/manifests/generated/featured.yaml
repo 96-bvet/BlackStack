@@ -1,0 +1,7 @@
+description: Auto-generated manifest for featured
+hash: sha256:acc9c6b271e5ae222159cc32890a39adb465d79ae787f0268c21195d4d8e6141
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/bbappworld/featured
+tags:
+- unknown
+tool_name: featured

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-run
+hash: sha256:f40bd6b864fb47bd131c91262b8a6dbf4f32e0dfd9f5861f4ebb04ac22c6effa
+persona_hint: Defense
+source_path: /usr/bin/systemd-run
+tags:
+- unknown
+tool_name: systemd-run

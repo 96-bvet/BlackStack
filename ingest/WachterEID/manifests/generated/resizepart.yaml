@@ -1,0 +1,7 @@
+description: Auto-generated manifest for resizepart
+hash: sha256:3ec8bf9b009db5df23e0605e0aad36fcd16607b20718bbaa76f8b24184809394
+persona_hint: Defense
+source_path: /usr/bin/resizepart
+tags:
+- unknown
+tool_name: resizepart

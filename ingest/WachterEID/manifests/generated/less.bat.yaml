@@ -1,0 +1,7 @@
+description: Auto-generated manifest for less.bat
+hash: sha256:b69c2840c2db230d1892ba1b65d133d1379f3b2f0db4abdce4fc5165d43ef000
+persona_hint: Defense
+source_path: /usr/share/nvim/runtime/macros/less.bat
+tags:
+- unknown
+tool_name: less.bat

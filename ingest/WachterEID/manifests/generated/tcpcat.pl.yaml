@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcpcat.pl
+hash: sha256:3a7fd9f93949acc8e9d62473b19787e8e05532490b8cd72749307cf48efcbb4c
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/tcpcat.pl
+tags:
+- unknown
+tool_name: tcpcat.pl

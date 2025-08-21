@@ -1,0 +1,7 @@
+description: Auto-generated manifest for IF.INC
+hash: sha256:da6f65cdab68feedb6a149739cfc9d796bc697baf08b9e03b1523e84844cc91b
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/MACRO/IF.INC
+tags:
+- unknown
+tool_name: IF.INC

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpic
+hash: sha256:88e4995a62272e20e72163f26c900305fda5185687f62ac09cb86ea853d49f2f
+persona_hint: Defense
+source_path: /usr/bin/gpic
+tags:
+- unknown
+tool_name: gpic

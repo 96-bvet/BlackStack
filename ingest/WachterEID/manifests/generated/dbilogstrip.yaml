@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbilogstrip
+hash: sha256:4b46e7e537324240ac89528e597485ad060cd70d1a5b6dfeec14b1ef3fdd0373
+persona_hint: Defense
+source_path: /usr/bin/dbilogstrip
+tags:
+- unknown
+tool_name: dbilogstrip

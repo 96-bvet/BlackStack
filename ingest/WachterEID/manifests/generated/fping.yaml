@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fping
+hash: sha256:b8294ad9c4036d826833faf5532384d1c9ff5b25c8c70f43c99a10e5dcfd0852
+persona_hint: Defense
+source_path: /usr/share/bug/fping
+tags:
+- unknown
+tool_name: fping

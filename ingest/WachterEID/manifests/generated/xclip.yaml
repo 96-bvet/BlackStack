@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xclip
+hash: sha256:eb71fe399483b596499c1aadc6677aac6d886d1f99a4faaf4a183018a76558e3
+persona_hint: Defense
+source_path: /usr/bin/xclip
+tags:
+- unknown
+tool_name: xclip

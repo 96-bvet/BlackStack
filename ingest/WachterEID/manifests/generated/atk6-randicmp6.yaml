@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-randicmp6
+hash: sha256:d861130c6e106caf1e9919450619ab49d3f3ec092dfdab133dd256df200a9e8a
+persona_hint: Defense
+source_path: /usr/bin/atk6-randicmp6
+tags:
+- unknown
+tool_name: atk6-randicmp6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pluma
+hash: sha256:fa9fe71454647f945822e38e656f9be57aafad9c31ca3bf76055d63bda941bc3
+persona_hint: Defense
+source_path: /usr/bin/pluma
+tags:
+- unknown
+tool_name: pluma

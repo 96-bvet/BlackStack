@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfwm4-settings
+hash: sha256:5419baafd52884e61eae982471829b8a9f8be395b2092737e075af1cdfdc506f
+persona_hint: Defense
+source_path: /usr/bin/xfwm4-settings
+tags:
+- unknown
+tool_name: xfwm4-settings

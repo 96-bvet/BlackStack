@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tar
+hash: sha256:4e11647a9c86fb8857768bd622c43ed0662d7019f60f5bdd12fb15ac5f087070
+persona_hint: Defense
+source_path: /usr/bin/tar
+tags:
+- unknown
+tool_name: tar

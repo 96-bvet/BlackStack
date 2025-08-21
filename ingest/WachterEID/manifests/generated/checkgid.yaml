@@ -1,0 +1,7 @@
+description: Auto-generated manifest for checkgid
+hash: sha256:6b91a864fb9d6d0af9e630b28b3aa1d0ecd17eb0396209226eab3036fbe5cff7
+persona_hint: Defense
+source_path: /usr/bin/checkgid
+tags:
+- unknown
+tool_name: checkgid

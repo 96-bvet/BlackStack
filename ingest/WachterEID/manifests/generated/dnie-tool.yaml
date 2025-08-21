@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dnie-tool
+hash: sha256:27e024e3ed6789a7edb6f1f3dd41d5107f42a8bfd493cffc94297e471196ffc9
+persona_hint: Defense
+source_path: /usr/bin/dnie-tool
+tags:
+- unknown
+tool_name: dnie-tool

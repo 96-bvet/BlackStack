@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check-psk-crack-4
+hash: sha256:c42f887f5124e1a7f6088c79feb7fa36472b0b724efdad9f9327c5086031269c
+persona_hint: Defense
+source_path: /usr/share/ike-scan/checks/check-psk-crack-4
+tags:
+- unknown
+tool_name: check-psk-crack-4

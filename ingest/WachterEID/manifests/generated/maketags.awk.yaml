@@ -1,0 +1,7 @@
+description: Auto-generated manifest for maketags.awk
+hash: sha256:3614c42451ac61c418f69ac6063e5820f6aaa8b83615cefefe2b067244f778b7
+persona_hint: Defense
+source_path: /usr/share/nvim/runtime/doc/maketags.awk
+tags:
+- unknown
+tool_name: maketags.awk

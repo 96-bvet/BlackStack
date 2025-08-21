@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kpackagetool5
+hash: sha256:b6c6c8f0a33e038b1d5a3daf56e1b33dc235a3215ce10d24f6292fdd2fead8fa
+persona_hint: Defense
+source_path: /usr/bin/kpackagetool5
+tags:
+- unknown
+tool_name: kpackagetool5

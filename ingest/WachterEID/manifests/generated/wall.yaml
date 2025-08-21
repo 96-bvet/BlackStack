@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wall
+hash: sha256:95705965505b80f9f49858096ac0344b94696065d9cc097e3ace8e81a0af42a9
+persona_hint: Defense
+source_path: /usr/bin/wall
+tags:
+- unknown
+tool_name: wall

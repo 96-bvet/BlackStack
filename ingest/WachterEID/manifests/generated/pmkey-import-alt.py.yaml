@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pmkey-import-alt.py
+hash: sha256:1c7a280284508c09ec5dd9563454cad7480fbfebd5c963716e576f8452126c97
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/pmkey-import-alt.py
+tags:
+- unknown
+tool_name: pmkey-import-alt.py

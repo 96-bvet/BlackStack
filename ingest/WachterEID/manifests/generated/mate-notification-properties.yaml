@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-notification-properties
+hash: sha256:3363c881cc02cbc423c033da71122e057191962ccf9c772ac6b7a9d51d301c67
+persona_hint: Defense
+source_path: /usr/bin/mate-notification-properties
+tags:
+- unknown
+tool_name: mate-notification-properties

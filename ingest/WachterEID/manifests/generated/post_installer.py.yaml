@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post_installer.py
+hash: sha256:ac618333ef4543bf1eedb1926ede6262364211cda603c6b4e00b20cbdd4d9d77
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/post_installer.py
+tags:
+- unknown
+tool_name: post_installer.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for responder-BrowserListener
+hash: sha256:1a65f4b5ecd122cbc5bcb7c33ea9f137e182abffdfeed08dd0a7512f94122e79
+persona_hint: Defense
+source_path: /usr/bin/responder-BrowserListener
+tags:
+- unknown
+tool_name: responder-BrowserListener

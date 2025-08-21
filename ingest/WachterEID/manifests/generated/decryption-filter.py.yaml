@@ -1,0 +1,7 @@
+description: Auto-generated manifest for decryption-filter.py
+hash: sha256:f764701d6723a2c0d29a1747c6728383fed30a9d2dac7d2baf975f831944c542
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/decryption-filter.py
+tags:
+- unknown
+tool_name: decryption-filter.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for run-workflow.sh
+hash: sha256:91081ea9ac37f6f240dc37cf97485a100da7fc6957e1d83f97101bff6d4c3992
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/jschardet/scripts/run-workflow.sh
+tags:
+- unknown
+tool_name: run-workflow.sh

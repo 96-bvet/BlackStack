@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpanel_json_xs
+hash: sha256:2f34a530b7ce981b0df9aacd2b6944ccf74c4a7f8bb49fde57b342663e7feb26
+persona_hint: Defense
+source_path: /usr/bin/cpanel_json_xs
+tags:
+- unknown
+tool_name: cpanel_json_xs

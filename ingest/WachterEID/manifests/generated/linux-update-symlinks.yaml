@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linux-update-symlinks
+hash: sha256:4b20c414747306790d5a9ec5e3d8e72b9943a1a334646b843a5ba2013398903f
+persona_hint: Defense
+source_path: /usr/bin/linux-update-symlinks
+tags:
+- unknown
+tool_name: linux-update-symlinks

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpg-zip
+hash: sha256:37fae1714a3016c10dbec44f56140aeb6156fc95bdbeffb5c95f714d8e642dae
+persona_hint: Defense
+source_path: /usr/bin/gpg-zip
+tags:
+- unknown
+tool_name: gpg-zip

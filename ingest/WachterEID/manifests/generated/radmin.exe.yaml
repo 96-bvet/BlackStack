@@ -1,0 +1,7 @@
+description: Auto-generated manifest for radmin.exe
+hash: sha256:f38778db895e45ead50633876ef77a334e56beaee1627468a79bcb3953a9cead
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/radmin.exe
+tags:
+- unknown
+tool_name: radmin.exe

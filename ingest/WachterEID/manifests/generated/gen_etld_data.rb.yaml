@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gen_etld_data.rb
+hash: sha256:cb6264a7ccec7a840bfe0c78c2f12907900762f9f028bcf4c51e515f821d2e66
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/domain_name-0.6.20240107/tool/gen_etld_data.rb
+tags:
+- unknown
+tool_name: gen_etld_data.rb

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for myisamlog
+hash: sha256:51170b987948fe017234652856b2c8e5307505be390c5ecac253ab1e7c5735db
+persona_hint: Defense
+source_path: /usr/bin/myisamlog
+tags:
+- unknown
+tool_name: myisamlog

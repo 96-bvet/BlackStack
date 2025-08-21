@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetRegistryKey.yaml
+hash: sha256:bd979b201e1987629cf6aa34d83442eb941df7bc782f3b8e03c5cb51954a4d45
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/situational_awareness/SharpSploit/GetRegistryKey.yaml
+tags:
+- unknown
+tool_name: GetRegistryKey.yaml

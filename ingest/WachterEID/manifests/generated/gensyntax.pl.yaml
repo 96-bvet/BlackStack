@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gensyntax.pl
+hash: sha256:97e840eb939b9b5dfd83a6103cc8aaa81f02c0a86dd4f4453acb200492602718
+persona_hint: Defense
+source_path: /usr/share/sgml/opensp/unicode/gensyntax.pl
+tags:
+- unknown
+tool_name: gensyntax.pl

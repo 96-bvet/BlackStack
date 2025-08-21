@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcal
+hash: sha256:ef633b5fcc59cddcd93e9f81013641f675f685990edb4486ee0179b736b148db
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/hcal
+tags:
+- unknown
+tool_name: hcal

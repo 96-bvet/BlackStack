@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-windmc
+hash: sha256:5219d9de01a017a06fdeb2069292c14635aadf308a599483eab768a7e1980dd9
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-windmc
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-windmc

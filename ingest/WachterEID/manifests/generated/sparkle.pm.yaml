@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sparkle.pm
+hash: sha256:f88d0dbca3b7cf034d10eb07b63526aba4b20d2027a184b0954dba8842e363db
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/sparkle.pm
+tags:
+- unknown
+tool_name: sparkle.pm

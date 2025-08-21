@@ -1,0 +1,7 @@
+description: Auto-generated manifest for detach-sign-file.py
+hash: sha256:5cfaed98a74d9163c82b372019f80897b43c8149f8cf58d829a0796d7ab52479
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/detach-sign-file.py
+tags:
+- unknown
+tool_name: detach-sign-file.py

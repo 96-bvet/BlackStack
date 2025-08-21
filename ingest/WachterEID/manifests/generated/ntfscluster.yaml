@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfscluster
+hash: sha256:1e43c6c4f1e62fc5f24c191e5c318460f9190533c9232680f1e49f4366bd168d
+persona_hint: Defense
+source_path: /usr/bin/ntfscluster
+tags:
+- unknown
+tool_name: ntfscluster

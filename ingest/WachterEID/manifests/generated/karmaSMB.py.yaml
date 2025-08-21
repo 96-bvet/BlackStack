@@ -1,0 +1,7 @@
+description: Auto-generated manifest for karmaSMB.py
+hash: sha256:3776813c30c1f76e1e4b485fa2bfe929e02159453a9320dc52f776c4587e334f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/karmaSMB.py
+tags:
+- unknown
+tool_name: karmaSMB.py

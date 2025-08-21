@@ -1,0 +1,7 @@
+description: Auto-generated manifest for eslint.js
+hash: sha256:ea934c3956258e77242abe08032dad4e880c2897d0f1c613714a6971e5f2bf83
+persona_hint: Defense
+source_path: /usr/share/nodejs/eslint/bin/eslint.js
+tags:
+- unknown
+tool_name: eslint.js

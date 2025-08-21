@@ -1,0 +1,7 @@
+description: Auto-generated manifest for foo.postrm
+hash: sha256:252ba993107b7c564efdf1decaef1e43b0c16ae0a71e94ae1f8a95065148f185
+persona_hint: Defense
+source_path: /usr/share/doc/xml-core/examples/foo.postrm
+tags:
+- unknown
+tool_name: foo.postrm

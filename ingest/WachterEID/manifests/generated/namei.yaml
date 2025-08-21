@@ -1,0 +1,7 @@
+description: Auto-generated manifest for namei
+hash: sha256:75879c646031e47d62bf95575b394b80231714d418ddc28641fd8184cd2098fc
+persona_hint: Defense
+source_path: /usr/bin/namei
+tags:
+- unknown
+tool_name: namei

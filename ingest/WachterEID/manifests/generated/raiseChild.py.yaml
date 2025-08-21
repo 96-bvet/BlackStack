@@ -1,0 +1,7 @@
+description: Auto-generated manifest for raiseChild.py
+hash: sha256:8a6b7b2a3a1f7d17ea518a3e86faae28ac6a59533e6cdebf0243d960085083bc
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/raiseChild.py
+tags:
+- unknown
+tool_name: raiseChild.py

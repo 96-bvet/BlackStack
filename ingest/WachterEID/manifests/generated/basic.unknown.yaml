@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.unknown
+hash: sha256:ad31e9055b3fc26e3508317a710ed48d203e024714855e593a1dc121a1e8d238
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.unknown
+tags:
+- unknown
+tool_name: basic.unknown

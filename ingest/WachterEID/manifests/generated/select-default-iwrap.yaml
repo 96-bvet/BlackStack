@@ -1,0 +1,7 @@
+description: Auto-generated manifest for select-default-iwrap
+hash: sha256:8887e11359e088e96a84494f36b38a9b60d13cb9170bf34d8c3f3a79a3894052
+persona_hint: Defense
+source_path: /usr/bin/select-default-iwrap
+tags:
+- unknown
+tool_name: select-default-iwrap

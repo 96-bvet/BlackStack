@@ -1,0 +1,7 @@
+description: Auto-generated manifest for term_snow
+hash: sha256:390b6fa25e675b700e9030e3cc7230ce0d562f584e1848efa989cde4ca791bd2
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/term-ansicolor-1.11.2/bin/term_snow
+tags:
+- unknown
+tool_name: term_snow

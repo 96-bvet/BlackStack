@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gencpan.pl
+hash: sha256:6b4cfb8fa70d21abc9240e758bba54897c21e6a71291952f0c811be14760f988
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/cpan/gencpan.pl
+tags:
+- unknown
+tool_name: gencpan.pl

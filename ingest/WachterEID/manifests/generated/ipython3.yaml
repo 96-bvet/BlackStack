@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ipython3
+hash: sha256:39feb998622ef666d89cc762a73ed20feddb6ed862fde875db06c51153302542
+persona_hint: Defense
+source_path: /usr/bin/ipython3
+tags:
+- unknown
+tool_name: ipython3

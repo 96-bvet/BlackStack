@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kerberoast.py
+hash: sha256:5349ab32f69fa7fde83786c13bba43a7ab0a3dea43dda1d0f652c6a757e43db2
+persona_hint: Defense
+source_path: /usr/share/kerberoast/kerberoast.py
+tags:
+- unknown
+tool_name: kerberoast.py

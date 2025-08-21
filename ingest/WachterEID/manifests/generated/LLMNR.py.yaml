@@ -1,0 +1,7 @@
+description: Auto-generated manifest for LLMNR.py
+hash: sha256:f6fbe43955f0214142448ed5a979e0a922177824dcd2a5bc583eccd8028591f1
+persona_hint: Defense
+source_path: /usr/share/responder/poisoners/LLMNR.py
+tags:
+- unknown
+tool_name: LLMNR.py

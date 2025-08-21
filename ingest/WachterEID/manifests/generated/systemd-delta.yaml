@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-delta
+hash: sha256:f1ca68253f5d81a22c7c071f3eae6f79692b197c906b2101a5a44ead67d93354
+persona_hint: Defense
+source_path: /usr/bin/systemd-delta
+tags:
+- unknown
+tool_name: systemd-delta

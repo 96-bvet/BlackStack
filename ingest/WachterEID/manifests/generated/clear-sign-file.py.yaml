@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clear-sign-file.py
+hash: sha256:e33988c02bd8055a3fcd07cae2643391a0910d14be62bbd69634a4bd4046eb6f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/clear-sign-file.py
+tags:
+- unknown
+tool_name: clear-sign-file.py

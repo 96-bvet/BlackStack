@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uuidparse
+hash: sha256:a06ec01d8da13994bdaeb64c824f89b8dc650da69f7b949ea7714ff1fb65ee45
+persona_hint: Defense
+source_path: /usr/bin/uuidparse
+tags:
+- unknown
+tool_name: uuidparse

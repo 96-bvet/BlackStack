@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-mkdb
+hash: sha256:8a2a92552fe8fe1bd16be920d2863836e5bd8d8731951a093eb7b3b4ca4317a4
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-mkdb
+tags:
+- unknown
+tool_name: gtkdoc-mkdb

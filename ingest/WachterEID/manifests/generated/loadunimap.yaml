@@ -1,0 +1,7 @@
+description: Auto-generated manifest for loadunimap
+hash: sha256:2c9856931c9d79b23ab9fe5f995e78b7b385c95d9c1afa4321101f8f4bec3629
+persona_hint: Defense
+source_path: /usr/bin/loadunimap
+tags:
+- unknown
+tool_name: loadunimap

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for configure-symlinks
+hash: sha256:419ac4047b731bed214486fc0e00da54be6d935fe1974ed2eb22f7dbcfed8caa
+persona_hint: Defense
+source_path: /usr/share/mysql-common/configure-symlinks
+tags:
+- unknown
+tool_name: configure-symlinks

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wmiexec.py
+hash: sha256:90a6ab4e0826cf0bec7d0bd37ef1dfc1b98ee6bcae5f4d3c52d62deefae0c59b
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/wmiexec.py
+tags:
+- unknown
+tool_name: wmiexec.py

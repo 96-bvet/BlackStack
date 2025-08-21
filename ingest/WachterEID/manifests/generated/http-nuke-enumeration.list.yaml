@@ -1,0 +1,7 @@
+description: Auto-generated manifest for http-nuke-enumeration.list
+hash: sha256:6dd8c10b61714a32a48a362511e5b534b6431c10e430e3754f51d0ad9057f67c
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/http-nuke-enumeration.list
+tags:
+- unknown
+tool_name: http-nuke-enumeration.list

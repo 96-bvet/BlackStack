@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nasm
+hash: sha256:09524fc8537260fed21b7d2f81115f5615d1ecc50be11ea92f30384845e57f76
+persona_hint: Defense
+source_path: /usr/bin/nasm
+tags:
+- unknown
+tool_name: nasm

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_checksystem
+hash: sha256:a4bbc81602febc4b57d76cac40fe0828adf2811d43b9b8c5457d8f803a804a33
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/pg_checksystem
+tags:
+- unknown
+tool_name: pg_checksystem

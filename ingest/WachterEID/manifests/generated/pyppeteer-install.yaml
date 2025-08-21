@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pyppeteer-install
+hash: sha256:ae8ff600b505e45d23bfc7359b5521da023007539e677bd2c83b416f29ff7e9d
+persona_hint: Defense
+source_path: /usr/bin/pyppeteer-install
+tags:
+- unknown
+tool_name: pyppeteer-install

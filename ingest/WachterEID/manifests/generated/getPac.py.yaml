@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getPac.py
+hash: sha256:daf8c535da5f38d0042a33b3170590755a45fd7ec290b26bfac7f494b46d43ac
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/getPac.py
+tags:
+- unknown
+tool_name: getPac.py

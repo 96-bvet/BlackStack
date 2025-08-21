@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdf2ps
+hash: sha256:c153d8fbc178ea6e576ddca45edcc23ed933bf9dc715fdd074148041107d5de8
+persona_hint: Defense
+source_path: /usr/bin/pdf2ps
+tags:
+- unknown
+tool_name: pdf2ps

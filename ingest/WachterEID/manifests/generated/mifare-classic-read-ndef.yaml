@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-classic-read-ndef
+hash: sha256:9d3bcd2170fc040bd6ac5831591a1111e577ce0687d588fe1d5bac64531f0ad6
+persona_hint: Defense
+source_path: /usr/bin/mifare-classic-read-ndef
+tags:
+- unknown
+tool_name: mifare-classic-read-ndef

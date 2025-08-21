@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xvinfo
+hash: sha256:496a3ad99d13befba2290caa8a1ca38cda837b14c3363bd65511ac9c980cd7e9
+persona_hint: Defense
+source_path: /usr/bin/xvinfo
+tags:
+- unknown
+tool_name: xvinfo

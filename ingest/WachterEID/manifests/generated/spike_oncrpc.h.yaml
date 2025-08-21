@@ -1,0 +1,7 @@
+description: Auto-generated manifest for spike_oncrpc.h
+hash: sha256:27ce8d33e692a495b2f3cf3fd1f038039f85f96fce364a7f4c20631c61a6f037
+persona_hint: Defense
+source_path: /usr/share/spike/include/spike_oncrpc.h
+tags:
+- unknown
+tool_name: spike_oncrpc.h

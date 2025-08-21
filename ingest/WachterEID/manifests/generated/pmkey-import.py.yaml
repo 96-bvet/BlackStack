@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pmkey-import.py
+hash: sha256:f0ccb1790f73370a33aa0a3a2900df031cf1839f0d6a44247fecbd0b8f3b214a
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/pmkey-import.py
+tags:
+- unknown
+tool_name: pmkey-import.py

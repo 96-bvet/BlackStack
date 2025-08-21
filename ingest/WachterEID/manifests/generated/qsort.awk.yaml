@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qsort.awk
+hash: sha256:d5cbe5d9f15cffb284c3b276be20c1b3859f37b94b202796bb6b3d8ab01ecaa9
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/qsort.awk
+tags:
+- unknown
+tool_name: qsort.awk

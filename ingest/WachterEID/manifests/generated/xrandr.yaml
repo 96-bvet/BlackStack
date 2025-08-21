@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrandr
+hash: sha256:6c08032e00874461d88056719caef3ad3e9b67c8c24d3ae31e6d8f966f0fb511
+persona_hint: Defense
+source_path: /usr/bin/xrandr
+tags:
+- unknown
+tool_name: xrandr

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for init.html
+hash: sha256:7991cab7948f8c7fc63b4bfdbef8d78285e3f9a31e6960140238c92a741ef04e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/wupdate/init.html
+tags:
+- unknown
+tool_name: init.html

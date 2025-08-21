@@ -1,0 +1,7 @@
+description: Auto-generated manifest for server.basic.http
+hash: sha256:4c8a64f4084ea99a6123e6e424e950ac934a7bfacc8a003d9793f649a06b070f
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/server.basic.http
+tags:
+- unknown
+tool_name: server.basic.http

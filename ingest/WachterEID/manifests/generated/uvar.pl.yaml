@@ -1,0 +1,7 @@
+description: Auto-generated manifest for uvar.pl
+hash: sha256:d3a34604e47e7afc1f193ae61b5c58dd41593eda144dafc5ffc15c8a75c7e458
+persona_hint: Defense
+source_path: /usr/share/doc/libvariable-magic-perl/examples/uvar.pl
+tags:
+- unknown
+tool_name: uvar.pl

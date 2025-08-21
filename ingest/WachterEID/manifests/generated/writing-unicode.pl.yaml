@@ -1,0 +1,7 @@
+description: Auto-generated manifest for writing-unicode.pl
+hash: sha256:e952b0737ef510e26229a1a893d1af5e13ed61aa5a372a798ab81f01cbd66cc0
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-writer-perl/examples/writing-unicode.pl
+tags:
+- unknown
+tool_name: writing-unicode.pl

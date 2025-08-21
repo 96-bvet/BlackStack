@@ -1,0 +1,7 @@
+description: Auto-generated manifest for line_send_tcp
+hash: sha256:355305179b916d11b7bcf67564a047a6c59ac83a9957224ca044b39652488f49
+persona_hint: Defense
+source_path: /usr/bin/line_send_tcp
+tags:
+- unknown
+tool_name: line_send_tcp

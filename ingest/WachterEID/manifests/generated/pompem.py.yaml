@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pompem.py
+hash: sha256:d4427cfaea90ccdac5784ee1051e1377d1da291adb979495ccd64bb068a3e0aa
+persona_hint: Defense
+source_path: /usr/share/pompem/pompem.py
+tags:
+- unknown
+tool_name: pompem.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for impacket-rdp_check
+hash: sha256:5385227093ca3c01e47713aed4b570689688ca65e76ec676709f155bdea5ce89
+persona_hint: Defense
+source_path: /usr/bin/impacket-rdp_check
+tags:
+- unknown
+tool_name: impacket-rdp_check

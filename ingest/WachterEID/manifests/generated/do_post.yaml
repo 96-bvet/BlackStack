@@ -1,0 +1,7 @@
+description: Auto-generated manifest for do_post
+hash: sha256:ee718b9a844dad1101c4d9f8303c4f69cc40443cb3dbeb42a40a28e947718fb1
+persona_hint: Defense
+source_path: /usr/bin/do_post
+tags:
+- unknown
+tool_name: do_post

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-sendpeesmp6
+hash: sha256:f3f06ce018e530ac25e89198f28fabcf896763813dbbe5aead08121615c690fc
+persona_hint: Defense
+source_path: /usr/bin/atk6-sendpeesmp6
+tags:
+- unknown
+tool_name: atk6-sendpeesmp6

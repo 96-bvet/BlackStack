@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cat
+hash: sha256:008f819498fe591f3cc920d543709347d8d14a139bb3482bc2cd8635c1b3162e
+persona_hint: Defense
+source_path: /usr/bin/cat
+tags:
+- unknown
+tool_name: cat

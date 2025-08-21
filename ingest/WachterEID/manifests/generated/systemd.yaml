@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd
+hash: sha256:6e0bd8fdce3c67fdd1818f354b5ea5c88b9582124e3cda025c4da8be3194da32
+persona_hint: Defense
+source_path: /usr/bin/systemd
+tags:
+- unknown
+tool_name: systemd

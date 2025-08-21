@@ -1,0 +1,7 @@
+description: Auto-generated manifest for eidenv
+hash: sha256:1da8e6bfb8cba0c68e72b6347ff5ba0c2a749f2a4929db019fe042ac898aacc7
+persona_hint: Defense
+source_path: /usr/bin/eidenv
+tags:
+- unknown
+tool_name: eidenv

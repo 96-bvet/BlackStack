@@ -1,0 +1,7 @@
+description: Auto-generated manifest for GetNPUsers.py
+hash: sha256:c706b90f585f730deac6ef08233a6eee048d0a876e31afd80a460d1597b3a68c
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/GetNPUsers.py
+tags:
+- unknown
+tool_name: GetNPUsers.py

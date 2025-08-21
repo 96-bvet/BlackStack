@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sets_and_maps.nft
+hash: sha256:eb5f02fe1ad203273f34ecfcef1b1389b0dc07f055c1969794c4f4ae2169ffc0
+persona_hint: Defense
+source_path: /usr/share/doc/nftables/examples/sets_and_maps.nft
+tags:
+- unknown
+tool_name: sets_and_maps.nft

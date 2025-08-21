@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vidir
+hash: sha256:51cbdd630d454ce76fdddbcb17d5a84819f30666b5a3e140eb3229aaeab87715
+persona_hint: Defense
+source_path: /usr/bin/vidir
+tags:
+- unknown
+tool_name: vidir

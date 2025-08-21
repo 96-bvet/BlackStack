@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql
+hash: sha256:bbb9ec36510056ace58bce47bc137d06de3e4816d363e2fd48d16c68baf5ec1c
+persona_hint: Defense
+source_path: /usr/bin/mysql
+tags:
+- unknown
+tool_name: mysql

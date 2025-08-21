@@ -1,0 +1,7 @@
+description: Auto-generated manifest for trusted.plist
+hash: sha256:8828fd0436946183df31b14781fb3bb30d897779931c6c3a1efe75bd5bda1d5b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/apptapp/trusted.plist
+tags:
+- unknown
+tool_name: trusted.plist

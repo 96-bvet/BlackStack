@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blueman-sendto
+hash: sha256:b1f831ab1f81d1a025d8a4d28be313d250018cb81a9a88fb43b5242127d0288e
+persona_hint: Defense
+source_path: /usr/bin/blueman-sendto
+tags:
+- unknown
+tool_name: blueman-sendto

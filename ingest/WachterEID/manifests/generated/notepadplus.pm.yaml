@@ -1,0 +1,7 @@
+description: Auto-generated manifest for notepadplus.pm
+hash: sha256:0f1d9622dafaadb94c65e9b82d9f580783539977b83d5a5be80b5d8936ff56f3
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/notepadplus.pm
+tags:
+- unknown
+tool_name: notepadplus.pm

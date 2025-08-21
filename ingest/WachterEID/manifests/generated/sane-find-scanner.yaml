@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sane-find-scanner
+hash: sha256:271c17af7ad2b9772831a70e0d7013570c657e81324186f9a85e4f5d82a6f341
+persona_hint: Defense
+source_path: /usr/bin/sane-find-scanner
+tags:
+- unknown
+tool_name: sane-find-scanner

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pfunct
+hash: sha256:3f9320e483debe07335521b7d0667f97ba313a888ec645f9139dd19488121f25
+persona_hint: Defense
+source_path: /usr/bin/pfunct
+tags:
+- unknown
+tool_name: pfunct

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Release.gpg
+hash: sha256:ba706d2664f9105895d18ba0626a05d529a9ac88b4d2dea9197941d58d1360d4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/debian/Release.gpg
+tags:
+- unknown
+tool_name: Release.gpg

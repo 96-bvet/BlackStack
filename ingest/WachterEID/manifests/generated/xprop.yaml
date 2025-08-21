@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xprop
+hash: sha256:1f37fa2b7d1e26a9f96604a17f118be44ec53ba68620ec5d4fde3710e0a9fcc1
+persona_hint: Defense
+source_path: /usr/bin/xprop
+tags:
+- unknown
+tool_name: xprop

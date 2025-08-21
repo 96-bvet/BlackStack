@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptroot
+hash: sha256:3f1d8179a5543e5f72d1e655598eec101dcf37001798f1f1cb867e9e60216e95
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/local-top/cryptroot
+tags:
+- unknown
+tool_name: cryptroot

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-c++-posix
+hash: sha256:24e12e6c1cbc98e5a9194c560248a4d47d0654ec40decb1f174c9783cbb07868
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-c++-posix
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-c++-posix

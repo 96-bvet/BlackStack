@@ -1,0 +1,7 @@
+description: Auto-generated manifest for latest-version.php
+hash: sha256:de6a3a8d5f34146a9d9c3d81f0f032840d5387ade25fae263cc3436c9020e4f4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/winamp/latest-version.php
+tags:
+- unknown
+tool_name: latest-version.php

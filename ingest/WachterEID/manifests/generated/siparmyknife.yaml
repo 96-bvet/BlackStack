@@ -1,0 +1,7 @@
+description: Auto-generated manifest for siparmyknife
+hash: sha256:988bbd3e4c0bbc843e4c6052bd282be9b368c675ac155582d030c0812c2e7258
+persona_hint: Defense
+source_path: /usr/bin/siparmyknife
+tags:
+- unknown
+tool_name: siparmyknife

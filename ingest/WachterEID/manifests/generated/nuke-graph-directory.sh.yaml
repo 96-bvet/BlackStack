@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nuke-graph-directory.sh
+hash: sha256:069b937acaec05292889aa5c65b74112a667a03080774655990d4769bef80021
+persona_hint: Defense
+source_path: /usr/share/docker.io/contrib/nuke-graph-directory.sh
+tags:
+- unknown
+tool_name: nuke-graph-directory.sh

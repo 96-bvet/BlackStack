@@ -1,0 +1,7 @@
+description: Auto-generated manifest for head
+hash: sha256:eb93339329ad9ecf68acf3e7cc3415cea3a1d25e1885b4a0e42bdb70063b7ca9
+persona_hint: Defense
+source_path: /usr/bin/head
+tags:
+- unknown
+tool_name: head

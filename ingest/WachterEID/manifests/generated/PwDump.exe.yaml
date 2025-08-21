@@ -1,0 +1,7 @@
+description: Auto-generated manifest for PwDump.exe
+hash: sha256:446f84069e825062d1d56971b7578361ebc4feb1988950701065d9c18a3e7941
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/fgdump/PwDump.exe
+tags:
+- unknown
+tool_name: PwDump.exe

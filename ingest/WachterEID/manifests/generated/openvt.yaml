@@ -1,0 +1,7 @@
+description: Auto-generated manifest for openvt
+hash: sha256:b8eb8ad166563a68415166784b5eb405f7a4726ef1449aa8a38ed385c18485fd
+persona_hint: Defense
+source_path: /usr/bin/openvt
+tags:
+- unknown
+tool_name: openvt

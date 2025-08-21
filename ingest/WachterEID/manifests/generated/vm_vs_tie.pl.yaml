@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vm_vs_tie.pl
+hash: sha256:c3e8a84cd1185a194f7552a0ba8ca7ff153855dc541addc81a325011ab02be9c
+persona_hint: Defense
+source_path: /usr/share/doc/libvariable-magic-perl/examples/vm_vs_tie.pl
+tags:
+- unknown
+tool_name: vm_vs_tie.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ffuf
+hash: sha256:7e2a0d04248c4e1da34cedd48837c15ef308fdfdcbb0b38485ca8ad1d57e494c
+persona_hint: Defense
+source_path: /usr/bin/ffuf
+tags:
+- unknown
+tool_name: ffuf

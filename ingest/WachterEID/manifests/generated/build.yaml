@@ -1,0 +1,7 @@
+description: Auto-generated manifest for build
+hash: sha256:db8886440ac109f124934f1b76eb3c28c09843aa04348dc567f3fc72c9aa571a
+persona_hint: Defense
+source_path: /usr/share/pluma/plugins/externaltools/tools/build
+tags:
+- unknown
+tool_name: build

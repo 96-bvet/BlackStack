@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rstart
+hash: sha256:003f7ca7a20a714e6f44eb51048136cc60e8aa297d2acb2aefc4c2cd1b500d13
+persona_hint: Defense
+source_path: /usr/bin/rstart
+tags:
+- unknown
+tool_name: rstart

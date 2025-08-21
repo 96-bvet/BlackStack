@@ -1,0 +1,7 @@
+description: Auto-generated manifest for prove
+hash: sha256:30c7fee6225199bbcd242975fe5b2df0436e9ffa9136a5b8972b922dfaf8485b
+persona_hint: Defense
+source_path: /usr/bin/prove
+tags:
+- unknown
+tool_name: prove

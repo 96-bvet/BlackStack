@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fincore
+hash: sha256:e5858a42d07813afd43911e28fcb6c8e74f1bcd4a79dbd530658ab4557bc1b2e
+persona_hint: Defense
+source_path: /usr/bin/fincore
+tags:
+- unknown
+tool_name: fincore

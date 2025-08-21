@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdg-user-dir
+hash: sha256:66f6896a88c333b2c3152617fd3be51d7e896481abc07028a064dad17e64f6b8
+persona_hint: Defense
+source_path: /usr/bin/xdg-user-dir
+tags:
+- unknown
+tool_name: xdg-user-dir

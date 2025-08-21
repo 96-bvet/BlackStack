@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-prop
+hash: sha256:4e9aca121894d5dc5f8ec74a7dd3f3a16afe70156b00378868c7dd9777877a4e
+persona_hint: Defense
+source_path: /usr/bin/mdb-prop
+tags:
+- unknown
+tool_name: mdb-prop

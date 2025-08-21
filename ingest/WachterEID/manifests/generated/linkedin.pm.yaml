@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linkedin.pm
+hash: sha256:0b4afeee173418acc404bd2a9362c50bb4133104792c94b04ec6f7e2db4bbd05
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/linkedin.pm
+tags:
+- unknown
+tool_name: linkedin.pm

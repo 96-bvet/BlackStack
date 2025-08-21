@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvidia-modprobe
+hash: sha256:097cb5108fb173d59faa7457e7875af4184cbbd8293ef92fcaf234fd5af0e16b
+persona_hint: Defense
+source_path: /usr/bin/nvidia-modprobe
+tags:
+- unknown
+tool_name: nvidia-modprobe

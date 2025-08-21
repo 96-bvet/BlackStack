@@ -1,0 +1,7 @@
+description: Auto-generated manifest for p7zip
+hash: sha256:0366063d483a144a911ee25dd97339b681e29e37df1acb77de192519ca40a992
+persona_hint: Defense
+source_path: /usr/bin/p7zip
+tags:
+- unknown
+tool_name: p7zip

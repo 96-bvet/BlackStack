@@ -1,0 +1,7 @@
+description: Auto-generated manifest for inspy.rtupdate
+hash: sha256:f1a5d49e9a7bbf826e258dcc17ca2575380219de5eca75af91b7a85950a98915
+persona_hint: Defense
+source_path: /usr/share/python3/runtime.d/inspy.rtupdate
+tags:
+- unknown
+tool_name: inspy.rtupdate

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cd-fix-profile
+hash: sha256:ef1cfec2fa66845292a55027d30a62c2a8b47557f0d2d1348bd734abefd38f31
+persona_hint: Defense
+source_path: /usr/bin/cd-fix-profile
+tags:
+- unknown
+tool_name: cd-fix-profile

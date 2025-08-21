@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-split
+hash: sha256:cd364a31ba5d2e92b8bfabea63c05fea62d58fe429fecc00d26c14e7ccc01fe0
+persona_hint: Defense
+source_path: /usr/bin/dpkg-split
+tags:
+- unknown
+tool_name: dpkg-split

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for samrdump.py
+hash: sha256:33e30b429eae4e265abc74946b7f70197c7fde8e416af20ae63158101248e35f
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/samrdump.py
+tags:
+- unknown
+tool_name: samrdump.py

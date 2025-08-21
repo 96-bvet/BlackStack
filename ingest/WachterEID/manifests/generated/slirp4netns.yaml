@@ -1,0 +1,7 @@
+description: Auto-generated manifest for slirp4netns
+hash: sha256:22b1e7d763a4382b3fe5bf58f1d9ee95b7f8241e9b0f022236eaea2b25bd0533
+persona_hint: Defense
+source_path: /usr/bin/slirp4netns
+tags:
+- unknown
+tool_name: slirp4netns

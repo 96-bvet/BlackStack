@@ -1,0 +1,7 @@
+description: Auto-generated manifest for adduser.local
+hash: sha256:2616e1a15504e19334dc07ed7ca35885b59025524001240b7b65126517c45da4
+persona_hint: Defense
+source_path: /usr/share/doc/adduser/examples/adduser.local
+tags:
+- unknown
+tool_name: adduser.local

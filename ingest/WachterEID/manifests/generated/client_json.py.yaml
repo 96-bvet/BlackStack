@@ -1,0 +1,7 @@
+description: Auto-generated manifest for client_json.py
+hash: sha256:e248ee1ae73b98fd1b44f77bea51fa2c2f2fcc5b372d752c5a38cf23dbd6c598
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/client_json.py
+tags:
+- unknown
+tool_name: client_json.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for macchanger
+hash: sha256:aafe686e4f9a53472e516f93db2f8b5ee28cca905db62ac0866f36f33ee009b0
+persona_hint: Defense
+source_path: /usr/bin/macchanger
+tags:
+- unknown
+tool_name: macchanger

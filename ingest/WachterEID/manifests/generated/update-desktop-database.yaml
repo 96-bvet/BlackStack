@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-desktop-database
+hash: sha256:ab628480108e24eabdf3dabd27ffde1024906cbe9695b2f7c51eb2e7c928cb44
+persona_hint: Defense
+source_path: /usr/bin/update-desktop-database
+tags:
+- unknown
+tool_name: update-desktop-database

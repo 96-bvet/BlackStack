@@ -1,0 +1,7 @@
+description: Auto-generated manifest for generic_send_udp
+hash: sha256:c5bba0a924ce8a322b3249fce7b06de2d80bce54925af73260e3bb574b6c8c17
+persona_hint: Defense
+source_path: /usr/bin/generic_send_udp
+tags:
+- unknown
+tool_name: generic_send_udp

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atube.pm
+hash: sha256:7c0908792fb804da8d01028cf27553473024902ead84ac64ca5fab424cc956d4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/atube.pm
+tags:
+- unknown
+tool_name: atube.pm

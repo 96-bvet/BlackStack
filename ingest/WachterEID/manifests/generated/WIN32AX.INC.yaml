@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN32AX.INC
+hash: sha256:42f25d7b9ce7e1a1275196c28cb95796475c0bbb7b199957cfae9e2602991c8e
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/WIN32AX.INC
+tags:
+- unknown
+tool_name: WIN32AX.INC

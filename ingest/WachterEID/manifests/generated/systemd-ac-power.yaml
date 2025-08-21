@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-ac-power
+hash: sha256:a7184972c7d2711208cf5fdcb63076893659061d4dc2a08706a26a71cbddc840
+persona_hint: Defense
+source_path: /usr/bin/systemd-ac-power
+tags:
+- unknown
+tool_name: systemd-ac-power

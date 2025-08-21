@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-editenv
+hash: sha256:a102dda878f93ebe981d1eeec6e1e7a5103d12b469e7fa677098dcd75196f332
+persona_hint: Defense
+source_path: /usr/bin/grub-editenv
+tags:
+- unknown
+tool_name: grub-editenv

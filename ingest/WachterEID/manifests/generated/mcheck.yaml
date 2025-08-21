@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mcheck
+hash: sha256:ac687f85b9e0de8a8b6c83e5b6473ab04a47fa28f21a30b883db8624287cf219
+persona_hint: Defense
+source_path: /usr/bin/mcheck
+tags:
+- unknown
+tool_name: mcheck

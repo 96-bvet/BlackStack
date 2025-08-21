@@ -1,0 +1,7 @@
+description: Auto-generated manifest for COM64.INC
+hash: sha256:3c99325b5b2860ac4f48fa3d4bcb7874f93a9bbe0181fc5977ab3b7efa30408a
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/MACRO/COM64.INC
+tags:
+- unknown
+tool_name: COM64.INC

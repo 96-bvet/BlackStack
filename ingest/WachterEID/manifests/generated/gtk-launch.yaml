@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk-launch
+hash: sha256:4ead570fe52165c1ce853e84bf9923227d0d8c7cebb7947fd97342c1594142c4
+persona_hint: Defense
+source_path: /usr/bin/gtk-launch
+tags:
+- unknown
+tool_name: gtk-launch

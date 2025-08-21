@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_prep
+hash: sha256:a48e866e0af2901ca180b2ec6925ccf0845aa4141ae08e8c4165c3924fe06b71
+persona_hint: Defense
+source_path: /usr/bin/dh_prep
+tags:
+- unknown
+tool_name: dh_prep

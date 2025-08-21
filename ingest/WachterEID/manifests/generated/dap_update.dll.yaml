@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dap_update.dll
+hash: sha256:8f499c8f03ef6b39375b87a189fec8607aef56908dd999e61116eca9a9a8fd2b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/dap/dap_update.dll
+tags:
+- unknown
+tool_name: dap_update.dll

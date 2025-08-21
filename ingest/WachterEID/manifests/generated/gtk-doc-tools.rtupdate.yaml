@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk-doc-tools.rtupdate
+hash: sha256:c2886ae19bf5cc430ade0243c977556b86d977d50b3b5a8e246f61a8e3ad22d7
+persona_hint: Defense
+source_path: /usr/share/python3/runtime.d/gtk-doc-tools.rtupdate
+tags:
+- unknown
+tool_name: gtk-doc-tools.rtupdate

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installinit
+hash: sha256:4bdaa1c6d8fbe27b73b2705152b2c3a52bbd44c38786ed1b6fbb774a3d2c4cc8
+persona_hint: Defense
+source_path: /usr/bin/dh_installinit
+tags:
+- unknown
+tool_name: dh_installinit

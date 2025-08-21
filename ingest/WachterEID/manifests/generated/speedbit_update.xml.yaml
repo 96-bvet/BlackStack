@@ -1,0 +1,7 @@
+description: Auto-generated manifest for speedbit_update.xml
+hash: sha256:daf38da2b9b0e69d94df97c98d64d105ab2d6490b0bbfbbf2be9c6aa5ace16d2
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/speedbit/speedbit_update.xml
+tags:
+- unknown
+tool_name: speedbit_update.xml

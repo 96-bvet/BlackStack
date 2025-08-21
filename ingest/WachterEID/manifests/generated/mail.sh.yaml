@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mail.sh
+hash: sha256:935549c5969e5883b400784f7fea604f16e116231f817dc5a675d9a59dcbffce
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/mail.sh
+tags:
+- unknown
+tool_name: mail.sh

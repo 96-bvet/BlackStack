@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pm-install
+hash: sha256:fb87556d5952fb03dc66e6424649acbe60a67fe43c404c24b670c7c2564b273b
+persona_hint: Defense
+source_path: /usr/share/doc/node-commander/examples/pm-install
+tags:
+- unknown
+tool_name: pm-install

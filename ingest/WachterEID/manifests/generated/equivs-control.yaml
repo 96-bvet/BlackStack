@@ -1,0 +1,7 @@
+description: Auto-generated manifest for equivs-control
+hash: sha256:e36fd5c1e2c400a0f699e0677d2e82d162ad64ef698525a1c4af73762397da52
+persona_hint: Defense
+source_path: /usr/bin/equivs-control
+tags:
+- unknown
+tool_name: equivs-control

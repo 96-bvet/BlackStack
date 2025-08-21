@@ -1,0 +1,7 @@
+description: Auto-generated manifest for t1asm
+hash: sha256:6db3c6be2f58e76eb9fbb53f6c0ae4a76752c6c4bed53afa570e78d9dbb8128a
+persona_hint: Defense
+source_path: /usr/bin/t1asm
+tags:
+- unknown
+tool_name: t1asm

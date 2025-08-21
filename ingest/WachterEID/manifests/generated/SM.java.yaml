@@ -1,0 +1,7 @@
+description: Auto-generated manifest for SM.java
+hash: sha256:899a720bd2d301260d796878dee8f04bc25819b783332620443f4f8d27273717
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/exploits/local_host/signed_applet_dropper/applet/SM.java
+tags:
+- unknown
+tool_name: SM.java

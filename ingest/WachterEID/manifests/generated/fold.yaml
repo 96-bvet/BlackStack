@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fold
+hash: sha256:4526d6b5c40966b56b1de203f998beec4e00adf5e6105b8e064b2ac783a20abd
+persona_hint: Defense
+source_path: /usr/bin/fold
+tags:
+- unknown
+tool_name: fold

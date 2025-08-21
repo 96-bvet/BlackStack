@@ -1,0 +1,7 @@
+description: Auto-generated manifest for office.up
+hash: sha256:8dbd93cd636f931509023c50e4d51a27fcd3769251dcc5a1e07e0c3279b7b42d
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-config-files/office.up
+tags:
+- unknown
+tool_name: office.up

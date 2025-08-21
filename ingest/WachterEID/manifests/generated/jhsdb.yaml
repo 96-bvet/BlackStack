@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jhsdb
+hash: sha256:1dee4aca4c9c20de1c9024f2bd7a46a31d5f9589b4e2ef78ca088215223657be
+persona_hint: Defense
+source_path: /usr/bin/jhsdb
+tags:
+- unknown
+tool_name: jhsdb

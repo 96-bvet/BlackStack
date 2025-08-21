@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x11_spike
+hash: sha256:969c6ed6149912365debb31e1796a98df608829067157fbce2eb5cd9abe824a6
+persona_hint: Defense
+source_path: /usr/bin/x11_spike
+tags:
+- unknown
+tool_name: x11_spike

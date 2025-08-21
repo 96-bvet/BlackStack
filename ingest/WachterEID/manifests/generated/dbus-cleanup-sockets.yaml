@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-cleanup-sockets
+hash: sha256:2c98833abc15760432888b2c64d86ba033ea9ff00c98ebb2dd4ff27a0473d816
+persona_hint: Defense
+source_path: /usr/bin/dbus-cleanup-sockets
+tags:
+- unknown
+tool_name: dbus-cleanup-sockets

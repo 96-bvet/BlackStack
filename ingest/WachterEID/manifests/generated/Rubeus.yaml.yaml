@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Rubeus.yaml
+hash: sha256:2a24432770c1c40c6caaf72a35d8d7e5c147f9ed8ff8c0b8642d23f22ed67bd3
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/credentials/Rubeus.yaml
+tags:
+- unknown
+tool_name: Rubeus.yaml

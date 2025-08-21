@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clean_shm.pl
+hash: sha256:09cd264633f0f57708ba629a619f65a16790fa719f90da1d4dc3d8f41a04a5e8
+persona_hint: Defense
+source_path: /usr/share/doc/libhtml-template-perl/examples/clean_shm.pl
+tags:
+- unknown
+tool_name: clean_shm.pl

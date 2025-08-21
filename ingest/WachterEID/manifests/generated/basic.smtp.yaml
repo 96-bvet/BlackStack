@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.smtp
+hash: sha256:30722b39828d2267afdee6f53a88cc6ceac32f49d49028c407912fe85c56fba4
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.smtp
+tags:
+- unknown
+tool_name: basic.smtp

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sprof
+hash: sha256:9511b28eabbbd81a6e5367783bd6fba682867aa40e4b85fcf817caca50ec4ef9
+persona_hint: Defense
+source_path: /usr/bin/sprof
+tags:
+- unknown
+tool_name: sprof

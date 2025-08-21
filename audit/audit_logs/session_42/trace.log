@@ -1,0 +1,9 @@
+2025-08-20 13:42:45.719239 - [*] Starting DeepSeek-V2 merger patch...
+2025-08-20 13:45:58.677301 - [✓] DeepSeek files rehashed and logged.
+2025-08-20 13:46:59.510005 - [*] Starting DeepSeek-V2 merger patch...
+2025-08-20 13:50:12.525240 - [✓] DeepSeek files rehashed and logged.
+2025-08-20 13:50:12.534325 - [✓] Registry patched with fallback logic and audit path.
+2025-08-20 13:50:12.534674 - [+] Fallback module scaffolded at runtime/fallback_deepseek.py
+2025-08-20 13:50:12.546908 - [+] Added missing dependency: transformers
+2025-08-20 13:50:12.547114 - [+] Added missing dependency: safetensors
+2025-08-20 13:50:12.547337 - [✓] Patch complete. DeepSeek-V2 is now fully integrated and audit-safe.

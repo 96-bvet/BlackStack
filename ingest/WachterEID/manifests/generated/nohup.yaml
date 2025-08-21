@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nohup
+hash: sha256:d290c0aae67eee4b37a86893cb0f4036f9bf1abe8ed19ecc6a529e7c681390f3
+persona_hint: Defense
+source_path: /usr/bin/nohup
+tags:
+- unknown
+tool_name: nohup

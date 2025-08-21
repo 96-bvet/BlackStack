@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ucn.pl
+hash: sha256:9a6b8d5d524105bb0eff5108a40494c52ada16fb35afb6ce1f4e0fe6891bf601
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-scripts/ucn.pl
+tags:
+- unknown
+tool_name: ucn.pl

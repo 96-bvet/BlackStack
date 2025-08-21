@@ -1,0 +1,7 @@
+description: Auto-generated manifest for powershell-empire
+hash: sha256:ef0c3ae8e932eebf459e1cb88694e8a3f7299e6322aa7da523111599459ac5a9
+persona_hint: Defense
+source_path: /usr/bin/powershell-empire
+tags:
+- unknown
+tool_name: powershell-empire

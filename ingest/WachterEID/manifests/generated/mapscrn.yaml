@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mapscrn
+hash: sha256:dc5d078959869e65901d2ffad182752f9bdcb5d439c190ae82e335ae6774b3f8
+persona_hint: Defense
+source_path: /usr/bin/mapscrn
+tags:
+- unknown
+tool_name: mapscrn

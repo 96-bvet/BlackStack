@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-machine-id-setup
+hash: sha256:f0de39969296c97184ea599de2aa86efe1425488ff44d6c901efca9798b175b9
+persona_hint: Defense
+source_path: /usr/bin/systemd-machine-id-setup
+tags:
+- unknown
+tool_name: systemd-machine-id-setup

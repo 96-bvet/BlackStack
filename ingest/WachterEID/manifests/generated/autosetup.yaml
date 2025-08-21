@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autosetup
+hash: sha256:6a68c28431bc549c26f9047a9e2e69b5dfd3add67c14af0c859846bdd5c60865
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/sqlite3-2.6.0/ext/sqlite3/tmp/x86_64-linux-gnu/ports/sqlite3/3.49.1/sqlite-autoconf-3490100/autosetup/autosetup
+tags:
+- unknown
+tool_name: autosetup

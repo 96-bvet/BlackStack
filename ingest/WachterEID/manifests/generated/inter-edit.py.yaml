@@ -1,0 +1,7 @@
+description: Auto-generated manifest for inter-edit.py
+hash: sha256:1ee879208de21b36c7719350b3f66a74d20d9511d846f95335ceea159e1e4aba
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/inter-edit.py
+tags:
+- unknown
+tool_name: inter-edit.py

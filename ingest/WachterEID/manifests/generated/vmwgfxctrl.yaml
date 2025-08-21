@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmwgfxctrl
+hash: sha256:9248b08911150a03e06018cfc59808fd0bf91e504ba1491760cd2123779b58ca
+persona_hint: Defense
+source_path: /usr/bin/vmwgfxctrl
+tags:
+- unknown
+tool_name: vmwgfxctrl

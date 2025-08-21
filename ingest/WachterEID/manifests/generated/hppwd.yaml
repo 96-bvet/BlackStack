@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hppwd
+hash: sha256:1b22ad3311e271029997dcb6cb03b6f869f944e2a6d54b39501780f1d3fbe210
+persona_hint: Defense
+source_path: /usr/bin/hppwd
+tags:
+- unknown
+tool_name: hppwd

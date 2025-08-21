@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ruby
+hash: sha256:9aa98944d50484329d6111f2487cfabc6d2ea8e2502bfaca7da325bbc33cf12e
+persona_hint: Defense
+source_path: /usr/bin/ruby
+tags:
+- unknown
+tool_name: ruby

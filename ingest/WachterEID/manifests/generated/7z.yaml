@@ -1,0 +1,7 @@
+description: Auto-generated manifest for 7z
+hash: sha256:f78e435b5865d8ac7f38fd5e5a90b9ec64f43c6655a6042cc36db060db1d5aaa
+persona_hint: Defense
+source_path: /usr/bin/7z
+tags:
+- unknown
+tool_name: 7z

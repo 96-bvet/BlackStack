@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msd-datetime-mechanism
+hash: sha256:16acb1f9d991e30337ec8bfc2bf3e9ab2725d0d166222e6f9670c89a396e2022
+persona_hint: Defense
+source_path: /usr/bin/msd-datetime-mechanism
+tags:
+- unknown
+tool_name: msd-datetime-mechanism

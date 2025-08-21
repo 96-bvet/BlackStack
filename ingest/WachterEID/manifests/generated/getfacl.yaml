@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getfacl
+hash: sha256:9549e4e322aa87ec77b03305b21d069db7ad112818ce8638f2db366bd6f1e5e8
+persona_hint: Defense
+source_path: /usr/bin/getfacl
+tags:
+- unknown
+tool_name: getfacl

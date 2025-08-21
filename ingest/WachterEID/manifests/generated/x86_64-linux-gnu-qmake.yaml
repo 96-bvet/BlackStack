@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-qmake
+hash: sha256:11c7fa539268f8c65a82f05ec496d797694dcb8490d00115792c1b3898e2bf05
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-qmake
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-qmake

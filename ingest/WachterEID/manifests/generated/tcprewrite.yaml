@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcprewrite
+hash: sha256:63444ba8bcdcf926171657c0b2814307171ce903194333455bd60a55a90bb005
+persona_hint: Defense
+source_path: /usr/bin/tcprewrite
+tags:
+- unknown
+tool_name: tcprewrite

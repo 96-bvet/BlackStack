@@ -1,0 +1,7 @@
+description: Auto-generated manifest for proxyecho.sh
+hash: sha256:354a048137c6a0cfa4d14416d04022592fe28c85660e003b288ce2acdf109266
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/proxyecho.sh
+tags:
+- unknown
+tool_name: proxyecho.sh

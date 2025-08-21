@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update_rubygems
+hash: sha256:1e36df4bfa0f86d7381de1580b7f9d7ab3a6800d616b6c0bee1dd14b3a7b86eb
+persona_hint: Defense
+source_path: /usr/bin/update_rubygems
+tags:
+- unknown
+tool_name: update_rubygems

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wpa_passphrase
+hash: sha256:ccd7f7e078e59f07d5ab660d97d9dbd053a0a1caa294f495c9e9d679cb530075
+persona_hint: Defense
+source_path: /usr/bin/wpa_passphrase
+tags:
+- unknown
+tool_name: wpa_passphrase

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gamma4scanimage
+hash: sha256:423b1e33d2f658071537b8d4b343e95102d63c875d14fda8a65d88bb7c8c5e35
+persona_hint: Defense
+source_path: /usr/bin/gamma4scanimage
+tags:
+- unknown
+tool_name: gamma4scanimage

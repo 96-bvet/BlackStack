@@ -1,0 +1,7 @@
+description: Auto-generated manifest for safari.pm
+hash: sha256:54f523340372ec4c52cc39f1c1195d94280799e5416578543a68594e995fad54
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/safari.pm
+tags:
+- unknown
+tool_name: safari.pm

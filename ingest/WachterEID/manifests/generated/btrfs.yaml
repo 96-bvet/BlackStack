@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btrfs
+hash: sha256:642807af4437aa1c88a764933169a3907b90e8bff4714191b65d56b6a517f49d
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/local-premount/btrfs
+tags:
+- unknown
+tool_name: btrfs

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for verify-signed-file.py
+hash: sha256:10f9ae8a9ff41bdf7fd05b61d53d92f5ac33a45f466d5b3ac47154bd01218e03
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/verify-signed-file.py
+tags:
+- unknown
+tool_name: verify-signed-file.py

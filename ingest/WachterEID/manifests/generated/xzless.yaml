@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xzless
+hash: sha256:8846135df6c52098ecd8f7f9fa669b622594763fbe17413a7fca92e2fd2c0af8
+persona_hint: Defense
+source_path: /usr/bin/xzless
+tags:
+- unknown
+tool_name: xzless

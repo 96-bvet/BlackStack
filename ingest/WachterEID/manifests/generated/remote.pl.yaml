@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remote.pl
+hash: sha256:b4d1788e003fb09b5f6160d7bcc933173b3d01636c784688d0fc71b6bbd0418b
+persona_hint: Defense
+source_path: /usr/share/doc/libfcgi-perl/examples/remote.pl
+tags:
+- unknown
+tool_name: remote.pl

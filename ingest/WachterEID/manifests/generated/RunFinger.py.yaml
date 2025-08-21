@@ -1,0 +1,7 @@
+description: Auto-generated manifest for RunFinger.py
+hash: sha256:5aeb2d5df907e205ff57e2469cdd0f57197232fe573bc7d87bfca4cc369fb865
+persona_hint: Defense
+source_path: /usr/share/responder/tools/RunFinger.py
+tags:
+- unknown
+tool_name: RunFinger.py

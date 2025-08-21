@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gettext.sh
+hash: sha256:b1c70a26633d0096404a6cd40a78ea61fba5d2d2b49359950241613ed29561db
+persona_hint: Defense
+source_path: /usr/bin/gettext.sh
+tags:
+- unknown
+tool_name: gettext.sh

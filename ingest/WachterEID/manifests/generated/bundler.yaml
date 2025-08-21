@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bundler
+hash: sha256:c0e892502457a81accae26e1317f575c236d5312e6f074bb428fa4fa4dd91dc2
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/bundler-2.3.15/exe/bundler
+tags:
+- unknown
+tool_name: bundler

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for foo.prerm
+hash: sha256:67ecdb1ae105f9b120f9b8a9aa7575fdb6a604708973c184e9af8e9d9670e305
+persona_hint: Defense
+source_path: /usr/share/doc/xml-core/examples/foo.prerm
+tags:
+- unknown
+tool_name: foo.prerm

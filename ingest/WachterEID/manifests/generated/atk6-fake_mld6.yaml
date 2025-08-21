@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-fake_mld6
+hash: sha256:4e5f913d464a9dd3bcd1bf1599637e8b323047a677e152e237f0dfc81a109034
+persona_hint: Defense
+source_path: /usr/bin/atk6-fake_mld6
+tags:
+- unknown
+tool_name: atk6-fake_mld6

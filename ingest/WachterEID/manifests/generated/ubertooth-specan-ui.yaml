@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-specan-ui
+hash: sha256:4decd5584ebaeb93dbde328eecbf6999fccd3a0b79e75bd4972ea722eaacd8fe
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-specan-ui
+tags:
+- unknown
+tool_name: ubertooth-specan-ui

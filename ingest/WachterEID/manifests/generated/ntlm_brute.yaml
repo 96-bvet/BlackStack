@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntlm_brute
+hash: sha256:eefd9a1359b85c56e5311443ded71d11edc0855a728267f49c492783ab1837de
+persona_hint: Defense
+source_path: /usr/bin/ntlm_brute
+tags:
+- unknown
+tool_name: ntlm_brute

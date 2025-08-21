@@ -1,0 +1,7 @@
+description: Auto-generated manifest for isutf8
+hash: sha256:1b61f4ab9f0426882f1eaba47881bd50ab8fc119f253b77fba3c01062d9c87f3
+persona_hint: Defense
+source_path: /usr/bin/isutf8
+tags:
+- unknown
+tool_name: isutf8

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for po2debconf
+hash: sha256:3e65e7edbf1f2ab1e30b0879a0bb8019abd8597253badf0caf20fd6f87c8ba54
+persona_hint: Defense
+source_path: /usr/bin/po2debconf
+tags:
+- unknown
+tool_name: po2debconf

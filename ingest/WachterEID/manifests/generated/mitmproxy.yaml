@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mitmproxy
+hash: sha256:17790ef3173e4a224380bdd74637d8e956f17b382a45fbc87c5d8816a555a77f
+persona_hint: Defense
+source_path: /usr/bin/mitmproxy
+tags:
+- unknown
+tool_name: mitmproxy

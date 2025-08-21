@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-maintscript-helper
+hash: sha256:b7b612faae4fecee027281c96fc794d81c49c8e23935cebd9ef30320f260d0d9
+persona_hint: Defense
+source_path: /usr/bin/dpkg-maintscript-helper
+tags:
+- unknown
+tool_name: dpkg-maintscript-helper

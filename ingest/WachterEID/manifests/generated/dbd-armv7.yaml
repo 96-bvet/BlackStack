@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbd-armv7
+hash: sha256:81f518953cd910302debc81ca339a0db9ff9220cba6b520dc7915237190df5cc
+persona_hint: Defense
+source_path: /usr/share/dbd/binaries/dbd-armv7
+tags:
+- unknown
+tool_name: dbd-armv7

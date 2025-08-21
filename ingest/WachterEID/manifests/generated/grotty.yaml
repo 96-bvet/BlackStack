@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grotty
+hash: sha256:805d165f249e29a3b046aeb10e16fd157db6128826a19318ae578d85d49b8f92
+persona_hint: Defense
+source_path: /usr/bin/grotty
+tags:
+- unknown
+tool_name: grotty

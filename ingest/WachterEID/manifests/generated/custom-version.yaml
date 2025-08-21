@@ -1,0 +1,7 @@
+description: Auto-generated manifest for custom-version
+hash: sha256:502c4c2613c566a153f82c0ccedf31bcc1b03009590c05affa93d16f846378f7
+persona_hint: Defense
+source_path: /usr/share/doc/node-commander/examples/custom-version
+tags:
+- unknown
+tool_name: custom-version

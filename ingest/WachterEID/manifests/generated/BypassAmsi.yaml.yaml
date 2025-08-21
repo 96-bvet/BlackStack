@@ -1,0 +1,7 @@
+description: Auto-generated manifest for BypassAmsi.yaml
+hash: sha256:988b56808ec92a4bcff22877911921c38ab30ae9f7b7ffd362b0b9d2a37d2645
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/SharpSploit/BypassAmsi.yaml
+tags:
+- unknown
+tool_name: BypassAmsi.yaml

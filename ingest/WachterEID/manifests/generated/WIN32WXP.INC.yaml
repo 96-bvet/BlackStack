@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN32WXP.INC
+hash: sha256:8a8779fac44ea439c7386da6c6371ec4c4cfa021ee5f3eec7e65b512f2f3701f
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/WIN32WXP.INC
+tags:
+- unknown
+tool_name: WIN32WXP.INC

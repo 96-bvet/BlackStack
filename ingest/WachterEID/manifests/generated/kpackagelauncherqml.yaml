@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kpackagelauncherqml
+hash: sha256:d51a2d6c475a48cb4bc4d7be7c6f50862819226e2b1c27952174327b2ea153e1
+persona_hint: Defense
+source_path: /usr/bin/kpackagelauncherqml
+tags:
+- unknown
+tool_name: kpackagelauncherqml

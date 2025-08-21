@@ -1,0 +1,7 @@
+description: Auto-generated manifest for findmnt
+hash: sha256:c20246863774b36e928b0447bd255fac51925d60c123ac187b7c1a5ccf8f3eb3
+persona_hint: Defense
+source_path: /usr/bin/findmnt
+tags:
+- unknown
+tool_name: findmnt

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-redir6
+hash: sha256:da0356ed81dba255654fe81419771505f144246fbcb06da3abbf957fe86135c5
+persona_hint: Defense
+source_path: /usr/bin/atk6-redir6
+tags:
+- unknown
+tool_name: atk6-redir6

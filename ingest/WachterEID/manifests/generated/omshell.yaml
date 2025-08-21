@@ -1,0 +1,7 @@
+description: Auto-generated manifest for omshell
+hash: sha256:a9a8bd2e6beae39ba7831d5027a6e8ff4f0de841f77284742e40fed1a5941611
+persona_hint: Defense
+source_path: /usr/bin/omshell
+tags:
+- unknown
+tool_name: omshell

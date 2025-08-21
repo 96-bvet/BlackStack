@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hcxpmktool
+hash: sha256:14323b6a9dc2d18d4e6c435e73c3493fe0178bc0f90e76fe97f357c56c6e8dae
+persona_hint: Defense
+source_path: /usr/bin/hcxpmktool
+tags:
+- unknown
+tool_name: hcxpmktool

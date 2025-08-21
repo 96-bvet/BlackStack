@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pipx
+hash: sha256:ec84dcfde4bca20ca0497a38fa055f9390f304eb3b13ee3355cddf69105a542e
+persona_hint: Defense
+source_path: /usr/bin/pipx
+tags:
+- unknown
+tool_name: pipx

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rctest
+hash: sha256:41b10eb2e6a7561ff054d4db32f13014ff0ef0d28fabf0c436fc61fc16eeb980
+persona_hint: Defense
+source_path: /usr/bin/rctest
+tags:
+- unknown
+tool_name: rctest

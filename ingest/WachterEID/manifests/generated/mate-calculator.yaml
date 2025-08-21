@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-calculator
+hash: sha256:c8369b9dd8a80e97d44f094622beac8afb0ee9291d49b87532dacebb0abba760
+persona_hint: Defense
+source_path: /usr/bin/mate-calculator
+tags:
+- unknown
+tool_name: mate-calculator

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_updateaptconfig
+hash: sha256:19c4b428ccfa9f0a4227401c481f6e26524b6a2bb66a17fb848958180a53b69b
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/pg_updateaptconfig
+tags:
+- unknown
+tool_name: pg_updateaptconfig

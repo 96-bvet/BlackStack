@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ospent
+hash: sha256:ffc7f17162882d7d22b75ca896d5ffcdf72f11532757d77e3df52ec5e361278b
+persona_hint: Defense
+source_path: /usr/bin/ospent
+tags:
+- unknown
+tool_name: ospent

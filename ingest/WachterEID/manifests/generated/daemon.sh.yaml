@@ -1,0 +1,7 @@
+description: Auto-generated manifest for daemon.sh
+hash: sha256:3824375d0516dbd1a7d353414984d932a550fd908e960b48f79033bc5d82dc71
+persona_hint: Defense
+source_path: /usr/share/doc/socat/examples/daemon.sh
+tags:
+- unknown
+tool_name: daemon.sh

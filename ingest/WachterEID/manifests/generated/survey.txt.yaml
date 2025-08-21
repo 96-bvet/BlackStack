@@ -1,0 +1,7 @@
+description: Auto-generated manifest for survey.txt
+hash: sha256:436a7c1c2d6d2fdf97c28d8ad01961b32cde04c68f9df8ba42e3a13366290967
+persona_hint: Defense
+source_path: /usr/share/spike/audits/COMPAQ/survey.txt
+tags:
+- unknown
+tool_name: survey.txt

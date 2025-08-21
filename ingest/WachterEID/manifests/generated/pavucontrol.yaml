@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pavucontrol
+hash: sha256:39199b92e27299f31e450d93f398b6d4adcfc689dc03b64ed2efedbf1970cc2a
+persona_hint: Defense
+source_path: /usr/bin/pavucontrol
+tags:
+- unknown
+tool_name: pavucontrol

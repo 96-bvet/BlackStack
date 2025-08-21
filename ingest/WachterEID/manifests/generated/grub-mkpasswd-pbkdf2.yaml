@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mkpasswd-pbkdf2
+hash: sha256:589bbc58b52379746cbbbd417026e53f5b457f20a322e5dc16fac340d1e2033c
+persona_hint: Defense
+source_path: /usr/bin/grub-mkpasswd-pbkdf2
+tags:
+- unknown
+tool_name: grub-mkpasswd-pbkdf2

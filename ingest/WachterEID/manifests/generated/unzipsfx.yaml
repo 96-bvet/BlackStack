@@ -1,0 +1,7 @@
+description: Auto-generated manifest for unzipsfx
+hash: sha256:47365a9d99db4bf129e84c564405753838c23dd13c7e6072f002446c8d0d7c5e
+persona_hint: Defense
+source_path: /usr/bin/unzipsfx
+tags:
+- unknown
+tool_name: unzipsfx

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbserver.py
+hash: sha256:1d67c39a5c9ea769f13404c4c61e96f2f01a27308ad21e49e0ab16ca824b06e3
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/smbserver.py
+tags:
+- unknown
+tool_name: smbserver.py

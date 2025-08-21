@@ -1,0 +1,7 @@
+description: Auto-generated manifest for oshare
+hash: sha256:52b9093b23da55ec732800f875a4a20df440ad4b36483e71837e1954998488b2
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/oshare
+tags:
+- unknown
+tool_name: oshare

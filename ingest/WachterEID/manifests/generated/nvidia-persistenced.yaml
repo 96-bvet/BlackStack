@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvidia-persistenced
+hash: sha256:00307b136eedbcc46579bb0cf0c1fea5581063189615c1a4449a051a41707a22
+persona_hint: Defense
+source_path: /usr/bin/nvidia-persistenced
+tags:
+- unknown
+tool_name: nvidia-persistenced

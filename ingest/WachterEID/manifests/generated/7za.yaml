@@ -1,0 +1,7 @@
+description: Auto-generated manifest for 7za
+hash: sha256:14a67146b43b84e628a834016ae55604a73d359ac0778bb779518b368391c1f6
+persona_hint: Defense
+source_path: /usr/bin/7za
+tags:
+- unknown
+tool_name: 7za

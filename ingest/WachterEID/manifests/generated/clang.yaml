@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clang
+hash: sha256:71b0de1b06b1ffe3a68f1b15f3bfff1f80ba3351ac679be346fb515327494157
+persona_hint: Defense
+source_path: /usr/bin/clang
+tags:
+- unknown
+tool_name: clang

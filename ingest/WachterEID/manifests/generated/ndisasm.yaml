@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ndisasm
+hash: sha256:a879ff5930e0dd2186d502dfc12dfb533d6ce67ddfde950843521e91f89dcc9b
+persona_hint: Defense
+source_path: /usr/bin/ndisasm
+tags:
+- unknown
+tool_name: ndisasm

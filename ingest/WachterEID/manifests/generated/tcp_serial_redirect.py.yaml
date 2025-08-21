@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tcp_serial_redirect.py
+hash: sha256:4993818c655cfc0150b9057f134d2eecf28f22cbbd979ce2ae632e8899f3f9fc
+persona_hint: Defense
+source_path: /usr/share/doc/python3-serial/examples/tcp_serial_redirect.py
+tags:
+- unknown
+tool_name: tcp_serial_redirect.py

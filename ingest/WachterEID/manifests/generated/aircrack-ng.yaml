@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aircrack-ng
+hash: sha256:f39cef4f25670fa56b97a1c2f4d12136e82dd82184ebc9e33e1672313c9856b2
+persona_hint: Defense
+source_path: /usr/bin/aircrack-ng
+tags:
+- unknown
+tool_name: aircrack-ng

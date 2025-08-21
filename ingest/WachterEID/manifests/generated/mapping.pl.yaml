@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mapping.pl
+hash: sha256:064d5725db05baf0c663cde540deb4fb4aea1b5bfb4ebc17ed849b6260d27317
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/katex/src/metrics/mapping.pl
+tags:
+- unknown
+tool_name: mapping.pl

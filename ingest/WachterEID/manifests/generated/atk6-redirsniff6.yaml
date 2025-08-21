@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-redirsniff6
+hash: sha256:7112c14b666765eb8b88e0ed94da2ce617c6bfdde9060ad3bdbe6c6c337638ce
+persona_hint: Defense
+source_path: /usr/bin/atk6-redirsniff6
+tags:
+- unknown
+tool_name: atk6-redirsniff6

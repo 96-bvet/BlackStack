@@ -1,0 +1,7 @@
+description: Auto-generated manifest for httpx
+hash: sha256:42991964ef1b388c59c2bfd757e1a401ac42ee721081ee2ce77ea3a222237908
+persona_hint: Defense
+source_path: /usr/bin/httpx
+tags:
+- unknown
+tool_name: httpx

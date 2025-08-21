@@ -1,0 +1,7 @@
+description: Auto-generated manifest for printenv
+hash: sha256:16a1af53235b0c5e51d95091859951dec0bd431c5761879ea4509aaf0c4e6f0c
+persona_hint: Defense
+source_path: /usr/bin/printenv
+tags:
+- unknown
+tool_name: printenv

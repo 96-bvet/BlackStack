@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scp-dbus-service.py
+hash: sha256:1dea76b9646ffb1946437e6b8c58730de6b340aef81a4628f608a4c28ca53082
+persona_hint: Defense
+source_path: /usr/share/system-config-printer/scp-dbus-service.py
+tags:
+- unknown
+tool_name: scp-dbus-service.py

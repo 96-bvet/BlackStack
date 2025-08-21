@@ -1,0 +1,7 @@
+description: Auto-generated manifest for encrypt-sign-file.py
+hash: sha256:60e86cd9219f31b468ea2b001fece9cdc6ab968774c8177510161a9f0b441250
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/encrypt-sign-file.py
+tags:
+- unknown
+tool_name: encrypt-sign-file.py

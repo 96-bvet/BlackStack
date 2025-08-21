@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-barcode
+hash: sha256:abc12d5c0316cc8b95416a1b7936a7a5da7e1fd9f68f240a0b07f807e47ce885
+persona_hint: Defense
+source_path: /usr/bin/nfc-barcode
+tags:
+- unknown
+tool_name: nfc-barcode

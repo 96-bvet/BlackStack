@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-tweak
+hash: sha256:8ba1fd6d02497f1bc52a29220e1f6cd6699614984b9fbdb293d93470662cad20
+persona_hint: Defense
+source_path: /usr/bin/mate-tweak
+tags:
+- unknown
+tool_name: mate-tweak

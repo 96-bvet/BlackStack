@@ -1,0 +1,7 @@
+description: Auto-generated manifest for traceroute-nanog
+hash: sha256:b3d1c2c1609ba9462137a1b702a8d09e177760a6e4a2871197ade299f097ad7c
+persona_hint: Defense
+source_path: /usr/bin/traceroute-nanog
+tags:
+- unknown
+tool_name: traceroute-nanog

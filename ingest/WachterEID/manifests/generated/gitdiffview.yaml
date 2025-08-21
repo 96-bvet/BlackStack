@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gitdiffview
+hash: sha256:7e41f15e5d0e405cfb4152d28fbe8cc2e41588afb675e1daf181be932726882d
+persona_hint: Defense
+source_path: /usr/bin/gitdiffview
+tags:
+- unknown
+tool_name: gitdiffview

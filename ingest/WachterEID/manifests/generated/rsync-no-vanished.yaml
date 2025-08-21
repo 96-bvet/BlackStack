@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rsync-no-vanished
+hash: sha256:1dbbc370ebe15955a0c20cbd1e113ee1908f182816c8af864a712fab8cd29ae0
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/rsync-no-vanished
+tags:
+- unknown
+tool_name: rsync-no-vanished

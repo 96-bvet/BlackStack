@@ -1,0 +1,7 @@
+description: Auto-generated manifest for logger
+hash: sha256:6ed8be340b171bc5f64576cc667311530faa0dba9736c5b84f4e8a386458ab6f
+persona_hint: Defense
+source_path: /usr/bin/logger
+tags:
+- unknown
+tool_name: logger

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bleachbit
+hash: sha256:2b4bf41c639976e2ea53536b807f83ce331cbb67a90834ef887058ecb1ac8771
+persona_hint: Defense
+source_path: /usr/bin/bleachbit
+tags:
+- unknown
+tool_name: bleachbit

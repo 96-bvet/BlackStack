@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-dwp
+hash: sha256:ebd6b432715c82e3ceb4a32909e9781da73de4310ba3f05d6a8d5bed8ed1ca9f
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-dwp
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-dwp

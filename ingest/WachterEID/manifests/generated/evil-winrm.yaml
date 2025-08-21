@@ -1,0 +1,7 @@
+description: Auto-generated manifest for evil-winrm
+hash: sha256:c1f1c562ec4b3fc9f7b6bb13e9c7235fa7c0d8610782456bf64712b8005c0dd9
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/evil-winrm-3.5/bin/evil-winrm
+tags:
+- unknown
+tool_name: evil-winrm

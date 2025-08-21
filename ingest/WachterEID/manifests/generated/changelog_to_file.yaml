@@ -1,0 +1,7 @@
+description: Auto-generated manifest for changelog_to_file
+hash: sha256:3105ecf544f2e49cc4195585cd238d4e074f7184d68408885f0e545fe227ea69
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/changelog/changelog_to_file
+tags:
+- unknown
+tool_name: changelog_to_file

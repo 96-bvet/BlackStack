@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exodus2hashcat.py
+hash: sha256:1f3927702e51d776efcb0e6d0a4d34015137e79d05cea73485844a1d10440540
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/exodus2hashcat.py
+tags:
+- unknown
+tool_name: exodus2hashcat.py

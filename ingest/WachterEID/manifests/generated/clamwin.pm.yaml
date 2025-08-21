@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clamwin.pm
+hash: sha256:f5319e0a3766c730623a2cd9d20daa6a2e26ef9b55b1c4ed29d797e6be6e7e6f
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/clamwin.pm
+tags:
+- unknown
+tool_name: clamwin.pm

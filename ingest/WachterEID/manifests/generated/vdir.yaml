@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vdir
+hash: sha256:27c28e4a1f793d6393c73b5640a9e997efe908ee5738a511539564a1d90cd208
+persona_hint: Defense
+source_path: /usr/bin/vdir
+tags:
+- unknown
+tool_name: vdir

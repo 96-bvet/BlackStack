@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-emulate-forum-tag4
+hash: sha256:87307ed8fe7c79a8a794455be37bb5e1e0b64c9fee72a86d5785cfb2fb918241
+persona_hint: Defense
+source_path: /usr/bin/nfc-emulate-forum-tag4
+tags:
+- unknown
+tool_name: nfc-emulate-forum-tag4

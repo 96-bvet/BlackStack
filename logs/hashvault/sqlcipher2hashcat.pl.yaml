@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sqlcipher2hashcat.pl
+hash: sha256:1751b15707eb70c8dc9feae070363c6dc13bf1ea00f8588aec66367d4b6525e9
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/sqlcipher2hashcat.pl
+tags:
+- unknown
+tool_name: sqlcipher2hashcat.pl

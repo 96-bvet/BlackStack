@@ -1,0 +1,275 @@
+🔍 Validation started: 2025-08-20_23-14-07
+✅ Validated: asciinema
+✅ Validated: case_study_generator
+🚫 Not approved or import=false: gif
+🚫 Not approved or import=false: logs
+🚫 Not approved or import=false: replay
+✅ Validated: blue_teamer
+✅ Validated: bug_bounter
+✅ Validated: codeagent
+✅ Validated: dfir
+✅ Validated: factory
+✅ Validated: flag_discriminator
+✅ Validated: mail
+✅ Validated: memory
+✅ Validated: memory_analysis_agent
+✅ Validated: network_traffic_analyzer
+✅ Validated: one_tool
+✅ Validated: red_teamer
+✅ Validated: replay_attack_agent
+✅ Validated: reporter
+✅ Validated: retester
+✅ Validated: reverse_engineering_agent
+✅ Validated: subghz_sdr_agent
+✅ Validated: thought
+✅ Validated: usecase
+✅ Validated: wifi_security_tester
+✅ Validated: android_sast_agent
+✅ Validated: local_python_executor
+✅ Validated: reasoner_support
+✅ Validated: bb_triage
+✅ Validated: offsec
+✅ Validated: parallel_offensive_patterns
+✅ Validated: pattern
+✅ Validated: red_blue_team
+✅ Validated: red_blue_team_split
+✅ Validated: red_team
+✅ Validated: utils
+✅ Validated: release_to_pypi
+✅ Validated: eval
+✅ Validated: annotation_metrics
+✅ Validated: agents_as_tools
+✅ Validated: deterministic
+✅ Validated: forcing_tool_use
+✅ Validated: input_guardrails
+✅ Validated: llm_as_a_judge
+🚫 Not approved or import=false: output_guardrails
+✅ Validated: parallelization
+✅ Validated: routing
+✅ Validated: agent_lifecycle_example
+✅ Validated: dynamic_system_prompt
+✅ Validated: hello_world
+✅ Validated: hello_world_jupyter
+✅ Validated: lifecycle_example
+✅ Validated: stream_items
+✅ Validated: stream_text
+✅ Validated: tools
+✅ Validated: usage_tracking_example
+✅ Validated: basic_usage
+✅ Validated: simple_one_tool_test
+✅ Validated: simple_one_tool_test_streamed
+✅ Validated: LLM_as_judge
+✅ Validated: agent_as_tool
+✅ Validated: deterministic
+✅ Validated: guardrails
+✅ Validated: handoffs
+✅ Validated: handoffs_and_tools
+✅ Validated: paralelization
+✅ Validated: main
+✅ Validated: main
+✅ Validated: manager
+✅ Validated: printer
+✅ Validated: financials_agent
+✅ Validated: planner_agent
+✅ Validated: risk_agent
+✅ Validated: search_agent
+✅ Validated: verifier_agent
+✅ Validated: writer_agent
+✅ Validated: message_filter
+✅ Validated: message_filter_streaming
+✅ Validated: main
+✅ Validated: main
+✅ Validated: main
+🚫 Not approved or import=false: server
+🚫 Not approved or import=false: custom_example_agent
+🚫 Not approved or import=false: custom_example_global
+🚫 Not approved or import=false: custom_example_provider
+🚫 Not approved or import=false: litellm
+✅ Validated: main
+✅ Validated: manager
+✅ Validated: printer
+✅ Validated: planner_agent
+✅ Validated: search_agent
+✅ Validated: writer_agent
+🚫 Not approved or import=false: computer_use
+🚫 Not approved or import=false: file_search
+🚫 Not approved or import=false: web_search
+✅ Validated: main
+🚫 Not approved or import=false: util
+✅ Validated: main
+🚫 Not approved or import=false: my_workflow
+🚫 Not approved or import=false: portswiggerbot
+🚫 Not approved or import=false: cli
+🚫 Not approved or import=false: util
+✅ Validated: blue_teamer
+✅ Validated: bug_bounter
+✅ Validated: codeagent
+✅ Validated: dfir
+✅ Validated: factory
+✅ Validated: flag_discriminator
+✅ Validated: mail
+✅ Validated: memory
+✅ Validated: memory_analysis_agent
+✅ Validated: network_traffic_analyzer
+✅ Validated: one_tool
+✅ Validated: red_teamer
+✅ Validated: replay_attack_agent
+✅ Validated: reporter
+✅ Validated: retester
+✅ Validated: reverse_engineering_agent
+✅ Validated: subghz_sdr_agent
+✅ Validated: thought
+✅ Validated: usecase
+✅ Validated: wifi_security_tester
+✅ Validated: android_sast_agent
+✅ Validated: local_python_executor
+✅ Validated: reasoner_support
+✅ Validated: bb_triage
+✅ Validated: offsec
+✅ Validated: parallel_offensive_patterns
+✅ Validated: pattern
+✅ Validated: red_blue_team
+✅ Validated: red_blue_team_split
+✅ Validated: red_team
+✅ Validated: utils
+🚫 Not approved or import=false: endpoints
+🚫 Not approved or import=false: metrics
+🚫 Not approved or import=false: network
+🚫 Not approved or import=false: transfer
+🚫 Not approved or import=false: agent
+🚫 Not approved or import=false: base
+🚫 Not approved or import=false: compact
+🚫 Not approved or import=false: completer
+🚫 Not approved or import=false: config
+🚫 Not approved or import=false: cost
+🚫 Not approved or import=false: env
+🚫 Not approved or import=false: exit
+🚫 Not approved or import=false: flush
+🚫 Not approved or import=false: graph
+🚫 Not approved or import=false: help
+🚫 Not approved or import=false: history
+🚫 Not approved or import=false: kill
+🚫 Not approved or import=false: load
+🚫 Not approved or import=false: mcp
+✅ Validated: memory
+🚫 Not approved or import=false: merge
+🚫 Not approved or import=false: model
+🚫 Not approved or import=false: parallel
+🚫 Not approved or import=false: platform
+🚫 Not approved or import=false: quickstart
+🚫 Not approved or import=false: run
+🚫 Not approved or import=false: shell
+🚫 Not approved or import=false: virtualization
+🚫 Not approved or import=false: workspace
+🚫 Not approved or import=false: banner
+🚫 Not approved or import=false: keybindings
+🚫 Not approved or import=false: logging
+🚫 Not approved or import=false: prompt
+🚫 Not approved or import=false: toolbar
+🚫 Not approved or import=false: _config
+🚫 Not approved or import=false: _debug
+🚫 Not approved or import=false: _run_impl
+🚫 Not approved or import=false: agent
+🚫 Not approved or import=false: agent_output
+🚫 Not approved or import=false: agent_registry
+🚫 Not approved or import=false: computer
+🚫 Not approved or import=false: exceptions
+🚫 Not approved or import=false: function_schema
+🚫 Not approved or import=false: global_usage_tracker
+🚫 Not approved or import=false: guardrail
+✅ Validated: handoffs
+🚫 Not approved or import=false: items
+🚫 Not approved or import=false: lifecycle
+🚫 Not approved or import=false: logger
+🚫 Not approved or import=false: model_settings
+🚫 Not approved or import=false: parallel_isolation
+🚫 Not approved or import=false: parallel_tool_executor
+🚫 Not approved or import=false: result
+🚫 Not approved or import=false: run
+🚫 Not approved or import=false: run_context
+🚫 Not approved or import=false: run_to_jsonl
+🚫 Not approved or import=false: simple_agent_manager
+🚫 Not approved or import=false: stream_events
+🚫 Not approved or import=false: strict_schema
+🚫 Not approved or import=false: tool
+🚫 Not approved or import=false: usage
+🚫 Not approved or import=false: version
+🚫 Not approved or import=false: handoff_filters
+🚫 Not approved or import=false: handoff_prompt
+🚫 Not approved or import=false: visualization
+🚫 Not approved or import=false: server
+🚫 Not approved or import=false: util
+🚫 Not approved or import=false: _openai_shared
+🚫 Not approved or import=false: fake_id
+🚫 Not approved or import=false: interface
+🚫 Not approved or import=false: openai_chatcompletions
+🚫 Not approved or import=false: openai_provider
+🚫 Not approved or import=false: openai_responses
+🚫 Not approved or import=false: create
+🚫 Not approved or import=false: logger
+🚫 Not approved or import=false: processor_interface
+🚫 Not approved or import=false: processors
+🚫 Not approved or import=false: scope
+🚫 Not approved or import=false: setup
+🚫 Not approved or import=false: span_data
+🚫 Not approved or import=false: spans
+🚫 Not approved or import=false: traces
+🚫 Not approved or import=false: util
+🚫 Not approved or import=false: _coro
+🚫 Not approved or import=false: _error_tracing
+🚫 Not approved or import=false: _json
+🚫 Not approved or import=false: _pretty_print
+🚫 Not approved or import=false: _transforms
+🚫 Not approved or import=false: _types
+🚫 Not approved or import=false: events
+🚫 Not approved or import=false: exceptions
+🚫 Not approved or import=false: imports
+🚫 Not approved or import=false: input
+🚫 Not approved or import=false: model
+🚫 Not approved or import=false: pipeline
+🚫 Not approved or import=false: pipeline_config
+🚫 Not approved or import=false: result
+✅ Validated: utils
+🚫 Not approved or import=false: workflow
+🚫 Not approved or import=false: openai_model_provider
+🚫 Not approved or import=false: openai_stt
+🚫 Not approved or import=false: openai_tts
+🚫 Not approved or import=false: common
+🚫 Not approved or import=false: command_and_control
+🚫 Not approved or import=false: sshpass
+🚫 Not approved or import=false: cli_utils
+🚫 Not approved or import=false: code_interpreter
+🚫 Not approved or import=false: rag
+🚫 Not approved or import=false: reasoning
+🚫 Not approved or import=false: capture_traffic
+🚫 Not approved or import=false: scripting
+🚫 Not approved or import=false: crypto_tools
+🚫 Not approved or import=false: curl
+🚫 Not approved or import=false: exec_code
+🚫 Not approved or import=false: filesystem
+🚫 Not approved or import=false: generic_linux_command
+🚫 Not approved or import=false: netcat
+🚫 Not approved or import=false: netstat
+🚫 Not approved or import=false: nmap
+🚫 Not approved or import=false: shodan
+🚫 Not approved or import=false: wget
+🚫 Not approved or import=false: google_search
+🚫 Not approved or import=false: headers
+🚫 Not approved or import=false: search_web
+🚫 Not approved or import=false: webshell_suit
+🚫 Not approved or import=false: conftest
+🚫 Not approved or import=false: conftest_pricing
+🚫 Not approved or import=false: fake_model
+🚫 Not approved or import=false: helpers
+🚫 Not approved or import=false: testing_processor
+🚫 Not approved or import=false: base_cli_test
+🚫 Not approved or import=false: conftest
+🚫 Not approved or import=false: helpers
+🚫 Not approved or import=false: conftest
+🚫 Not approved or import=false: fake_models
+🚫 Not approved or import=false: helpers
+✅ Validated: asciinema
+✅ Validated: case_study_generator
+🚫 Not approved or import=false: gif
+🚫 Not approved or import=false: logs
+🚫 Not approved or import=false: replay

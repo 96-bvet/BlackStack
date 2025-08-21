@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mailtest
+hash: sha256:020f1c813db0a5cb9d3e31e404bbb1d4f3410d4f33fb8e74913df911d793c426
+persona_hint: Defense
+source_path: /usr/bin/mailtest
+tags:
+- unknown
+tool_name: mailtest

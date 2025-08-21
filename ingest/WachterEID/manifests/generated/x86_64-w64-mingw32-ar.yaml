@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-ar
+hash: sha256:3382c089039a9cd53d0f884b9e70b974a14d9d3aab33fcd5507fb468a66de18d
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-ar
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-ar

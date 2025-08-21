@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vncviewer.exe
+hash: sha256:7c9fbecc1c81cf501709029b0df80a201519acd6445fcc66ea66108919120e20
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/vncviewer.exe
+tags:
+- unknown
+tool_name: vncviewer.exe

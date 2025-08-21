@@ -1,0 +1,7 @@
+description: Auto-generated manifest for torsocks
+hash: sha256:3aa0143996fd2392f338db99be627c249471e9fa99929d9aa64aec942daac1fd
+persona_hint: Defense
+source_path: /usr/bin/torsocks
+tags:
+- unknown
+tool_name: torsocks

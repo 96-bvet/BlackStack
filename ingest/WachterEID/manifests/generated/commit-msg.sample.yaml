@@ -1,0 +1,7 @@
+description: Auto-generated manifest for commit-msg.sample
+hash: sha256:1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/commit-msg.sample
+tags:
+- unknown
+tool_name: commit-msg.sample

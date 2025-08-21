@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN1253.INC
+hash: sha256:346b2913e50919d7017265bd8602b085c3cf03e44e0a4e351477212c368bea15
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/ENCODING/WIN1253.INC
+tags:
+- unknown
+tool_name: WIN1253.INC

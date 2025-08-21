@@ -1,0 +1,7 @@
+description: Auto-generated manifest for udptunnel
+hash: sha256:b9d565c038fefa835b23329b80ecc67ea3abb77e5b5eea50b2f212907494e875
+persona_hint: Defense
+source_path: /usr/bin/udptunnel
+tags:
+- unknown
+tool_name: udptunnel

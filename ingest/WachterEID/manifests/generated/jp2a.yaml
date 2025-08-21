@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jp2a
+hash: sha256:2f7f3418ad9fa1ba4ce7d83fb72020f07d7297f38d6f862428c2334dc758d6c4
+persona_hint: Defense
+source_path: /usr/bin/jp2a
+tags:
+- unknown
+tool_name: jp2a

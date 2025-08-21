@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getent
+hash: sha256:8701c6273edc05cc74f0760bf406620e5f3e4ae6da5ae18f2a9347bbe0e6139f
+persona_hint: Defense
+source_path: /usr/bin/getent
+tags:
+- unknown
+tool_name: getent

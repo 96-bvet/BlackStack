@@ -1,0 +1,8 @@
+name: message_filter_streaming
+path: examples/handoffs/message_filter_streaming.py
+type: py
+category: misc
+hash: aacad18915c53b9c617e24af49145894b91e247764b3c582ab4c99b9bfadec71
+approved: true
+import: true
+license_stub: true

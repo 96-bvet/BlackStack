@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-session-logout
+hash: sha256:6d7d71239a9487d017d2421ad5bba53df61329e4e43a29405827faa9983704cb
+persona_hint: Defense
+source_path: /usr/bin/xfce4-session-logout
+tags:
+- unknown
+tool_name: xfce4-session-logout

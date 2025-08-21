@@ -1,0 +1,7 @@
+description: Auto-generated manifest for copy.pl
+hash: sha256:a8cedcd2cf6cdd914c1dd19acfd60d130a8a3b629136ff8b2bf23cc0ad0fcbca
+persona_hint: Defense
+source_path: /usr/share/doc/libvariable-magic-perl/examples/copy.pl
+tags:
+- unknown
+tool_name: copy.pl

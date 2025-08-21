@@ -1,0 +1,7 @@
+description: Auto-generated manifest for encrypt-to-group.py
+hash: sha256:4d9f2b78dc4fae193f5494d7f19a80a3ce5dc1c232d576763beb7a62cc227a77
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/encrypt-to-group.py
+tags:
+- unknown
+tool_name: encrypt-to-group.py

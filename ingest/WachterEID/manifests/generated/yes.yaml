@@ -1,0 +1,7 @@
+description: Auto-generated manifest for yes
+hash: sha256:cf182e6211e04f7aadd80174f27124d44edf063c73828c91e31be1919551f23b
+persona_hint: Defense
+source_path: /usr/bin/yes
+tags:
+- unknown
+tool_name: 'yes'

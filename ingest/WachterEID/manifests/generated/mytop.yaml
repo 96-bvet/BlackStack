@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mytop
+hash: sha256:af76b4a01ec6253716719a5b22eb9dbcf6bdfd45a7cf393b05ae7da1d39c7d8c
+persona_hint: Defense
+source_path: /usr/bin/mytop
+tags:
+- unknown
+tool_name: mytop

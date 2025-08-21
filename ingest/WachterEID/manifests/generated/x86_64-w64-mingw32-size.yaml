@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-size
+hash: sha256:76388728036e5b06f89f3fc26612c57f77b212fa0d7c5f2193fd6eaa54958fa4
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-size
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-size

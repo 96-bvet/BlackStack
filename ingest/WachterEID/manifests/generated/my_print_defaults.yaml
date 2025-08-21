@@ -1,0 +1,7 @@
+description: Auto-generated manifest for my_print_defaults
+hash: sha256:789f2ca66eea472906bd090d9ad1ebb7360f7772071ccab4037658c26e791a56
+persona_hint: Defense
+source_path: /usr/bin/my_print_defaults
+tags:
+- unknown
+tool_name: my_print_defaults

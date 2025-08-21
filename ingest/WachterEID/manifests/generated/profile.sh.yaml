@@ -1,0 +1,7 @@
+description: Auto-generated manifest for profile.sh
+hash: sha256:bc45b3c2bfedc8f6fa3f76a96dcc31139c69becfe08400afcb3ba634845f67e5
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/cmd/compile/profile.sh
+tags:
+- unknown
+tool_name: profile.sh

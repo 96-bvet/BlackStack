@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dnschef
+hash: sha256:561ea302ee861148ef48d0b8ebd7925c01f70d6ea90f6e9ca0d23b0db0a40cf3
+persona_hint: Defense
+source_path: /usr/bin/dnschef
+tags:
+- unknown
+tool_name: dnschef

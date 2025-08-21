@@ -1,0 +1,7 @@
+description: Auto-generated manifest for npx
+hash: sha256:a751083817902f04ac59f924ae7e120cca2cd0954edabdbbecf7d1e72022dc23
+persona_hint: Defense
+source_path: /usr/share/nodejs/npm/bin/npx
+tags:
+- unknown
+tool_name: npx

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdpyinfo
+hash: sha256:e7e1a29eb970f5eb5c0592a4fc4dd4c6cafd5d79358dfb7b27a81b74d060ccca
+persona_hint: Defense
+source_path: /usr/bin/xdpyinfo
+tags:
+- unknown
+tool_name: xdpyinfo

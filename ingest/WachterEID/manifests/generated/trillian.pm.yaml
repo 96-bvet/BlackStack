@@ -1,0 +1,7 @@
+description: Auto-generated manifest for trillian.pm
+hash: sha256:d6c2f98fc210c475cc0572bb52c7cea0ec0835ff71a5a7046dea82e41131c6a3
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/trillian.pm
+tags:
+- unknown
+tool_name: trillian.pm

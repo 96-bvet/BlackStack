@@ -1,0 +1,7 @@
+description: Auto-generated manifest for packets.tcl
+hash: sha256:1d214f309a6c1c5c390c9b9adc3d7fec4daf5e47b52ed82733c97e1080c55861
+persona_hint: Defense
+source_path: /usr/bin/packets.tcl
+tags:
+- unknown
+tool_name: packets.tcl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wbinfo
+hash: sha256:2c02d3d7d40e9b24a6592e268d193263de98164ebcb88ea0e1888dc4ab59b057
+persona_hint: Defense
+source_path: /usr/bin/wbinfo
+tags:
+- unknown
+tool_name: wbinfo

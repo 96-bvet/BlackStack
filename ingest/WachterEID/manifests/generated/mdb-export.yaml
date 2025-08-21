@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-export
+hash: sha256:8ef8a3cae7e07096e772939b779911c4f85861b2a2f6e0d860ce08f135b99e4c
+persona_hint: Defense
+source_path: /usr/bin/mdb-export
+tags:
+- unknown
+tool_name: mdb-export

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mdb-parsecsv
+hash: sha256:a86793aa51790837051692de31fd1be36ff0b00ab44ecb555a0d4da97072df84
+persona_hint: Defense
+source_path: /usr/bin/mdb-parsecsv
+tags:
+- unknown
+tool_name: mdb-parsecsv

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-appfinder
+hash: sha256:1d0b84d0f523959b3dfe04ae8dd61a079c1b47b31ab22d49287dfddd4fd09553
+persona_hint: Defense
+source_path: /usr/bin/xfce4-appfinder
+tags:
+- unknown
+tool_name: xfce4-appfinder

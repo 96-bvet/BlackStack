@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pod2man
+hash: sha256:787b44d170897cf7cd25055fd3262c3172fc0a08061c520992197544d9e21195
+persona_hint: Defense
+source_path: /usr/bin/pod2man
+tags:
+- unknown
+tool_name: pod2man

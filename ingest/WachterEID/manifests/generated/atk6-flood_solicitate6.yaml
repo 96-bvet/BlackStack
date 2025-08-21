@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-flood_solicitate6
+hash: sha256:60ef2a9d2e2c22476407780b43d7187355855d352f97807af7e2d6cfb3956822
+persona_hint: Defense
+source_path: /usr/bin/atk6-flood_solicitate6
+tags:
+- unknown
+tool_name: atk6-flood_solicitate6

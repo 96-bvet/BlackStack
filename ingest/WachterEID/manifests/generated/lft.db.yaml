@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lft.db
+hash: sha256:535f2a686850295bbc522d6c759180cf160275c3c2b9987a10e86ef4a777bcd1
+persona_hint: Defense
+source_path: /usr/bin/lft.db
+tags:
+- unknown
+tool_name: lft.db

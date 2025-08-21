@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-autogen
+hash: sha256:4de1479493c665fe55019e12d7bbf04100fdfb0816f1b7f87fa4545b8b9e6197
+persona_hint: Defense
+source_path: /usr/bin/mate-autogen
+tags:
+- unknown
+tool_name: mate-autogen

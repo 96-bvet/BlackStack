@@ -1,0 +1,7 @@
+description: Auto-generated manifest for plog
+hash: sha256:43608081ab9d6a755eb4e6fa2011f88b16b1702745d76bced6d546a7c579b39f
+persona_hint: Defense
+source_path: /usr/bin/plog
+tags:
+- unknown
+tool_name: plog

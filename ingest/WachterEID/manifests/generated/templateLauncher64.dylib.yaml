@@ -1,0 +1,7 @@
+description: Auto-generated manifest for templateLauncher64.dylib
+hash: sha256:fd4bcf71abbf7be37aca5d1992d350f463c57661182427179a14c07b376ab3ca
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/data/misc/templateLauncher64.dylib
+tags:
+- unknown
+tool_name: templateLauncher64.dylib

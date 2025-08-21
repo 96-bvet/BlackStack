@@ -1,0 +1,7 @@
+description: Auto-generated manifest for slick-greeter-set-keyboard-layout
+hash: sha256:f24dfd5a5a6c044410be035c57ce741410c068b2d89ddd73c90719f09b06190f
+persona_hint: Defense
+source_path: /usr/bin/slick-greeter-set-keyboard-layout
+tags:
+- unknown
+tool_name: slick-greeter-set-keyboard-layout

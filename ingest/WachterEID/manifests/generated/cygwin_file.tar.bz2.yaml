@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cygwin_file.tar.bz2
+hash: sha256:23b666fe1a7f1fa9418738f1dc83077e0ce0a4f93172d9ec47b5bf067a61c239
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/cygwin_file.tar.bz2
+tags:
+- unknown
+tool_name: cygwin_file.tar.bz2

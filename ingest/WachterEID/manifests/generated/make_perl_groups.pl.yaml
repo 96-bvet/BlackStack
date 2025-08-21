@@ -1,0 +1,7 @@
+description: Auto-generated manifest for make_perl_groups.pl
+hash: sha256:ea058e155359d5f4a3cc983d1e200a4b3a08d4cf0e2c2e3c867027ccdf83b742
+persona_hint: Defense
+source_path: /usr/share/go-1.23/src/regexp/syntax/make_perl_groups.pl
+tags:
+- unknown
+tool_name: make_perl_groups.pl

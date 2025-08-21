@@ -1,0 +1,16 @@
+name: usecase
+path: src/cai/agents/usecase.py
+type: py
+category: misc
+hash: 46e09809d7f413a17d3413d6b428432e4383b45c0f85c4c4d112df36989d9153
+approved: true
+import: true
+license_stub: true
+name: usecase
+path: src/cai/agents/usecase.py
+type: py
+category: misc
+hash: 46e09809d7f413a17d3413d6b428432e4383b45c0f85c4c4d112df36989d9153
+approved: true
+import: true
+license_stub: true

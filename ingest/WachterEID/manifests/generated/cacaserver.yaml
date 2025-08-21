@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cacaserver
+hash: sha256:4923c0bb3ebc416e28c810e68cdfa2cc8ec56086255b27e4b369e0d33e334be2
+persona_hint: Defense
+source_path: /usr/bin/cacaserver
+tags:
+- unknown
+tool_name: cacaserver

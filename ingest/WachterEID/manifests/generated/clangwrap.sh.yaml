@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clangwrap.sh
+hash: sha256:ca765c8f58a0dfcf9868d0c6e598b68dfe7e16f3c82bb854ee6718f2d682495a
+persona_hint: Defense
+source_path: /usr/share/go-1.23/misc/ios/clangwrap.sh
+tags:
+- unknown
+tool_name: clangwrap.sh

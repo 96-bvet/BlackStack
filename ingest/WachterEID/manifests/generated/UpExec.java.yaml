@@ -1,0 +1,7 @@
+description: Auto-generated manifest for UpExec.java
+hash: sha256:99572809494d710e65e9a3e22c156aefb8fe30a2b473fcfdf7639a0a23b6f08f
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stage/UpExec.java
+tags:
+- unknown
+tool_name: UpExec.java

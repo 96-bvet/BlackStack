@@ -1,0 +1,7 @@
+description: Auto-generated manifest for utmpdump
+hash: sha256:4ad0076990b07efc56b2c566b0c70b433db5050abeaae032b10cb7b610c009df
+persona_hint: Defense
+source_path: /usr/bin/utmpdump
+tags:
+- unknown
+tool_name: utmpdump

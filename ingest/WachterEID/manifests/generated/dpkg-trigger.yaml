@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-trigger
+hash: sha256:d55a14b0f9b576971772301d4bcfb2fd69b2dc38bcd4bdc363cef9b65b32a4a3
+persona_hint: Defense
+source_path: /usr/bin/dpkg-trigger
+tags:
+- unknown
+tool_name: dpkg-trigger

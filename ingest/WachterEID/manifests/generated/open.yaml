@@ -1,0 +1,7 @@
+description: Auto-generated manifest for open
+hash: sha256:faec92df30f89fa338d9fba723e010265ffd062b41decd7885b1ff8fd46cc529
+persona_hint: Defense
+source_path: /usr/bin/open
+tags:
+- unknown
+tool_name: open

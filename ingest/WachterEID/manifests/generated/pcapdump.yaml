@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pcapdump
+hash: sha256:0534a5b672d6779e8a13ef51e8f8592a5864c8d1b2956d6d448a15229abeab06
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-pcap-perl/examples/pcapdump
+tags:
+- unknown
+tool_name: pcapdump

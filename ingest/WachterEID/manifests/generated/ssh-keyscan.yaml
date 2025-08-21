@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-keyscan
+hash: sha256:2ce5d73929c4130545358816379f3f71c48c8f6539ab495af81d97c981ebae5c
+persona_hint: Defense
+source_path: /usr/bin/ssh-keyscan
+tags:
+- unknown
+tool_name: ssh-keyscan

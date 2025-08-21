@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-daemon
+hash: sha256:1f729ba5672fa1b3d6dfb9d4415db98e023537d7e3a7c20737a29438dfcca412
+persona_hint: Defense
+source_path: /usr/bin/dbus-daemon
+tags:
+- unknown
+tool_name: dbus-daemon

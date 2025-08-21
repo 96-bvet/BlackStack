@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fcleaner.pm
+hash: sha256:72e5a75a0590fd31ae70c03db41943527e54b02830a62115802a7b7482bea45b
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/fcleaner.pm
+tags:
+- unknown
+tool_name: fcleaner.pm

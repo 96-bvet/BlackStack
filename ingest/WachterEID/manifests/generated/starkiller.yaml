@@ -1,0 +1,7 @@
+description: Auto-generated manifest for starkiller
+hash: sha256:a48eecc96d2eb0d519fb0a7d1c988da9c27e115a60e9de0d01e461d3f55f3f78
+persona_hint: Defense
+source_path: /usr/bin/starkiller
+tags:
+- unknown
+tool_name: starkiller

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for imageio_remove_bin
+hash: sha256:164db518a8ebf0299e2571b4af81cbba5eb1c4a4f98e4f5d2195ff6a0e3eed3e
+persona_hint: Defense
+source_path: /usr/bin/imageio_remove_bin
+tags:
+- unknown
+tool_name: imageio_remove_bin

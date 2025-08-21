@@ -1,0 +1,7 @@
+description: Auto-generated manifest for macro.py
+hash: sha256:6795302bff1275ecc763d724f91fe5af1b1c6ae0d69f44b4c291fcae1e39c1cc
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/stagers/multi/macro.py
+tags:
+- unknown
+tool_name: macro.py

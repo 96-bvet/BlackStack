@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-mkman
+hash: sha256:70e1bfccff297979ef5e81158cf998e72763f99a2ad41d902f36cc2dc4054108
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-mkman
+tags:
+- unknown
+tool_name: gtkdoc-mkman

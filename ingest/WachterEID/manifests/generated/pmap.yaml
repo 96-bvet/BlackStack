@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pmap
+hash: sha256:6098ee3e84ee009c9b0b41fcc24843f19f681c40390d87b255f69a1716abda5c
+persona_hint: Defense
+source_path: /usr/bin/pmap
+tags:
+- unknown
+tool_name: pmap

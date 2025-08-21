@@ -1,0 +1,7 @@
+description: Auto-generated manifest for login.request
+hash: sha256:17241bda5849d07eda6164cdf99465c65fbe9b8f9a500d97f06e6a66bbd5760e
+persona_hint: Defense
+source_path: /usr/share/spike/audits/MSContentManagementServer/login.request
+tags:
+- unknown
+tool_name: login.request

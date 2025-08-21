@@ -1,0 +1,7 @@
+description: Auto-generated manifest for paste
+hash: sha256:8ea6d9a0444faaee0c294f471d0de1194208900d4c0b50a6607ccb5a9fcee932
+persona_hint: Defense
+source_path: /usr/bin/paste
+tags:
+- unknown
+tool_name: paste

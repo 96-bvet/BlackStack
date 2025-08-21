@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_usrlocal
+hash: sha256:30c44bd73a0236b16ea0b1e6d9182ae53900e4b7e183300bbeecb121462050b4
+persona_hint: Defense
+source_path: /usr/bin/dh_usrlocal
+tags:
+- unknown
+tool_name: dh_usrlocal

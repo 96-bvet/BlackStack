@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tagminer
+hash: sha256:b24d40f67e9064202256e84aec4fa545bafaec97738bc86681e20cd9bfbed7dc
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debtags/tagminer
+tags:
+- unknown
+tool_name: tagminer

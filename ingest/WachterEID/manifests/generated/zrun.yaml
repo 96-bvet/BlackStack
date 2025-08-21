@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zrun
+hash: sha256:c88f6643fa571b6385f1f86caf97f99f254121d2ebb847cca6d43be4a550b6da
+persona_hint: Defense
+source_path: /usr/bin/zrun
+tags:
+- unknown
+tool_name: zrun

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-control-center
+hash: sha256:5004bcbff72e4fd4c9b46293760c233484400f90e198bcc083863a38ebe38edc
+persona_hint: Defense
+source_path: /usr/bin/mate-control-center
+tags:
+- unknown
+tool_name: mate-control-center

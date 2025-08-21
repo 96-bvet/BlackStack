@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-user
+hash: sha256:d002054028a32f11e9b437160abd8529d00c65cef23c66036419fcf79af3f50a
+persona_hint: Defense
+source_path: /usr/bin/vmware-user
+tags:
+- unknown
+tool_name: vmware-user

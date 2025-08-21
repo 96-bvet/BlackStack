@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_md5sums
+hash: sha256:39fd7cfdb0b744093dd1d99eecd78695f7ab75e725a66d1c0aa5d265fddabe3c
+persona_hint: Defense
+source_path: /usr/bin/dh_md5sums
+tags:
+- unknown
+tool_name: dh_md5sums

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtgen
+hash: sha256:249641ff76ea19fb6ff97af675dd06b8a0d92f7021a8505b95223c27db01fee9
+persona_hint: Defense
+source_path: /usr/share/rainbowcrack/rtgen
+tags:
+- unknown
+tool_name: rtgen

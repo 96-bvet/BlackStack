@@ -1,0 +1,7 @@
+description: Auto-generated manifest for import-keybasekey.py
+hash: sha256:1f02600953366f6c12345d6ed4805b07fa506c83c0249317669e6e99792aabf3
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/import-keybasekey.py
+tags:
+- unknown
+tool_name: import-keybasekey.py

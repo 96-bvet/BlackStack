@@ -1,0 +1,7 @@
+description: Auto-generated manifest for traceroute6.db
+hash: sha256:a0e936b686c28a62c4fb33fbb13ceecf08beaef62300fd28ab56409ab059248d
+persona_hint: Defense
+source_path: /usr/bin/traceroute6.db
+tags:
+- unknown
+tool_name: traceroute6.db

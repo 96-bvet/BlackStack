@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xrefresh
+hash: sha256:ffc6a799e29782e9d73f4ed2d33b4f70bfa690bde6a5c6fb28045a4096c9abee
+persona_hint: Defense
+source_path: /usr/bin/xrefresh
+tags:
+- unknown
+tool_name: xrefresh

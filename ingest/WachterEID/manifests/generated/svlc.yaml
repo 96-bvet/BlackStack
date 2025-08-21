@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svlc
+hash: sha256:f464919a6e6ec1eaa41b4b56bead2ec9da3600d6d667a47bfff6d34b99927e42
+persona_hint: Defense
+source_path: /usr/bin/svlc
+tags:
+- unknown
+tool_name: svlc

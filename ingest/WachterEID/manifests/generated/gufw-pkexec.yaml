@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gufw-pkexec
+hash: sha256:48a657d702f07cda7a52db54ebb428e49f6bddb64edf44ec8592809c690b7607
+persona_hint: Defense
+source_path: /usr/bin/gufw-pkexec
+tags:
+- unknown
+tool_name: gufw-pkexec

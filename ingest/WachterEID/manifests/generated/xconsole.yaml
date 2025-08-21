@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xconsole
+hash: sha256:aa41a41167e2487561e912372e78620751704473f3dd6430749ccab8ffdd6925
+persona_hint: Defense
+source_path: /usr/bin/xconsole
+tags:
+- unknown
+tool_name: xconsole

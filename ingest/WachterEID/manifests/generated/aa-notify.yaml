@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aa-notify
+hash: sha256:ab2557b3d278b33dbac1541c6d2951c4728e9a82043d6d42fa49a39212a2e966
+persona_hint: Defense
+source_path: /usr/bin/aa-notify
+tags:
+- unknown
+tool_name: aa-notify

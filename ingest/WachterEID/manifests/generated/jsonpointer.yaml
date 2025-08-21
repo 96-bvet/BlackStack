@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jsonpointer
+hash: sha256:8a98bfbcd6751b13548434f2ac6f87db344b789f763214e36cc5c2373be517ce
+persona_hint: Defense
+source_path: /usr/bin/jsonpointer
+tags:
+- unknown
+tool_name: jsonpointer

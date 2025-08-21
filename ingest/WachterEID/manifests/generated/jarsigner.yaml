@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jarsigner
+hash: sha256:2be4ee9b1a01415feece370e8549a2d347b332a2d1d755796cebf2c1c7e18048
+persona_hint: Defense
+source_path: /usr/bin/jarsigner
+tags:
+- unknown
+tool_name: jarsigner

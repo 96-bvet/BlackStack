@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pre-auto-gc-battery
+hash: sha256:3953dbbd7b876bf16c2cdc2c1657e389910fe3507635cebb91c0c665f0732c08
+persona_hint: Defense
+source_path: /usr/share/git-core/contrib/hooks/pre-auto-gc-battery
+tags:
+- unknown
+tool_name: pre-auto-gc-battery

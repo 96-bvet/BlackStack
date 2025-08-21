@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_bugfiles
+hash: sha256:037d6eaf56f7424678fcf2c98a849de2c9425459addb737bb8fcfecb4c5edf60
+persona_hint: Defense
+source_path: /usr/bin/dh_bugfiles
+tags:
+- unknown
+tool_name: dh_bugfiles

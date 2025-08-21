@@ -1,0 +1,7 @@
+description: Auto-generated manifest for view
+hash: sha256:3cb963a264b6cf45749627408b5a62c6945e5e426b595bb5e6a388194c2c1990
+persona_hint: Defense
+source_path: /usr/bin/view
+tags:
+- unknown
+tool_name: view

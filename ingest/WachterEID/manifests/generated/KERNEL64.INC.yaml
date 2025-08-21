@@ -1,0 +1,7 @@
+description: Auto-generated manifest for KERNEL64.INC
+hash: sha256:b0d3eb90a8be115e5972937ad0bedd626b110dbddf086745ae175caf628442b4
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/EQUATES/KERNEL64.INC
+tags:
+- unknown
+tool_name: KERNEL64.INC

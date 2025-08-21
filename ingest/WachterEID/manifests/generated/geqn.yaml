@@ -1,0 +1,7 @@
+description: Auto-generated manifest for geqn
+hash: sha256:92d49a2d768244c9d8f08506cc380438b49c10df151519dae3b8509f4eb04ed8
+persona_hint: Defense
+source_path: /usr/bin/geqn
+tags:
+- unknown
+tool_name: geqn

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadbd-safe
+hash: sha256:9388df79c1cb11498b6897d4194b28ddd7e832fefca848d79b9466fef6172aa2
+persona_hint: Defense
+source_path: /usr/bin/mariadbd-safe
+tags:
+- unknown
+tool_name: mariadbd-safe

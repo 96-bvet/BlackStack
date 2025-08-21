@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lto-dump-12
+hash: sha256:0090ca1feb4e704cb2e8be1690888218fd64fe7896f00a110ccf3ee508722f0a
+persona_hint: Defense
+source_path: /usr/bin/lto-dump-12
+tags:
+- unknown
+tool_name: lto-dump-12

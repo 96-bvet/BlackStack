@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-session-properties
+hash: sha256:f40783b0efd5f96b7d04f26b77583d74c56993ae3317a462712ec182191c5d82
+persona_hint: Defense
+source_path: /usr/bin/mate-session-properties
+tags:
+- unknown
+tool_name: mate-session-properties

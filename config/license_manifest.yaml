@@ -1,0 +1,9 @@
+licenses:
+- file: src/cai/agents/meta/local_python_executor.py
+  license: Apache
+  attribution_required: true
+  hash: 359124a8d4e27753b141f03a75ded494ba3870df64e85e98fafb77f32b438de1
+- file: src/cai/agents/meta/local_python_executor.py
+  license: Apache
+  attribution_required: true
+  hash: 359124a8d4e27753b141f03a75ded494ba3870df64e85e98fafb77f32b438de1

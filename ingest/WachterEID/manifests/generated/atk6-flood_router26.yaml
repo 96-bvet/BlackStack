@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-flood_router26
+hash: sha256:83a547ba5c012c6cc57aab645a0abca2c89f02d875577563ec2cefd7a5163dd3
+persona_hint: Defense
+source_path: /usr/bin/atk6-flood_router26
+tags:
+- unknown
+tool_name: atk6-flood_router26

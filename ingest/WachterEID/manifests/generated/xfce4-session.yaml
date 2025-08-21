@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-session
+hash: sha256:b72bbd595cd5acaa810fe761ed28113a94b0e9304b8ad22d37055366922dfa4e
+persona_hint: Defense
+source_path: /usr/bin/xfce4-session
+tags:
+- unknown
+tool_name: xfce4-session

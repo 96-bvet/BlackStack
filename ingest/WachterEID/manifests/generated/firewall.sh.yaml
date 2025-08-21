@@ -1,0 +1,7 @@
+description: Auto-generated manifest for firewall.sh
+hash: sha256:175550d1749d778389ed624693dea44db1224b4e2b2757bc8842c266c4fefc6f
+persona_hint: Defense
+source_path: /usr/share/doc/openvpn/examples/sample-config-files/firewall.sh
+tags:
+- unknown
+tool_name: firewall.sh

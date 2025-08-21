@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sadf
+hash: sha256:db1a54095543b0f6dfbdd41b984827b77d07f0e7d553a0d67fe2e74da0f2af5a
+persona_hint: Defense
+source_path: /usr/bin/sadf
+tags:
+- unknown
+tool_name: sadf

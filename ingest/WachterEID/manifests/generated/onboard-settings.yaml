@@ -1,0 +1,7 @@
+description: Auto-generated manifest for onboard-settings
+hash: sha256:05d6246f70a36fd48a026494acbc9eb6ccefd0815c3f42773400a27d2433c181
+persona_hint: Defense
+source_path: /usr/bin/onboard-settings
+tags:
+- unknown
+tool_name: onboard-settings

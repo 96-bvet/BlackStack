@@ -1,0 +1,7 @@
+description: Auto-generated manifest for prefcnt
+hash: sha256:5410b8e423639e0d70ec3c34f1bdfb1edccf461c2fcc21c7e3b4c34ea4d0b093
+persona_hint: Defense
+source_path: /usr/bin/prefcnt
+tags:
+- unknown
+tool_name: prefcnt

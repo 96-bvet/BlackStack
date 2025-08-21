@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lscpu
+hash: sha256:a6f9f9b202bb70eb9507694e1fa9931346ee89711096a013aa0f7b58969323d7
+persona_hint: Defense
+source_path: /usr/bin/lscpu
+tags:
+- unknown
+tool_name: lscpu

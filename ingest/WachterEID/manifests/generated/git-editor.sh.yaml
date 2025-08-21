@@ -1,0 +1,7 @@
+description: Auto-generated manifest for git-editor.sh
+hash: sha256:915f5d71f94279cda2ca43ba62f8dc75991451541c46e00c5f2d6ac7aa424f60
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/extensions/git/dist/git-editor.sh
+tags:
+- unknown
+tool_name: git-editor.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for directory-as-atom.pl
+hash: sha256:05cd0f8c980814aa16299a2c60271558ddb7ebdbc57e92bd83cd6099b6dbec6a
+persona_hint: Defense
+source_path: /usr/share/doc/libxml-writer-perl/examples/directory-as-atom.pl
+tags:
+- unknown
+tool_name: directory-as-atom.pl

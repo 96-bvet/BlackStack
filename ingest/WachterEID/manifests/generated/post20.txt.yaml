@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post20.txt
+hash: sha256:7eae9397240b6d6617ed81719280e1c21e455a09c0775b7bd1f7ab3ca053ea02
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post20.txt
+tags:
+- unknown
+tool_name: post20.txt

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tput
+hash: sha256:4a619711b459c3b00e39b647d206f4ad877611f18436dfe696875af163bae846
+persona_hint: Defense
+source_path: /usr/bin/tput
+tags:
+- unknown
+tool_name: tput

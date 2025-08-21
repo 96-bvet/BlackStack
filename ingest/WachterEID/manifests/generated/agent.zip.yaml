@@ -1,0 +1,7 @@
+description: Auto-generated manifest for agent.zip
+hash: sha256:069bdf3044a2749835b13c38ed5c85ded64b02b3fcf70b6253bd76ea3744fee3
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/agent.zip
+tags:
+- unknown
+tool_name: agent.zip

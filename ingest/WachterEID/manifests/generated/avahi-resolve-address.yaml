@@ -1,0 +1,7 @@
+description: Auto-generated manifest for avahi-resolve-address
+hash: sha256:05a9792d2f9c9a0365e7554c0dc73f21ee4821b36adef3ee51902549839b71d7
+persona_hint: Defense
+source_path: /usr/bin/avahi-resolve-address
+tags:
+- unknown
+tool_name: avahi-resolve-address

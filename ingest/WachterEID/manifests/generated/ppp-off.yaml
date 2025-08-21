@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ppp-off
+hash: sha256:443a1320b182b1966bb2aa0dc16ed95736c322a4ebad1e1367ed7efc86ef0fd6
+persona_hint: Defense
+source_path: /usr/share/doc/ppp/examples/scripts/ppp-off
+tags:
+- unknown
+tool_name: ppp-off

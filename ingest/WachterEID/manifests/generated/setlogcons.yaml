@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setlogcons
+hash: sha256:1a733de5fa95dfbcdf7dfbf8eedc60640fe0f50a9d227ad3dc13e396bfbc42a8
+persona_hint: Defense
+source_path: /usr/bin/setlogcons
+tags:
+- unknown
+tool_name: setlogcons

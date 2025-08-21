@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysqld_multi
+hash: sha256:6d09b2ac4a9153d61214a4d309f297205ff00080368b20aa96fcd881e1f184cc
+persona_hint: Defense
+source_path: /usr/bin/mysqld_multi
+tags:
+- unknown
+tool_name: mysqld_multi

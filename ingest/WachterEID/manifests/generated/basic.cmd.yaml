@@ -1,0 +1,7 @@
+description: Auto-generated manifest for basic.cmd
+hash: sha256:0230e109896272cc2894090626b37a866a0794b178b3702dca5e65fdbb580c46
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/basic.cmd
+tags:
+- unknown
+tool_name: basic.cmd

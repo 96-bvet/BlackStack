@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chown
+hash: sha256:02769de8f96b96de9b917224b0eca3fbf757f622211a901b0ce323ee1145a3d4
+persona_hint: Defense
+source_path: /usr/bin/chown
+tags:
+- unknown
+tool_name: chown

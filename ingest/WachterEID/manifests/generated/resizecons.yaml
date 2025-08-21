@@ -1,0 +1,7 @@
+description: Auto-generated manifest for resizecons
+hash: sha256:0690c09847b5c6ec505dd14b9bddb5507ccb04a44a549028692046e792c32276
+persona_hint: Defense
+source_path: /usr/bin/resizecons
+tags:
+- unknown
+tool_name: resizecons

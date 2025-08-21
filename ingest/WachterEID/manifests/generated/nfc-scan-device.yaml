@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-scan-device
+hash: sha256:2017afefb764b3a3429c1950d26eeec5ed2315d69a59ed68b597b752462e6569
+persona_hint: Defense
+source_path: /usr/bin/nfc-scan-device
+tags:
+- unknown
+tool_name: nfc-scan-device

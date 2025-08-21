@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update.dmg
+hash: sha256:a96b1261925d0eea60fffe0614d40f0f93e6817a2e53f0a296518a8247c59b75
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/osx/update.dmg
+tags:
+- unknown
+tool_name: update.dmg

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wasmdump.js
+hash: sha256:b1975154e99c2f95c13cc82c885beb26909d27ac78ed31fb2bd39e89cb6e396e
+persona_hint: Defense
+source_path: /usr/share/nodejs/@webassemblyjs/cli/lib/wasmdump.js
+tags:
+- unknown
+tool_name: wasmdump.js

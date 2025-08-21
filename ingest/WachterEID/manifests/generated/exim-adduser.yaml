@@ -1,0 +1,7 @@
+description: Auto-generated manifest for exim-adduser
+hash: sha256:7d43366f767ba7402f5873f845e7ecd66c261eb92d400112a047de839a5a1758
+persona_hint: Defense
+source_path: /usr/share/doc/exim4-base/examples/exim-adduser
+tags:
+- unknown
+tool_name: exim-adduser

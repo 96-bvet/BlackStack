@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ppp-on-dialer
+hash: sha256:41fb01d3d2b84463e24ff77cd4316046717b7b75be1e05a372fae2654465fded
+persona_hint: Defense
+source_path: /usr/share/doc/ppp/examples/scripts/ppp-on-dialer
+tags:
+- unknown
+tool_name: ppp-on-dialer

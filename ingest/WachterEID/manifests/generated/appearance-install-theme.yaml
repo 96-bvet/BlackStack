@@ -1,0 +1,7 @@
+description: Auto-generated manifest for appearance-install-theme
+hash: sha256:f6f140d784914c8e494a20abcacceafc2968533d1cc73cd2eb22565cd6c13d83
+persona_hint: Defense
+source_path: /usr/share/xfce4/settings/appearance-install-theme
+tags:
+- unknown
+tool_name: appearance-install-theme

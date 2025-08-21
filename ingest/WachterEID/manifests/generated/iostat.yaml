@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iostat
+hash: sha256:1e247e15d2e7f39425898ec10bba716b5eb25aa59726b492f9666c77b6d83277
+persona_hint: Defense
+source_path: /usr/bin/iostat
+tags:
+- unknown
+tool_name: iostat

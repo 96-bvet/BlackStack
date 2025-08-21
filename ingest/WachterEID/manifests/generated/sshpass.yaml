@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sshpass
+hash: sha256:66359326e9bb12366aac1316c1d4a7ac846012599a70b11a345370bfc53acf00
+persona_hint: Defense
+source_path: /usr/bin/sshpass
+tags:
+- unknown
+tool_name: sshpass

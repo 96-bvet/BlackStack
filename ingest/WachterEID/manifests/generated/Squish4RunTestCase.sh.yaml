@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Squish4RunTestCase.sh
+hash: sha256:bec7ec26305d4cba7aae771be6689132faf8103ab2f10702df27829f75670d46
+persona_hint: Defense
+source_path: /usr/share/cmake-3.25/Modules/Squish4RunTestCase.sh
+tags:
+- unknown
+tool_name: Squish4RunTestCase.sh

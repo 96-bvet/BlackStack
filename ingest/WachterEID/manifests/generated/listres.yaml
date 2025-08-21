@@ -1,0 +1,7 @@
+description: Auto-generated manifest for listres
+hash: sha256:13403572908215b3587d504cbae6e692eb4bcf83d7c99e852cd7b8f7f8a31f67
+persona_hint: Defense
+source_path: /usr/bin/listres
+tags:
+- unknown
+tool_name: listres

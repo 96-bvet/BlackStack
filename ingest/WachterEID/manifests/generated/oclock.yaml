@@ -1,0 +1,7 @@
+description: Auto-generated manifest for oclock
+hash: sha256:19043da1b09044fa9eb618fedba1128790dbe4d56603487d81a893558f78d1ec
+persona_hint: Defense
+source_path: /usr/bin/oclock
+tags:
+- unknown
+tool_name: oclock

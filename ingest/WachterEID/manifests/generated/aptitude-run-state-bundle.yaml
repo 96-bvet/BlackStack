@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aptitude-run-state-bundle
+hash: sha256:56edbac3ae70779b3a8fce849f51adc5a8e0bd8e33200cfc2060fc37b8783181
+persona_hint: Defense
+source_path: /usr/bin/aptitude-run-state-bundle
+tags:
+- unknown
+tool_name: aptitude-run-state-bundle

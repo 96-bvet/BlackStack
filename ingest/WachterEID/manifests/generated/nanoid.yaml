@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nanoid
+hash: sha256:bce05c72b5cdfbc306dceb2c132f60624d935480c594cef5d5e17faeec9d57e2
+persona_hint: Defense
+source_path: /usr/bin/nanoid
+tags:
+- unknown
+tool_name: nanoid

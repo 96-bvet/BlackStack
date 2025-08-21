@@ -1,0 +1,7 @@
+description: Auto-generated manifest for decode-edid
+hash: sha256:819c7c9b7fc93879f08ef170d62646529ca672a486defb0f0228f4a159a213bc
+persona_hint: Defense
+source_path: /usr/bin/decode-edid
+tags:
+- unknown
+tool_name: decode-edid

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sctpscan
+hash: sha256:c9c50db7f89772cf204ecfb5be0bc1acb940c5218a08dec6468c4d550de7f312
+persona_hint: Defense
+source_path: /usr/bin/sctpscan
+tags:
+- unknown
+tool_name: sctpscan

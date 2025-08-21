@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-jewel
+hash: sha256:59dcd768971c1314c1aeaedac8c3cb70ad7e82a926fb954a11004c406edd0310
+persona_hint: Defense
+source_path: /usr/bin/nfc-jewel
+tags:
+- unknown
+tool_name: nfc-jewel

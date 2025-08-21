@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autopoint
+hash: sha256:8cfbf63c2c4bdd333df638eaa72f0d105a3216fb351a4501dac735579bf094ba
+persona_hint: Defense
+source_path: /usr/bin/autopoint
+tags:
+- unknown
+tool_name: autopoint

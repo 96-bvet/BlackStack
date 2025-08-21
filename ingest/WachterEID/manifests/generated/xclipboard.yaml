@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xclipboard
+hash: sha256:11a71505410171bf3651ebd2923c9e3e03037967e6d75aef74f30a6042cac19c
+persona_hint: Defense
+source_path: /usr/bin/xclipboard
+tags:
+- unknown
+tool_name: xclipboard

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-gcc-ranlib
+hash: sha256:936d3381ec46491b3dc24de93866de1fc7813702af7c5518ce20b8f67b979ba2
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-gcc-ranlib
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-gcc-ranlib

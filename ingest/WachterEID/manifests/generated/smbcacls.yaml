@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbcacls
+hash: sha256:43555d67ae21df79d1572dc4cf88de8310a1ad9ac1d00e761fbc968e92f245c6
+persona_hint: Defense
+source_path: /usr/bin/smbcacls
+tags:
+- unknown
+tool_name: smbcacls

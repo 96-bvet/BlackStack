@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ucfq
+hash: sha256:b1e4a6d73b74e73ba6f1b2ff45093127a7f11b4e59443df43c008edb8e9f4cc8
+persona_hint: Defense
+source_path: /usr/bin/ucfq
+tags:
+- unknown
+tool_name: ucfq

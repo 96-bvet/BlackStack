@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autoit3.pm
+hash: sha256:e6cd25380c2f3175fd12c1be0dce8bd4b66c89326d0f41fa69254028bab5b262
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/autoit3.pm
+tags:
+- unknown
+tool_name: autoit3.pm

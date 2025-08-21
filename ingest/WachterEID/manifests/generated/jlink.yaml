@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jlink
+hash: sha256:8bd3b10e4944bf0936fc741a97adef25544da7db6eb49dbd3d83ca113883c5c5
+persona_hint: Defense
+source_path: /usr/bin/jlink
+tags:
+- unknown
+tool_name: jlink

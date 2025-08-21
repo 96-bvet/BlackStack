@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rwinrm
+hash: sha256:f401c60626caaf75aaa47914b1abdae1a7b8cc6bc661aaa75de301fc1f69872b
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/winrm-2.3.6/bin/rwinrm
+tags:
+- unknown
+tool_name: rwinrm

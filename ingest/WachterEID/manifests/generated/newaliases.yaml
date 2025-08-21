@@ -1,0 +1,7 @@
+description: Auto-generated manifest for newaliases
+hash: sha256:7701f6c89ba4444209e0ed640ea1cb73a48545f2bab5fd54e3f59c8d2431849b
+persona_hint: Defense
+source_path: /usr/bin/newaliases
+tags:
+- unknown
+tool_name: newaliases

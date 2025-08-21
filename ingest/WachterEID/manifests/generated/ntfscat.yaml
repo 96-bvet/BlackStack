@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfscat
+hash: sha256:596877a256f1d5813ca0f8ad1330ef937b5657bbf17a2ecdd84dba5671dd8d4b
+persona_hint: Defense
+source_path: /usr/bin/ntfscat
+tags:
+- unknown
+tool_name: ntfscat

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-connsplit6
+hash: sha256:5d02156a97e1d33824a3381fd23359d558ee981f50036f1ad0d70e70d78d1953
+persona_hint: Defense
+source_path: /usr/bin/atk6-connsplit6
+tags:
+- unknown
+tool_name: atk6-connsplit6

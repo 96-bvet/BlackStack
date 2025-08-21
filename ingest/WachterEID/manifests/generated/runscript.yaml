@@ -1,0 +1,7 @@
+description: Auto-generated manifest for runscript
+hash: sha256:9ad88ebfd43e2218845b27e294f22587147ae2c3e93717a4d9046e14e4c577e0
+persona_hint: Defense
+source_path: /usr/bin/runscript
+tags:
+- unknown
+tool_name: runscript

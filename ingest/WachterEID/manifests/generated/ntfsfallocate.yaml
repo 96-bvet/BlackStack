@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsfallocate
+hash: sha256:d45fad297cfd7912921cace94cac7ba7573fbab7c3e125b4caab6c82d5286d7a
+persona_hint: Defense
+source_path: /usr/bin/ntfsfallocate
+tags:
+- unknown
+tool_name: ntfsfallocate

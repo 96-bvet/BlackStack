@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rubocop
+hash: sha256:781af72d8c640342c1bd26ae337e0831e130c8de3cca30108104f8386173e87f
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/rubocop-1.75.3/exe/rubocop
+tags:
+- unknown
+tool_name: rubocop

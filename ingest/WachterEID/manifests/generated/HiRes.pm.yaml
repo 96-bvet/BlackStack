@@ -1,0 +1,7 @@
+description: Auto-generated manifest for HiRes.pm
+hash: sha256:84098f67c70a8ed62ea5f650e98915fbde9b3c13d234abeacdfb68775f9c3fc0
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/isrcore/Time/HiRes.pm
+tags:
+- unknown
+tool_name: HiRes.pm

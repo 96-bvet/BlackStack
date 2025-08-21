@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-screenshooter
+hash: sha256:530de98b406027b75938c230850290c628d8b40231684b3b5accad376d08cc31
+persona_hint: Defense
+source_path: /usr/bin/xfce4-screenshooter
+tags:
+- unknown
+tool_name: xfce4-screenshooter

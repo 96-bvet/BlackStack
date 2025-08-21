@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sgml-catalog-check.pl
+hash: sha256:419c18c2bee43bdddfe398c599251dde1338802f375fa09df34d366b1dae05f6
+persona_hint: Defense
+source_path: /usr/share/sgml-data/sgml-catalog-check.pl
+tags:
+- unknown
+tool_name: sgml-catalog-check.pl

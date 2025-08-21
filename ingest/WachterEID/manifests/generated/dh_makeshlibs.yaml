@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_makeshlibs
+hash: sha256:4e6de1cca3efdaa3a0a26f5dc1dd7c8a13f902d5a142c3307dec809a05d191f1
+persona_hint: Defense
+source_path: /usr/bin/dh_makeshlibs
+tags:
+- unknown
+tool_name: dh_makeshlibs

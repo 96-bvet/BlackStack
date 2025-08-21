@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dasher
+hash: sha256:a3243713e8a02b5b51322d98b2c7228af54697df06525101e9509cae60a9ec5b
+persona_hint: Defense
+source_path: /usr/bin/dasher
+tags:
+- unknown
+tool_name: dasher

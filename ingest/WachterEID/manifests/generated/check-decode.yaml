@@ -1,0 +1,7 @@
+description: Auto-generated manifest for check-decode
+hash: sha256:55011107a1bd678a7fd1d51594df84560a8da742390a74cbab391aca84d49fe2
+persona_hint: Defense
+source_path: /usr/share/ike-scan/checks/check-decode
+tags:
+- unknown
+tool_name: check-decode

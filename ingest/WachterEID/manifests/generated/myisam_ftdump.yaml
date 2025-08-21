@@ -1,0 +1,7 @@
+description: Auto-generated manifest for myisam_ftdump
+hash: sha256:056949ede6ccf5953abee6164573b34b3fd8c7eb60ae8941e991ee9f4a24c4cb
+persona_hint: Defense
+source_path: /usr/bin/myisam_ftdump
+tags:
+- unknown
+tool_name: myisam_ftdump

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gpgv
+hash: sha256:6cccc322ebf820bbeb50be6835976995666a8d617ed0a0cb681caf4343a5bc25
+persona_hint: Defense
+source_path: /usr/bin/gpgv
+tags:
+- unknown
+tool_name: gpgv

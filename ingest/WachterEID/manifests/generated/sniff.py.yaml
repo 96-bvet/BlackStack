@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sniff.py
+hash: sha256:40dbea4faa64163a25d2aebce14929be34b92926559b24adf6a063d8dd616ba0
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/sniff.py
+tags:
+- unknown
+tool_name: sniff.py

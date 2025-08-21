@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dap.pm
+hash: sha256:e0e67ac0e696e2c3fb792b6ffa3b391317fc716108cf8fae871cea627b614b9e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/dap.pm
+tags:
+- unknown
+tool_name: dap.pm

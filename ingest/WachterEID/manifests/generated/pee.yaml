@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pee
+hash: sha256:ac65b0c97e3506a53e1bf95c956848fcf7d12e48472148500314fb9fa310a599
+persona_hint: Defense
+source_path: /usr/bin/pee
+tags:
+- unknown
+tool_name: pee

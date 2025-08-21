@@ -1,0 +1,7 @@
+description: Auto-generated manifest for verify-signatures.py
+hash: sha256:111029ec1c62041b4a3f610ef87d10c3c3fb8067277a588af16dd7043f20d874
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/verify-signatures.py
+tags:
+- unknown
+tool_name: verify-signatures.py

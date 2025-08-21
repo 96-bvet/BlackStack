@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atexec.py
+hash: sha256:44632f765117c14c29a6099d618fa4a15e245c29ec801171a1b0009cdb309564
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/atexec.py
+tags:
+- unknown
+tool_name: atexec.py

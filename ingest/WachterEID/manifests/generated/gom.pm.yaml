@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gom.pm
+hash: sha256:72cd4c75ee03f2e8644b2b946bb4216685d422d4a140a2bf73763c54d18c753d
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/gom.pm
+tags:
+- unknown
+tool_name: gom.pm

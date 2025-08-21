@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ftpd1.spk
+hash: sha256:076285988950fb227fdc1dc1f641ce50b2f9cfd4a211e90afe4b1d85046fed06
+persona_hint: Defense
+source_path: /usr/share/spike/audits/FTPD/ftpd1.spk
+tags:
+- unknown
+tool_name: ftpd1.spk

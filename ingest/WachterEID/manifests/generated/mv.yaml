@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mv
+hash: sha256:a781be46e6f27ca5d7e119225429a4a12ef941eea15ed2c44eea0c8bca7e4ebe
+persona_hint: Defense
+source_path: /usr/bin/mv
+tags:
+- unknown
+tool_name: mv

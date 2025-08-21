@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkcs15-crypt
+hash: sha256:7ef8270f45330d68af814c7e8717e948a95c26991ff3cd16e85dafcc0343f21b
+persona_hint: Defense
+source_path: /usr/bin/pkcs15-crypt
+tags:
+- unknown
+tool_name: pkcs15-crypt

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rpcmap.py
+hash: sha256:df8dac4b658d2d2f290c8671763f45ab5e88adffe7aab577b13ddb43f54357af
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/rpcmap.py
+tags:
+- unknown
+tool_name: rpcmap.py

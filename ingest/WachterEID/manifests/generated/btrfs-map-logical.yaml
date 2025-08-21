@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btrfs-map-logical
+hash: sha256:f05004acda29858f2aff0dfe341abd31b760476c34cceba78d61d881b4d4296d
+persona_hint: Defense
+source_path: /usr/bin/btrfs-map-logical
+tags:
+- unknown
+tool_name: btrfs-map-logical

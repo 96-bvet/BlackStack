@@ -1,0 +1,7 @@
+description: Auto-generated manifest for resize
+hash: sha256:72d84a671cbb6e74178868cd3af29bfadb93b6322908df321fd243d6786cf87e
+persona_hint: Defense
+source_path: /usr/bin/resize
+tags:
+- unknown
+tool_name: resize

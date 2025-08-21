@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pfc
+hash: sha256:7310822d5cbd93239754e8796ca39b9558cc35e00abc615af25f231dfe798f76
+persona_hint: Defense
+source_path: /usr/bin/pfc
+tags:
+- unknown
+tool_name: pfc

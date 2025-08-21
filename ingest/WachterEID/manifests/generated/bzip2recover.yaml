@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bzip2recover
+hash: sha256:a76bbd2cfebbcf4fb375377947222a5a741a722ac33d997880430bac59e99784
+persona_hint: Defense
+source_path: /usr/bin/bzip2recover
+tags:
+- unknown
+tool_name: bzip2recover

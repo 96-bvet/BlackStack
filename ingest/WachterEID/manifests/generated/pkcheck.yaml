@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkcheck
+hash: sha256:f84b9878e2de4cba95e2af187d1da014afecb9784345f2214f3fd3ade7c3f344
+persona_hint: Defense
+source_path: /usr/bin/pkcheck
+tags:
+- unknown
+tool_name: pkcheck

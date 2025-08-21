@@ -1,0 +1,7 @@
+description: Auto-generated manifest for COMDLG32.INC
+hash: sha256:b9893fe2c44c5df77d0e6d57fd27541776d9e5c45eeca5d2b8d7b5d1915118e2
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/PCOUNT/COMDLG32.INC
+tags:
+- unknown
+tool_name: COMDLG32.INC

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for funzip
+hash: sha256:7fe5c2dd35e9d94549f6c7f6ca8d07a437e429b15e6b9eae4960a1e1ce9e5ef4
+persona_hint: Defense
+source_path: /usr/bin/funzip
+tags:
+- unknown
+tool_name: funzip

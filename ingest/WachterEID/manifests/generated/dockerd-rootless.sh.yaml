@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dockerd-rootless.sh
+hash: sha256:07fd43a5adad652bb9d15d5cec851c0f563fe1cf8c5f0d5123b45b0e118404dd
+persona_hint: Defense
+source_path: /usr/share/docker.io/contrib/dockerd-rootless.sh
+tags:
+- unknown
+tool_name: dockerd-rootless.sh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gatttool
+hash: sha256:040d9dd8c41daccd7b3d29cb580b9ea1c80e767cb2cc3fccee10f2ee9816dc2c
+persona_hint: Defense
+source_path: /usr/bin/gatttool
+tags:
+- unknown
+tool_name: gatttool

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_getwal
+hash: sha256:9e6f02610305e4cc667297ae12f9611ed7f8fe96d9505545904d600576fad67d
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/pg_getwal
+tags:
+- unknown
+tool_name: pg_getwal

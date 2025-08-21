@@ -1,0 +1,7 @@
+description: Auto-generated manifest for usbreset
+hash: sha256:9db3cc6cb30647ba424a853b9997a2dd51b297d3a859d2ed7142151417e589d0
+persona_hint: Defense
+source_path: /usr/bin/usbreset
+tags:
+- unknown
+tool_name: usbreset

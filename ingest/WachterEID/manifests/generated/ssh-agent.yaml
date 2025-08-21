@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-agent
+hash: sha256:04d50eaeb7a4797a44eea26affe213aa1a7095e18fe9c940d4c0588451a63c4a
+persona_hint: Defense
+source_path: /usr/bin/ssh-agent
+tags:
+- unknown
+tool_name: ssh-agent

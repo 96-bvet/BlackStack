@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ping4
+hash: sha256:79c87c89129d55fcf2daf29ba1f38eb8d1c57a2bc8ac67a948f10e15dd9c6862
+persona_hint: Defense
+source_path: /usr/bin/ping4
+tags:
+- unknown
+tool_name: ping4

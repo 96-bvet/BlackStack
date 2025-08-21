@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sj-iptcpopt-probe
+hash: sha256:b99fcca1b324eddd6a81b83bb573c16900305765fd245a7d23109cfbbb0eee01
+persona_hint: Defense
+source_path: /usr/bin/sj-iptcpopt-probe
+tags:
+- unknown
+tool_name: sj-iptcpopt-probe

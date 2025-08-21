@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hostnamectl
+hash: sha256:a4ec9b2bcd3123fc9213d27fc7bdac1e78fc752901d05f2cea23bbf58bdd8b5f
+persona_hint: Defense
+source_path: /usr/bin/hostnamectl
+tags:
+- unknown
+tool_name: hostnamectl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for keytool
+hash: sha256:2665ae86fc922bb98e356cc6c9036634ebf54d2e8d92dd139465498c06b7c627
+persona_hint: Defense
+source_path: /usr/share/burpsuite/jre/bin/keytool
+tags:
+- unknown
+tool_name: keytool

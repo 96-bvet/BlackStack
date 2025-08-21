@@ -1,0 +1,7 @@
+description: Auto-generated manifest for asm-3.2.jar
+hash: sha256:1224bb60747072fae32eb1cabb956c0cdb80f87b9ad33d29e2f427a03b1fd9fc
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/lib/asm-3.2.jar
+tags:
+- unknown
+tool_name: asm-3.2.jar

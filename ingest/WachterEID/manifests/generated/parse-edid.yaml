@@ -1,0 +1,7 @@
+description: Auto-generated manifest for parse-edid
+hash: sha256:91c513a4dd9853cafccb259a2ac77bfc4a915cb503d27383c715e030a7a99663
+persona_hint: Defense
+source_path: /usr/bin/parse-edid
+tags:
+- unknown
+tool_name: parse-edid

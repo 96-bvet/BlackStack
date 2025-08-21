@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atril-thumbnailer
+hash: sha256:b3ef550743bd1f2bc4a29e3e81f971b020941135636e062403539a2187c819d6
+persona_hint: Defense
+source_path: /usr/bin/atril-thumbnailer
+tags:
+- unknown
+tool_name: atril-thumbnailer

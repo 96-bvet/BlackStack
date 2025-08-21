@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xlsfonts
+hash: sha256:3d4718126e2b3a5e2b4c7ccd6b8115fe9fc1f46a75c6da783caacd538ca25283
+persona_hint: Defense
+source_path: /usr/bin/xlsfonts
+tags:
+- unknown
+tool_name: xlsfonts

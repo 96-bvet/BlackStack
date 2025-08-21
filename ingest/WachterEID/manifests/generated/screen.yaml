@@ -1,0 +1,7 @@
+description: Auto-generated manifest for screen
+hash: sha256:26ce4e8eca864ee5114739dd196d8cd2477becb050a821170ce5735a66c6a746
+persona_hint: Defense
+source_path: /usr/share/bug/screen
+tags:
+- unknown
+tool_name: screen

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svmap
+hash: sha256:f2081a99b6ef897cac69d0b40f4208acbe8685b4a0639078ec22c476d872d608
+persona_hint: Defense
+source_path: /usr/bin/svmap
+tags:
+- unknown
+tool_name: svmap

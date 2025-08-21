@@ -1,0 +1,7 @@
+description: Auto-generated manifest for BindMultiTCP.java
+hash: sha256:20b823e7a2854f91a8ebb975227e23c94ade620e2e561d7a26985af33f7a51e1
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stager/BindMultiTCP.java
+tags:
+- unknown
+tool_name: BindMultiTCP.java

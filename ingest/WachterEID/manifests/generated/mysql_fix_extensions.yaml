@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_fix_extensions
+hash: sha256:a88cdaba514804bd9cc47e18705466351a81476c5a3e43bc1025f2ac3e1a7bfc
+persona_hint: Defense
+source_path: /usr/bin/mysql_fix_extensions
+tags:
+- unknown
+tool_name: mysql_fix_extensions

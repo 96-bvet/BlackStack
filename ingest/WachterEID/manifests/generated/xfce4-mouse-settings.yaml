@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-mouse-settings
+hash: sha256:dc57af14c49bcfb1545eb0a51853c1de37c52d2b18c6999b733cbd9cc3c28aa1
+persona_hint: Defense
+source_path: /usr/bin/xfce4-mouse-settings
+tags:
+- unknown
+tool_name: xfce4-mouse-settings

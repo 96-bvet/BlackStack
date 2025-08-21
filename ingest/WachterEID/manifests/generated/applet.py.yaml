@@ -1,0 +1,7 @@
+description: Auto-generated manifest for applet.py
+hash: sha256:ef0f69bd43ddac0b4cbe8f5993b637e92230a099e30074e051c3e0aeb9e7dfc7
+persona_hint: Defense
+source_path: /usr/share/system-config-printer/applet.py
+tags:
+- unknown
+tool_name: applet.py

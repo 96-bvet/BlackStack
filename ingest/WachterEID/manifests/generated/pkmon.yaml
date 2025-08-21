@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pkmon
+hash: sha256:3a64ae2159338d8d7de8554c631f9d20b555549ba1d33ce13b7c5be6de384671
+persona_hint: Defense
+source_path: /usr/bin/pkmon
+tags:
+- unknown
+tool_name: pkmon

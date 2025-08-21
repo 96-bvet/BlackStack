@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fab-cewl
+hash: sha256:0bf461d1b06c09d2fa786658edaee6fedc1dbcd4751fbb0bbf3f35a8619a9750
+persona_hint: Defense
+source_path: /usr/bin/fab-cewl
+tags:
+- unknown
+tool_name: fab-cewl

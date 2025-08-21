@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf-escape
+hash: sha256:6c17a536ca0fcefa24a7d37f7eaebc02e774415b3160836918cff6cecdef807d
+persona_hint: Defense
+source_path: /usr/bin/debconf-escape
+tags:
+- unknown
+tool_name: debconf-escape

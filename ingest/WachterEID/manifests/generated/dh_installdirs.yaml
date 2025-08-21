@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installdirs
+hash: sha256:c322f01f87b40b810863555277f650d9df14dfc99f05ab377f0c7fbaaba9f46a
+persona_hint: Defense
+source_path: /usr/bin/dh_installdirs
+tags:
+- unknown
+tool_name: dh_installdirs

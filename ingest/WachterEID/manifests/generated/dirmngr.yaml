@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dirmngr
+hash: sha256:1982ba9141ae581368a19dc1a640b4b80147e50789f91220c4a1f2a31e3aaeea
+persona_hint: Defense
+source_path: /usr/bin/dirmngr
+tags:
+- unknown
+tool_name: dirmngr

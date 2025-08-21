@@ -1,0 +1,7 @@
+description: Auto-generated manifest for passpat.rb
+hash: sha256:aa42299bc6f63448537e5ffc876d8b43be9514039d623118f851cbebc97e1f3e
+persona_hint: Defense
+source_path: /usr/share/pipal/passpat.rb
+tags:
+- unknown
+tool_name: passpat.rb

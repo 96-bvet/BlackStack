@@ -1,0 +1,7 @@
+description: Auto-generated manifest for include-conf-enabled.pl
+hash: sha256:2b80ab37c9f40a81a45f33ad8c88a535dc4334f331dc6e88995cbe46c4160f31
+persona_hint: Defense
+source_path: /usr/share/lighttpd/include-conf-enabled.pl
+tags:
+- unknown
+tool_name: include-conf-enabled.pl

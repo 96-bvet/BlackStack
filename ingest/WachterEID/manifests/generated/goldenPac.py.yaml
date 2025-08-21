@@ -1,0 +1,7 @@
+description: Auto-generated manifest for goldenPac.py
+hash: sha256:03fc374da37c51aa506e131007d33fa9d5d07067e0772170a92eabae4a79bd8b
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/goldenPac.py
+tags:
+- unknown
+tool_name: goldenPac.py

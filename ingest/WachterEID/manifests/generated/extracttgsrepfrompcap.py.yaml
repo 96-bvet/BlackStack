@@ -1,0 +1,7 @@
+description: Auto-generated manifest for extracttgsrepfrompcap.py
+hash: sha256:35c5fe33cc7dcd78a7508ceae4294cdbaf20f8efd94fb5f5db538f24a8dedfae
+persona_hint: Defense
+source_path: /usr/share/kerberoast/extracttgsrepfrompcap.py
+tags:
+- unknown
+tool_name: extracttgsrepfrompcap.py

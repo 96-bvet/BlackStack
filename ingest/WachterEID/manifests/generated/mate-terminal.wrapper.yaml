@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-terminal.wrapper
+hash: sha256:ea78db7f1c780536de26005eb262acb0b630f09ae513e95033f8dcd3dde66a3e
+persona_hint: Defense
+source_path: /usr/bin/mate-terminal.wrapper
+tags:
+- unknown
+tool_name: mate-terminal.wrapper

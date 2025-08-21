@@ -1,0 +1,7 @@
+description: Auto-generated manifest for trust
+hash: sha256:e26fa3e0c9b096c2a640a6697dfc640680b546b731a5d1340227270bead66c23
+persona_hint: Defense
+source_path: /usr/bin/trust
+tags:
+- unknown
+tool_name: trust

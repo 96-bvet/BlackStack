@@ -1,0 +1,7 @@
+description: Auto-generated manifest for samdump2
+hash: sha256:c9612d90a3f55998066bdd397153de40c387bce2816a27eca14623564032a5f0
+persona_hint: Defense
+source_path: /usr/bin/samdump2
+tags:
+- unknown
+tool_name: samdump2

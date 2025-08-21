@@ -1,0 +1,7 @@
+description: Auto-generated manifest for timedatectl
+hash: sha256:e68dbfc7409be68976384d78ff0af926b28657eb68656881f658aa8fa6ff4152
+persona_hint: Defense
+source_path: /usr/bin/timedatectl
+tags:
+- unknown
+tool_name: timedatectl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post12.txt
+hash: sha256:fa538f2078eb861095c001c8fac39233968fca7069b2cb0a47b8282ba914ca0a
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post12.txt
+tags:
+- unknown
+tool_name: post12.txt

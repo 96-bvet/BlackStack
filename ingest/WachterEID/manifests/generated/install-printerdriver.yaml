@@ -1,0 +1,7 @@
+description: Auto-generated manifest for install-printerdriver
+hash: sha256:9900dc953b57e81db3f52601492edb0e58a7f573d46771a40894785bcfc001d6
+persona_hint: Defense
+source_path: /usr/bin/install-printerdriver
+tags:
+- unknown
+tool_name: install-printerdriver

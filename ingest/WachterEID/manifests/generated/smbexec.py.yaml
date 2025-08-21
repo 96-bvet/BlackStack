@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smbexec.py
+hash: sha256:48bc99ced4dcc72b82b651aa70f986b0aa01e03d21e1d5a0d94998a6340ebd07
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/smbexec.py
+tags:
+- unknown
+tool_name: smbexec.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-launch
+hash: sha256:e4801d3c15fd6b8ca70310f4c09e8004f85149fc41efa7c65ed9b37184e48190
+persona_hint: Defense
+source_path: /usr/bin/dbus-launch
+tags:
+- unknown
+tool_name: dbus-launch

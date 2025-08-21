@@ -1,0 +1,7 @@
+description: Auto-generated manifest for supported-versions
+hash: sha256:5631e85a379752dbda07ab1b259c183a5e109691e7c33020944836f34a6b2b66
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/supported-versions
+tags:
+- unknown
+tool_name: supported-versions

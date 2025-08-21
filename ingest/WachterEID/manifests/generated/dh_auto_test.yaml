@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_auto_test
+hash: sha256:6186c937bb4a0918d738716382f554014386972b769363b5a13bf0ae13c6306a
+persona_hint: Defense
+source_path: /usr/bin/dh_auto_test
+tags:
+- unknown
+tool_name: dh_auto_test

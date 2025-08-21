@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpan.pm
+hash: sha256:cbf734fb220c60e1275e2c7a89a481b3c953556fcedc9a51ce2794fe399b39d4
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/cpan.pm
+tags:
+- unknown
+tool_name: cpan.pm

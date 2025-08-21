@@ -1,0 +1,7 @@
+description: Auto-generated manifest for latest-policy-version
+hash: sha256:29259fd4ca3c494132a81793a333ba0cd7dd2c20a0655362ab878d5f782fb7cb
+persona_hint: Defense
+source_path: /usr/share/lintian/private/latest-policy-version
+tags:
+- unknown
+tool_name: latest-policy-version

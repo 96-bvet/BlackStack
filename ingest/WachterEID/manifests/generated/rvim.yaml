@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rvim
+hash: sha256:8528f61eaca19285c8220c7d12099743d76abf872a30515698644c91a05c55e0
+persona_hint: Defense
+source_path: /usr/bin/rvim
+tags:
+- unknown
+tool_name: rvim

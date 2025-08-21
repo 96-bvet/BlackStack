@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qvlc
+hash: sha256:8bd458b115ed694cce92db5bc8441a474200441b108e1717400525181cf38463
+persona_hint: Defense
+source_path: /usr/bin/qvlc
+tags:
+- unknown
+tool_name: qvlc

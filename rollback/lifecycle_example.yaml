@@ -1,0 +1,8 @@
+name: lifecycle_example
+path: examples/basic/lifecycle_example.py
+type: py
+category: misc
+hash: a51a5a0a5171ffba1698d74ddc504f498250dd743dacc9719d6465f4acedd813
+approved: true
+import: true
+license_stub: true

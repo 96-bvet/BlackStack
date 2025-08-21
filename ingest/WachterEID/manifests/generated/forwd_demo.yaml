@@ -1,0 +1,7 @@
+description: Auto-generated manifest for forwd_demo
+hash: sha256:6b84c7ed5eadf82d4602d57540436b1c79a5187125d11de1be0b51d5b224f75f
+persona_hint: Defense
+source_path: /usr/share/doc/libmailtools-perl/examples/forwd_demo
+tags:
+- unknown
+tool_name: forwd_demo

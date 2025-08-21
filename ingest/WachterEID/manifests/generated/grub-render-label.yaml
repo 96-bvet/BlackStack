@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-render-label
+hash: sha256:1efd401a2fbd8fb6fb5bb4944b3566357c939559b4a98e73ab777182d28903d0
+persona_hint: Defense
+source_path: /usr/bin/grub-render-label
+tags:
+- unknown
+tool_name: grub-render-label

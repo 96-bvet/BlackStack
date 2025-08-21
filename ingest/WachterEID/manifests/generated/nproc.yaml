@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nproc
+hash: sha256:716561bc24867a55b99ebb523e97ace733d12ffad0f8b55c29664431ac01d36a
+persona_hint: Defense
+source_path: /usr/bin/nproc
+tags:
+- unknown
+tool_name: nproc

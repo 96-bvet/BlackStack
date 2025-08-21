@@ -1,0 +1,7 @@
+description: Auto-generated manifest for osx
+hash: sha256:f9f9c9fef0e92cc9e073f6f53af6dcacf185c0370a660dd02028357461ac60cc
+persona_hint: Defense
+source_path: /usr/bin/osx
+tags:
+- unknown
+tool_name: osx

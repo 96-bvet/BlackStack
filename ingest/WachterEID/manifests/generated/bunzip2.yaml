@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bunzip2
+hash: sha256:0295484aea2cd54ad0cc4f09fbea5a3285c3361d7db716809d1421a39adb8b91
+persona_hint: Defense
+source_path: /usr/bin/bunzip2
+tags:
+- unknown
+tool_name: bunzip2

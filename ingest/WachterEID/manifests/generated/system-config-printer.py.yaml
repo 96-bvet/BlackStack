@@ -1,0 +1,7 @@
+description: Auto-generated manifest for system-config-printer.py
+hash: sha256:ae67f46aa20b32fe9af44ae87398366c7462a3ace67051c3f442e4205419f3ac
+persona_hint: Defense
+source_path: /usr/share/system-config-printer/system-config-printer.py
+tags:
+- unknown
+tool_name: system-config-printer.py

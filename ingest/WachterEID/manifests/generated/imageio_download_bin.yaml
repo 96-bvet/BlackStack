@@ -1,0 +1,7 @@
+description: Auto-generated manifest for imageio_download_bin
+hash: sha256:2937e9855a220844bbd96aa3e6fdcc34ccb9cbee7d9fadf5d9826f6739fa3e55
+persona_hint: Defense
+source_path: /usr/bin/imageio_download_bin
+tags:
+- unknown
+tool_name: imageio_download_bin

@@ -1,0 +1,16 @@
+name: dfir
+path: src/cai/agents/dfir.py
+type: py
+category: forensic
+hash: e3e3c55456b013376682566e3eb1375cff614aeddcb35c2d449f5035c8bb1f42
+approved: true
+import: true
+license_stub: true
+name: dfir
+path: src/cai/agents/dfir.py
+type: py
+category: forensic
+hash: e3e3c55456b013376682566e3eb1375cff614aeddcb35c2d449f5035c8bb1f42
+approved: true
+import: true
+license_stub: true

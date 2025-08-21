@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sensors-conf-convert
+hash: sha256:ef1c4b900284d16c16989a5f61c5af936f5c3ac592912a9ca6a2eb9e68235b6f
+persona_hint: Defense
+source_path: /usr/bin/sensors-conf-convert
+tags:
+- unknown
+tool_name: sensors-conf-convert

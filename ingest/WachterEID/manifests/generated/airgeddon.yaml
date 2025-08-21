@@ -1,0 +1,7 @@
+description: Auto-generated manifest for airgeddon
+hash: sha256:11d89412fae8387686078c4af85daf09d634d4c9ed8f5b9d2aaabd7c0f0f102f
+persona_hint: Defense
+source_path: /usr/bin/airgeddon
+tags:
+- unknown
+tool_name: airgeddon

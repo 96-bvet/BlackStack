@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-ducky
+hash: sha256:fe952fd10b37ad3f8cb297eee6ac7a24dc452b43929c47ff6a9b5d6feec785dd
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-ducky
+tags:
+- unknown
+tool_name: ubertooth-ducky

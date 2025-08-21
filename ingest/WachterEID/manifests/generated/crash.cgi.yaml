@@ -1,0 +1,7 @@
+description: Auto-generated manifest for crash.cgi
+hash: sha256:5118099cc6c7cf8c75aaa9a599f2699e157aa8cd360a1612b03a4abf636fd867
+persona_hint: Defense
+source_path: /usr/share/doc/libcgi-pm-perl/examples/crash.cgi
+tags:
+- unknown
+tool_name: crash.cgi

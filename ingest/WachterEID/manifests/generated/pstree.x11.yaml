@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pstree.x11
+hash: sha256:f29177921b327ae8cf06740ffa079da7b58f877f6a3dc593beb31f8036a54da2
+persona_hint: Defense
+source_path: /usr/bin/pstree.x11
+tags:
+- unknown
+tool_name: pstree.x11

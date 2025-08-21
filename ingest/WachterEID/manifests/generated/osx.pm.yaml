@@ -1,0 +1,7 @@
+description: Auto-generated manifest for osx.pm
+hash: sha256:5d7c4da6be68dd6f5146bc52e68aef4a59763970282608aec8e269aba0dab7e3
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/osx.pm
+tags:
+- unknown
+tool_name: osx.pm

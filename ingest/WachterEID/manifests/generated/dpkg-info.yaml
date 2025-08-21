@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-info
+hash: sha256:165a694e8dacdfba283d40708a992139c4da0d76bf1a66bd50e9723127be40f6
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/debfile/dpkg-info
+tags:
+- unknown
+tool_name: dpkg-info

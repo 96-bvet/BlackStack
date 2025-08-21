@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linux-run-hooks
+hash: sha256:3b6f0611a3be49105b2c50b74b0275597c178ee51c0119feb49500a266824b64
+persona_hint: Defense
+source_path: /usr/bin/linux-run-hooks
+tags:
+- unknown
+tool_name: linux-run-hooks

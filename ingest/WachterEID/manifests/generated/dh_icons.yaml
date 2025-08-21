@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_icons
+hash: sha256:6131fe20c90f8f7da7b4e23017a1f6be9546d9d6c0e58f283e70483aa925e0c3
+persona_hint: Defense
+source_path: /usr/bin/dh_icons
+tags:
+- unknown
+tool_name: dh_icons

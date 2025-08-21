@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mkinstalldirs
+hash: sha256:42262b72fea21c2b40e283498d74c3fd704a11292da195e813896cebd1528b91
+persona_hint: Defense
+source_path: /usr/share/automake-1.16/mkinstalldirs
+tags:
+- unknown
+tool_name: mkinstalldirs

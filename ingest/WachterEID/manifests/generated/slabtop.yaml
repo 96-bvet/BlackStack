@@ -1,0 +1,7 @@
+description: Auto-generated manifest for slabtop
+hash: sha256:5770e17d99f4a06a11506ad7710b178202fe240e53dd5f0f9a19f45e11dfb305
+persona_hint: Defense
+source_path: /usr/bin/slabtop
+tags:
+- unknown
+tool_name: slabtop

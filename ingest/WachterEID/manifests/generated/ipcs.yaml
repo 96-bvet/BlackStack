@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ipcs
+hash: sha256:d9a676fe02ac49fbb234f0d550c4e734e016463dc79c2911e756c960b865c0b7
+persona_hint: Defense
+source_path: /usr/bin/ipcs
+tags:
+- unknown
+tool_name: ipcs

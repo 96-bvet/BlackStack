@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-lto-dump
+hash: sha256:0090ca1feb4e704cb2e8be1690888218fd64fe7896f00a110ccf3ee508722f0a
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-lto-dump
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-lto-dump

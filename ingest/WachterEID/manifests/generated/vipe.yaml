@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vipe
+hash: sha256:9a1845d722b73d1fec04aa93bd517c97885830048a4f2009cd77a918af88ad28
+persona_hint: Defense
+source_path: /usr/bin/vipe
+tags:
+- unknown
+tool_name: vipe

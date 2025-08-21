@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pre-push.sample
+hash: sha256:ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/pre-push.sample
+tags:
+- unknown
+tool_name: pre-push.sample

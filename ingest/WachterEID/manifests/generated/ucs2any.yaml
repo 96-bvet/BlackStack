@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ucs2any
+hash: sha256:0fd5414871a2a70e1ccd7bf5d1152464b59daae25fb120961892deac4a3c96f0
+persona_hint: Defense
+source_path: /usr/bin/ucs2any
+tags:
+- unknown
+tool_name: ucs2any

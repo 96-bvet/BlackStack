@@ -1,0 +1,7 @@
+description: Auto-generated manifest for journalctl
+hash: sha256:538dc7c523a958ec461671e73e55b6c23c8a8fa7964db0015e22309be675b74f
+persona_hint: Defense
+source_path: /usr/bin/journalctl
+tags:
+- unknown
+tool_name: journalctl

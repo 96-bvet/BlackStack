@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get_authenticated_page.pl
+hash: sha256:968b254442370dbbe7f6b8cea1cc633c0085ee9a5e3edc5def9d33786f898754
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/get_authenticated_page.pl
+tags:
+- unknown
+tool_name: get_authenticated_page.pl

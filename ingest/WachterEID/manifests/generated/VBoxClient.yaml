@@ -1,0 +1,7 @@
+description: Auto-generated manifest for VBoxClient
+hash: sha256:69b636623af2aa818c9dc1633d12666d3f56f950957057804b445f25291e8c0f
+persona_hint: Defense
+source_path: /usr/bin/VBoxClient
+tags:
+- unknown
+tool_name: VBoxClient

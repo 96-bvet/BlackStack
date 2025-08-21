@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh-askpass-empty.sh
+hash: sha256:2233a17368f4ffdc92f9b6c74b450b7c84e355eae0f90693385887136d1d8c55
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/extensions/git/dist/ssh-askpass-empty.sh
+tags:
+- unknown
+tool_name: ssh-askpass-empty.sh

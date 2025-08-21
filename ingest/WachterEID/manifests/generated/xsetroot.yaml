@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xsetroot
+hash: sha256:aa37e60c8282f1ecb944d1de464b75f95a9880803d8a782ce7f5041bea1e5f7f
+persona_hint: Defense
+source_path: /usr/bin/xsetroot
+tags:
+- unknown
+tool_name: xsetroot

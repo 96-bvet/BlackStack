@@ -1,0 +1,7 @@
+description: Auto-generated manifest for filterdiff
+hash: sha256:e8df7b50d5983d73d853c9da7cd0267827b99344a9c7ca45fc2ac621036a59b6
+persona_hint: Defense
+source_path: /usr/bin/filterdiff
+tags:
+- unknown
+tool_name: filterdiff

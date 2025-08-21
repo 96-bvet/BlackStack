@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aconnect
+hash: sha256:0e2a11922c63d822978edc55e2a7ec3880458c84fbab7d674fcd7034a2f10f3d
+persona_hint: Defense
+source_path: /usr/bin/aconnect
+tags:
+- unknown
+tool_name: aconnect

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkbwatch
+hash: sha256:718fbd0acde72be66d11a205c16d0d493f6d2830590a6bfbc2a6017fba1a5af2
+persona_hint: Defense
+source_path: /usr/bin/xkbwatch
+tags:
+- unknown
+tool_name: xkbwatch

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for EmbeddedClassBuilder.java
+hash: sha256:de4641180f765cd9d9ac39b1f0ef6e8e18c166f5399f5dae48db63743b7c4749
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/EmbeddedClassBuilder.java
+tags:
+- unknown
+tool_name: EmbeddedClassBuilder.java

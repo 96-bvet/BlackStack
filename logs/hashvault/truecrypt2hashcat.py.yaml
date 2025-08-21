@@ -1,0 +1,7 @@
+description: Auto-generated manifest for truecrypt2hashcat.py
+hash: sha256:c49bc20ce0954728e6bc7f7d31a3276e72bb42238d2279fbfb83ed098a12106f
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/truecrypt2hashcat.py
+tags:
+- unknown
+tool_name: truecrypt2hashcat.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for login.spk
+hash: sha256:9f20103510b80aa2d060ad97da6c070092505db980066dbb49b17643244f0622
+persona_hint: Defense
+source_path: /usr/share/spike/audits/MSContentManagementServer/login.spk
+tags:
+- unknown
+tool_name: login.spk

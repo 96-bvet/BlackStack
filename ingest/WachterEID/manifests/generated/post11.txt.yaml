@@ -1,0 +1,7 @@
+description: Auto-generated manifest for post11.txt
+hash: sha256:1304e6cafe3caaf9eb11cef5773e176b145c56c1054ddd2b2f05ff8fa800f90f
+persona_hint: Defense
+source_path: /usr/share/spike/audits/exchange2K/post11.txt
+tags:
+- unknown
+tool_name: post11.txt

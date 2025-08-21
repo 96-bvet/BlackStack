@@ -1,0 +1,7 @@
+description: Auto-generated manifest for alsaloop
+hash: sha256:9ff78b145a839c4fd7ff378d413668ef8cfe27cfa82e5f401a027fe7d4675e1b
+persona_hint: Defense
+source_path: /usr/bin/alsaloop
+tags:
+- unknown
+tool_name: alsaloop

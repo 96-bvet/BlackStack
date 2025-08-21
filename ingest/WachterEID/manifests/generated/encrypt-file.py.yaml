@@ -1,0 +1,7 @@
+description: Auto-generated manifest for encrypt-file.py
+hash: sha256:66ae1ea7637b80562753f138856cf585aa268c48b67a796440709257d1fb8447
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/encrypt-file.py
+tags:
+- unknown
+tool_name: encrypt-file.py

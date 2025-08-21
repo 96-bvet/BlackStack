@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh
+hash: sha256:55509c3b6d4ac8b09141f18d231a336306186d8fb5db24f00f1b42d859152204
+persona_hint: Defense
+source_path: /usr/bin/dh
+tags:
+- unknown
+tool_name: dh

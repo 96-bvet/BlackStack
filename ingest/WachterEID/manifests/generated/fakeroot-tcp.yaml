@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fakeroot-tcp
+hash: sha256:01fef9eae6af65436283e79db978392078fbacaed24ce6ede7dc49a4a98acd71
+persona_hint: Defense
+source_path: /usr/bin/fakeroot-tcp
+tags:
+- unknown
+tool_name: fakeroot-tcp

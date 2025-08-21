@@ -1,0 +1,7 @@
+description: Auto-generated manifest for myisamchk
+hash: sha256:56790498a321585dd0aab40e1487722ad269d98185714dddbc2ad9a9beab148a
+persona_hint: Defense
+source_path: /usr/bin/myisamchk
+tags:
+- unknown
+tool_name: myisamchk

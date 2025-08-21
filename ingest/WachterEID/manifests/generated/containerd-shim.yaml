@@ -1,0 +1,7 @@
+description: Auto-generated manifest for containerd-shim
+hash: sha256:49b2ee77307a87e27c5b59815649f4e3590d240471eb79316e7bc9b30d22dfea
+persona_hint: Defense
+source_path: /usr/bin/containerd-shim
+tags:
+- unknown
+tool_name: containerd-shim

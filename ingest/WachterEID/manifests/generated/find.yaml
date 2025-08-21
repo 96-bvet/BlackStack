@@ -1,0 +1,7 @@
+description: Auto-generated manifest for find
+hash: sha256:c703b94ad3448bccc79cda80520964c8d371918a39eecc27f8d60f4e8891770a
+persona_hint: Defense
+source_path: /usr/bin/find
+tags:
+- unknown
+tool_name: find

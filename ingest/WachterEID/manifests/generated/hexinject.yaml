@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hexinject
+hash: sha256:fea470624b22305812f0281f09f92478c49400043fc96011ff1a366be09252a9
+persona_hint: Defense
+source_path: /usr/bin/hexinject
+tags:
+- unknown
+tool_name: hexinject

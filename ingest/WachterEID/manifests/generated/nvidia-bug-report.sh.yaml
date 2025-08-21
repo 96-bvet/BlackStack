@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nvidia-bug-report.sh
+hash: sha256:551ab11d1c33db0bc6de95fb1d71f363bd234bf51386604636c0c515ade5a0b0
+persona_hint: Defense
+source_path: /usr/bin/nvidia-bug-report.sh
+tags:
+- unknown
+tool_name: nvidia-bug-report.sh

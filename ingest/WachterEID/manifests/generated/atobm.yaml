@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atobm
+hash: sha256:c0438b415be107fdc0388c7e48d22d546961b45369e22c17c8f803aba97c4e69
+persona_hint: Defense
+source_path: /usr/bin/atobm
+tags:
+- unknown
+tool_name: atobm

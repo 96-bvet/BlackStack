@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aria2c
+hash: sha256:0e4a4cad4ab164a2f7b0ee70826b153a7bfd5c8614b4040b0af7c9d068dfbb07
+persona_hint: Defense
+source_path: /usr/bin/aria2c
+tags:
+- unknown
+tool_name: aria2c

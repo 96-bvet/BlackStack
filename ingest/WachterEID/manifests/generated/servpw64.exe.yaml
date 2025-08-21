@@ -1,0 +1,7 @@
+description: Auto-generated manifest for servpw64.exe
+hash: sha256:97b39ac28794a7610ed83ad65e28c605397ea7be878109c35228c126d43e2f46
+persona_hint: Defense
+source_path: /usr/share/windows-resources/binaries/fgdump/servpw64.exe
+tags:
+- unknown
+tool_name: servpw64.exe

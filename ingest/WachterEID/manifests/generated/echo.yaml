@@ -1,0 +1,7 @@
+description: Auto-generated manifest for echo
+hash: sha256:a049fb47554c6cde2ee452e5d87f6386abb63af7cdcae9cd0dc99fc80e0bcf35
+persona_hint: Defense
+source_path: /usr/bin/echo
+tags:
+- unknown
+tool_name: echo

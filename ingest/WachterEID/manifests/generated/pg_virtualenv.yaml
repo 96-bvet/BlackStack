@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_virtualenv
+hash: sha256:1bc41cab20f1d0d0986022c3669537ae0d4d4c591987b7d2b086a780a5c588f4
+persona_hint: Defense
+source_path: /usr/bin/pg_virtualenv
+tags:
+- unknown
+tool_name: pg_virtualenv

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for run-command
+hash: sha256:2c040f4b2281300560a9f0b531c443bf679c170c6512acf09eb8963f8ed54a50
+persona_hint: Defense
+source_path: /usr/share/pluma/plugins/externaltools/tools/run-command
+tags:
+- unknown
+tool_name: run-command

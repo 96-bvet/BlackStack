@@ -1,0 +1,7 @@
+description: Auto-generated manifest for showrgb
+hash: sha256:dd4fc801fdb2b8ea21e6f88dc0a2197963b81c612469ef8e2b1787d5c517b165
+persona_hint: Defense
+source_path: /usr/bin/showrgb
+tags:
+- unknown
+tool_name: showrgb

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for newuidmap
+hash: sha256:73dcfff38151408f957f1a98d93aa7a5194a96f0f3fb716e08e22e92a021c3db
+persona_hint: Defense
+source_path: /usr/bin/newuidmap
+tags:
+- unknown
+tool_name: newuidmap

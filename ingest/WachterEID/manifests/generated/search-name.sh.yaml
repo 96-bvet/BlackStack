@@ -1,0 +1,7 @@
+description: Auto-generated manifest for search-name.sh
+hash: sha256:b364215a8b32c53759c306bca09fac3dd1aba8d12b49c9dbcf0248c69be18060
+persona_hint: Defense
+source_path: /usr/share/PackageKit/helpers/test_spawn/search-name.sh
+tags:
+- unknown
+tool_name: search-name.sh

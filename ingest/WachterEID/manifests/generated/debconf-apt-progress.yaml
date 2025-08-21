@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf-apt-progress
+hash: sha256:93fb257df4185cc6b83858bdae3c7aec0a4f759a848c743a0b0fd7c7091cf34b
+persona_hint: Defense
+source_path: /usr/bin/debconf-apt-progress
+tags:
+- unknown
+tool_name: debconf-apt-progress

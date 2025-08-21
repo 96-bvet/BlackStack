@@ -1,0 +1,7 @@
+description: Auto-generated manifest for applypatch-msg.sample
+hash: sha256:0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/applypatch-msg.sample
+tags:
+- unknown
+tool_name: applypatch-msg.sample

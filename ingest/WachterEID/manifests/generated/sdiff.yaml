@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sdiff
+hash: sha256:8b7cb3c89ca554fc5dcacdc04f503755198f9230391d8e6b80169b58210809ee
+persona_hint: Defense
+source_path: /usr/bin/sdiff
+tags:
+- unknown
+tool_name: sdiff

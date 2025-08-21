@@ -1,0 +1,7 @@
+description: Auto-generated manifest for README.Debian
+hash: sha256:9f303cccec5b48312b24b7d4a092b87bb8e1fa7f4f43433c8bfffb1189c4d7d5
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/agent/debian/seed-debian/usr/share/doc/tinnyif/README.Debian
+tags:
+- unknown
+tool_name: README.Debian

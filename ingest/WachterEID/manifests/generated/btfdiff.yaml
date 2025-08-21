@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btfdiff
+hash: sha256:5883bbe6c264dd694124ce55de6863d821f0050229f8052d261faff044ba909b
+persona_hint: Defense
+source_path: /usr/bin/btfdiff
+tags:
+- unknown
+tool_name: btfdiff

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for theHarvester
+hash: sha256:c81c90f76b40a81b63d54121e998b28f00b72fa34c403617766737c2045d50c0
+persona_hint: Defense
+source_path: /usr/bin/theHarvester
+tags:
+- unknown
+tool_name: theHarvester

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for use-ipv6.pl
+hash: sha256:97ef96d19525380305430ced1f25aa87fd2aa364d6e4e468cc4426ded6c21140
+persona_hint: Defense
+source_path: /usr/share/lighttpd/use-ipv6.pl
+tags:
+- unknown
+tool_name: use-ipv6.pl

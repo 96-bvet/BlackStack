@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ThreadlessInject.yaml
+hash: sha256:16cba0d51bd49907926ffbfb74a7ebc5f7606300f96475bf01e70d008b7427fe
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/management/ThreadlessInject.yaml
+tags:
+- unknown
+tool_name: ThreadlessInject.yaml

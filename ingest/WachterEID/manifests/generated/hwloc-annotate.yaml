@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-annotate
+hash: sha256:5b643a87ef97f279c92683d711776e543096fc1b973256e9ee2a8b142ab52518
+persona_hint: Defense
+source_path: /usr/bin/hwloc-annotate
+tags:
+- unknown
+tool_name: hwloc-annotate

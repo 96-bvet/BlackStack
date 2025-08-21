@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-classic-write-ndef
+hash: sha256:17ccb9129600d08f5b5e054451563d2feb561d7de4639bb192aa832949ca1a47
+persona_hint: Defense
+source_path: /usr/bin/mifare-classic-write-ndef
+tags:
+- unknown
+tool_name: mifare-classic-write-ndef

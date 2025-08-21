@@ -1,0 +1,7 @@
+description: Auto-generated manifest for 99-log-event
+hash: sha256:3dbb3cb62b7bafe006bb086402f0f42034c7db752ceeb39dfa830aab8c13a915
+persona_hint: Defense
+source_path: /usr/share/ModemManager/connection.available.d/99-log-event
+tags:
+- unknown
+tool_name: 99-log-event

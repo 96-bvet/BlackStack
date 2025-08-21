@@ -1,0 +1,7 @@
+description: Auto-generated manifest for make-cadir
+hash: sha256:1cb2d94550fb84335d2b4cb5521a6548f6c883b789ed54c1bd8ab6894b6efa7c
+persona_hint: Defense
+source_path: /usr/bin/make-cadir
+tags:
+- unknown
+tool_name: make-cadir

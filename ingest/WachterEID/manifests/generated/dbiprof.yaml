@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbiprof
+hash: sha256:c04e74db63e4ae6ae4419f026b09016675a574388c56eceb13cb9b946db48110
+persona_hint: Defense
+source_path: /usr/bin/dbiprof
+tags:
+- unknown
+tool_name: dbiprof

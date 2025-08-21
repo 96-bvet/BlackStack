@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-read-forum-tag3
+hash: sha256:5de90053a13d01933fac88ec8c35c877d716e86cfa50b59103df463cdc473533
+persona_hint: Defense
+source_path: /usr/bin/nfc-read-forum-tag3
+tags:
+- unknown
+tool_name: nfc-read-forum-tag3

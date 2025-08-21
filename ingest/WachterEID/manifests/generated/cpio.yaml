@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cpio
+hash: sha256:878c2b98175bb6a41fd30ff6f7e262889c40192a4dbd13470a773680216b37f1
+persona_hint: Defense
+source_path: /usr/bin/cpio
+tags:
+- unknown
+tool_name: cpio

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for psk-crack
+hash: sha256:4b2d7902d52795a9e82e284f0b141b4377e46b06065e4a289ba229fa007c1bfa
+persona_hint: Defense
+source_path: /usr/bin/psk-crack
+tags:
+- unknown
+tool_name: psk-crack

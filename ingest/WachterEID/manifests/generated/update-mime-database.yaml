@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-mime-database
+hash: sha256:ac73c7670edfed01c94e562faeb2f48f14381d1c052312410c6a6f31cbc351b3
+persona_hint: Defense
+source_path: /usr/bin/update-mime-database
+tags:
+- unknown
+tool_name: update-mime-database

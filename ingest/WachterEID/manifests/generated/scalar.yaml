@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scalar
+hash: sha256:80b2466f0ff4a8defdb9c82e522325bbde38eb48bae246c2815ec89c1054fd68
+persona_hint: Defense
+source_path: /usr/bin/scalar
+tags:
+- unknown
+tool_name: scalar

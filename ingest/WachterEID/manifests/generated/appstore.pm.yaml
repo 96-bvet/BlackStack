@@ -1,0 +1,7 @@
+description: Auto-generated manifest for appstore.pm
+hash: sha256:4f5b96c4f5475067865759b0854fed63bd9f7086ce30d57e9928465b1b4cb720
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/appstore.pm
+tags:
+- unknown
+tool_name: appstore.pm

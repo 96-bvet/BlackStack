@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ddns.py
+hash: sha256:995fa3d401273cd0ced8c8bff3578c0badafac4a879920a6c8bcde384d0d1050
+persona_hint: Defense
+source_path: /usr/share/doc/python3-dnspython/examples/ddns.py
+tags:
+- unknown
+tool_name: ddns.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bzexe
+hash: sha256:bd3ab362765b5313aef3bdd1845ef4743f33ce98ab970b045d872a2cb4536951
+persona_hint: Defense
+source_path: /usr/bin/bzexe
+tags:
+- unknown
+tool_name: bzexe

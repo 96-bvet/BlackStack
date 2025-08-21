@@ -1,0 +1,7 @@
+description: Auto-generated manifest for montage
+hash: sha256:59701a89b2921e19b65bc6986fbae72312c4662a23699af8c0de026e1fb81946
+persona_hint: Defense
+source_path: /usr/bin/montage
+tags:
+- unknown
+tool_name: montage

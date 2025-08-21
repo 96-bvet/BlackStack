@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nl
+hash: sha256:8ec52ee2fb32e3e5c088b2d92d2e933256548be3376c1c752f0d6b0e994bae20
+persona_hint: Defense
+source_path: /usr/bin/nl
+tags:
+- unknown
+tool_name: nl

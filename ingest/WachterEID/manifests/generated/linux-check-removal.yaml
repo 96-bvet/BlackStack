@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linux-check-removal
+hash: sha256:4a4c364fa4560065531d13532239205b8a905189859559197d8da36fdb8248f6
+persona_hint: Defense
+source_path: /usr/bin/linux-check-removal
+tags:
+- unknown
+tool_name: linux-check-removal

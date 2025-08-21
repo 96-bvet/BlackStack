@@ -1,0 +1,7 @@
+description: Auto-generated manifest for caja-actions-new
+hash: sha256:73639db5777ecce5dae6775aa94d36a2cc688c8c50c7b12af1a2078ba822caed
+persona_hint: Defense
+source_path: /usr/bin/caja-actions-new
+tags:
+- unknown
+tool_name: caja-actions-new

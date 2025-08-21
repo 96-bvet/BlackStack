@@ -1,0 +1,7 @@
+description: Auto-generated manifest for google-chrome
+hash: sha256:ba8532d4fe65975ddb40b04c94465c92565a9fcf13f8316729bafc641916f76a
+persona_hint: Defense
+source_path: /opt/google/chrome/cron/google-chrome
+tags:
+- unknown
+tool_name: google-chrome

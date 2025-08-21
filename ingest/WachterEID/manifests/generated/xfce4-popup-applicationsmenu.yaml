@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-popup-applicationsmenu
+hash: sha256:39a07b368f3153909849e0c1a6e8003b8be94d546f444ae7b71807e52178754c
+persona_hint: Defense
+source_path: /usr/bin/xfce4-popup-applicationsmenu
+tags:
+- unknown
+tool_name: xfce4-popup-applicationsmenu

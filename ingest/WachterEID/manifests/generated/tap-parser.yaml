@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tap-parser
+hash: sha256:290e981199295cf079ec43c75734d87c2c73a61fe679c6522644e00fda087f69
+persona_hint: Defense
+source_path: /usr/bin/tap-parser
+tags:
+- unknown
+tool_name: tap-parser

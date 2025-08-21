@@ -1,0 +1,7 @@
+description: Auto-generated manifest for glxheads
+hash: sha256:20eea73330a4a8fbc3ed679b32ce0b97d3d74da22a9b1143f6dfd0ccdb5655e2
+persona_hint: Defense
+source_path: /usr/bin/glxheads
+tags:
+- unknown
+tool_name: glxheads

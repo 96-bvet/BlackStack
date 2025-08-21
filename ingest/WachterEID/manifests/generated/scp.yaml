@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scp
+hash: sha256:ac21c0e65474f3e988a064645991f6429bcbffa9ded510adad71e17f6f0d97d9
+persona_hint: Defense
+source_path: /usr/bin/scp
+tags:
+- unknown
+tool_name: scp

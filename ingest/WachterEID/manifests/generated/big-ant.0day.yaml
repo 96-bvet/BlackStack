@@ -1,0 +1,7 @@
+description: Auto-generated manifest for big-ant.0day
+hash: sha256:e8e9662d0ef2483b806cc8d0f09d9396d6d64f450672692ba9bbc1c2dfcadbfb
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/big-ant.0day
+tags:
+- unknown
+tool_name: big-ant.0day

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-polkit
+hash: sha256:7d39b2613a19ba00e9b22a4194004cbc52b209865f7fd39cd25f9d5f879d336c
+persona_hint: Defense
+source_path: /usr/bin/mate-polkit
+tags:
+- unknown
+tool_name: mate-polkit

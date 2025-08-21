@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_systemd_start
+hash: sha256:49f3915786efe7e1ce28e8135fa10b9291c95a140e9a540a114aad418bcf285d
+persona_hint: Defense
+source_path: /usr/bin/dh_systemd_start
+tags:
+- unknown
+tool_name: dh_systemd_start

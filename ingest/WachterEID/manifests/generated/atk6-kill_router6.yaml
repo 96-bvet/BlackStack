@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-kill_router6
+hash: sha256:9f733379afdf6796fa383ab538f40fd806a14eeb5220484c7641270f85122c64
+persona_hint: Defense
+source_path: /usr/bin/atk6-kill_router6
+tags:
+- unknown
+tool_name: atk6-kill_router6

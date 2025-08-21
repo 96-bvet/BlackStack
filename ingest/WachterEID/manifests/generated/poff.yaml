@@ -1,0 +1,7 @@
+description: Auto-generated manifest for poff
+hash: sha256:f9f7aaaf31c405eae922325120f4bc8ec9553db2b66b22329d0c12bb8db8eef1
+persona_hint: Defense
+source_path: /usr/bin/poff
+tags:
+- unknown
+tool_name: poff

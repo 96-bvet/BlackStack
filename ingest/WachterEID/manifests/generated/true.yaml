@@ -1,0 +1,7 @@
+description: Auto-generated manifest for true
+hash: sha256:c79bf44242829108e323378531f4ac839513ca1fba45efd6583643526e1e9fd2
+persona_hint: Defense
+source_path: /usr/bin/true
+tags:
+- unknown
+tool_name: 'true'

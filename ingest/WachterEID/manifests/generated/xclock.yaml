@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xclock
+hash: sha256:5ecef9b0f37cc96c9c0c444aa89e480cf5c1ff7433957a70414c731d277af7c9
+persona_hint: Defense
+source_path: /usr/bin/xclock
+tags:
+- unknown
+tool_name: xclock

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for smb.0day
+hash: sha256:059935b05187f84ad7821e4765ec64bfbe201a6188c12f2a7af882c79212417c
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/smb.0day
+tags:
+- unknown
+tool_name: smb.0day

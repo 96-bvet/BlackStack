@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pre-receive.sample
+hash: sha256:a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989
+persona_hint: Defense
+source_path: /usr/share/git-core/templates/hooks/pre-receive.sample
+tags:
+- unknown
+tool_name: pre-receive.sample

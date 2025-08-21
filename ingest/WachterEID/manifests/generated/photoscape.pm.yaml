@@ -1,0 +1,7 @@
+description: Auto-generated manifest for photoscape.pm
+hash: sha256:5d3f6d910e1c4fea9335a84a63fab6c31855fb610aff71bd1545e9784ecbdd28
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/photoscape.pm
+tags:
+- unknown
+tool_name: photoscape.pm

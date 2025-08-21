@@ -1,0 +1,7 @@
+description: Auto-generated manifest for padbuster
+hash: sha256:2c66d61b24aad995f7bf7fb0d180778e61f9079b37e32ae852a87af402562077
+persona_hint: Defense
+source_path: /usr/bin/padbuster
+tags:
+- unknown
+tool_name: padbuster

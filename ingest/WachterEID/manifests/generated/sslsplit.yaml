@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sslsplit
+hash: sha256:840905e10d57b1135d05963f7f09dba113f788099717b0f744c8535aa7957b0a
+persona_hint: Defense
+source_path: /usr/bin/sslsplit
+tags:
+- unknown
+tool_name: sslsplit

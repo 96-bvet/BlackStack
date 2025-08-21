@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lowntfs-3g
+hash: sha256:71f7dc33fc54991c7080d4337f953f2b36fb1a57b7f7701bfbdea08c3f4a2f37
+persona_hint: Defense
+source_path: /usr/bin/lowntfs-3g
+tags:
+- unknown
+tool_name: lowntfs-3g

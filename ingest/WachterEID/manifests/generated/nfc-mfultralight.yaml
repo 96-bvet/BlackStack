@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-mfultralight
+hash: sha256:45dc9166b0c250ad3abff4584f8479cc99090573c9a424c6b28461edd7871802
+persona_hint: Defense
+source_path: /usr/bin/nfc-mfultralight
+tags:
+- unknown
+tool_name: nfc-mfultralight

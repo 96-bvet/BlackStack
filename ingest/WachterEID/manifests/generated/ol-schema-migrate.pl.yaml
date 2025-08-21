@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ol-schema-migrate.pl
+hash: sha256:c3e757e9ead162e9525ab5d274b7b3862d064ead6fdaa8435385a63042fd0145
+persona_hint: Defense
+source_path: /usr/share/doc/samba/examples/LDAP/ol-schema-migrate.pl
+tags:
+- unknown
+tool_name: ol-schema-migrate.pl

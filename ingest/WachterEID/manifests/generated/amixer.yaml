@@ -1,0 +1,7 @@
+description: Auto-generated manifest for amixer
+hash: sha256:14580e149034890d0e65b3a77a34046a37fc96e13634c8efee2faf158d386613
+persona_hint: Defense
+source_path: /usr/bin/amixer
+tags:
+- unknown
+tool_name: amixer

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for crontab
+hash: sha256:22792ed5cff5f08070649c653694be511809ca5709189ebacf73ed9472058142
+persona_hint: Defense
+source_path: /usr/bin/crontab
+tags:
+- unknown
+tool_name: crontab

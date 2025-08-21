@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chconfig
+hash: sha256:e4f0ffca470575dad8f12dbfaeafe887aae2de47116073dffb7f1dea27dad1fe
+persona_hint: Defense
+source_path: /usr/share/man-db/chconfig
+tags:
+- unknown
+tool_name: chconfig

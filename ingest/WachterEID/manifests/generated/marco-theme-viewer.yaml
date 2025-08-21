@@ -1,0 +1,7 @@
+description: Auto-generated manifest for marco-theme-viewer
+hash: sha256:202f0196324e36ba2e3d1d760a0ba0ce41e9976a1a0c6eca424b1559e070d6b2
+persona_hint: Defense
+source_path: /usr/bin/marco-theme-viewer
+tags:
+- unknown
+tool_name: marco-theme-viewer

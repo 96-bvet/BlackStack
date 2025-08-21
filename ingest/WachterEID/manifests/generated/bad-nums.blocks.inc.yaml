@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bad-nums.blocks.inc
+hash: sha256:8d93d416706dac10a182fda48fd5f8d189345cefa4ff6626924145731f81fc1f
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/bad-nums.blocks.inc
+tags:
+- unknown
+tool_name: bad-nums.blocks.inc

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for npx-cli.js
+hash: sha256:1529ffb22d32f09a5e1093505278a124dc98e978c34093a51b7dad5a048391fe
+persona_hint: Defense
+source_path: /usr/share/nodejs/npm/bin/npx-cli.js
+tags:
+- unknown
+tool_name: npx-cli.js

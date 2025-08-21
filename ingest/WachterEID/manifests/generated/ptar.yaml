@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ptar
+hash: sha256:126fc379885309b476100e1150430256ab892c5b5650741af17478984a389758
+persona_hint: Defense
+source_path: /usr/bin/ptar
+tags:
+- unknown
+tool_name: ptar

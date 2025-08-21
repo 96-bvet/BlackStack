@@ -1,0 +1,7 @@
+description: Auto-generated manifest for testparm
+hash: sha256:50432df8d5d8017d841b1241f54a80907f917d9fe9a2874f42e336ea18fe8707
+persona_hint: Defense
+source_path: /usr/bin/testparm
+tags:
+- unknown
+tool_name: testparm

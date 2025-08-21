@@ -1,0 +1,7 @@
+description: Auto-generated manifest for symcrypt-file.py
+hash: sha256:add7dc479972fd8024ed57179db750f00e04d7386a4f8341f837ff787bbd175a
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/symcrypt-file.py
+tags:
+- unknown
+tool_name: symcrypt-file.py

@@ -1,0 +1,9 @@
+bcrypt
+requests
+PyYAML
+psutil
+python-dotenv
+tqdm
+watchdog
+transformers
+safetensors

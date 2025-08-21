@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xkbevd
+hash: sha256:73854fbaeba952552a6168475641ce3902c1b74357953cf1a11ddc19790b68df
+persona_hint: Defense
+source_path: /usr/bin/xkbevd
+tags:
+- unknown
+tool_name: xkbevd

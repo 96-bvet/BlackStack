@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-alive6
+hash: sha256:8499d24ff00c1905996b368c59eb966fac19ba161064e07c65f0cd3a0be3ed44
+persona_hint: Defense
+source_path: /usr/bin/atk6-alive6
+tags:
+- unknown
+tool_name: atk6-alive6

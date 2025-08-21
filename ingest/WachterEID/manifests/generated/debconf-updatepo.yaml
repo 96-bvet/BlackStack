@@ -1,0 +1,7 @@
+description: Auto-generated manifest for debconf-updatepo
+hash: sha256:85115450346f414c665284eec1e04b26d21bda6321f68fcac5b1fc25768a2c6c
+persona_hint: Defense
+source_path: /usr/bin/debconf-updatepo
+tags:
+- unknown
+tool_name: debconf-updatepo

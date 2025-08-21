@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rocm-smi
+hash: sha256:376b57b86f00b1ae61dc96a0e67f40af35a14349a6ea4d00115b9b90b40be9fa
+persona_hint: Defense
+source_path: /usr/bin/rocm-smi
+tags:
+- unknown
+tool_name: rocm-smi

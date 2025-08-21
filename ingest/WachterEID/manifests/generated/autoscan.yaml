@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autoscan
+hash: sha256:eb6d743960a5e88dd9084bdb9c7f0f6ee0d0ae7f2d397defc313e3e21767fe80
+persona_hint: Defense
+source_path: /usr/bin/autoscan
+tags:
+- unknown
+tool_name: autoscan

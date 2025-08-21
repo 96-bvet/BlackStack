@@ -1,0 +1,7 @@
+description: Auto-generated manifest for open-terminal-here
+hash: sha256:282c6eb1113dd0e72fde532c00651ebd95163e2679e69a6a8bcd3617ef2355e6
+persona_hint: Defense
+source_path: /usr/share/pluma/plugins/externaltools/tools/open-terminal-here
+tags:
+- unknown
+tool_name: open-terminal-here

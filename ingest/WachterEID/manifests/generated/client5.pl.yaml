@@ -1,0 +1,7 @@
+description: Auto-generated manifest for client5.pl
+hash: sha256:14fb555ab49f773451de0a864b03431eda480f053d3fa2edbe0978965c113184
+persona_hint: Defense
+source_path: /usr/share/doc/libio-socket-socks-perl/examples/client5.pl
+tags:
+- unknown
+tool_name: client5.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wlancap2wpasec
+hash: sha256:1cf3b05525ca70c0aa4416f9e4c598aafea3fce415750e05ee78ccb96e1bc779
+persona_hint: Defense
+source_path: /usr/bin/wlancap2wpasec
+tags:
+- unknown
+tool_name: wlancap2wpasec

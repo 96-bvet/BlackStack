@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-dnssecwalk
+hash: sha256:ea9f476dbe8d8f675497603d6570c665353a742eb54535046bd283a19c386da4
+persona_hint: Defense
+source_path: /usr/bin/atk6-dnssecwalk
+tags:
+- unknown
+tool_name: atk6-dnssecwalk

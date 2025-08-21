@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tap-mocha-reporter
+hash: sha256:f54d6ac9285fe7849cc56d12cd16d212c853862768a1fc1a26aab86be515ff6c
+persona_hint: Defense
+source_path: /usr/bin/tap-mocha-reporter
+tags:
+- unknown
+tool_name: tap-mocha-reporter

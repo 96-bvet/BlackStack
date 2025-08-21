@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ubertooth-scan
+hash: sha256:4b33d5b912c0253f188e82ef0b8bdc2e10f767d25f29e486d5ab6b44c80b6fb8
+persona_hint: Defense
+source_path: /usr/bin/ubertooth-scan
+tags:
+- unknown
+tool_name: ubertooth-scan

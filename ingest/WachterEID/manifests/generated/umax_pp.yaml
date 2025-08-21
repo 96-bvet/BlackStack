@@ -1,0 +1,7 @@
+description: Auto-generated manifest for umax_pp
+hash: sha256:a9bf16d7e8e14061e6eb6341571472dc5b14878e6f8bc7ebe1a3240fb6e5da76
+persona_hint: Defense
+source_path: /usr/bin/umax_pp
+tags:
+- unknown
+tool_name: umax_pp

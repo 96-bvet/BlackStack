@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xmodmap
+hash: sha256:c823ea863740dea248fc00378b2b2c2ef49b636a52d7fcee394edd76493b55f3
+persona_hint: Defense
+source_path: /usr/bin/xmodmap
+tags:
+- unknown
+tool_name: xmodmap

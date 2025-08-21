@@ -1,0 +1,7 @@
+description: Auto-generated manifest for engrampa
+hash: sha256:5806b29fef539bfacf9e70c2317d93e1d1eb7cf27bc7c84598f3850196cdd92a
+persona_hint: Defense
+source_path: /usr/bin/engrampa
+tags:
+- unknown
+tool_name: engrampa

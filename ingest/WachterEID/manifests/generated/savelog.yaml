@@ -1,0 +1,7 @@
+description: Auto-generated manifest for savelog
+hash: sha256:6a0f55fea1a81f1930c86f534fb5570785b2f12f3da49709e76c3148a89e0197
+persona_hint: Defense
+source_path: /usr/bin/savelog
+tags:
+- unknown
+tool_name: savelog

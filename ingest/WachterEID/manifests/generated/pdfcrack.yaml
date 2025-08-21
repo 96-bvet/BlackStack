@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pdfcrack
+hash: sha256:6931afb6e90690e4c41488c554693e6d5825f9f0a64b52569e5aac21845ad3d7
+persona_hint: Defense
+source_path: /usr/bin/pdfcrack
+tags:
+- unknown
+tool_name: pdfcrack

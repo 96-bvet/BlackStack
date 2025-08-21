@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xml2odf
+hash: sha256:c8ee0c39a6cf0d76b2d716fc3e3c760d91f49f7c11fe4a0a22f6f4a9aa81901a
+persona_hint: Defense
+source_path: /usr/bin/xml2odf
+tags:
+- unknown
+tool_name: xml2odf

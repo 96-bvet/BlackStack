@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update-lib
+hash: sha256:4e288478d0b7232ed46db31509e699e225cd9a60c8d9bcfa83d473648b979bd4
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/misc/nosleep/update-lib
+tags:
+- unknown
+tool_name: update-lib

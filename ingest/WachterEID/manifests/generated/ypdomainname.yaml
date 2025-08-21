@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ypdomainname
+hash: sha256:62bc6e27cac163160d151cb5bcbb4f9ca18870b0d56d99a8f73c4eafc9c21a89
+persona_hint: Defense
+source_path: /usr/bin/ypdomainname
+tags:
+- unknown
+tool_name: ypdomainname

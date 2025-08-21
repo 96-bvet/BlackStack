@@ -1,0 +1,7 @@
+description: Auto-generated manifest for marco-message
+hash: sha256:e3ba48327a674753fbbac02e479a6df91cbc0a0bdf305e224896deef39504620
+persona_hint: Defense
+source_path: /usr/bin/marco-message
+tags:
+- unknown
+tool_name: marco-message

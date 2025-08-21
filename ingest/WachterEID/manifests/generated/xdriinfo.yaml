@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xdriinfo
+hash: sha256:51636a417a29ca48b2b2b282f7c30a75101755fe70bca03e19aefb8f7bf7c364
+persona_hint: Defense
+source_path: /usr/bin/xdriinfo
+tags:
+- unknown
+tool_name: xdriinfo

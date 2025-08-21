@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pr
+hash: sha256:d5b05f2fdd58a5908ffd23b9d827258cf3ed894481923f536f2312b2229f1def
+persona_hint: Defense
+source_path: /usr/bin/pr
+tags:
+- unknown
+tool_name: pr

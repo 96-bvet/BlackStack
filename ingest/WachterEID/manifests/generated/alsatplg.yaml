@@ -1,0 +1,7 @@
+description: Auto-generated manifest for alsatplg
+hash: sha256:c52db78ac1614dab4fc0da01b86889270349aeb943ad75e6ee25524f6f59b6a6
+persona_hint: Defense
+source_path: /usr/bin/alsatplg
+tags:
+- unknown
+tool_name: alsatplg

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update.html
+hash: sha256:0afa92eabdb98ca91ebf4f5a59e83c1e5b8a98dcd8db675f214ceaa5b69b0b6e
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/nokia/update.html
+tags:
+- unknown
+tool_name: update.html

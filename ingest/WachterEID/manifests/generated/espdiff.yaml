@@ -1,0 +1,7 @@
+description: Auto-generated manifest for espdiff
+hash: sha256:b134f3624b9a67ab0e9033f8b16a2a7a2e9ee5314a360bafbf29c487492266c8
+persona_hint: Defense
+source_path: /usr/bin/espdiff
+tags:
+- unknown
+tool_name: espdiff

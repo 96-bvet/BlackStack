@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setleds
+hash: sha256:0eda6ec3c0fb31680601c27556cbba105b477799c423afc51f9f149ef016b62d
+persona_hint: Defense
+source_path: /usr/bin/setleds
+tags:
+- unknown
+tool_name: setleds

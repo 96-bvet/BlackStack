@@ -1,0 +1,7 @@
+description: Auto-generated manifest for localedef
+hash: sha256:6fbab3394bd1ef42a4c28d15cfb30e2ee8756de84e22ba1b5679fe23faf7efe9
+persona_hint: Defense
+source_path: /usr/bin/localedef
+tags:
+- unknown
+tool_name: localedef

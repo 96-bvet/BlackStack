@@ -1,0 +1,7 @@
+description: Auto-generated manifest for innotop
+hash: sha256:4d468a9942c2d32632aa4e88671570d02da15f928019dfb6905000009c9ad788
+persona_hint: Defense
+source_path: /usr/bin/innotop
+tags:
+- unknown
+tool_name: innotop

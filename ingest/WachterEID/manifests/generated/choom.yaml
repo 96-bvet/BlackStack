@@ -1,0 +1,7 @@
+description: Auto-generated manifest for choom
+hash: sha256:07d2cbc5e1d13ff14f50ccc0194488db72fbb1d234c080f243e5a20eb32237fe
+persona_hint: Defense
+source_path: /usr/bin/choom
+tags:
+- unknown
+tool_name: choom

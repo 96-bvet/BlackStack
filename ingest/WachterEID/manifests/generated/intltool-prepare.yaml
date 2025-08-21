@@ -1,0 +1,7 @@
+description: Auto-generated manifest for intltool-prepare
+hash: sha256:e0686b4f42436428be241bf2852876834ae3cfc7d142e70dab82ed27984061e5
+persona_hint: Defense
+source_path: /usr/bin/intltool-prepare
+tags:
+- unknown
+tool_name: intltool-prepare

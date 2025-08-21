@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msgfmt
+hash: sha256:4f024c278fb67bfccbeaa3565a59da34c50196b506cfb2163d878e0ef0bcca5c
+persona_hint: Defense
+source_path: /usr/bin/msgfmt
+tags:
+- unknown
+tool_name: msgfmt

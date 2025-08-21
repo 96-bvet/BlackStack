@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installmime
+hash: sha256:27cd3fa688af7e3f917cdde492505fe49bc59a2fe8965ce5cd00fabc198714ba
+persona_hint: Defense
+source_path: /usr/bin/dh_installmime
+tags:
+- unknown
+tool_name: dh_installmime

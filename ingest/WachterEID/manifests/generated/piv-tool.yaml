@@ -1,0 +1,7 @@
+description: Auto-generated manifest for piv-tool
+hash: sha256:2ccf924e4acfcb1689caeb614003e9724b2b4e8876550a79a133ef77612677e1
+persona_hint: Defense
+source_path: /usr/bin/piv-tool
+tags:
+- unknown
+tool_name: piv-tool

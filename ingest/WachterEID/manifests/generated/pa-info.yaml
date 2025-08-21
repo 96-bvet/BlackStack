@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pa-info
+hash: sha256:2f2137589f09d0b72e6f3a8e674ba29c0eb3c0287b29c5a69080346ae5a2adea
+persona_hint: Defense
+source_path: /usr/bin/pa-info
+tags:
+- unknown
+tool_name: pa-info

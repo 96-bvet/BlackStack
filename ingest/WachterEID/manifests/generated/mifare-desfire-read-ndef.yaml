@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mifare-desfire-read-ndef
+hash: sha256:43b8e3a3b317060802314a4182b7eafade981a96ec6d4249bce03c615844fd99
+persona_hint: Defense
+source_path: /usr/bin/mifare-desfire-read-ndef
+tags:
+- unknown
+tool_name: mifare-desfire-read-ndef

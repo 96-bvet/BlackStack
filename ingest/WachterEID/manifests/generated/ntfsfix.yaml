@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ntfsfix
+hash: sha256:12d28adc0e0229ff5977fe91c8491cfc81e598ed3cb82f038a1e6de06a5c968c
+persona_hint: Defense
+source_path: /usr/bin/ntfsfix
+tags:
+- unknown
+tool_name: ntfsfix

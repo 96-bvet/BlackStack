@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cryptgnupg-sc
+hash: sha256:4af31bf99d709441e447bb878160582775f952712725f2024f17de9eca3f13ff
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/scripts/local-bottom/cryptgnupg-sc
+tags:
+- unknown
+tool_name: cryptgnupg-sc

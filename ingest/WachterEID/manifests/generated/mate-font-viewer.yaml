@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-font-viewer
+hash: sha256:28025843740a37fea79b05bba7a394758d706874fd88aa3bfc812eb757b12865
+persona_hint: Defense
+source_path: /usr/bin/mate-font-viewer
+tags:
+- unknown
+tool_name: mate-font-viewer

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for background_tasks.py
+hash: sha256:5e57934434ac44272e97ac4c8e91bfe60c4d98458f6e270649ef59efa6b82514
+persona_hint: Defense
+source_path: /usr/share/doc/python3-aiohttp/examples/background_tasks.py
+tags:
+- unknown
+tool_name: background_tasks.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vmware-hgfsclient
+hash: sha256:29780612622bc897cf86e2f390eeba3a544279aa78816b35bdd36921363db540
+persona_hint: Defense
+source_path: /usr/bin/vmware-hgfsclient
+tags:
+- unknown
+tool_name: vmware-hgfsclient

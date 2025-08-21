@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nishang
+hash: sha256:a88ba13bc5c3863cf6ddec8554da491ce313d0706b48b14c6e023bd1ec1afabb
+persona_hint: Defense
+source_path: /usr/bin/nishang
+tags:
+- unknown
+tool_name: nishang

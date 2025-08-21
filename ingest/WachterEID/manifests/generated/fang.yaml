@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fang
+hash: sha256:e431996914faff6d95fad4aca21a8dfd095da5cccb19156cd2e64668415991ce
+persona_hint: Defense
+source_path: /usr/bin/fang
+tags:
+- unknown
+tool_name: fang

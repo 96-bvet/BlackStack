@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dpkg-distaddfile
+hash: sha256:48a66e608a612ee9948c0c0dc34db41b9fd62bc3fd658a7ceb8d362563a90e13
+persona_hint: Defense
+source_path: /usr/bin/dpkg-distaddfile
+tags:
+- unknown
+tool_name: dpkg-distaddfile

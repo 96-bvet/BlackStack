@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dns
+hash: sha256:9a675c5532dcd86f2f0398d3384ab27d09fdc8f3259f617ee014a3fa94f691b9
+persona_hint: Defense
+source_path: /usr/share/beef-xss/tools/rest_api_examples/dns
+tags:
+- unknown
+tool_name: dns

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gs
+hash: sha256:facca28f7a17784f1020304d22bede584127427e85f46e97c7457ca64aa8020a
+persona_hint: Defense
+source_path: /usr/bin/gs
+tags:
+- unknown
+tool_name: gs

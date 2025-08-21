@@ -1,0 +1,7 @@
+description: Auto-generated manifest for COMCTL64.INC
+hash: sha256:7569b0f07b4dbaeba5a0141c1390f3e97998307778c1036ddbc3cddfec2be820
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/EQUATES/COMCTL64.INC
+tags:
+- unknown
+tool_name: COMCTL64.INC

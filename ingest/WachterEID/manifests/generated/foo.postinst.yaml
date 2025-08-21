@@ -1,0 +1,7 @@
+description: Auto-generated manifest for foo.postinst
+hash: sha256:f2ec91a59a3316dec687abb1d52554905388a4d7115a730933dcf18e637ddc30
+persona_hint: Defense
+source_path: /usr/share/doc/xml-core/examples/foo.postinst
+tags:
+- unknown
+tool_name: foo.postinst

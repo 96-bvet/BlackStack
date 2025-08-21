@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kactivities-cli
+hash: sha256:9eaf5824f556cc3408aeaaa18d932aae01522ce31d3335a513d6df5456cdb11d
+persona_hint: Defense
+source_path: /usr/bin/kactivities-cli
+tags:
+- unknown
+tool_name: kactivities-cli

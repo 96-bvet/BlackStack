@@ -1,0 +1,7 @@
+description: Auto-generated manifest for s3backer
+hash: sha256:078cc05ee24f3078b20f090f84753f9157512cf1af68510a0fbd0790c981259a
+persona_hint: Defense
+source_path: /usr/bin/s3backer
+tags:
+- unknown
+tool_name: s3backer

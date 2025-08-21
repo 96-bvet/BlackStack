@@ -1,0 +1,7 @@
+description: Auto-generated manifest for iselevated.node
+hash: sha256:41af7f89dbf8b340a1edbe6e6b683dc7e88a3286588b1d5076c69616064c0d1e
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/native-is-elevated/build/Release/iselevated.node
+tags:
+- unknown
+tool_name: iselevated.node

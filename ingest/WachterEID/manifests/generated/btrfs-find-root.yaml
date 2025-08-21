@@ -1,0 +1,7 @@
+description: Auto-generated manifest for btrfs-find-root
+hash: sha256:3da622e7bc3eb86e8fe04e62b75d4bb80f1d21705910b5a9d4a2d7354e72a8b5
+persona_hint: Defense
+source_path: /usr/bin/btrfs-find-root
+tags:
+- unknown
+tool_name: btrfs-find-root

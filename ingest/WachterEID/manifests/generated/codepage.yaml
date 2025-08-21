@@ -1,0 +1,7 @@
+description: Auto-generated manifest for codepage
+hash: sha256:5861d641ac179a41327a6b8f81fe3cd3fd8ef40158e02bce691699515904354a
+persona_hint: Defense
+source_path: /usr/bin/codepage
+tags:
+- unknown
+tool_name: codepage

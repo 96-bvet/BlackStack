@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-dump_router6
+hash: sha256:d67578a3ad77939718dfdb6e7372f7dd96fa0d6282122a99139b4ead43711731
+persona_hint: Defense
+source_path: /usr/bin/atk6-dump_router6
+tags:
+- unknown
+tool_name: atk6-dump_router6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbdbg-stealth.exe
+hash: sha256:02cdb84751de1f46f69fb91239614609187febd1fd3a9f162af098cf72608e85
+persona_hint: Defense
+source_path: /usr/share/windows-resources/dbd/dbdbg-stealth.exe
+tags:
+- unknown
+tool_name: dbdbg-stealth.exe

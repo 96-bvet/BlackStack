@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtsort
+hash: sha256:a1e140328c44ed1895bb92140fe3ee789c7da260576c9d69511a817ca5f4520b
+persona_hint: Defense
+source_path: /usr/share/rainbowcrack/rtsort
+tags:
+- unknown
+tool_name: rtsort

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for WIN64AXP.INC
+hash: sha256:a1db8eec81622a99f2d99abfc22616851d5ed46b6021c90cdd09eb09632c2aad
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/WIN64AXP.INC
+tags:
+- unknown
+tool_name: WIN64AXP.INC

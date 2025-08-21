@@ -1,0 +1,7 @@
+description: Auto-generated manifest for go_js_wasm_exec
+hash: sha256:f8b767afd9cb2a4a0d0dedc9cacd8069481b00dac3adf8b8da39b1350d7014b2
+persona_hint: Defense
+source_path: /usr/share/go-1.23/misc/wasm/go_js_wasm_exec
+tags:
+- unknown
+tool_name: go_js_wasm_exec

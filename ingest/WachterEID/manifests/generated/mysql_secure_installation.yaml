@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_secure_installation
+hash: sha256:1bf9a802a86bf147b3b79c3c02cae6bd7ff0731a17e21961a22964b8cad36d46
+persona_hint: Defense
+source_path: /usr/bin/mysql_secure_installation
+tags:
+- unknown
+tool_name: mysql_secure_installation

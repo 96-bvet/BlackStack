@@ -1,0 +1,7 @@
+description: Auto-generated manifest for stdbuf
+hash: sha256:6175f959028e67d73c0a394d5303d5f799492572f0e3317c47aabce6d19092b5
+persona_hint: Defense
+source_path: /usr/bin/stdbuf
+tags:
+- unknown
+tool_name: stdbuf

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for metamask2hashcat.py
+hash: sha256:be1e92c3ac17154d147ccd077ca8051a8371d4c28a14cdf409e78aa322a95641
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/metamask2hashcat.py
+tags:
+- unknown
+tool_name: metamask2hashcat.py

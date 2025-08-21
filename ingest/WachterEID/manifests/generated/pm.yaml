@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pm
+hash: sha256:39b17adbc27e400470437efad4017c46f3ca33149db3c2f2edb451e9abc5656b
+persona_hint: Defense
+source_path: /usr/share/doc/node-commander/examples/pm
+tags:
+- unknown
+tool_name: pm

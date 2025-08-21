@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-settings-daemon
+hash: sha256:7913157974612b86d92d2d3413e3d1c2c5a6de454c591944ccc458d259ead9e6
+persona_hint: Defense
+source_path: /usr/bin/mate-settings-daemon
+tags:
+- unknown
+tool_name: mate-settings-daemon

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for scriptlive
+hash: sha256:8f2048b69d151dd14cfdb83b67bd31f55856936f383c21c1b14fd0212d9a0e1d
+persona_hint: Defense
+source_path: /usr/bin/scriptlive
+tags:
+- unknown
+tool_name: scriptlive

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bubblewrap
+hash: sha256:24e70c24df1d1dd865f1bcb537a14dff2d5cd8aff598855b7c527943ac738263
+persona_hint: Defense
+source_path: /usr/share/bug/bubblewrap
+tags:
+- unknown
+tool_name: bubblewrap

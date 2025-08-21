@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-notify
+hash: sha256:3eadd00154c2af910aadc24cb580c8abd1434f8cc98a227502b077b96ff90c77
+persona_hint: Defense
+source_path: /usr/bin/systemd-notify
+tags:
+- unknown
+tool_name: systemd-notify

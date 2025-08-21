@@ -1,0 +1,7 @@
+description: Auto-generated manifest for bench_cache.rb
+hash: sha256:535ae4cb849357afc352538ab42eff3559842961b90e983f202bda460f1f0ece
+persona_hint: Defense
+source_path: /usr/share/doc/ruby-thread-safe/examples/bench_cache.rb
+tags:
+- unknown
+tool_name: bench_cache.rb

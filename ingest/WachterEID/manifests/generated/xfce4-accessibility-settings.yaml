@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-accessibility-settings
+hash: sha256:bc0a539a4dcf73bbd84edfbffb52390638949759e7fcab4a23baffb375496b33
+persona_hint: Defense
+source_path: /usr/bin/xfce4-accessibility-settings
+tags:
+- unknown
+tool_name: xfce4-accessibility-settings

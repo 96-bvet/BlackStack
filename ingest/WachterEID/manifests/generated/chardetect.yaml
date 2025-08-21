@@ -1,0 +1,7 @@
+description: Auto-generated manifest for chardetect
+hash: sha256:f70286888d82b80a54639033a101fc294012efbb03cbf32528dacfcadc2bb812
+persona_hint: Defense
+source_path: /usr/bin/chardetect
+tags:
+- unknown
+tool_name: chardetect

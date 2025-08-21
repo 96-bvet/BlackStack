@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-toobigsniff6
+hash: sha256:a9745af06b1cf3e2807363dc2d4840e3b612d7f8a42d7cd825a5ebef86fe73d0
+persona_hint: Defense
+source_path: /usr/bin/atk6-toobigsniff6
+tags:
+- unknown
+tool_name: atk6-toobigsniff6

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gawk
+hash: sha256:f67ae79386186747c21cb4ca6d449161490840fff1ec6b9d8123641bfe6fdc27
+persona_hint: Defense
+source_path: /usr/bin/gawk
+tags:
+- unknown
+tool_name: gawk

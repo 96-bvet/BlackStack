@@ -1,0 +1,7 @@
+description: Auto-generated manifest for qtzip.rb
+hash: sha256:24df465565ce84cd3f677d51688634e23b1e832f168c23bcccc3435f25f2fff6
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/rubyzip-2.3.2/samples/qtzip.rb
+tags:
+- unknown
+tool_name: qtzip.rb

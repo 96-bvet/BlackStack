@@ -1,0 +1,7 @@
+description: Auto-generated manifest for appleupdate_catalog.xml
+hash: sha256:96fa02b962aee2e852a19b488645c595bff54d089f0d188791236fbf27fd4c56
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/appleupdate/appleupdate_catalog.xml
+tags:
+- unknown
+tool_name: appleupdate_catalog.xml

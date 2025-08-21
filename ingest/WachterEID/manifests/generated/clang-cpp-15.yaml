@@ -1,0 +1,7 @@
+description: Auto-generated manifest for clang-cpp-15
+hash: sha256:4ce32a991c01e4de3744566cb4c39b0b8027431b379b45c50c10a903e4a8be7d
+persona_hint: Defense
+source_path: /usr/bin/clang-cpp-15
+tags:
+- unknown
+tool_name: clang-cpp-15

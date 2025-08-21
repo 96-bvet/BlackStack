@@ -1,0 +1,7 @@
+description: Auto-generated manifest for watch
+hash: sha256:1f1ac9226569c4cd0ea6d104d73045547ecf3ff901284491792efc13e5e1419b
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/watch
+tags:
+- unknown
+tool_name: watch

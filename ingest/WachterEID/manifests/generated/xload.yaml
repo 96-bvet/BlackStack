@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xload
+hash: sha256:8d490e0b5462416905842995d5b841616d6bf383a31c621599a502a2ff1a9c11
+persona_hint: Defense
+source_path: /usr/bin/xload
+tags:
+- unknown
+tool_name: xload

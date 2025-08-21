@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fc-scan
+hash: sha256:6504c7e1182ac1610c91694e3d5543d61d82e83f04a82006eeb7ccdd4a67a165
+persona_hint: Defense
+source_path: /usr/bin/fc-scan
+tags:
+- unknown
+tool_name: fc-scan

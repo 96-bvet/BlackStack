@@ -1,0 +1,7 @@
+description: Auto-generated manifest for apt-ftparchive
+hash: sha256:a2482197339c90285771a0f6e0ee29a6c9a40a59965c84a9e7672f9035e5ddd8
+persona_hint: Defense
+source_path: /usr/bin/apt-ftparchive
+tags:
+- unknown
+tool_name: apt-ftparchive

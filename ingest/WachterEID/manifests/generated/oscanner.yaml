@@ -1,0 +1,7 @@
+description: Auto-generated manifest for oscanner
+hash: sha256:e30e2965f025573ecbd50ab6a7703ce69a1bda2e1016dc9006b21b45b5702dde
+persona_hint: Defense
+source_path: /usr/bin/oscanner
+tags:
+- unknown
+tool_name: oscanner

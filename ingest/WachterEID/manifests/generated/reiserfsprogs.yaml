@@ -1,0 +1,7 @@
+description: Auto-generated manifest for reiserfsprogs
+hash: sha256:d9494af052ba3744ee2025c7cb7fa16b1ac266bb0611db2ab347e86813c7da42
+persona_hint: Defense
+source_path: /usr/share/initramfs-tools/hooks/reiserfsprogs
+tags:
+- unknown
+tool_name: reiserfsprogs

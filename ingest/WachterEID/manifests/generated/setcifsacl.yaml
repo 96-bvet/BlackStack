@@ -1,0 +1,7 @@
+description: Auto-generated manifest for setcifsacl
+hash: sha256:511f81fd4fb8b85b7bcc637a7dd92e1422fc98ac69c4505227362164a4d51080
+persona_hint: Defense
+source_path: /usr/bin/setcifsacl
+tags:
+- unknown
+tool_name: setcifsacl

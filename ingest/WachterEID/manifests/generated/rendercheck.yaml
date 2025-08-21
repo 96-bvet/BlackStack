@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rendercheck
+hash: sha256:0482e06de99ee4a244bf1a93a9d799f5066793b69669ecba47031d72bda5217a
+persona_hint: Defense
+source_path: /usr/bin/rendercheck
+tags:
+- unknown
+tool_name: rendercheck

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aseqdump
+hash: sha256:ce01f2ee97e155d9cf9b0ed6f56056041218c14bb23cbb772d1aa213d008106e
+persona_hint: Defense
+source_path: /usr/bin/aseqdump
+tags:
+- unknown
+tool_name: aseqdump

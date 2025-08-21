@@ -1,0 +1,7 @@
+description: Auto-generated manifest for wasmrun.js
+hash: sha256:37793f1c324b7de1717b8aa6aa99cd536ff0693ec6a25e1bb0686f44d8a163ad
+persona_hint: Defense
+source_path: /usr/share/nodejs/@webassemblyjs/cli/lib/wasmrun.js
+tags:
+- unknown
+tool_name: wasmrun.js

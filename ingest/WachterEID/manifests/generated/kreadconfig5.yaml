@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kreadconfig5
+hash: sha256:d34465c038a24ee313b8dc64c76a7f0390e6cebf06d4fee7d5d2f6d9ba01848b
+persona_hint: Defense
+source_path: /usr/bin/kreadconfig5
+tags:
+- unknown
+tool_name: kreadconfig5

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for kde-geo-uri-handler
+hash: sha256:2ace75c482825e9d913c16e3c32d5ea15cce1a77c6be2bddf8c221af32dc560b
+persona_hint: Defense
+source_path: /usr/bin/kde-geo-uri-handler
+tags:
+- unknown
+tool_name: kde-geo-uri-handler

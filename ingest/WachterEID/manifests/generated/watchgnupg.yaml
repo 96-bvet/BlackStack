@@ -1,0 +1,7 @@
+description: Auto-generated manifest for watchgnupg
+hash: sha256:b95acf4d36ccc4f0825d0295b506b73c7f837a82ac9acaaca261856a1c79ffe1
+persona_hint: Defense
+source_path: /usr/bin/watchgnupg
+tags:
+- unknown
+tool_name: watchgnupg

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for protos-sip
+hash: sha256:f106eef89e2b9fd4207cd4ee9bb1f6843d1b097c1d950e34f03bdf2e555a994e
+persona_hint: Defense
+source_path: /usr/bin/protos-sip
+tags:
+- unknown
+tool_name: protos-sip

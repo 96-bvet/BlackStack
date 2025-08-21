@@ -1,0 +1,7 @@
+description: Auto-generated manifest for minicli.pl
+hash: sha256:8cc77c40c82eb78551cec5f92761780d59d44233cb4b4455513e6e3d912f46b5
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-ssleay-perl/examples/minicli.pl
+tags:
+- unknown
+tool_name: minicli.pl

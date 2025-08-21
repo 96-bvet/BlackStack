@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mariadb-tzinfo-to-sql
+hash: sha256:95d6f09537e8e98300d0bc9e3c0194f9df5003794cae6aabb25ffb60f3ec6c02
+persona_hint: Defense
+source_path: /usr/bin/mariadb-tzinfo-to-sql
+tags:
+- unknown
+tool_name: mariadb-tzinfo-to-sql

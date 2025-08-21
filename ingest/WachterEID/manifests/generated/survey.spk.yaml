@@ -1,0 +1,7 @@
+description: Auto-generated manifest for survey.spk
+hash: sha256:ff396982686fcb7e40fdbad35f3346080677ddd128957040794a0cff9a100c15
+persona_hint: Defense
+source_path: /usr/share/spike/audits/COMPAQ/survey.spk
+tags:
+- unknown
+tool_name: survey.spk

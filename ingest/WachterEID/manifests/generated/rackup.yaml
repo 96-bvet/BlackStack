@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rackup
+hash: sha256:3c8f8c478935b9c69de06ea74caf84cfebefe12f8a21bf98a2d7d0a408ca1408
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/rack-2.2.13/bin/rackup
+tags:
+- unknown
+tool_name: rackup

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ifdata
+hash: sha256:6f6d65157407b4ee32d1d8c32a0ec5b80e932e1fbdb3f90778ce16b19cd0ddee
+persona_hint: Defense
+source_path: /usr/bin/ifdata
+tags:
+- unknown
+tool_name: ifdata

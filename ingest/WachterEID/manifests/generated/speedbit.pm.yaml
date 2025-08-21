@@ -1,0 +1,7 @@
+description: Auto-generated manifest for speedbit.pm
+hash: sha256:c23ba0a812e53338584871961a5e60d045c3636c3828f20eaaa27d98d8680ec0
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/speedbit.pm
+tags:
+- unknown
+tool_name: speedbit.pm

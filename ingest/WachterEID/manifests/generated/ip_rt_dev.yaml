@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ip_rt_dev
+hash: sha256:845cf4118fb5c7d5e4c407013b36de34342fe940259cb6a8e58e296dbefe2646
+persona_hint: Defense
+source_path: /usr/share/doc/libnet-rawip-perl/examples/ip_rt_dev
+tags:
+- unknown
+tool_name: ip_rt_dev

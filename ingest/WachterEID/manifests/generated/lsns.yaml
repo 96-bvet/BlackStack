@@ -1,0 +1,7 @@
+description: Auto-generated manifest for lsns
+hash: sha256:9ab1f81a26ae1fa855a27a59214905bd80584bb17bb30d3914f1302dcbcfe5b0
+persona_hint: Defense
+source_path: /usr/bin/lsns
+tags:
+- unknown
+tool_name: lsns

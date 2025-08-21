@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installdeb
+hash: sha256:301fc45faa03c93abb574de6d9bbeaf91d21978435a47de4572d6ef6b2a80ad2
+persona_hint: Defense
+source_path: /usr/bin/dh_installdeb
+tags:
+- unknown
+tool_name: dh_installdeb

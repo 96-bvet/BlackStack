@@ -1,0 +1,7 @@
+description: Auto-generated manifest for create-key.py
+hash: sha256:6fcfc832f93e87c57e4e630f19965534db46fb3241c2b1250f133b9d79e7d3bc
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/howto/create-key.py
+tags:
+- unknown
+tool_name: create-key.py

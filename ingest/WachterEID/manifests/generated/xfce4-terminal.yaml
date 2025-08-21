@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-terminal
+hash: sha256:76309526742cf9c721e83886a0e0d030f3d346120bad64fc76f82c0db6a6ae9f
+persona_hint: Defense
+source_path: /usr/bin/xfce4-terminal
+tags:
+- unknown
+tool_name: xfce4-terminal

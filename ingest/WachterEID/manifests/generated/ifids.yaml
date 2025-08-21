@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ifids
+hash: sha256:8972e57e70e5cb6ebe4c143a79afabedac9fc3e4f24897adc17f02c329ecba14
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/ifids
+tags:
+- unknown
+tool_name: ifids

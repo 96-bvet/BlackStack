@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aa-exec
+hash: sha256:212d036fd1c4ab7466bc1578fbe523d1ac67c39e090b065e8d0b2bce40f46c58
+persona_hint: Defense
+source_path: /usr/bin/aa-exec
+tags:
+- unknown
+tool_name: aa-exec

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rqworker
+hash: sha256:ea2045dcc92610faf758e018442bef7ae62e08a391c6c4150eb9f00eef5e17fa
+persona_hint: Defense
+source_path: /usr/bin/rqworker
+tags:
+- unknown
+tool_name: rqworker

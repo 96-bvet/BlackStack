@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atomic-rsync
+hash: sha256:e10e5958f709484242ed3e2dd090956bd1f9b6dc15c93face624722eafe357e5
+persona_hint: Defense
+source_path: /usr/share/rsync/scripts/atomic-rsync
+tags:
+- unknown
+tool_name: atomic-rsync

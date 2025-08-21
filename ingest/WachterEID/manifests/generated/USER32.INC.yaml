@@ -1,0 +1,7 @@
+description: Auto-generated manifest for USER32.INC
+hash: sha256:d9564da1e5b840db983b2e6bc06ef4e1d2e162da6b737cbfd6fbb60c2f1f4cc1
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Fasm/INCLUDE/PCOUNT/USER32.INC
+tags:
+- unknown
+tool_name: USER32.INC

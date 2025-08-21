@@ -1,0 +1,7 @@
+description: Auto-generated manifest for zipfind.rb
+hash: sha256:b644f5f94d43db25abf3888b740b4428b7f47b59dc9ecf14c23a964fe9906f77
+persona_hint: Defense
+source_path: /usr/share/rubygems-integration/all/gems/rubyzip-2.3.2/samples/zipfind.rb
+tags:
+- unknown
+tool_name: zipfind.rb

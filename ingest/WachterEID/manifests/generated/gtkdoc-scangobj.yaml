@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtkdoc-scangobj
+hash: sha256:6cbaa8ed5c96c5910e3142b5a3912d207c2672630c0bd21fba2354fa4c908410
+persona_hint: Defense
+source_path: /usr/bin/gtkdoc-scangobj
+tags:
+- unknown
+tool_name: gtkdoc-scangobj

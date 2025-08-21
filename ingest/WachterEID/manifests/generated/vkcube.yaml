@@ -1,0 +1,7 @@
+description: Auto-generated manifest for vkcube
+hash: sha256:6e020d0911794986e61f4d09acc9a1ff84ea043b7991ec215f345ccede8360c5
+persona_hint: Defense
+source_path: /usr/bin/vkcube
+tags:
+- unknown
+tool_name: vkcube

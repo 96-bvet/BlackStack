@@ -1,0 +1,7 @@
+description: Auto-generated manifest for innochecksum
+hash: sha256:6ff0ee0e3be48960b937314e3a34598c478d2bd91353070031dd81a09b558b01
+persona_hint: Defense
+source_path: /usr/bin/innochecksum
+tags:
+- unknown
+tool_name: innochecksum

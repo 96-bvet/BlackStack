@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fullcsv
+hash: sha256:4c7d00ef33117e4a273115ab3b8cb9cb1831274bee0a1400d889dcf03b5910fa
+persona_hint: Defense
+source_path: /usr/share/sipp/tools/monitor/fullcsv
+tags:
+- unknown
+tool_name: fullcsv

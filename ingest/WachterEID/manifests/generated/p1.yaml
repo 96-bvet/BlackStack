@@ -1,0 +1,7 @@
+description: Auto-generated manifest for p1
+hash: sha256:494174bc281304d30ad187d26bc81d4b2c243780de1df089750d5a6e74117eba
+persona_hint: Defense
+source_path: /usr/share/spike/dcedump/p1
+tags:
+- unknown
+tool_name: p1

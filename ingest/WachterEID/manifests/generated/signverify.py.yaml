@@ -1,0 +1,7 @@
+description: Auto-generated manifest for signverify.py
+hash: sha256:b4acafcb03a6a048c5e44eb842c08eb06bd30f07cbc60f21296fdbad29838351
+persona_hint: Defense
+source_path: /usr/share/doc/python3-gpg/examples/signverify.py
+tags:
+- unknown
+tool_name: signverify.py

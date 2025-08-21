@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ylwrap
+hash: sha256:3f064d6a73ee59ba5c0e611a3223adc36d64cca41f7e97dfb048589780f5cb02
+persona_hint: Defense
+source_path: /usr/share/automake-1.16/ylwrap
+tags:
+- unknown
+tool_name: ylwrap

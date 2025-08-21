@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mysql_upgrade
+hash: sha256:56010a43fe91c737e212a7cb442cc9159455ed8d5c4a81f1504e0888412aa3ac
+persona_hint: Defense
+source_path: /usr/bin/mysql_upgrade
+tags:
+- unknown
+tool_name: mysql_upgrade

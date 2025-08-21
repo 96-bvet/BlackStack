@@ -1,0 +1,7 @@
+description: Auto-generated manifest for is-configured
+hash: sha256:d2e045f56e026aa65611bc9ad103f978bd69c18b53eb7e3409bf747755022f3c
+persona_hint: Defense
+source_path: /usr/share/samba/is-configured
+tags:
+- unknown
+tool_name: is-configured

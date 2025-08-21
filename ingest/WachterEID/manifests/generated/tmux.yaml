@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tmux
+hash: sha256:2d934abcbb7561dd36b12cda3d0d0eb8a90dc8f111b6d3bbf78119a4f717f383
+persona_hint: Defense
+source_path: /usr/bin/tmux
+tags:
+- unknown
+tool_name: tmux

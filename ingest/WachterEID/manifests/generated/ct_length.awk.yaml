@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ct_length.awk
+hash: sha256:9c35a3dc3e21df0994f300480534a3d2448439c68dfb9c86b07ac55f3f7daaad
+persona_hint: Defense
+source_path: /usr/share/doc/mawk/examples/ct_length.awk
+tags:
+- unknown
+tool_name: ct_length.awk

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for mate-terminal
+hash: sha256:d95f8aeca8afd5f256b473b45ab6c3f2c97672215ad9edf9eeadf6204c737088
+persona_hint: Defense
+source_path: /usr/bin/mate-terminal
+tags:
+- unknown
+tool_name: mate-terminal

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for file.zip
+hash: sha256:9f04e37eec7f919a928f9700ebee175d3d04254c48add414205c1c8bd44d028d
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/getjar/file.zip
+tags:
+- unknown
+tool_name: file.zip

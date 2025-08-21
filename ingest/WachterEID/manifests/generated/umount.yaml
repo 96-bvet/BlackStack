@@ -1,0 +1,7 @@
+description: Auto-generated manifest for umount
+hash: sha256:54bf7fbc1db029188f5d7e1397f4ad7b2cd1e2d7a57869002d390063cbbb3268
+persona_hint: Defense
+source_path: /usr/bin/umount
+tags:
+- unknown
+tool_name: umount

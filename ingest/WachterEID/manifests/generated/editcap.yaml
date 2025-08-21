@@ -1,0 +1,7 @@
+description: Auto-generated manifest for editcap
+hash: sha256:42fd606b0692cd52df92e0590f44d23798f681f4a5103652d797b37eaebc287d
+persona_hint: Defense
+source_path: /usr/bin/editcap
+tags:
+- unknown
+tool_name: editcap

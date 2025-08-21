@@ -1,0 +1,7 @@
+description: Auto-generated manifest for depgraph
+hash: sha256:d2e569ba1d0aef3a2b19d204bd144cf658e4bb3cf8012f378c0178a25e28a793
+persona_hint: Defense
+source_path: /usr/share/doc/python3-debian/examples/deb822/depgraph
+tags:
+- unknown
+tool_name: depgraph

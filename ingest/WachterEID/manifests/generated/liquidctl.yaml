@@ -1,0 +1,7 @@
+description: Auto-generated manifest for liquidctl
+hash: sha256:beeae7a57aeac7c7ab63643d97bf7281ca602e65874cc0556c74054baca3658d
+persona_hint: Defense
+source_path: /usr/bin/liquidctl
+tags:
+- unknown
+tool_name: liquidctl

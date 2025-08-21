@@ -1,0 +1,7 @@
+description: Auto-generated manifest for yahoomsn.pm
+hash: sha256:e20daa8d1ce39fe2b49251f1f145eb72318f66c241299d1b57e19eeed83dee22
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/yahoomsn.pm
+tags:
+- unknown
+tool_name: yahoomsn.pm

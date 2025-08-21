@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tclsh
+hash: sha256:baa1fa222d56b93f0c55e52f46d719b4dbc430178e9ce8b3c23d0619d406df98
+persona_hint: Defense
+source_path: /usr/bin/tclsh
+tags:
+- unknown
+tool_name: tclsh

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for usb-devices
+hash: sha256:8ae56f52afef834b406838de287efceaf1e3bc9d3b2f5c2f65ab3d05f059f07b
+persona_hint: Defense
+source_path: /usr/bin/usb-devices
+tags:
+- unknown
+tool_name: usb-devices

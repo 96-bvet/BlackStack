@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_fixperms
+hash: sha256:334424f03fa23fee8e695389a862f55808a59635ee3e3bdfb98c1496727b1402
+persona_hint: Defense
+source_path: /usr/bin/dh_fixperms
+tags:
+- unknown
+tool_name: dh_fixperms

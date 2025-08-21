@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ohrwurm
+hash: sha256:3149b1cf9519a1390fc921a5d6107c4b2aea036bf3a772b52a46b6cf0320b5d1
+persona_hint: Defense
+source_path: /usr/bin/ohrwurm
+tags:
+- unknown
+tool_name: ohrwurm

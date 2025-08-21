@@ -1,0 +1,7 @@
+description: Auto-generated manifest for update1
+hash: sha256:aa1146b22e373f4ff25989fcd4eae6f2a0167d47ff9a2a90b7818c9d5a237fb9
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/ubertwitter/update1
+tags:
+- unknown
+tool_name: update1

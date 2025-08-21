@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remmina-gnome
+hash: sha256:58cebb42e4c8615a64fa95a4be1f40e5f3ad8a190f0709449ee48205094a55b3
+persona_hint: Defense
+source_path: /usr/bin/remmina-gnome
+tags:
+- unknown
+tool_name: remmina-gnome

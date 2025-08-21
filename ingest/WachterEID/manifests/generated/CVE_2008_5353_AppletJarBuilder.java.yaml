@@ -1,0 +1,7 @@
+description: Auto-generated manifest for CVE_2008_5353_AppletJarBuilder.java
+hash: sha256:735e8381a1ac1f5ffdb4c7b15bb491f05815f60141f65ce21075110869fb0834
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/builder/CVE_2008_5353_AppletJarBuilder.java
+tags:
+- unknown
+tool_name: CVE_2008_5353_AppletJarBuilder.java

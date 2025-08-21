@@ -1,0 +1,7 @@
+description: Auto-generated manifest for htdbm
+hash: sha256:44c9f3346ed06f549397771f87b27562c80f5c957ac163af694fbdd18b742b8b
+persona_hint: Defense
+source_path: /usr/bin/htdbm
+tags:
+- unknown
+tool_name: htdbm

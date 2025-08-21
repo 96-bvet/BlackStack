@@ -1,0 +1,7 @@
+description: Auto-generated manifest for source_sudo.py
+hash: sha256:58d7ad18472af30014e1a3d5a4bf576f21b793588abc1af5548859445119a6fe
+persona_hint: Defense
+source_path: /usr/share/apport/package-hooks/source_sudo.py
+tags:
+- unknown
+tool_name: source_sudo.py

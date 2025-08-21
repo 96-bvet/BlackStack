@@ -1,0 +1,7 @@
+description: Auto-generated manifest for svnbench
+hash: sha256:0c4e0a57f07d2eeec749307a522acb18c5b6888de377f39de61373335ff14539
+persona_hint: Defense
+source_path: /usr/bin/svnbench
+tags:
+- unknown
+tool_name: svnbench

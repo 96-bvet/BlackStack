@@ -1,0 +1,7 @@
+description: Auto-generated manifest for terser
+hash: sha256:312a3f9b37d3f5316ee384bfdc347313dae6f0f9056c44b3cae56c8e4e9f4496
+persona_hint: Defense
+source_path: /usr/share/nodejs/terser/bin/terser
+tags:
+- unknown
+tool_name: terser

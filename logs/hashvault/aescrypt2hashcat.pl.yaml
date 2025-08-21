@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aescrypt2hashcat.pl
+hash: sha256:6bc1809d5b9e270ce9cdb7ca23536e04fdb4126c78c26686fab20b1a1da18d20
+persona_hint: Defense
+source_path: /usr/share/hashcat/tools/aescrypt2hashcat.pl
+tags:
+- unknown
+tool_name: aescrypt2hashcat.pl

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for resolve_stack_dump
+hash: sha256:f84bfc959f2748518b7c0838164dc5d7495d33a2ab15d5e3a87c2a7b01cc3895
+persona_hint: Defense
+source_path: /usr/bin/resolve_stack_dump
+tags:
+- unknown
+tool_name: resolve_stack_dump

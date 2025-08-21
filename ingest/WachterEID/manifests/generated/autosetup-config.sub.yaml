@@ -1,0 +1,7 @@
+description: Auto-generated manifest for autosetup-config.sub
+hash: sha256:11c54f55c3ac99e5d2c3dc2bb0bcccbf69f8223cc68f6b2438daa806cf0d16d8
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/sqlite3-2.6.0/ext/sqlite3/tmp/x86_64-linux-gnu/ports/sqlite3/3.49.1/sqlite-autoconf-3490100/autosetup/autosetup-config.sub
+tags:
+- unknown
+tool_name: autosetup-config.sub

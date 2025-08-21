@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ssh
+hash: sha256:b047dc2fc5f62f8d08436b0f7714bdf9541a6933b544e6295efa7b79232be01a
+persona_hint: Defense
+source_path: /usr/bin/ssh
+tags:
+- unknown
+tool_name: ssh

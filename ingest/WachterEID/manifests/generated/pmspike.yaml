@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pmspike
+hash: sha256:632ff448da0a8eb24b3598b3783c1ed40f3f5a12347658407b475b53fed39f8e
+persona_hint: Defense
+source_path: /usr/bin/pmspike
+tags:
+- unknown
+tool_name: pmspike

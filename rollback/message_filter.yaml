@@ -1,0 +1,8 @@
+name: message_filter
+path: examples/handoffs/message_filter.py
+type: py
+category: misc
+hash: e72fd3be3f43fdd894ed7e416ab2dbd9395c6d0a79eb20bf6f920a515e64770e
+approved: true
+import: true
+license_stub: true

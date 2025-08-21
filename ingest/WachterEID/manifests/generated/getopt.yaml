@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getopt
+hash: sha256:438e0b2a3e708e693c2574c7e59c63906ed533e08222bbeebdb0b1bc9e71cf9b
+persona_hint: Defense
+source_path: /usr/bin/getopt
+tags:
+- unknown
+tool_name: getopt

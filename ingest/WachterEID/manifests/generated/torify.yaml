@@ -1,0 +1,7 @@
+description: Auto-generated manifest for torify
+hash: sha256:23a7475de7e0527eee73e9f67d65cbe566648bfb54002bc0a2f916b203d5f007
+persona_hint: Defense
+source_path: /usr/bin/torify
+tags:
+- unknown
+tool_name: torify

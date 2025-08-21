@@ -1,0 +1,7 @@
+description: Auto-generated manifest for myserver_hanging.rb
+hash: sha256:c597c445a69f20be08c084db89057ae5d3324e1ac25ac24e5e4829515a0f34b0
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/daemons-1.4.1/examples/run/myserver_hanging.rb
+tags:
+- unknown
+tool_name: myserver_hanging.rb

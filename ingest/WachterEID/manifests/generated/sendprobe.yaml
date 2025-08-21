@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sendprobe
+hash: sha256:cccc3f7574a527f68dcbaeb8f9ff0e46c2aa77a3bb31f5c62c6b64013cfab81a
+persona_hint: Defense
+source_path: /usr/bin/sendprobe
+tags:
+- unknown
+tool_name: sendprobe

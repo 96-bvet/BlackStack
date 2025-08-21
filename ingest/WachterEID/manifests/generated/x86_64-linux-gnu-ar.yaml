@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-ar
+hash: sha256:3acbee2794e3668a74bcb90f2eaf7d981211fb95288ab940f0e3ac380e8f6023
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-ar
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-ar

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for glxgears.x86_64-linux-gnu
+hash: sha256:0a286de534b54d48b8ba73798a7b5bfa45717f09e6da0983f4dfca5a1f23c1e4
+persona_hint: Defense
+source_path: /usr/bin/glxgears.x86_64-linux-gnu
+tags:
+- unknown
+tool_name: glxgears.x86_64-linux-gnu

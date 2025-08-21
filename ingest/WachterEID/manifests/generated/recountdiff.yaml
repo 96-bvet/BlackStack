@@ -1,0 +1,7 @@
+description: Auto-generated manifest for recountdiff
+hash: sha256:12663e11dcb889ab539c605480b16dd009d32f038e306c21a5f7eedd10c5d5ce
+persona_hint: Defense
+source_path: /usr/bin/recountdiff
+tags:
+- unknown
+tool_name: recountdiff

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gtk-query-settings
+hash: sha256:a192903f7076d73e88e9943f41c672bc4212ac3176b439b57c0a48c8a47ae68b
+persona_hint: Defense
+source_path: /usr/bin/gtk-query-settings
+tags:
+- unknown
+tool_name: gtk-query-settings

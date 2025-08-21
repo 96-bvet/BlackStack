@@ -1,0 +1,7 @@
+description: Auto-generated manifest for onesixtyone
+hash: sha256:f6213dd1328b762158462f5f3f67b9d118cae0d40268ad837d90e277fcaefd41
+persona_hint: Defense
+source_path: /usr/bin/onesixtyone
+tags:
+- unknown
+tool_name: onesixtyone

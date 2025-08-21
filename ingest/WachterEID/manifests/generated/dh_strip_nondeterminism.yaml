@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_strip_nondeterminism
+hash: sha256:a0d1a41a5d0547c2aaae1f3fa8a89f3b0dcb726ccbf505794a32ab4f747255bf
+persona_hint: Defense
+source_path: /usr/bin/dh_strip_nondeterminism
+tags:
+- unknown
+tool_name: dh_strip_nondeterminism

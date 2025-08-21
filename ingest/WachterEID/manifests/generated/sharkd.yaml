@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sharkd
+hash: sha256:b75361147718b20395250aec4d9fa43844c0d06d39ddd535d2ac41d0d6e929d9
+persona_hint: Defense
+source_path: /usr/bin/sharkd
+tags:
+- unknown
+tool_name: sharkd

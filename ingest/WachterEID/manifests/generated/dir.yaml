@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dir
+hash: sha256:54df57d9237f2d3f15a61d00fd2398d65099f64ac49129f7ce09f738a1e998c4
+persona_hint: Defense
+source_path: /usr/bin/dir
+tags:
+- unknown
+tool_name: dir

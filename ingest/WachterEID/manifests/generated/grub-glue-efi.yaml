@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-glue-efi
+hash: sha256:6dfc3503ed0b075efb5983d0464fb61c7ba175dfd51229ab6c1a1abe8b4c158b
+persona_hint: Defense
+source_path: /usr/bin/grub-glue-efi
+tags:
+- unknown
+tool_name: grub-glue-efi

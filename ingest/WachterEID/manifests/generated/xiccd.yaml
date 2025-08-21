@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xiccd
+hash: sha256:08227d350c853c1cf966449ba077caa076beac099115a43ffd249a7562b56d71
+persona_hint: Defense
+source_path: /usr/bin/xiccd
+tags:
+- unknown
+tool_name: xiccd

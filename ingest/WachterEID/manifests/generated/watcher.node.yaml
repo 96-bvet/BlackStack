@@ -1,0 +1,7 @@
+description: Auto-generated manifest for watcher.node
+hash: sha256:3b6a7973f0f414d55426f2af43a310328b2e2343f90a597fab0362d5cacaaf61
+persona_hint: Defense
+source_path: /usr/share/codium/resources/app/node_modules/@parcel/watcher/build/Release/watcher.node
+tags:
+- unknown
+tool_name: watcher.node

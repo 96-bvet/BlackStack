@@ -1,0 +1,7 @@
+description: Auto-generated manifest for su
+hash: sha256:4b8bb44ac13b8f8f8c08708faff91a9b63b3fa369b8cbfe1abb5ef09e8029993
+persona_hint: Defense
+source_path: /usr/bin/su
+tags:
+- unknown
+tool_name: su

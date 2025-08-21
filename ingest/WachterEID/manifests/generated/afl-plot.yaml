@@ -1,0 +1,7 @@
+description: Auto-generated manifest for afl-plot
+hash: sha256:ee43c9296380a7c92eae8d70343fabe80176222c9ee2579e4de03f613c8d9357
+persona_hint: Defense
+source_path: /usr/bin/afl-plot
+tags:
+- unknown
+tool_name: afl-plot

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hwloc-gather-topology
+hash: sha256:625d39a42c28343b11b5f636636229f30b7bc8a91a5975d80d67cb7bf83d4744
+persona_hint: Defense
+source_path: /usr/bin/hwloc-gather-topology
+tags:
+- unknown
+tool_name: hwloc-gather-topology

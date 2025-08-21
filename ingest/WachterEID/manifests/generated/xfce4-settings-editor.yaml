@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xfce4-settings-editor
+hash: sha256:293979a4804e9874616b678afc3e18ec759df210c80449d9231c382758905d8e
+persona_hint: Defense
+source_path: /usr/bin/xfce4-settings-editor
+tags:
+- unknown
+tool_name: xfce4-settings-editor

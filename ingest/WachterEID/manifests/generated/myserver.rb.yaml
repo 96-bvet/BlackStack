@@ -1,0 +1,7 @@
+description: Auto-generated manifest for myserver.rb
+hash: sha256:211f9a11ee706f639abf41ce15e35a6ec53ede00d1dd8bdb1d9574130316a0b3
+persona_hint: Defense
+source_path: /usr/share/beef-xss/vendor/bundle/ruby/3.1.0/gems/daemons-1.4.1/examples/run/myserver.rb
+tags:
+- unknown
+tool_name: myserver.rb

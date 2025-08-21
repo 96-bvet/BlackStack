@@ -1,0 +1,7 @@
+description: Auto-generated manifest for blueman-services
+hash: sha256:6b285c9ae71db39265a370ca0c4209075cf109e4f234f118793e8c744c79a295
+persona_hint: Defense
+source_path: /usr/bin/blueman-services
+tags:
+- unknown
+tool_name: blueman-services

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for php-vuln.test
+hash: sha256:90f318a695a06689dab522e5d83359609ce1e46a14f9525002683bfe3d52a3ec
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/php-vuln.test
+tags:
+- unknown
+tool_name: php-vuln.test

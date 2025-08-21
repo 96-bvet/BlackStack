@@ -1,0 +1,7 @@
+description: Auto-generated manifest for Shellcode.yaml
+hash: sha256:ad27584e8973b66d80c5dc755c34d875713e0f3171752b4a8f35de15f8e64cac
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/code_execution/Shellcode.yaml
+tags:
+- unknown
+tool_name: Shellcode.yaml

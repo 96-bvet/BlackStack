@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtl_sdr
+hash: sha256:043d22962e4f688378efcf4e86b6a9407d9bb1c22aa06962fa8f6c54947d046e
+persona_hint: Defense
+source_path: /usr/bin/rtl_sdr
+tags:
+- unknown
+tool_name: rtl_sdr

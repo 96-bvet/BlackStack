@@ -1,0 +1,7 @@
+description: Auto-generated manifest for grub-mkrelpath
+hash: sha256:d19108b85d8316bccc9f93a9736c0fb1763e7c2bfac8b1ad5ebeeb6d0f221b92
+persona_hint: Defense
+source_path: /usr/bin/grub-mkrelpath
+tags:
+- unknown
+tool_name: grub-mkrelpath

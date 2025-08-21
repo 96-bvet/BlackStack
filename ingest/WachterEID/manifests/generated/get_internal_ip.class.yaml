@@ -1,0 +1,7 @@
+description: Auto-generated manifest for get_internal_ip.class
+hash: sha256:d652a670a34ac57e19830815db513bfd75f0892336c29c9a400ebfcb887313b8
+persona_hint: Defense
+source_path: /usr/share/beef-xss/modules/host/get_internal_ip_java/get_internal_ip.class
+tags:
+- unknown
+tool_name: get_internal_ip.class

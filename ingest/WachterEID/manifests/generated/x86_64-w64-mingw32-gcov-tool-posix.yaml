@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-gcov-tool-posix
+hash: sha256:3f28a958cb0671d37f0c033a82a4c6b795c7d9a934272e3e3291a51564ef73de
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-gcov-tool-posix
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-gcov-tool-posix

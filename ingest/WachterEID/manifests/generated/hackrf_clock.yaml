@@ -1,0 +1,7 @@
+description: Auto-generated manifest for hackrf_clock
+hash: sha256:81dd854a61542607cb29f758fadb858fc8675046ee89d29162d210027f106b38
+persona_hint: Defense
+source_path: /usr/bin/hackrf_clock
+tags:
+- unknown
+tool_name: hackrf_clock

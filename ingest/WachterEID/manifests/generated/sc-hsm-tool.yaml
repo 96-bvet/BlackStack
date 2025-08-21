@@ -1,0 +1,7 @@
+description: Auto-generated manifest for sc-hsm-tool
+hash: sha256:3b9938d186eaf393d59dcc84a8b8a565fe2e1a5e0ccc1076274b1f96d5225997
+persona_hint: Defense
+source_path: /usr/bin/sc-hsm-tool
+tags:
+- unknown
+tool_name: sc-hsm-tool

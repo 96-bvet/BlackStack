@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xusers.awk
+hash: sha256:b5eb929feaef8d4d10b99d9b6f1f3b0acf5d00e8c522a39032ce7272bfd9ccf4
+persona_hint: Defense
+source_path: /usr/share/doc/lsof/examples/xusers.awk
+tags:
+- unknown
+tool_name: xusers.awk

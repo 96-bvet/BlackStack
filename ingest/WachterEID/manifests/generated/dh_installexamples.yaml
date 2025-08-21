@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dh_installexamples
+hash: sha256:fbf527cb3bfcd21166b7074063e2fb4bfc8d04fed89604725394c1d39876fb55
+persona_hint: Defense
+source_path: /usr/bin/dh_installexamples
+tags:
+- unknown
+tool_name: dh_installexamples

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for shellnoob.py
+hash: sha256:d7d0f0f03e0d46cc8450198bf39665ac1cdd84076912c6d4d80ac6ed35ed9c78
+persona_hint: Defense
+source_path: /usr/share/shellnoob/shellnoob.py
+tags:
+- unknown
+tool_name: shellnoob.py

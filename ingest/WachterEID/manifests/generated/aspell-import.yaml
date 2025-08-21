@@ -1,0 +1,7 @@
+description: Auto-generated manifest for aspell-import
+hash: sha256:98067cd6d3264638112772e79c49bf436684a7536a6ed27ab5dc08d3d589c1d3
+persona_hint: Defense
+source_path: /usr/bin/aspell-import
+tags:
+- unknown
+tool_name: aspell-import

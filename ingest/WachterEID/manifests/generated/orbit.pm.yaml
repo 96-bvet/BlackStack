@@ -1,0 +1,7 @@
+description: Auto-generated manifest for orbit.pm
+hash: sha256:3c24823068f1df36d62c22095a4139eb5d6432d0ec80a09a436d3cc80ac05776
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/modules/orbit.pm
+tags:
+- unknown
+tool_name: orbit.pm

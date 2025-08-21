@@ -1,0 +1,7 @@
+description: Auto-generated manifest for dbus-uuidgen
+hash: sha256:08fd34f6ebc619b3177bc4b931553be64bb2faa4f6e652b53ea2373ed7025b22
+persona_hint: Defense
+source_path: /usr/bin/dbus-uuidgen
+tags:
+- unknown
+tool_name: dbus-uuidgen

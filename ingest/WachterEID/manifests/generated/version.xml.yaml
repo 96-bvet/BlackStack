@@ -1,0 +1,7 @@
+description: Auto-generated manifest for version.xml
+hash: sha256:a11c78ce8970f80536c744e4325bb4c7a5c5b31c97aa10ea2572963936c0a0d0
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/growl/version.xml
+tags:
+- unknown
+tool_name: version.xml

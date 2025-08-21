@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pg_config.pl
+hash: sha256:bb8b798388f8de4f1cf94a9874ab2337d3cbf2dd81f130bd97dd5f43f9721109
+persona_hint: Defense
+source_path: /usr/share/postgresql-common/server/pg_config.pl
+tags:
+- unknown
+tool_name: pg_config.pl

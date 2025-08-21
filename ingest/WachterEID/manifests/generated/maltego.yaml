@@ -1,0 +1,7 @@
+description: Auto-generated manifest for maltego
+hash: sha256:6d1e769dd471aa98c644c0a53733e9ce1d667ec8daf5fd5fd7458881d513de10
+persona_hint: Defense
+source_path: /usr/share/maltego/bin/maltego
+tags:
+- unknown
+tool_name: maltego

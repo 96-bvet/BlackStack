@@ -1,0 +1,7 @@
+description: Auto-generated manifest for linux-boot-prober
+hash: sha256:3e83b944c7f6099fe7dc6ae5b0bac2e8193c695b4ef8d2121b7f44bb71c68da0
+persona_hint: Defense
+source_path: /usr/bin/linux-boot-prober
+tags:
+- unknown
+tool_name: linux-boot-prober

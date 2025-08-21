@@ -1,0 +1,7 @@
+description: Auto-generated manifest for loadkeys
+hash: sha256:be8e5db796c541a95468ea0c8bf1aac13c72ebc924d0f85d5916dfd77b2e74a5
+persona_hint: Defense
+source_path: /usr/bin/loadkeys
+tags:
+- unknown
+tool_name: loadkeys

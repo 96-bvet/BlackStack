@@ -1,0 +1,7 @@
+description: Auto-generated manifest for gdk-pixbuf-pixdata
+hash: sha256:2460b8a78b58d4ddb3a6ea45d5b0df1d8dc9ef1bd6dae42c25f70238cbdb90b9
+persona_hint: Defense
+source_path: /usr/bin/gdk-pixbuf-pixdata
+tags:
+- unknown
+tool_name: gdk-pixbuf-pixdata

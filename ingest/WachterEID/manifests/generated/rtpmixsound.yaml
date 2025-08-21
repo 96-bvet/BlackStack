@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtpmixsound
+hash: sha256:1f40133a4fa9b564639d68bdb939d54652b528ea6e1aed23894d7f8d04a65749
+persona_hint: Defense
+source_path: /usr/bin/rtpmixsound
+tags:
+- unknown
+tool_name: rtpmixsound

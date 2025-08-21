@@ -1,0 +1,7 @@
+description: Auto-generated manifest for tee
+hash: sha256:1613befc577b68e65c940d45a1db6e79b25074dc3d8ddb1f2b3cb3c60ce5fc4d
+persona_hint: Defense
+source_path: /usr/bin/tee
+tags:
+- unknown
+tool_name: tee

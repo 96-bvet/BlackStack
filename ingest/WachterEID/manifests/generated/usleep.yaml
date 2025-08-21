@@ -1,0 +1,7 @@
+description: Auto-generated manifest for usleep
+hash: sha256:e3f0c3a07984b7561104f8a4de49aef489b5d55f1f06f70ae40b70a77488e53c
+persona_hint: Defense
+source_path: /usr/bin/usleep
+tags:
+- unknown
+tool_name: usleep

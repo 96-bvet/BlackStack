@@ -1,0 +1,7 @@
+description: Auto-generated manifest for ircwatcher
+hash: sha256:cd71346dccd47e0ccbf7f47b441963d61a346c4a6f2014104db99c72550399c2
+persona_hint: Defense
+source_path: /usr/share/doc/libregexp-assemble-perl/examples/ircwatcher
+tags:
+- unknown
+tool_name: ircwatcher

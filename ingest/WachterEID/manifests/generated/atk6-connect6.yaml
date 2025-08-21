@@ -1,0 +1,7 @@
+description: Auto-generated manifest for atk6-connect6
+hash: sha256:11088cf73fdd60368492737cd52964a8c36912475e883f190b3bb398ab501a3b
+persona_hint: Defense
+source_path: /usr/bin/atk6-connect6
+tags:
+- unknown
+tool_name: atk6-connect6

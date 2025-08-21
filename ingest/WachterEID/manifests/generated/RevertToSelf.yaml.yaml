@@ -1,0 +1,7 @@
+description: Auto-generated manifest for RevertToSelf.yaml
+hash: sha256:66f2024e2559ccb965198ad2d75712d3985491a3d4ffb8e28c268520b3762381
+persona_hint: Defense
+source_path: /usr/share/powershell-empire/empire/server/modules/csharp/credentials/SharpSploit/RevertToSelf.yaml
+tags:
+- unknown
+tool_name: RevertToSelf.yaml

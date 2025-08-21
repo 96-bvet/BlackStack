@@ -1,0 +1,7 @@
+description: Auto-generated manifest for cgroupfs-mount
+hash: sha256:2e341c1bd45b244531a2abc0ed387b9a9616db5ffff7c5004b2828f34c207174
+persona_hint: Defense
+source_path: /usr/bin/cgroupfs-mount
+tags:
+- unknown
+tool_name: cgroupfs-mount

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for http-etc-enumeration.list
+hash: sha256:aeb8fc4d556fabf676878a07d3a931082f466d520573ed9d37686cc1b33b839c
+persona_hint: Defense
+source_path: /usr/share/sfuzz-db/http-etc-enumeration.list
+tags:
+- unknown
+tool_name: http-etc-enumeration.list

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-w64-mingw32-objdump
+hash: sha256:d2adbe397294c17b5ce376bed5af459eed07926b9b775f983a1359b3b7f00215
+persona_hint: Defense
+source_path: /usr/bin/x86_64-w64-mingw32-objdump
+tags:
+- unknown
+tool_name: x86_64-w64-mingw32-objdump

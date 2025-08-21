@@ -1,0 +1,7 @@
+description: Auto-generated manifest for getTGT.py
+hash: sha256:ecfc761d9ccf01f4d32041150df0127c8ef3343464f0a5b128daef288afe9d31
+persona_hint: Defense
+source_path: /usr/share/doc/python3-impacket/examples/getTGT.py
+tags:
+- unknown
+tool_name: getTGT.py

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for pe.inc
+hash: sha256:6853041d9f914a517d65f2c3af88c39ea09934dd00c1fa5afa48022435960831
+persona_hint: Defense
+source_path: /usr/share/windows-resources/hyperion/Src/Container/64/pe.inc
+tags:
+- unknown
+tool_name: pe.inc

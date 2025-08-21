@@ -1,0 +1,7 @@
+description: Auto-generated manifest for xminicom
+hash: sha256:b5a9bbbffad4ea9d68b576d3507ef3d5bdf8ff6a885902ffccd3cc05b493bb81
+persona_hint: Defense
+source_path: /usr/bin/xminicom
+tags:
+- unknown
+tool_name: xminicom

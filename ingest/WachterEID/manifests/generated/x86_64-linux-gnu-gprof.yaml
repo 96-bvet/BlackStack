@@ -1,0 +1,7 @@
+description: Auto-generated manifest for x86_64-linux-gnu-gprof
+hash: sha256:906e2fb0a64b17dcb6cf1324d734d411e3109ca657d1060f52e325d6d0fcdadf
+persona_hint: Defense
+source_path: /usr/bin/x86_64-linux-gnu-gprof
+tags:
+- unknown
+tool_name: x86_64-linux-gnu-gprof

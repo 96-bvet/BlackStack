@@ -1,0 +1,7 @@
+description: Auto-generated manifest for jpackage
+hash: sha256:807e79b4a4d250ebc01a13536d5a7f0828c2032de88446d7fe3cf76389233cac
+persona_hint: Defense
+source_path: /usr/bin/jpackage
+tags:
+- unknown
+tool_name: jpackage

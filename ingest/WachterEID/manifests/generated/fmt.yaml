@@ -1,0 +1,7 @@
+description: Auto-generated manifest for fmt
+hash: sha256:62cc5a8540901930b70ea6ee6419af7e5522f23bb6c08e92ac5121fca4a5628c
+persona_hint: Defense
+source_path: /usr/bin/fmt
+tags:
+- unknown
+tool_name: fmt

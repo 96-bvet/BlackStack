@@ -1,0 +1,7 @@
+description: Auto-generated manifest for rtpbreak
+hash: sha256:cb6bf0a1ba96fc4010899e98632158bb65194a4b7a7bee52f048f72509b5db18
+persona_hint: Defense
+source_path: /usr/bin/rtpbreak
+tags:
+- unknown
+tool_name: rtpbreak

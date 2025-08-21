@@ -1,0 +1,7 @@
+description: Auto-generated manifest for msggrep
+hash: sha256:ce7bd665d673f0295a3d07c46dfe21f4ba4dde810aec3186121d6cd42f1813e1
+persona_hint: Defense
+source_path: /usr/bin/msggrep
+tags:
+- unknown
+tool_name: msggrep

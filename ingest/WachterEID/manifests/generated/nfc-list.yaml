@@ -1,0 +1,7 @@
+description: Auto-generated manifest for nfc-list
+hash: sha256:eb84dbe7fedd214623dd68a0ad9d2c53b451cc84280a693f94a71fa816a55285
+persona_hint: Defense
+source_path: /usr/bin/nfc-list
+tags:
+- unknown
+tool_name: nfc-list

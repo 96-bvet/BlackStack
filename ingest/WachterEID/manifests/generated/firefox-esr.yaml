@@ -1,0 +1,7 @@
+description: Auto-generated manifest for firefox-esr
+hash: sha256:2fd40fb0d7831b816965be6fa90c31c0e941ec462eb2b224d5dbb5854844add7
+persona_hint: Defense
+source_path: /usr/bin/firefox-esr
+tags:
+- unknown
+tool_name: firefox-esr

@@ -1,0 +1,7 @@
+description: Auto-generated manifest for braa
+hash: sha256:1fba8e636083a01f9606489a939fa33020863e20273323100ca84cbcc97035cf
+persona_hint: Defense
+source_path: /usr/bin/braa
+tags:
+- unknown
+tool_name: braa

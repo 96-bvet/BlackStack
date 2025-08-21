@@ -1,0 +1,7 @@
+description: Auto-generated manifest for systemd-escape
+hash: sha256:53aaf25a8d40c24d5022dd433a5baba488e6dfdc9add4f6a77bb9c791f6f1884
+persona_hint: Defense
+source_path: /usr/bin/systemd-escape
+tags:
+- unknown
+tool_name: systemd-escape

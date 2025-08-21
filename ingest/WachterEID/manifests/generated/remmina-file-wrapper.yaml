@@ -1,0 +1,7 @@
+description: Auto-generated manifest for remmina-file-wrapper
+hash: sha256:7c7c75b8334ba8785eef057b6f547062bf131171b3a5573d0f4e6c93a7b67959
+persona_hint: Defense
+source_path: /usr/bin/remmina-file-wrapper
+tags:
+- unknown
+tool_name: remmina-file-wrapper

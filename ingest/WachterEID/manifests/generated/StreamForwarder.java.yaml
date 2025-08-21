@@ -1,0 +1,7 @@
+description: Auto-generated manifest for StreamForwarder.java
+hash: sha256:8c68b37cfea7e2e903beb00c77773c1bef939fa84ac1c1c89ac021b3ae929f93
+persona_hint: Defense
+source_path: /usr/share/isr-evilgrade/include/sunjava/JavaPayload/src/javapayload/stage/StreamForwarder.java
+tags:
+- unknown
+tool_name: StreamForwarder.java
