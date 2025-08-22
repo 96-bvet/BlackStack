@@ -1,0 +1,14 @@
+persona_router:
+  persona: "core"
+  risk_tier: 2
+  approval_required: true
+
+registry_indexer:
+  persona: "meta"
+  risk_tier: 1
+  approval_required: false
+
+rollback_manager:
+  persona: "infra"
+  risk_tier: 3
+  approval_required: true
