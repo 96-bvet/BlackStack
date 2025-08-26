@@ -1,105 +1,71 @@
-import argparse, os, shutil, hashlib, json, subprocess
-from datetime import datetime
-import tkinter as tk
-from tkinter import messagebox
+import os, sys, time, torch
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
-# Paths
-WACHTER_ROOT = os.path.expanduser("~/BlackStack/WachterEID/")
-LOG_PATH = os.path.join(WACHTER_ROOT, "logs/integration_registry.json")
+ROOT_DIR = os.path.expanduser("~/BlackStack/WachterEID")
+EXCLUDE_DIRS = {"venv", "logs"}
+PROMPT_PATH = os.path.expanduser("~/BlackStack/WachterEID/prompts/final_refactor_prompt.txt")
+MODEL_PATH = os.path.expanduser("~/BlackStack/DeepSeek")
+DEFAULT_PERSONA = "default"
 
-# --- Utility Functions ---
+def log_gpu_state():
+    free, total = torch.cuda.mem_get_info()
+    print(f"[GPU] Free: {free / 1024**2:.2f} MB / Total: {total / 1024**2:.2f} MB")
 
-def hash_file(path):
-    with open(path, 'rb') as f:
-        return hashlib.sha256(f.read()).hexdigest()
+def load_deepseek():
+    start = time.time()
+    model = AutoModelForCausalLM.from_pretrained(
+        MODEL_PATH,
+        device_map="auto",
+        torch_dtype=torch.float16,
+        low_cpu_mem_usage=True,
+        local_files_only=True
+    )
+    tokenizer = AutoTokenizer.from_pretrained(
+        MODEL_PATH,
+        use_fast=True,
+        local_files_only=True
+    )
+    print(f"[Model Load] {time.time() - start:.2f} seconds")
+    return pipeline("text-generation", model=model, tokenizer=tokenizer)
 
-def log_action(action, src, dst, persona, src_hash, dst_hash):
-    entry = {
-        "timestamp": datetime.utcnow().isoformat(),
-        "action": action,
-        "src": src,
-        "dst": dst,
-        "persona": persona,
-        "src_hash": src_hash,
-        "dst_hash": dst_hash
-    }
-    with open(LOG_PATH, "a") as f:
-        f.write(json.dumps(entry) + "\n")
-    print(f"[LOGGED] {action}: {src} → {dst}")
+def should_refactor(file):
+    return file.endswith((
+        ".py", ".sh", ".c", ".cpp", ".json", ".yaml", ".toml",
+        ".conf", ".ini", ".txt", ".md", ".service", ".desktop", ".xml"
+    ))
 
-def gui_approval(message):
-    root = tk.Tk()
-    root.withdraw()
-    response = messagebox.askyesno("Wachter Approval", message)
-    root.destroy()
-    return response
+def inject_and_overwrite(filepath, filename, context, deepseek):
+    with open(filepath, "r", errors="ignore") as f:
+        code = f.read()
 
-# --- Integration Logic ---
+    prompt = f"{context}\n\nPlease refactor the following file: {filename}\n\n{code}"
+    output = deepseek(prompt, max_new_tokens=1024, do_sample=True)[0]["generated_text"]
 
-def inject_registry_hooks(file_path):
-    with open(file_path, "r") as f:
-        lines = f.readlines()
+    with open(filepath, "w") as f:
+        f.write(output)
 
-    injected = [
-        "from wachter.registry import log_action\n",
-        "from wachter.persona import route_task\n",
-        "from wachter.audit import safe_open\n"
-    ]
+    print(f"[Refactored] {filename}")
 
-    # Inject at top if not already present
-    if not any("wachter.registry" in line for line in lines):
-        lines = injected + lines
+def run_recursive_refactor(persona):
+    log_gpu_state()
+    deepseek = load_deepseek()
 
-    with open(file_path, "w") as f:
-        f.writelines(lines)
+    with open(PROMPT_PATH, "r") as f:
+        context = f.read().strip()
 
-def integrate_module(src_path, persona):
-    for root, dirs, files in os.walk(src_path):
+    for root, dirs, files in os.walk(ROOT_DIR):
+        dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
         for file in files:
-            if not file.endswith(".py"):
-                continue
-            full_src = os.path.join(root, file)
-            rel_path = os.path.relpath(full_src, src_path)
-            dst_path = os.path.join(WACHTER_ROOT, "modules", rel_path)
-
-            os.makedirs(os.path.dirname(dst_path), exist_ok=True)
-
-            src_hash = hash_file(full_src)
-            if gui_approval(f"Integrate {file} into WachterEID?"):
-                shutil.copy2(full_src, dst_path)
-                inject_registry_hooks(dst_path)
-                dst_hash = hash_file(dst_path)
-                log_action("module_integrated", full_src, dst_path, persona, src_hash, dst_hash)
-            else:
-                log_action("integration_skipped", full_src, dst_path, persona, src_hash, None)
-
-# --- DeepSeek Task Injection ---
-
-def run_deepseek(persona, task_type, input_path):
-    cmd = [
-        "python3", os.path.join(WACHTER_ROOT, "runtime/deepseek_core.py"),
-        "--persona", persona,
-        "--task", task_type,
-        "--input", input_path
-    ]
-    subprocess.run(" ".join(cmd), shell=True)
-
-# --- CLI Entry Point ---
+            if should_refactor(file):
+                filepath = os.path.join(root, file)
+                inject_and_overwrite(filepath, file, context, deepseek)
 
 def main():
-    parser = argparse.ArgumentParser(description="DeepSeek CLI with Wachter Integration")
-    parser.add_argument("--persona", required=True)
-    parser.add_argument("--task", choices=["refactor", "analyze", "inject"], help="DeepSeek task type")
-    parser.add_argument("--input", help="Path to input file for DeepSeek")
-    parser.add_argument("--integrate", help="Path to module or folder to integrate into WachterEID")
-
-    args = parser.parse_args()
-
-    if args.integrate:
-        integrate_module(args.integrate, args.persona)
-
-    if args.task and args.input:
-        run_deepseek(args.persona, args.task, args.input)
+    persona = DEFAULT_PERSONA
+    if "--persona" in sys.argv:
+        idx = sys.argv.index("--persona")
+        persona = sys.argv[idx + 1]
+    run_recursive_refactor(persona)
 
 if __name__ == "__main__":
     main()

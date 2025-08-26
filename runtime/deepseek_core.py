@@ -1,11 +1,23 @@
-import argparse, os, json, hashlib, time
+import argparse, os, json, hashlib
 from datetime import datetime
+import importlib.util
 
-# Paths
+# --- Persona Loader ---
+def load_persona_engine(persona):
+    base_dir = os.path.dirname(__file__)
+    variant_path = os.path.join(base_dir, "persona_variants", f"{persona.lower()}_v2.py")
+    if not os.path.exists(variant_path):
+        print(f"[Fallback] No variant found for '{persona}', using generic engine.")
+        variant_path = os.path.join(base_dir, "deepseek_v2.py")
+
+    spec = importlib.util.spec_from_file_location("deepseek_v2", variant_path)
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module.run_deepseek_v2
+
+# --- Paths ---
 WACHTER_ROOT = os.path.expanduser("~/BlackStack/WachterEID/")
 LOG_PATH = os.path.join(WACHTER_ROOT, "logs/refactor_registry.json")
-
-# --- Utility Functions ---
 
 def hash_content(content):
     return hashlib.sha256(content.encode()).hexdigest()
@@ -23,48 +35,37 @@ def log_refactor(task_type, persona, chunk_id, input_hash, output_hash):
         f.write(json.dumps(entry) + "\n")
     print(f"[LOGGED] Refactor chunk {chunk_id} | Persona: {persona}")
 
-# --- Chunking Logic ---
-
 def chunk_input(text, max_lines=50):
     lines = text.splitlines()
     chunks = [lines[i:i+max_lines] for i in range(0, len(lines), max_lines)]
     return ["\n".join(chunk) for chunk in chunks]
 
-# --- Simulated Refactor Pass (Replace with DeepSeek-V2 Call) ---
-
-def refactor_chunk(chunk, persona):
-    # Placeholder: simulate tone-aware refactor
-    return f"# Refactored by {persona}\n" + chunk.replace("print(", "log_action(")
-
-# --- Approval Gate (Optional GUI) ---
-
-def approval_gate(chunk_id, output):
-    print(f"[APPROVAL] Chunk {chunk_id} ready for commit.")
-    # Add GUI or voice shell here if needed
-    return True  # Auto-approve for now
-
-# --- Main Refactor Routine ---
-
 def run_refactor(persona, task_type, input_path):
+    engine = load_persona_engine(persona)
+
+    if not os.path.exists(input_path):
+        print(f"[ERROR] Input file not found: {input_path}")
+        return
+
     with open(input_path, "r") as f:
         raw = f.read()
 
     chunks = chunk_input(raw)
     for i, chunk in enumerate(chunks):
         input_hash = hash_content(chunk)
-        output = refactor_chunk(chunk, persona)
+        try:
+            output = engine(persona, "refactor", chunk)
+        except Exception as e:
+            print(f"[ERROR] DeepSeek-V2 failed on chunk {i}: {e}")
+            output = f"# ERROR: Refactor failed\n{chunk}"
         output_hash = hash_content(output)
 
-        if approval_gate(i, output):
-            out_path = os.path.join(WACHTER_ROOT, f"output/refactor_{persona}_{i}.py")
-            os.makedirs(os.path.dirname(out_path), exist_ok=True)
-            with open(out_path, "w") as f:
-                f.write(output)
-            log_refactor(task_type, persona, i, input_hash, output_hash)
-        else:
-            print(f"[SKIPPED] Chunk {i} not approved.")
+        out_path = os.path.join(WACHTER_ROOT, f"output/refactor_{persona}_{i}.py")
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        with open(out_path, "w") as f:
+            f.write(output)
 
-# --- CLI Entry Point ---
+        log_refactor(task_type, persona, i, input_hash, output_hash)
 
 def main():
     parser = argparse.ArgumentParser(description="DeepSeek Core Refactor Engine")
