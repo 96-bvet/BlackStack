@@ -50,3 +50,7 @@ def parse_manifest(path):
         os.rename(path, quarantine_path)
         log_event(f"Moved to quarantine: {quarantine_path}")
         return None
+
+print("""
+[Refactor Output]
+""")

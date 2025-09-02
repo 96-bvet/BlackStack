@@ -24,3 +24,7 @@ def snapshot_manifests():
 
 if __name__ == "__main__":
     snapshot_manifests()
+
+print("""
+[Refactor Output]
+""")

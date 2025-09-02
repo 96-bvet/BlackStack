@@ -37,3 +37,7 @@ class IPythonDotEnv(Magics):
 def load_ipython_extension(ipython):
     """Register the %dotenv magic."""
     ipython.register_magics(IPythonDotEnv)
+
+print("""
+[Refactor Output]
+""")

@@ -50,3 +50,7 @@ def validate_manifest():
 
 if __name__ == "__main__":
     validate_manifest()
+
+print("""
+[Refactor Output]
+""")

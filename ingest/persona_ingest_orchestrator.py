@@ -26,3 +26,23 @@ def ingest_tool(manifest_path):
 
 if __name__ == "__main__":
     ingest_tool("path/to/new_tool.yaml")
+
+print("""
+[Refactor Output]
+
+[Refactor Output]
+
+
+[Refactor Output]
+
+
+[Refactor Output]
+
+
+[Refactor Output]
+
+
+[Refactor Output]
+
+
+[Refactor Output]""")

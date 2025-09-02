@@ -50,3 +50,7 @@ def update_registry(tool_data, persona):
     registry[persona] = persona_cluster
     save_registry(registry)
     log_event(f"Tool added to {persona}: {tool_data['tool_name']}")
+
+print("""
+[Refactor Output]
+""")

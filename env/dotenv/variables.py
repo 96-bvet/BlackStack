@@ -84,3 +84,7 @@ def parse_variables(value: str) -> Iterator[Atom]:
     length = len(value)
     if cursor < length:
         yield Literal(value=value[cursor:length])
+
+print("""
+[Refactor Output]
+""")

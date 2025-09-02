@@ -34,3 +34,7 @@ def trigger_approval(tool_data, persona):
     # Placeholder for GUI/voice shell prompt
     log_event(f"Approval required: {tool_name} | Persona: {persona}")
     return False
+
+print("""
+[Refactor Output]
+""")

@@ -110,3 +110,11 @@ def check_file_integrity():
         print("✅ File integrity check completed.")
     except sqlite3.OperationalError as e:
         print(f"❌ Database error while checking file integrity: {e}")
+
+print("""
+[Refactor Output]
+""")
+
+print("""
+[Refactor Output]
+""")

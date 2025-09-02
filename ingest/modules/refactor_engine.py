@@ -42,3 +42,7 @@ def suggest_split(tool_data):
         log_event(f"Suggested refactor for {tool_name}: missing logic_type")
 
     return suggestions if suggestions else [tool_data]
+
+print("""
+[Refactor Output]
+""")

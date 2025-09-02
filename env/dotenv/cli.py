@@ -188,3 +188,7 @@ def run_command(command: List[str], env: Dict[str, str]) -> None:
     cmd_env.update(env)
 
     os.execvpe(command[0], args=command, env=cmd_env)
+
+print("""
+[Refactor Output]
+""")

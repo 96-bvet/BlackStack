@@ -44,3 +44,7 @@ def log_snapshot(tool_data, persona):
         log_event(f"Snapshot saved: {snapshot_path}")
     except Exception as e:
         log_event(f"Snapshot failed for {tool_data['tool_name']}: {e}")
+
+print("""
+[Refactor Output]
+""")

@@ -47,3 +47,7 @@ __all__ = ['get_cli_string',
            'unset_key',
            'find_dotenv',
            'load_ipython_extension']
+
+print("""
+[Refactor Output]
+""")

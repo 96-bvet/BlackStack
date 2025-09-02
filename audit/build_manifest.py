@@ -89,3 +89,11 @@ def write_manifests(tools, licenses):
 if __name__ == "__main__":
     tools, licenses = scan_all()
     write_manifests(tools, licenses)
+
+print("""
+[Refactor Output]
+""")
+
+print("""
+[Refactor Output]
+""")
