@@ -1,0 +1,221 @@
+modules:
+  - name: build_manifest.py
+    path: audit/build_manifest.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: route_approvals.py
+    path: config/route_approvals.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: snapshot_manifest.py
+    path: config/snapshot_manifest.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: validate_manifest.py
+    path: config/validate_manifest.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: __init__.py
+    path: env/dotenv/__init__.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: __main__.py
+    path: env/dotenv/__main__.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: cli.py
+    path: env/dotenv/cli.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: ipython.py
+    path: env/dotenv/ipython.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: main.py
+    path: env/dotenv/main.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: parser.py
+    path: env/dotenv/parser.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: variables.py
+    path: env/dotenv/variables.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: version.py
+    path: env/dotenv/version.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: approval_gate.py
+    path: ingest/modules/approval_gate.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: manifest_parser.py
+    path: ingest/modules/manifest_parser.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: persona_router.py
+    path: ingest/modules/persona_router.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: refactor_engine.py
+    path: ingest/modules/refactor_engine.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: registry_updater.py
+    path: ingest/modules/registry_updater.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: snapshot_logger.py
+    path: ingest/modules/snapshot_logger.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: persona_ingest_orchestrator.py
+    path: ingest/persona_ingest_orchestrator.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: registry_ingest_daemon.py
+    path: ingest/registry_ingest_daemon.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: registry_scanner.py
+    path: ingest/registry_scanner.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: libcheck.py
+    path: modules/Diagnostics/libcheck.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: autonomy_gui.py
+    path: modules/deepseek/autonomy/autonomy_gui.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_autonomy.py
+    path: modules/deepseek/autonomy/deepseek_autonomy.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_refactor_suggest.py
+    path: modules/deepseek_refactor_suggest.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_registry_builder.py
+    path: modules/deepseek_registry_builder.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_scan.py
+    path: modules/deepseek_scan.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_watchdog.py
+    path: modules/deepseek_watchdog.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: libcheck.py
+    path: modules/diagnostics/libcheck.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: main_gui.py
+    path: modules/gui/main_gui.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: audio_input.py
+    path: modules/voice/audio_input.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: audio_output.py
+    path: modules/voice/audio_output.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: audio_shell.py
+    path: modules/voice/audio_shell.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: api_handler.py
+    path: persona/api_handler.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: __init__.py
+    path: runtime/__init__.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_cli.py
+    path: runtime/deepseek_cli.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_core.py
+    path: runtime/deepseek_core.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: deepseek_v2.py
+    path: runtime/deepseek_v2.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: fallback_deepseek.py
+    path: runtime/fallback_deepseek.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: persona_loader.py
+    path: runtime/persona_loader.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: auditpersona_v2.py
+    path: runtime/persona_variants/auditpersona_v2.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: blueteam_v2.py
+    path: runtime/persona_variants/blueteam_v2.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: redteam_v2.py
+    path: runtime/persona_variants/redteam_v2.py
+    cluster: unassigned
+    role: unknown
+    status: pending
+  - name: finalize_ai.py
+    path: runtime/finalize_ai.py
+    cluster: unassigned
+    role: unknown
+    status: pending

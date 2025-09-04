@@ -1,0 +1,583 @@
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek/autonomy/autonomy_gui.py:BASE_PATH = os.path.expanduser("~/BlackStack/WachterEID/modules/deepseek/autonomy/")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek/autonomy/deepseek_autonomy.py:APPROVAL_QUEUE = os.path.expanduser("~/WachterEID/modules/deepseek/autonomy/approval_queue.json")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek/autonomy/deepseek_autonomy.py:ACTION_LOG = os.path.expanduser("~/WachterEID/modules/deepseek/autonomy/action_log.csv")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek/autonomy/deepseek_autonomy.py:ROLLBACK_DIR = os.path.expanduser("~/WachterEID/modules/deepseek/autonomy/rollback_snapshots/")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek/autonomy/deepseek_autonomy.py:REGISTRY_INDEX = os.path.expanduser("~/WachterEID/modules/deepseek/autonomy/registry_index.yaml")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek_registry_builder.py:    # Simulated DeepSeek logic
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek_scan.py:output_path = Path.home() / "BlackStack/WachterEID/config/deepseek_scan_output.yaml"
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek_scan.py:print(f"✅ DeepSeek scan complete: {output_path}")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek_watchdog.py:HEARTBEAT_PATH = os.path.expanduser("~/BlackStack/WachterEID/logs/deepseek_heartbeat.json")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek_watchdog.py:PROCESS_NAME = "deepseek_cli.py"
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek_watchdog.py:    response = messagebox.askyesno("DeepSeek Watchdog", f"Stall detected:\n{reason}\n\nTerminate process?")
+/home/blackhawk63/BlackStack/BlackStack/modules/deepseek_watchdog.py:            reason = "DeepSeek CLI hung: stale heartbeat + low GPU utilization"
+/home/blackhawk63/BlackStack/BlackStack/modules/gui/main_gui.py:AUTONOMY_PATH = os.path.join(WACHTER_HOME, "modules/deepseek/autonomy")
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_cli.py:MODEL_PATH = os.path.expanduser("~/BlackStack/DeepSeek")
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_cli.py:def load_deepseek():
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_cli.py:def inject_and_overwrite(filepath, filename, context, deepseek):
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_cli.py:    output = deepseek(prompt, max_new_tokens=1024, do_sample=True)[0]["generated_text"]
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_cli.py:    deepseek = load_deepseek()
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_cli.py:                inject_and_overwrite(filepath, file, context, deepseek)
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_core.py:        variant_path = os.path.join(base_dir, "deepseek_v2.py")
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_core.py:    spec = importlib.util.spec_from_file_location("deepseek_v2", variant_path)
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_core.py:    return module.run_deepseek_v2
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_core.py:            print(f"[ERROR] DeepSeek-V2 failed on chunk {i}: {e}")
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_core.py:    parser = argparse.ArgumentParser(description="DeepSeek Core Refactor Engine")
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_v2.py:# --- Simulated DeepSeek-V2 Engine ---
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_v2.py:def run_deepseek_v2(persona, task, input_text):
+/home/blackhawk63/BlackStack/BlackStack/runtime/deepseek_v2.py:    print(f"[DeepSeek-V2] Task: {task} | Persona: {persona} | Hash: {input_hash} | Time: {timestamp}")
+/home/blackhawk63/BlackStack/BlackStack/runtime/fallback_deepseek.py:# Fallback logic for DeepSeek-V2
+/home/blackhawk63/BlackStack/BlackStack/runtime/fallback_deepseek.py:    return "DeepSeek-V2 is currently unavailable. Routing to default shell persona."
+/home/blackhawk63/BlackStack/BlackStack/runtime/persona_loader.py:    spec = importlib.util.spec_from_file_location("deepseek_v2", path)
+/home/blackhawk63/BlackStack/BlackStack/runtime/persona_loader.py:    return module.run_deepseek_v2
+/home/blackhawk63/BlackStack/BlackStack/runtime/persona_variants/auditpersona_v2.py:def run_deepseek_v2(persona, task, input_text):
+/home/blackhawk63/BlackStack/BlackStack/runtime/persona_variants/blueteam_v2.py:def run_deepseek_v2(persona, task, input_text):
+/home/blackhawk63/BlackStack/BlackStack/runtime/persona_variants/redteam_v2.py:def run_deepseek_v2(persona, task, input_text):
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:MODEL_PATH = os.path.join(ROOT_DIR, "DeepSeek")
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:LOG_DIR = os.path.join(ROOT_DIR, "logs/deepseek_final")
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:def load_deepseek():
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:    print("[Model] Loading DeepSeek...")
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:def inject_and_overwrite(filepath, filename, context, deepseek, persona):
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:    output = deepseek(prompt, max_new_tokens=1024, do_sample=True)[0]["generated_text"]
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:    deepseek = load_deepseek()
+/home/blackhawk63/BlackStack/BlackStack/runtime/finalize_ai.py:                inject_and_overwrite(filepath, file, context, deepseek, persona)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/integrations/finegrained_fp8.py:# Copied from https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/inference/kernel.py
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/__init__.py:    from .deepseek_v2 import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/__init__.py:    from .deepseek_v3 import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/__init__.py:    from .deepseek_vl import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/__init__.py:    from .deepseek_vl_hybrid import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_v2", "DeepseekV2Config"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_v3", "DeepseekV3Config"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_vl", "DeepseekVLConfig"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_vl_hybrid", "DeepseekVLHybridConfig"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_v2", "DeepSeek-V2"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_v3", "DeepSeek-V3"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_vl", "DeepseekVL"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/configuration_auto.py:        ("deepseek_vl_hybrid", "DeepseekVLHybrid"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/image_processing_auto.py:            ("deepseek_vl", ("DeepseekVLImageProcessor", "DeepseekVLImageProcessorFast")),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/image_processing_auto.py:            ("deepseek_vl_hybrid", ("DeepseekVLHybridImageProcessor", "DeepseekVLHybridImageProcessorFast")),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_v2", "DeepseekV2Model"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_v3", "DeepseekV3Model"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_vl", "DeepseekVLModel"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_vl_hybrid", "DeepseekVLHybridModel"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_v2", "DeepseekV2ForCausalLM"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_v3", "DeepseekV3ForCausalLM"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_vl", "DeepseekVLForConditionalGeneration"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_vl_hybrid", "DeepseekVLHybridForConditionalGeneration"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_v2", "DeepseekV2ForSequenceClassification"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py:        ("deepseek_v3", "DeepseekV3ForSequenceClassification"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/processing_auto.py:        ("deepseek_vl", "DeepseekVLProcessor"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/processing_auto.py:        ("deepseek_vl_hybrid", "DeepseekVLHybridProcessor"),
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/tokenization_auto.py:            "deepseek_v2",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/tokenization_auto.py:            "deepseek_v3",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/tokenization_auto.py:            "deepseek_vl",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/auto/tokenization_auto.py:            "deepseek_vl_hybrid",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/__init__.py:    from .configuration_deepseek_v2 import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/__init__.py:    from .modeling_deepseek_v2 import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:#           This file was automatically generated from src/transformers/models/deepseek_v2/modular_deepseek_v2.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:#                          modular_deepseek_v2.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:class DeepseekV2Config(PretrainedConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:    This is the configuration class to store the configuration of a [`DeepseekV2Model`]. It is used to instantiate a DeepSeek
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:    defaults will yield a similar configuration to that of DeepSeek-V2-Lite" [deepseek-ai/DeepSeek-V2-Lite"](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite").
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:            Vocabulary size of the DeepSeek model. Defines the number of different tokens that can be represented by the
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:            `input_ids` passed when calling [`DeepseekV2Model`].
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:    >>> from transformers import DeepseekV2Model, DeepseekV2Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:    >>> # Initializing a DeepSeek-V2 style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:    >>> configuration = DeepseekV2Config()
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:    >>> model = DeepseekV2Model(configuration)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:    model_type = "deepseek_v2"
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/configuration_deepseek_v2.py:__all__ = ["DeepseekV2Config"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:#           This file was automatically generated from src/transformers/models/deepseek_v2/modular_deepseek_v2.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:#                          modular_deepseek_v2.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:from .configuration_deepseek_v2 import DeepseekV2Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2MoEGate(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        # greedy method is used for DeepSeek-V2-Lite
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        # group_limited_greedy for DeepSeek-V2 and DeepSeek-V2-Chat
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2MoE(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:                (DeepseekV2MLP(config, intermediate_size=config.moe_intermediate_size))
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.gate = DeepseekV2MoEGate(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:            self.shared_experts = DeepseekV2MLP(config=config, intermediate_size=intermediate_size)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2MLP(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, hidden_size=None, intermediate_size=None):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2RMSNorm(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        DeepseekV2RMSNorm is equivalent to T5LayerNorm
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2RotaryEmbedding(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, device=None):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2Attention(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, layer_idx: Optional[int] = None):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:            self.q_a_layernorm = DeepseekV2RMSNorm(config.q_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.kv_a_layernorm = DeepseekV2RMSNorm(config.kv_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2DecoderLayer(GradientCheckpointingLayer):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, layer_idx: int):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.self_attn = DeepseekV2Attention(config=config, layer_idx=layer_idx)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.mlp = DeepseekV2MoE(config) if layer_idx >= config.first_k_dense_replace else DeepseekV2MLP(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.input_layernorm = DeepseekV2RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.post_attention_layernorm = DeepseekV2RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2PreTrainedModel(PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    config: DeepseekV2Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    _no_split_modules = ["DeepseekV2DecoderLayer"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        "hidden_states": DeepseekV2DecoderLayer,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        "attentions": DeepseekV2Attention,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        if isinstance(module, DeepseekV2MoEGate):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2Model(DeepseekV2PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:            [DeepseekV2DecoderLayer(config, layer_idx) for layer_idx in range(config.num_hidden_layers)]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.norm = DeepseekV2RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.rotary_emb = DeepseekV2RotaryEmbedding(config=config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2ForCausalLM(DeepseekV2PreTrainedModel, GenerationMixin):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        self.model = DeepseekV2Model(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        >>> from transformers import AutoTokenizer, DeepseekV2ForCausalLM
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        >>> model = DeepseekV2ForCausalLM.from_pretrained("meta-deepseek_v2/DeepseekV2-2-7b-hf")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:        >>> tokenizer = AutoTokenizer.from_pretrained("meta-deepseek_v2/DeepseekV2-2-7b-hf")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:class DeepseekV2ForSequenceClassification(GenericForSequenceClassification, DeepseekV2PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    "DeepseekV2PreTrainedModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    "DeepseekV2Model",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    "DeepseekV2ForCausalLM",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modeling_deepseek_v2.py:    "DeepseekV2ForSequenceClassification",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2Config(LlamaConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    This is the configuration class to store the configuration of a [`DeepseekV2Model`]. It is used to instantiate a DeepSeek
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    defaults will yield a similar configuration to that of DeepSeek-V2-Lite" [deepseek-ai/DeepSeek-V2-Lite"](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite").
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:            Vocabulary size of the DeepSeek model. Defines the number of different tokens that can be represented by the
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:            `input_ids` passed when calling [`DeepseekV2Model`].
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    >>> from transformers import DeepseekV2Model, DeepseekV2Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    >>> # Initializing a DeepSeek-V2 style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    >>> configuration = DeepseekV2Config()
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    >>> model = DeepseekV2Model(configuration)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    model_type = "deepseek_v2"
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2MoEGate(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        # greedy method is used for DeepSeek-V2-Lite
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        # group_limited_greedy for DeepSeek-V2 and DeepSeek-V2-Chat
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2MoE(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:                (DeepseekV2MLP(config, intermediate_size=config.moe_intermediate_size))
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        self.gate = DeepseekV2MoEGate(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:            self.shared_experts = DeepseekV2MLP(config=config, intermediate_size=intermediate_size)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2MLP(LlamaMLP):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, hidden_size=None, intermediate_size=None):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2RMSNorm(LlamaRMSNorm):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2RotaryEmbedding(Llama4TextRotaryEmbedding):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, device=None):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2Attention(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, layer_idx: Optional[int] = None):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:            self.q_a_layernorm = DeepseekV2RMSNorm(config.q_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        self.kv_a_layernorm = DeepseekV2RMSNorm(config.kv_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2DecoderLayer(LlamaDecoderLayer):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    def __init__(self, config: DeepseekV2Config, layer_idx: int):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        self.self_attn = DeepseekV2Attention(config=config, layer_idx=layer_idx)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        self.mlp = DeepseekV2MoE(config) if layer_idx >= config.first_k_dense_replace else DeepseekV2MLP(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        self.input_layernorm = DeepseekV2RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        self.post_attention_layernorm = DeepseekV2RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2PreTrainedModel(LlamaPreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:        if isinstance(module, DeepseekV2MoEGate):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2Model(LlamaModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2ForCausalLM(LlamaForCausalLM):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:class DeepseekV2ForSequenceClassification(LlamaForSequenceClassification):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    "DeepseekV2PreTrainedModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    "DeepseekV2Model",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    "DeepseekV2ForCausalLM",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    "DeepseekV2ForSequenceClassification",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v2/modular_deepseek_v2.py:    "DeepseekV2Config",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/__init__.py:    from .configuration_deepseek_v3 import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/__init__.py:    from .modeling_deepseek_v3 import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:# This code is based on the DeepSeekV3 implementations from the DeepSeek AI team. (https://huggingface.co/deepseek-ai/DeepSeek-V3)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:"""DeepSeekV3 model configuration"""
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:DEEPSEEK_PRETRAINED_CONFIG_ARCHIVE_MAP = {}
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:class DeepseekV3Config(PretrainedConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:    This is the configuration class to store the configuration of a [`DeepseekV3Model`]. It is used to instantiate an DeepSeek
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:    defaults will yield a similar configuration to that of the DeepSeek-V3.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:    e.g. [bzantium/tiny-deepseek-v3](https://huggingface.co/bzantium/tiny-deepseek-v3)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:            `inputs_ids` passed when calling [`DeepseekV3Model`]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:    >>> from transformers import DeepseekV3Model, DeepseekV3Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:    >>> # Initializing a Deepseek-V3 style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:    >>> configuration = DeepseekV3Config()
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:    model_type = "deepseek_v3"
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/configuration_deepseek_v3.py:__all__ = ["DeepseekV3Config"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:#           This file was automatically generated from src/transformers/models/deepseek_v3/modular_deepseek_v3.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:#                          modular_deepseek_v3.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:from .configuration_deepseek_v3 import DeepseekV3Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3RMSNorm(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        DeepseekV3RMSNorm is equivalent to T5LayerNorm
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3RotaryEmbedding(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    def __init__(self, config: DeepseekV3Config, device=None):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3MLP(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3TopkRouter(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3MoE(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:                DeepseekV3MLP(config, intermediate_size=config.moe_intermediate_size)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.gate = DeepseekV3TopkRouter(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.shared_experts = DeepseekV3MLP(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        to not have to do a loop here (deepseek has 256 experts soooo yeah).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        # in original deepseek, the output of the experts are gathered once we leave this module
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3Attention(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    def __init__(self, config: DeepseekV3Config, layer_idx: int):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:            self.q_a_layernorm = DeepseekV3RMSNorm(config.q_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.kv_a_layernorm = DeepseekV3RMSNorm(self.kv_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3DecoderLayer(GradientCheckpointingLayer):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    def __init__(self, config: DeepseekV3Config, layer_idx: int):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.self_attn = DeepseekV3Attention(config=config, layer_idx=layer_idx)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:            self.mlp = DeepseekV3MoE(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:            self.mlp = DeepseekV3MLP(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.input_layernorm = DeepseekV3RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.post_attention_layernorm = DeepseekV3RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3PreTrainedModel(PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    config: DeepseekV3Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    _no_split_modules = ["DeepseekV3DecoderLayer"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        "hidden_states": DeepseekV3DecoderLayer,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        "attentions": DeepseekV3Attention,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        if isinstance(module, DeepseekV3TopkRouter):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3Model(DeepseekV3PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    def __init__(self, config: DeepseekV3Config):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:            [DeepseekV3DecoderLayer(config, layer_idx) for layer_idx in range(config.num_hidden_layers)]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.norm = DeepseekV3RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.rotary_emb = DeepseekV3RotaryEmbedding(config=config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3ForCausalLM(DeepseekV3PreTrainedModel, GenerationMixin):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        self.model = DeepseekV3Model(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        >>> from transformers import AutoTokenizer, DeepseekV3ForCausalLM
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        >>> model = DeepseekV3ForCausalLM.from_pretrained("meta-deepseek_v3/DeepseekV3-2-7b-hf")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:        >>> tokenizer = AutoTokenizer.from_pretrained("meta-deepseek_v3/DeepseekV3-2-7b-hf")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:class DeepseekV3ForSequenceClassification(GenericForSequenceClassification, DeepseekV3PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    "DeepseekV3PreTrainedModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    "DeepseekV3Model",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    "DeepseekV3ForCausalLM",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modeling_deepseek_v3.py:    "DeepseekV3ForSequenceClassification",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:from .configuration_deepseek_v3 import DeepseekV3Config
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3RMSNorm(LlamaRMSNorm):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3RotaryEmbedding(LlamaRotaryEmbedding):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3MLP(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3TopkRouter(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3MoE(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:                DeepseekV3MLP(config, intermediate_size=config.moe_intermediate_size)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        self.gate = DeepseekV3TopkRouter(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        self.shared_experts = DeepseekV3MLP(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        to not have to do a loop here (deepseek has 256 experts soooo yeah).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        # in original deepseek, the output of the experts are gathered once we leave this module
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3Attention(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:    def __init__(self, config: DeepseekV3Config, layer_idx: int):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:            self.q_a_layernorm = DeepseekV3RMSNorm(config.q_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        self.kv_a_layernorm = DeepseekV3RMSNorm(self.kv_lora_rank)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3DecoderLayer(LlamaDecoderLayer):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:    def __init__(self, config: DeepseekV3Config, layer_idx: int):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        self.self_attn = DeepseekV3Attention(config=config, layer_idx=layer_idx)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:            self.mlp = DeepseekV3MoE(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:            self.mlp = DeepseekV3MLP(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        self.input_layernorm = DeepseekV3RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        self.post_attention_layernorm = DeepseekV3RMSNorm(config.hidden_size, eps=config.rms_norm_eps)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3PreTrainedModel(LlamaPreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:        if isinstance(module, DeepseekV3TopkRouter):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3Model(LlamaModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3ForCausalLM(LlamaForCausalLM):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:class DeepseekV3ForSequenceClassification(GenericForSequenceClassification, DeepseekV3PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:    "DeepseekV3PreTrainedModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:    "DeepseekV3Model",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:    "DeepseekV3ForCausalLM",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_v3/modular_deepseek_v3.py:    "DeepseekV3ForSequenceClassification",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/__init__.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/__init__.py:    from .configuration_deepseek_vl import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/__init__.py:    from .image_processing_deepseek_vl import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/__init__.py:    from .image_processing_deepseek_vl_fast import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/__init__.py:    from .modeling_deepseek_vl import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/__init__.py:    from .processing_deepseek_vl import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:#           This file was automatically generated from src/transformers/models/deepseek_vl/modular_deepseek_vl.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:#                          modular_deepseek_vl.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:class DeepseekVLConfig(PretrainedConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    This is the configuration class to store the configuration of a [`DeepseekVLModel`]. It is used to instantiate a
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    DeepseekVL model according to the specified arguments, defining the model architecture. Instantiating a configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    with the defaults will yield a similar configuration to that of the DeepseekVL
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    [deepseek-community/deepseek-vl-1.3b-chat](https://huggingface.co/deepseek-community/deepseek-vl-1.3b-chat) architecture.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    >>> from transformers import DeepseekVLConfig, DeepseekVLModel
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    >>> # Initializing a DeepseekVL deepseek-community/deepseek-vl-1.3b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    >>> configuration = DeepseekVLConfig()
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    >>> # Initializing a model (with random weights) from the deepseek-community/deepseek-vl-1.3b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    >>> model = DeepseekVLModel(configuration)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:    model_type = "deepseek_vl"
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/configuration_deepseek_vl.py:__all__ = ["DeepseekVLConfig"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl.py:#           This file was automatically generated from src/transformers/models/deepseek_vl/modular_deepseek_vl.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl.py:#                          modular_deepseek_vl.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl.py:class DeepseekVLImageProcessor(BaseImageProcessor):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl.py:    Constructs a DEEPSEEK_VL image processor.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl.py:__all__ = ["DeepseekVLImageProcessor"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:#           This file was automatically generated from src/transformers/models/deepseek_vl/modular_deepseek_vl.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:#                          modular_deepseek_vl.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:class DeepseekVLFastImageProcessorKwargs(DefaultFastImageProcessorKwargs):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:class DeepseekVLImageProcessorFast(BaseImageProcessorFast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:    valid_kwargs = DeepseekVLFastImageProcessorKwargs
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:    def __init__(self, **kwargs: Unpack[DeepseekVLFastImageProcessorKwargs]):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/image_processing_deepseek_vl_fast.py:__all__ = ["DeepseekVLImageProcessorFast"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:#           This file was automatically generated from src/transformers/models/deepseek_vl/modular_deepseek_vl.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:#                          modular_deepseek_vl.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:from .configuration_deepseek_vl import DeepseekVLConfig
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:    Base class for DeepseekVL model's outputs that may also contain a past key/values (to speed up sequential decoding).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:class DeepseekVLBaseModelOutputWithPast(ModelOutput):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:    Base class for DeepseekVL causal language model (or autoregressive) outputs.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:class DeepseekVLCausalLMOutputWithPast(ModelOutput):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:class DeepseekVLAligner(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:class DeepseekVLPreTrainedModel(PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:    config: DeepseekVLConfig
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:        # Required only for Linear layer in DeepseekVLAligner
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:class DeepseekVLModel(DeepseekVLPreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:        self.aligner = DeepseekVLAligner(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:        return DeepseekVLBaseModelOutputWithPast(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:class DeepseekVLForConditionalGeneration(DeepseekVLPreTrainedModel, GenerationMixin):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:    def __init__(self, config: DeepseekVLConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:        self.model = DeepseekVLModel(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:        raise AttributeError("Not needed for DeepseekVL")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:        return DeepseekVLCausalLMOutputWithPast(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modeling_deepseek_vl.py:__all__ = ["DeepseekVLPreTrainedModel", "DeepseekVLModel", "DeepseekVLForConditionalGeneration"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLConfig(PretrainedConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    This is the configuration class to store the configuration of a [`DeepseekVLModel`]. It is used to instantiate a
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    DeepseekVL model according to the specified arguments, defining the model architecture. Instantiating a configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    with the defaults will yield a similar configuration to that of the DeepseekVL
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    [deepseek-community/deepseek-vl-1.3b-chat](https://huggingface.co/deepseek-community/deepseek-vl-1.3b-chat) architecture.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    >>> from transformers import DeepseekVLConfig, DeepseekVLModel
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    >>> # Initializing a DeepseekVL deepseek-community/deepseek-vl-1.3b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    >>> configuration = DeepseekVLConfig()
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    >>> # Initializing a model (with random weights) from the deepseek-community/deepseek-vl-1.3b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    >>> model = DeepseekVLModel(configuration)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    model_type = "deepseek_vl"
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLBaseModelOutputWithPast(IdeficsBaseModelOutputWithPast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLCausalLMOutputWithPast(IdeficsCausalLMOutputWithPast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLAligner(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLPreTrainedModel(JanusPreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        # Required only for Linear layer in DeepseekVLAligner
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLModel(JanusModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        self.aligner = DeepseekVLAligner(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLForConditionalGeneration(JanusForConditionalGeneration):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        raise AttributeError("Not needed for DeepseekVL")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        raise AttributeError("Not needed for DeepseekVL")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        raise AttributeError("Not needed for DeepseekVL")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLImageProcessor(JanusImageProcessor):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        raise AttributeError("Not needed for DeepseekVL")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        raise AttributeError("Not needed for DeepseekVL")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLImageProcessorFast(JanusImageProcessorFast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        raise AttributeError("Not needed for DeepseekVL")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLProcessorKwargs(ProcessingKwargs, total=False):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:class DeepseekVLProcessor(ProcessorMixin):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    Constructs a DeepseekVL processor which wraps a DeepseekVL Image Processor and a Llama tokenizer into a single processor.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    [`DeepseekVLProcessor`] offers all the functionalities of [`DeepseekVLImageProcessor`] and [`LlamaTokenizerFast`]. See the
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    [`~DeepseekVLProcessor.__call__`] and [`~DeepseekVLProcessor.decode`] for more information.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        image_processor ([`DeepseekVLImageProcessor`]):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        **kwargs: Unpack[DeepseekVLProcessorKwargs],
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:        DeepseekVLImageProcessor's [`~DeepseekVLImageProcessor.__call__`] if `images` is not `None`. Please refer to the doctsring
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:            DeepseekVLProcessorKwargs, tokenizer_init_kwargs=self.tokenizer.init_kwargs, **kwargs
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    "DeepseekVLConfig",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    "DeepseekVLPreTrainedModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    "DeepseekVLModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    "DeepseekVLForConditionalGeneration",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    "DeepseekVLImageProcessor",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    "DeepseekVLImageProcessorFast",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/modular_deepseek_vl.py:    "DeepseekVLProcessor",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:#           This file was automatically generated from src/transformers/models/deepseek_vl/modular_deepseek_vl.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:#                          modular_deepseek_vl.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:class DeepseekVLProcessorKwargs(ProcessingKwargs, total=False):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:class DeepseekVLProcessor(ProcessorMixin):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:    Constructs a DeepseekVL processor which wraps a DeepseekVL Image Processor and a Llama tokenizer into a single processor.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:    [`DeepseekVLProcessor`] offers all the functionalities of [`DeepseekVLImageProcessor`] and [`LlamaTokenizerFast`]. See the
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:    [`~DeepseekVLProcessor.__call__`] and [`~DeepseekVLProcessor.decode`] for more information.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:        image_processor ([`DeepseekVLImageProcessor`]):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:        **kwargs: Unpack[DeepseekVLProcessorKwargs],
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:        DeepseekVLImageProcessor's [`~DeepseekVLImageProcessor.__call__`] if `images` is not `None`. Please refer to the doctsring
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:            DeepseekVLProcessorKwargs, tokenizer_init_kwargs=self.tokenizer.init_kwargs, **kwargs
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl/processing_deepseek_vl.py:__all__ = ["DeepseekVLProcessor"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/__init__.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/__init__.py:    from .configuration_deepseek_vl_hybrid import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/__init__.py:    from .image_processing_deepseek_vl_fast_hybrid import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/__init__.py:    from .image_processing_deepseek_vl_hybrid import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/__init__.py:    from .image_processing_deepseek_vl_hybrid_fast import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/__init__.py:    from .modeling_deepseek_vl_hybrid import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/__init__.py:    from .processing_deepseek_vl_hybrid import *
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:#           This file was automatically generated from src/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:#                          modular_deepseek_vl_hybrid.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:class DeepseekVLHybridConfig(PretrainedConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    This is the configuration class to store the configuration of a [`DeepseekVLHybridModel`]. It is used to instantiate a
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    DeepseekVLHybrid model according to the specified arguments, defining the model architecture. Instantiating a configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    with the defaults will yield a similar configuration to that of the DeepseekVLHybrid
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    [deepseek-community/deepseek-vl-7b-chat](https://huggingface.co/deepseek-community/deepseek-vl-7b-chat) architecture.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    >>> from transformers import DeepseekVLHybridConfig, DeepseekVLHybridModel
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    >>> # Initializing a DeepseekVLHybrid deepseek-community/deepseek-vl-7b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    >>> configuration = DeepseekVLHybridConfig()
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    >>> # Initializing a model (with random weights) from the deepseek-community/deepseek-vl-7b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    >>> model = DeepseekVLHybridModel(configuration)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:    model_type = "deepseek_vl_hybrid"
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/configuration_deepseek_vl_hybrid.py:__all__ = ["DeepseekVLHybridConfig"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid.py:#           This file was automatically generated from src/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid.py:#                          modular_deepseek_vl_hybrid.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid.py:class DeepseekVLHybridImageProcessor(BaseImageProcessor):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid.py:    Constructs a DEEPSEEK_VL_HYBRID image processor.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid.py:__all__ = ["DeepseekVLHybridImageProcessor"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:#           This file was automatically generated from src/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:#                          modular_deepseek_vl_hybrid.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:class DeepseekVLHybridFastImageProcessorKwargs(DefaultFastImageProcessorKwargs):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:class DeepseekVLHybridImageProcessorFast(BaseImageProcessorFast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:    valid_kwargs = DeepseekVLHybridFastImageProcessorKwargs
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:    def __init__(self, **kwargs: Unpack[DeepseekVLHybridFastImageProcessorKwargs]):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/image_processing_deepseek_vl_hybrid_fast.py:__all__ = ["DeepseekVLHybridImageProcessorFast"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:#           This file was automatically generated from src/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:#                          modular_deepseek_vl_hybrid.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:from .configuration_deepseek_vl_hybrid import DeepseekVLHybridConfig
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:    Base class for DeepseekVLHybrid model's outputs that may also contain a past key/values (to speed up sequential decoding).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLHybridBaseModelOutputWithPast(ModelOutput):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:    Base class for DeepseekVLHybrid causal language model (or autoregressive) outputs.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLHybridCausalLMOutputWithPast(ModelOutput):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLHybridLayerNorm(nn.LayerNorm):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLSamVisionNeck(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        self.layer_norm1 = DeepseekVLHybridLayerNorm(config.output_channels, data_format="channels_first")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        self.layer_norm2 = DeepseekVLHybridLayerNorm(config.output_channels, data_format="channels_first")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLSamVisionProj(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLHybridAligner(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:    def __init__(self, config: DeepseekVLHybridConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLHybridPreTrainedModel(PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:    config: DeepseekVLHybridConfig
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        elif isinstance(module, DeepseekVLHybridLayerNorm):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        elif isinstance(module, DeepseekVLHybridModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:DEEPSEEK_VL_COMMON_CUSTOM_ARGS = r"""
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLHybridModel(DeepseekVLHybridPreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        self.high_res_vision_neck = DeepseekVLSamVisionNeck(config.high_res_vision_config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        self.high_res_vision_proj = DeepseekVLSamVisionProj(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        self.aligner = DeepseekVLHybridAligner(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:    @auto_docstring(custom_args=DEEPSEEK_VL_COMMON_CUSTOM_ARGS)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        return DeepseekVLHybridBaseModelOutputWithPast(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:class DeepseekVLHybridForConditionalGeneration(DeepseekVLHybridPreTrainedModel, GenerationMixin):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:    def __init__(self, config: DeepseekVLHybridConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        self.model = DeepseekVLHybridModel(config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        raise AttributeError("Not needed for DeepseekVLHybrid")
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:    @auto_docstring(custom_args=DEEPSEEK_VL_COMMON_CUSTOM_ARGS)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:        return DeepseekVLHybridCausalLMOutputWithPast(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modeling_deepseek_vl_hybrid.py:__all__ = ["DeepseekVLHybridPreTrainedModel", "DeepseekVLHybridModel", "DeepseekVLHybridForConditionalGeneration"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:from ..deepseek_vl.configuration_deepseek_vl import DeepseekVLConfig
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:from ..deepseek_vl.image_processing_deepseek_vl import DeepseekVLImageProcessor
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:from ..deepseek_vl.image_processing_deepseek_vl_fast import DeepseekVLImageProcessorFast
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:from ..deepseek_vl.modeling_deepseek_vl import (
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    DeepseekVLForConditionalGeneration,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    DeepseekVLModel,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    DeepseekVLPreTrainedModel,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:from ..deepseek_vl.processing_deepseek_vl import DeepseekVLProcessor, DeepseekVLProcessorKwargs
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:DEEPSEEK_VL_COMMON_CUSTOM_ARGS = r"""
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridConfig(DeepseekVLConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    This is the configuration class to store the configuration of a [`DeepseekVLHybridModel`]. It is used to instantiate a
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    DeepseekVLHybrid model according to the specified arguments, defining the model architecture. Instantiating a configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    with the defaults will yield a similar configuration to that of the DeepseekVLHybrid
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    [deepseek-community/deepseek-vl-7b-chat](https://huggingface.co/deepseek-community/deepseek-vl-7b-chat) architecture.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    >>> from transformers import DeepseekVLHybridConfig, DeepseekVLHybridModel
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    >>> # Initializing a DeepseekVLHybrid deepseek-community/deepseek-vl-7b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    >>> configuration = DeepseekVLHybridConfig()
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    >>> # Initializing a model (with random weights) from the deepseek-community/deepseek-vl-7b-chat style configuration
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    >>> model = DeepseekVLHybridModel(configuration)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    model_type = "deepseek_vl_hybrid"
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridBaseModelOutputWithPast(IdeficsBaseModelOutputWithPast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridCausalLMOutputWithPast(IdeficsCausalLMOutputWithPast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridLayerNorm(SamLayerNorm):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLSamVisionNeck(SamVisionNeck):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLSamVisionProj(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridAligner(nn.Module):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    def __init__(self, config: DeepseekVLHybridConfig):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridPreTrainedModel(DeepseekVLPreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        elif isinstance(module, DeepseekVLHybridLayerNorm):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        elif isinstance(module, DeepseekVLHybridModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridModel(DeepseekVLModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        self.high_res_vision_neck = DeepseekVLSamVisionNeck(config.high_res_vision_config)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        self.high_res_vision_proj = DeepseekVLSamVisionProj(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    @auto_docstring(custom_args=DEEPSEEK_VL_COMMON_CUSTOM_ARGS)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        return DeepseekVLHybridBaseModelOutputWithPast(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridForConditionalGeneration(DeepseekVLForConditionalGeneration):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    @auto_docstring(custom_args=DEEPSEEK_VL_COMMON_CUSTOM_ARGS)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        return DeepseekVLHybridCausalLMOutputWithPast(
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridImageProcessor(DeepseekVLImageProcessor):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    Constructs a DEEPSEEK_VL_HYBRID image processor.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridFastImageProcessorKwargs(DefaultFastImageProcessorKwargs):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridImageProcessorFast(DeepseekVLImageProcessorFast):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    def __init__(self, **kwargs: Unpack[DeepseekVLHybridFastImageProcessorKwargs]):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridProcessorKwargs(DeepseekVLProcessorKwargs):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:class DeepseekVLHybridProcessor(DeepseekVLProcessor):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        **kwargs: Unpack[DeepseekVLHybridProcessorKwargs],
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:        DeepseekVLHybridImageProcessor's [`~DeepseekVLHybridImageProcessor.__call__`] if `images` is not `None`. Please refer to the doctsring
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:            DeepseekVLHybridProcessorKwargs, tokenizer_init_kwargs=self.tokenizer.init_kwargs, **kwargs
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    "DeepseekVLHybridConfig",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    "DeepseekVLHybridPreTrainedModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    "DeepseekVLHybridModel",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    "DeepseekVLHybridForConditionalGeneration",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    "DeepseekVLHybridImageProcessor",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    "DeepseekVLHybridImageProcessorFast",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py:    "DeepseekVLHybridProcessor",
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:#           This file was automatically generated from src/transformers/models/deepseek_vl_hybrid/modular_deepseek_vl_hybrid.py.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:#                          modular_deepseek_vl_hybrid.py file directly. One of our CI enforces this.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:class DeepseekVLHybridProcessorKwargs(ProcessingKwargs, total=False):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:class DeepseekVLHybridProcessor(ProcessorMixin):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:    Constructs a DeepseekVLHybrid processor which wraps a DeepseekVLHybrid Image Processor and a Llama tokenizer into a single processor.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:    [`DeepseekVLHybridProcessor`] offers all the functionalities of [`DeepseekVLHybridImageProcessor`] and [`LlamaTokenizerFast`]. See the
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:    [`~DeepseekVLHybridProcessor.__call__`] and [`~DeepseekVLHybridProcessor.decode`] for more information.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:        image_processor ([`DeepseekVLHybridImageProcessor`]):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:        **kwargs: Unpack[DeepseekVLHybridProcessorKwargs],
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:        DeepseekVLHybridImageProcessor's [`~DeepseekVLHybridImageProcessor.__call__`] if `images` is not `None`. Please refer to the doctsring
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:            DeepseekVLHybridProcessorKwargs, tokenizer_init_kwargs=self.tokenizer.init_kwargs, **kwargs
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/deepseek_vl_hybrid/processing_deepseek_vl_hybrid.py:__all__ = ["DeepseekVLHybridProcessor"]
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modeling_dots1.py:        to not have to do a loop here (deepseek has 256 experts soooo yeah).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modeling_dots1.py:        # in original deepseek, the output of the experts are gathered once we leave this module
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:from ..deepseek_v3.modeling_deepseek_v3 import (
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:    DeepseekV3DecoderLayer,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:    DeepseekV3MLP,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:    DeepseekV3MoE,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:    DeepseekV3PreTrainedModel,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:    DeepseekV3TopkRouter,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:class Dots1MLP(DeepseekV3MLP):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:class Dots1MoE(DeepseekV3MoE):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:class Dots1TopkRouter(DeepseekV3TopkRouter):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:class Dots1DecoderLayer(DeepseekV3DecoderLayer):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/dots1/modular_dots1.py:class Dots1PreTrainedModel(DeepseekV3PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modeling_glm4_moe.py:        to not have to do a loop here (deepseek has 256 experts soooo yeah).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modeling_glm4_moe.py:        # in original deepseek, the output of the experts are gathered once we leave this module
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:from ..deepseek_v3.modeling_deepseek_v3 import (
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:    DeepseekV3DecoderLayer,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:    DeepseekV3ForCausalLM,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:    DeepseekV3MLP,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:    DeepseekV3Model,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:    DeepseekV3PreTrainedModel,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:    DeepseekV3RMSNorm,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:    DeepseekV3TopkRouter,
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:class Glm4MoeMLP(DeepseekV3MLP):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:class Glm4MoeTopkRouter(DeepseekV3TopkRouter):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:class Glm4MoeRMSNorm(DeepseekV3RMSNorm):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:class Glm4MoeDecoderLayer(DeepseekV3DecoderLayer):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:class Glm4MoePreTrainedModel(DeepseekV3PreTrainedModel):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:class Glm4MoeModel(DeepseekV3Model):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4_moe/modular_glm4_moe.py:class Glm4MoeForCausalLM(DeepseekV3ForCausalLM):
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4v_moe/modeling_glm4v_moe.py:        to not have to do a loop here (deepseek has 256 experts soooo yeah).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/glm4v_moe/modeling_glm4v_moe.py:        # in original deepseek, the output of the experts are gathered once we leave this module
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/__init__.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/configuration_janus.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/configuration_janus.py:    [deepseek-community/Janus-Pro-1B](https://huggingface.co/deepseek-community/Janus-Pro-1B).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/configuration_janus.py:    e.g. [deepseek-community/Janus-Pro-1B](https://huggingface.co/deepseek-community/Janus-Pro-1B) or
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/configuration_janus.py:    [deepseek-community/Janus-Pro-7B](https://huggingface.co/deepseek-community/Janus-Pro-7B)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/image_processing_janus.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/image_processing_janus_fast.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/modeling_janus.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/modular_janus.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/modular_janus.py:    [deepseek-community/Janus-Pro-1B](https://huggingface.co/deepseek-community/Janus-Pro-1B).
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/modular_janus.py:    e.g. [deepseek-community/Janus-Pro-1B](https://huggingface.co/deepseek-community/Janus-Pro-1B) or
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/modular_janus.py:    [deepseek-community/Janus-Pro-7B](https://huggingface.co/deepseek-community/Janus-Pro-7B)
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/models/janus/processing_janus.py:# Copyright 2025 Deepseek AI and The HuggingFace Team. All rights reserved.
+/home/blackhawk63/BlackStack/BlackStack/.venv/lib/python3.11/site-packages/transformers/utils/quantization_config.py:    FineGrainedFP8Config is a configuration class for fine-grained FP8 quantization used mainly for deepseek models.
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:def refactor_deepseek_to_qwen(file_path):
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:        # Match any DeepSeek reference
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:        if "deepseek" in lower:
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:                refactored.append("# [Qwen Refactor] Replacing dynamic DeepSeek loader\n")
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:            elif "run_deepseek_v2" in line:
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:                refactored.append("# [Qwen Refactor] Replacing DeepSeek runtime call\n")
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:            elif "argparse" in line and "DeepSeek" in line:
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:                # Generic DeepSeek reference
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:                refactored.append("# [Qwen Refactor] Legacy DeepSeek reference detected\n")
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:        print(f"[-] No DeepSeek logic found in {file_path}. Skipping.")
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:        if "deepseek" not in reason.lower():
+/home/blackhawk63/BlackStack/BlackStack/apply_mutations.py:        success = refactor_deepseek_to_qwen(module)
