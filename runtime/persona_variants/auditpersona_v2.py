@@ -1,18 +1,19 @@
-from datetime import datetime
-import hashlib
+# ~/BlackStack/WachterEID/runtime/persona_variants/auditpersona_v2.py
 
-def hash_text(text):
-    return hashlib.sha256(text.encode()).hexdigest()
+import os
+from registry import get_active_persona, get_capabilities, mutation_allowed
 
-def run_deepseek_v2(persona, task, input_text):
-    timestamp = datetime.utcnow().isoformat()
-    input_hash = hash_text(input_text)
+def gatekeeper_check(module_path, action="mutation"):
+    persona = get_active_persona()
+    capabilities = get_capabilities()
 
-    if task == "refactor":
-        return f"# AuditPersona Refactor | Hash: {input_hash} | Time: {timestamp}\n" + input_text.replace("print(", "log_audit(")
-    elif task == "analyze":
-        return f"# AuditPersona Analysis | Lines: {len(input_text.splitlines())} | Hash: {input_hash}\n" + input_text
-    elif task == "inject":
-        return f"# Injected by AuditPersona | Time: {timestamp} | Hash: {input_hash}\n{input_text}"
-    else:
-        return f"# Unsupported task: {task}\n{input_text}"
+    if action not in capabilities:
+        print(f"[Gatekeeper] Persona '{persona}' lacks capability: {action}")
+        return False
+
+    if not mutation_allowed(module_path):
+        print(f"[Gatekeeper] Mutation not allowed for: {module_path}")
+        return False
+
+    print(f"[Gatekeeper] Mutation approved for '{module_path}' by persona '{persona}'")
+    return True

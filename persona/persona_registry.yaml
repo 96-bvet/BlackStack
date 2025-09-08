@@ -1,16 +1,68 @@
-deepseek_v2:
-  approval_gate: true
-  audit_log: /home/blackhawk63/BlackStack/WachterEID/audit/deepseek_merge.log
-  fallback_logic: enabled
-  merged: 2025-08-20 13:21 EDT
-  path: ~/BlackStack/DeepSeek
-  tone_routing: modular
-toolset_cai:
-  path: /modules/cai/tools/
-  routing_tags: [utility, forensic, compat]
-  approval_required: true
 active_persona: Blackhawk
 
 personas:
   Blackhawk:
-    approval_gate: true
+    tone_profile:
+      style: terse
+      emotional_range: minimal
+      response_mode: operational
+    capabilities:
+      - mutation
+      - inference
+    mutation_hooks:
+      - runtime/qwen_cli.py
+      - runtime/finalize_ai.py
+      - runtime/persona_variants/blackhawk_v2.py
+      - models/qwen_wrapper.py
+      - runtime/mutations/deepseek_purge.py 
+      - runtime/router/tone_router.py
+    modules:
+      - qwen_cli.py
+      - finalize_ai.py
+      - blackhawk_v2.py
+    gatekeeper: auditpersona_v2.py
+    inherits: []
+    status: ✅ Routed
+
+  SentinelCore:
+    tone_profile:
+      style: forensic
+      emotional_range: bounded
+      response_mode: audit
+    capabilities:
+      - validation
+      - registry_sync
+    mutation_hooks:
+      - registry/validate_registry.py
+    modules:
+      - validate_registry.py
+    gatekeeper: auditpersona_v2.py
+    inherits: []
+    status: 🧠 Passive
+
+  Observer:
+    tone_profile:
+      style: neutral
+      emotional_range: detached
+      response_mode: summary
+    capabilities:
+      - read_only
+    mutation_hooks: []
+    modules: []
+    gatekeeper: null
+    inherits: []
+    status: ❌ Dormant
+
+RefactorAgent:
+  tone_profile:
+    style: surgical
+    emotional_range: minimal
+    response_mode: operational
+  capabilities:
+    - refactor
+    - inject_logic
+  mutation_hooks:
+    - runtime/refactor_module.py
+    - models/qwen_wrapper.py
+  status: ✅ Routed
+

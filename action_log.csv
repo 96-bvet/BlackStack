@@ -1054,3 +1054,38 @@
 2025-09-04 14:27:40,/mnt/unified/BlackStack/BlackStack/runtime/persona_variants/blueteam_v2.py,sha256:72d1544d67425816b14b415099c96765bf8fb4e03addb9c417fe7f44076362c2,Passive refactor proposal,approved
 2025-09-04 14:27:40,/mnt/unified/BlackStack/BlackStack/runtime/persona_variants/redteam_v2.py,sha256:a2554690f0b0659d56fce9ba31eaad45afb195b14ea33e73b4f3e6eb0f7872f5,Passive refactor proposal,approved
 2025-09-04 14:27:40,/mnt/unified/BlackStack/BlackStack/runtime/finalize_ai.py,sha256:fd28b36eacc1137682b9f9dacb56bf6e90d10eea92ef44f8f3e3de0820898827,Passive refactor proposal,approved
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/audit/build_manifest.py,sha256:e5ae723cbe55a21de2102bb1153a61ac2236ce648351e6bb6f49da89d68796ff,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/config/route_approvals.py,sha256:e68dd7a4366972085993923c9e9aae82faed1fcfa634d60c1ef06ed1823b2403,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/config/snapshot_manifest.py,sha256:7c82a88023f5c4930978fd3ee39f95023361ae403848ddd02655cacc1ee8cbd5,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/config/validate_manifest.py,sha256:d0f08edb84dde9e4dd7c1fed387a4d65745c1857ac32d9e07c18e7a9f7c2e76b,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/__init__.py,sha256:3e16bdb844afd624c84ed76899ca69044545e41860bc5c877290fe8ede41e2ba,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/__main__.py,sha256:d6d5485c0c3004bfa4fb2506b1f39cfb3d21d1550e886950cff0929bd9905195,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/cli.py,sha256:10d1c9dd2da1eba7ef226da1ec55dc7a8bacf34803798c6a94693cf05c876b87,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/ipython.py,sha256:d601cce8f69485f530759ca165c34aa6653adc60a7811a7a62081ef06d629c4a,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/main.py,sha256:c6ab9e99aa242a0ef257b0b8a8dbb52db77caca0d6d3d9de1f6bc0178cc0472d,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/parser.py,sha256:8b4f969b42a96a77f61701877adcad3bf277b362dfb7f0b7158901db7cd4f5d2,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/variables.py,sha256:d2e0a0508e4b3579cb6335741a25ad72b3c215ebb3ff943ceb013066d3f3976a,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/env/dotenv/version.py,sha256:685f9be1b391a52b48118437835b1de7665bab9880d420f35d59172b314cac74,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/modules/approval_gate.py,sha256:f33dff27502208a03e6e6c18381622b0dbf341f569a3968430a42661b5e13047,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/modules/manifest_parser.py,sha256:ebe6e1073671f67c7a6fb6e33a6bd8cb75f30c8348b168e563304dcebe07959e,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/modules/persona_router.py,sha256:fa6700f4ca9aebecb9358abdcb3d4af782c12936c9cee70519076a71ac414c46,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/modules/refactor_engine.py,sha256:42031594c8f9a0b6a6f2b51bfde5159c45e0c012b18d2d54226828dae65ae556,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/modules/registry_updater.py,sha256:8f99ffa614861989b7278980bdfcfe82cfd7d1d6eb5326f614fc7db3ce36cbcb,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/modules/snapshot_logger.py,sha256:f42f98b3c943c05f10b7a25ff360f3131cdf8797ce96b8072f647d83087bc44c,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/persona_ingest_orchestrator.py,sha256:e4f8013b6556abde64a01e2c3ad0705024392901bf714e70e11fac5b5e1cca92,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/registry_ingest_daemon.py,sha256:c42f05b8df6bf34a9ed4fb2a4b139c1d368c6c159047fc6df8a2c1a6d5cd065f,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/ingest/registry_scanner.py,sha256:3184bca5150a36c575771029d3d83cfe6514bea1751d55713dc3d055041d964e,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/modules/Diagnostics/libcheck.py,sha256:b97090415b38cbe98e1ef1b651fe38a061ef25f680a0b2dc75d5d88433b5c6a8,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/modules/deepseek/autonomy/autonomy_gui.py,sha256:35c7a7557b2a5ca3a66325a915b6ad547976d7479e784b978f784275fb9c3b84,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/modules/diagnostics/libcheck.py,sha256:ae3cc95def5d0e2fabab9bf40202275fc6251b423d288ac260c23b2dad0339fc,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/modules/gui/main_gui.py,sha256:8b0bbc32fbd46e5a18305f62f1f69e4122692f03338bb3a14018713d4e8c6790,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/modules/voice/audio_input.py,sha256:3f5ded9677125968ce811d5cb265e8050d0e3cfdabb2d4a3c26964a10e35174b,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/modules/voice/audio_output.py,sha256:94c04e2f0fcddf52de8b97733f14af2ca163c74dbc70c199d10ae36166154121,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/modules/voice/audio_shell.py,sha256:c1a33dea4f38c378c40f531153ca14318137e90a60b69ec2cc5c080bd21734e4,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/persona/api_handler.py,sha256:a8fc6d8bc9b37df1b209b702bd2826e319e29e0775827da6d72f6267484d4a1b,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/runtime/__init__.py,sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/runtime/persona_loader.py,sha256:97ee53a6ac8acb5ba4a1acf31da72f56999193a0bdc6021f20ac88ccdf5ae23a,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/runtime/persona_variants/auditpersona_v2.py,sha256:158c04ef16a4440c07e6ae1dc04bbaec09686a007d9beef2ba8e12d474586a84,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/runtime/persona_variants/blueteam_v2.py,sha256:72d1544d67425816b14b415099c96765bf8fb4e03addb9c417fe7f44076362c2,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/runtime/persona_variants/redteam_v2.py,sha256:a2554690f0b0659d56fce9ba31eaad45afb195b14ea33e73b4f3e6eb0f7872f5,Context assimilation,observed
+2025-09-05 09:27:18,/mnt/unified/BlackStack/BlackStack/runtime/finalize_ai.py,sha256:fd28b36eacc1137682b9f9dacb56bf6e90d10eea92ef44f8f3e3de0820898827,Context assimilation,observed

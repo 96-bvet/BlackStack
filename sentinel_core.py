@@ -4,6 +4,17 @@ import yaml
 import hashlib
 from datetime import datetime
 from transformers import AutoModelForCausalLM, AutoTokenizer
+import psutil, os
+
+def is_file_in_use(path):
+    for proc in psutil.process_iter(['open_files']):
+        try:
+            for f in proc.info['open_files'] or []:
+                if os.path.samefile(f.path, path):
+                    return True
+        except (psutil.NoSuchProcess, psutil.AccessDenied):
+            continue
+    return False
 
 # Load Qwen model
 model_id = "Qwen/Qwen2.5-14B"
@@ -49,6 +60,9 @@ def queue_mutation(module, reason, cluster="unassigned", role="unknown"):
     queue.append(entry)
     with open(QUEUE_PATH, "w") as f:
         json.dump(queue, f, indent=2)
+def enqueue_mutation(file_path, reason, persona):
+    log_action(file_path, reason, status="approved", persona=persona)
+    run_mutation(file_path, reason)  # directly invoke Qwen
 
 def parse_manifest():
     with open(MANIFEST_PATH, "r") as f:
@@ -73,6 +87,11 @@ def generate_response(prompt):
     input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(model.device)
     output = model.generate(input_ids, max_new_tokens=512)
     return tokenizer.decode(output[0], skip_special_tokens=True)
+for file_path in target_files:
+    if is_file_in_use(file_path):
+        log_action(file_path, "Skipped: file in use", status="skipped")
+        continue
+    run_mutation(file_path, reason)
 
 # Entry point
 if __name__ == "__main__":
