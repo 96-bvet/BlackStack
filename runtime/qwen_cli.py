@@ -1,248 +1,64 @@
-# [Tone: neutral, Emotion: bounded, Mode: forensic]
-# Refactor runtime/qwen_cli.py for Refactor files for correct syntax according to python 3.11 standards. Inject audit logging, persona routing, fallback logic, and gatekeeper enforcement. Return full code only.
-
-# Reference Modules:
-### runtime/persona_variants/auditpersona_v2.py
-# ~/BlackStack/WachterEID/runtime/persona_variants/auditpersona_v2.py
-
-import os
-from registry import get_active_persona, get_capabilities, mutation_allowed
-
-def gatekeeper_check(module_path, action="mutation"):
-    persona = get_active_persona()
-    capabilities = get_capabilities()
-
-    if action not in capabilities:
-        print(f"[Gatekeeper] Persona '{persona}' lacks capability: {action}")
-        return False
-
-    if not mutation_allowed(module_path):
-        print(f"[Gatekeeper] Mutation not allowed for: {module_path}")
-        return False
-
-    print(f"[Gatekeeper] Mutation approved for '{module_path}' by persona '{persona}'")
-    return True
-
-
-### registry/__init__.py
-from .escalation import escalate_persona, persona_escalation_check
-from .persona_loader import (
-    load_registry,
-    sync_json_from_yaml,
-    get_active_persona,
-    set_active_persona,
-    get_persona_data,
-    get_capabilities,
-    requires_approval,
-    get_tone,
-    get_mutation_hooks,
-    get_routing_tags,
-    mutation_allowed,
-    load_persona_engine,
-    resolve_persona_by_module
-)
-
-
-### runtime/router/tone_router.py
-# runtime/router/tone_router.py
-
-import os
-from datetime import datetime
-from registry import (
-    get_active_persona,
-    get_capabilities,
-    mutation_allowed,
-    escalate_persona,
-    persona_escalation_check
-)
-from runtime.persona_variants.auditpersona_v2 import gatekeeper_check
-
-AUDIT_LOG = os.path.expanduser("~/BlackStack/BlackStack/audit/tone_trace.md")
-MODULE_PATH = "runtime/router/tone_router.py"
-
-def _log_tone_event(message):
-    with open(AUDIT_LOG, "a") as log:
-        log.write(f"{datetime.now().isoformat()} | {message}\n")
-
-def inject_tone(prompt, tone_profile):
-    style = tone_profile.get("style", "neutral")
-    emotion = tone_profile.get("emotional_range", "bounded")
-    mode = tone_profile.get("response_mode", "forensic")
-    tone_header = f"[Tone: {style}, Emotion: {emotion}, Mode: {mode}]"
-    return f"{tone_header}\n{prompt}"
-
-def process_tone(prompt, tone_profile):
-    if not tone_profile:
-        _log_tone_event("[Fallback] No tone profile provided. Using default.")
-        tone_profile = {
-            "style": "neutral",
-            "emotional_range": "bounded",
-            "response_mode": "forensic"
-        }
-
-    injected_prompt = inject_tone(prompt, tone_profile)
-    _log_tone_event(f"[Injected] {injected_prompt}")
-    return injected_prompt
-
-def tone_router(prompt, tone_profile=None):
-    persona = get_active_persona()
-
-    if not gatekeeper_check(MODULE_PATH):
-        _log_tone_event(f"[Gatekeeper] Mutation blocked for {MODULE_PATH}")
-        raise PermissionError(f"[Gatekeeper] Mutation blocked for {MODULE_PATH}")
-
-    if not tone_profile:
-        _log_tone_event(f"[Escalation] Tone profile missing for persona '{persona}'. Attempting escalation.")
-        if persona_escalation_check(MODULE_PATH):
-            escalate_persona("SentinelCore")
-            tone_profile = {
-                "style": "minimal",
-                "emotional_range": "bounded",
-                "response_mode": "audit"
-            }
-            _log_tone_event("[Escalation] Escalated to SentinelCore with fallback tone.")
-        else:
-            _log_tone_event("[Escalation] Persona escalation denied. Using Observer fallback.")
-            tone_profile = {
-                "style": "neutral",
-                "emotional_range": "bounded",
-                "response_mode": "forensic"
-            }
-
-    return process_tone(prompt, tone_profile)
-### runtime/router/tone_router.py
-# runtime/router/tone_router.py
-
-import os
-from datetime import datetime
-from registry import (
-    get_active_persona,
-    get_capabilities,
-    mutation_allowed,
-    escalate_persona,
-    persona_escalation_check
-)
-from runtime.persona_variants.auditpersona_v2 import gatekeeper_check
-
-AUDIT_LOG = os.path.expanduser("~/BlackStack/BlackStack/audit/tone_trace.md")
-MODULE_PATH = "runtime/router/tone_router.py"
-
-def _log_tone_event(message):
-    with open(AUDIT_LOG, "a") as log:
-        log.write(f"{datetime.now().isoformat()} | {message}\n")
-
-def inject_tone(prompt, tone_profile):
-    style = tone_profile.get("style", "neutral")
-    emotion = tone_profile.get("emotional_range", "bounded")
-    mode = tone_profile.get("response_mode", "forensic")
-    tone_header = f"[Tone: {style}, Emotion: {emotion}, Mode: {mode}]"
-    return f"{tone_header}\n{prompt}"
-
-def process_tone(prompt, tone_profile):
-    if not tone_profile:
-        _log_tone_event("[Fallback] No tone profile provided. Using default.")
-        tone_profile = {
-            "style": "neutral",
-            "emotional_range": "bounded",
-            "response_mode": "forensic"
-        }
-
-    injected_prompt = inject_tone(prompt, tone_profile)
-    _log_tone_event(f"[Injected] {injected_prompt}")
-    return injected_prompt
-
-def tone_router(prompt, tone_profile=None):
-    persona = get_active_persona()
-
-    if not gatekeeper_check(MODULE_PATH):
-        _log_tone_event(f"[Gatekeeper] Mutation blocked for {MODULE_PATH}")
-        raise PermissionError(f"[Gatekeeper] Mutation blocked for {MODULE_PATH}")
-
-    if not tone_profile:
-        _log_tone_event(f"[Escalation] Tone profile missing for persona '{persona}'. Attempting escalation.")
-        if persona_escalation_check(MODULE_PATH):
-            escalate_persona("SentinelCore")
-            tone_profile = {
-                "style": "minimal",
-                "emotional_range": "bounded",
-                "response_mode": "audit"
-            }
-            _log_tone_event("[Escalation] Escalated to SentinelCore with fallback tone.")
-        else:
-            _log_tone_event("[Escalation] Persona escalation denied. Using Observer fallback.")
-            tone_profile = {
-                "style": "neutral",
-                "emotional_range": "bounded",
-                "response_mode": "forensic"
-            }
-
-    return process_tone(prompt, tone_profile)
-
-# Refactored runtime/qwen_cli.py
-
-import os
+import argparse
 import json
-import logging
-from datetime import datetime
-from registry import (
-    get_active_persona,
-    get_capabilities,
-    mutation_allowed,
-    escalate_persona,
-    persona_escalation_check
-)
-from runtime.router.tone_router import tone_router
-from runtime.persona_variants.auditpersona_v2 import gatekeeper_check
+import os
+import uuid
+import requests
+from registry import persona_loader
 
-# Configure logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+QWEN_API_URL = "http://localhost:8080"
 
-# Constants
-AUDIT_LOG = os.path.expanduser("~/BlackStack/BlackStack/audit/qwen_cli_trace.md")
-MODULE_PATH = "runtime/qwen_cli.py"
+def upload_file(file_path: str, req_id: str):
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"[Upload] File not found: {file_path}")
+    print(f"[Upload] Sending {file_path} to Qwen with id={req_id}")
+    with open(file_path, "rb") as f:
+        resp = requests.post(
+            f"{QWEN_API_URL}/upload",
+            files={"file": (os.path.basename(file_path), f)},
+            data={"id": req_id}
+        )
+    resp.raise_for_status()
+    print(f"[Upload] Server response: {resp.text.strip()}")
 
-def _log_qwen_event(message):
-    with open(AUDIT_LOG, "a") as log:
-        log.write(f"{datetime.now().isoformat()} | {message}\n")
-
-def process_qwen(prompt, tone_profile=None):
-    _log_qwen_event(f"[Qwen CLI] Processing prompt: {prompt}")
-    
-    if not tone_profile:
-        _log_qwen_event("[Fallback] No tone profile provided. Using default.")
-        tone_profile = {
-            "style": "neutral",
-            "emotional_range": "bounded",
-            "response_mode": "forensic"
-        }
-
-    injected_prompt = tone_router(prompt, tone_profile)
-    _log_qwen_event(f"[Qwen CLI] Injected prompt: {injected_prompt}")
-
-    # Call Qwen API with the injected prompt
-    # Replace this with actual Qwen API call
-    response = "This is a placeholder response."
-    _log_qwen_event(f"[Qwen API] Response: {response}")
-
-    return response
-
-def qwen_cli(prompt, tone_profile=None):
-    persona = get_active_persona()
-
-    if not gatekeeper_check(MODULE_PATH):
-        _log_qwen_event(f"[Gatekeeper] Mutation blocked for {MODULE_PATH}")
-        raise PermissionError(f"[Gatekeeper] Mutation blocked for {MODULE_PATH}")
-
-    _log_qwen_event(f"[Qwen CLI] Active persona: {persona}")
-
-    return process_qwen(prompt, tone_profile)
-
-# Example usage
-if __name__ == "__main__":
-    prompt = "Hello, world!"
-    tone_profile = {
-        "style": "minimal",
-        "emotional_range": "bounded",
-        "response_mode": "audit"
+def propose(persona: str, target: str, instructions: str, req_id: str):
+    payload = {
+        "persona": persona,
+        "target": target,
+        "instructions": instructions,
+        "id": req_id
     }
+    print("[DEBUG] Payload:", json.dumps(payload, indent=2))
+    resp = requests.post(f"{QWEN_API_URL}/propose", json=payload)
+    resp.raise_for_status()
+    return resp.json()
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--persona", required=True, help="Persona name")
+    parser.add_argument("--prompt", required=True, help="Instructions for Qwen")
+    parser.add_argument("--file", required=True, help="Path to file to upload before proposing")
+    parser.add_argument("--target", default="runtime/", help="Target path for Qwen to operate on")
+    args = parser.parse_args()
+
+    print(f"[Escalation Check] Persona escalation allowed for: {args.persona}")
+    print(f"[Escalation] Persona escalated to: {args.persona}")
+
+    persona_fn = persona_loader.load_persona(args.persona)
+    print(f"[+] Loaded persona: {args.persona}")
+    print(f"    Capabilities: {persona_loader.get_capabilities(args.persona)}")
+    print(f"    Metadata: {json.dumps(persona_loader.get_persona_metadata(args.persona), indent=2)}")
+
+    req_id = str(uuid.uuid4())
+
+    # Step 1: Upload file
+    upload_file(args.file, req_id)
+
+    # Step 2: Propose
+    print(f"[>] Sending propose request to Qwen for target={args.target}")
+    result = propose(args.persona, args.target, args.prompt, req_id)
+
+    print("[<] Qwen Response:")
+    print(json.dumps(result, indent=2))
+
+if __name__ == "__main__":
+    main()
