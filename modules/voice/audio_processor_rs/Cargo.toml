@@ -1,0 +1,24 @@
+[package]
+name = "audio_processor"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "audio_processor"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+cpal = "0.15"
+hound = "3.5"
+pyo3 = { version = "0.20", features = ["extension-module"] }
+tokio = { version = "1.35", features = ["full"] }
+rayon = "1.8"
+crossbeam = "0.8"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+anyhow = "1.0"
+thiserror = "1.0"
+
+[dependencies.pyo3-asyncio]
+version = "0.20"
+features = ["tokio-runtime"]
