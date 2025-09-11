@@ -1,0 +1,12 @@
+2025-09-10T16:53:49.142637 | Escalated to: surgeon
+2025-09-10T16:56:01.838311 | Escalated to: surgeon
+2025-09-10T16:57:10.206504 | Escalated to: surgeon
+2025-09-10T16:58:24.103562 | Escalated to: surgeon
+2025-09-10T16:59:14.273231 | Escalated to: surgeon
+2025-09-10T17:02:49.170779 | Escalated to: surgeon
+2025-09-10T17:05:04.280207 | Escalated to: surgeon
+2025-09-10T17:07:33.284081 | Escalated to: surgeon
+2025-09-10T17:10:48.309969 | Escalated to: surgeon
+2025-09-10T17:11:49.547664 | Escalated to: surgeon
+2025-09-10T17:13:25.632851 | Escalated to: surgeon
+2025-09-10T17:14:50.077193 | Escalated to: surgeon

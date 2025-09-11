@@ -1,0 +1,36 @@
+version: "3.9"
+services:
+  qwen_code_surgeon:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sentinel/qwen-code-surgeon:latest
+    container_name: qwen_code_surgeon
+    # GPU optional for code tasks; enable if you plan LLM-in-container
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - capabilities: ["gpu"]
+    environment:
+      - MODE=${MODE:-ro}          # ro or rw
+      - WORKSPACE=/workspace
+      - AUDIT_DIR=/audit/logs
+      - APPROVALS_DIR=/audit/approvals
+      - SURGEON_PERSONA=qwen_surgeon
+    volumes:
+      - /opt/sentinel/workspaces/main:/workspace:${MODE:-ro}
+      - /opt/sentinel/audit/logs:/audit/logs:rw
+      - /opt/sentinel/audit/approvals:/audit/approvals:rw
+      - /opt/sentinel/models/qwen:/models:ro
+    ports:
+      - "8080:8080"
+    read_only: true
+    tmpfs:
+      - /tmp:exec,mode=1777
+      - /run
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    restart: unless-stopped

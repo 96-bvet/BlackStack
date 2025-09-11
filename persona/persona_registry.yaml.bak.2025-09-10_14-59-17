@@ -68,11 +68,12 @@ RefactorAgent:
 qwen_surgeon:
   endpoint: http://localhost:8080
   workspace: /opt/sentinel/workspaces/main
-  audit_dir: /opt/sentinel/audit/logs
-  approvals_dir: /opt/sentinel/audit/approvals
-  mode: ro                        # default to read-only
+  mode: ro
   approval_required: true
-  gatekeeper: auditpersona_v2.py
+  tone_profile:
+    style: precise
+    emotional_range: minimal
+    response_mode: operational
   capabilities:
     - code_analysis
     - code_generation
@@ -81,12 +82,13 @@ qwen_surgeon:
     - runtime/qwen_cli.py
     - runtime/finalize_ai.py
     - models/qwen_wrapper.py
-    - runtime/mutations/deepseek_purge.py
+    - runtime/mutations/deepseek_purge.py 
     - runtime/router/tone_router.py
     - runtime/refactor_module.py
   modules:
     - qwen_cli.py
     - finalize_ai.py
     - refactor_module.py
+  gatekeeper: auditpersona_v2.py
   inherits: []
   status: ✅ Routed

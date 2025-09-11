@@ -6,7 +6,7 @@ Sentinel Core (hardened socket client)
 - Handles daemon-not-running and peer-reset gracefully with readable errors.
 - Optionally bootstraps project root into sys.path so local packages import reliably.
 """
-from qwen_mutator import mutate_code
+from modules.qwen_mutator import mutate_code
 
 def finalize_full_tree():
     # Example: loop through modules and mutate each

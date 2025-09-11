@@ -1,0 +1,23 @@
+scope:
+  include:
+    - sentinel_core.py
+    - modules/
+    - runtime/
+    - cli/
+    - models/
+  exclude:
+    - persona/persona_registry.yaml
+    - audit/
+    - approvals/
+    - hardware/pci_map.json
+  priorities:
+    high:
+      - modules/
+      - runtime/
+      - runtime/
+    medium:
+      - cli/blackhawk.py
+      - modules/refactor_module.py
+    low:
+      - tests/
+      - docs/
